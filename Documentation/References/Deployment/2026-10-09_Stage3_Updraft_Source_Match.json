@@ -1,0 +1,319 @@
+{
+  "capturedUTC": "2026-10-09T13:50:41.706723+00:00",
+  "purpose": "Every actual custom theme/core source, licensed font and generated asset in the final UpdraftPlus archives matches the live deployment; archive names/content stay private",
+  "sourceRevision": "791f855e6d6d7392db89769fb4c675ac1dd204bd",
+  "checks": [
+    {
+      "entity": "themes",
+      "relativePath": "header.php",
+      "sha256": "7fba1c99b952854f92e25fc99f4396f9f82245ac2b0f74f39e42df70f531a7f5",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "single.php",
+      "sha256": "427935b6007932bef035612d6721e499a67d0c2010498cc3838c9e57fee0e4fd",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "home.php",
+      "sha256": "89e141c6bb01a767bd0888e6c552226c193e9480ce0508004f96be16c9988ceb",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "single-gw_product.php",
+      "sha256": "4d74d78c5530a97c61c73e0799a1c35496fd1343fd420bfeee8f10789d1f4627",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "index.php",
+      "sha256": "5129e110c5087b5b9d5d3937f0627f6872a15afdeb34c697790950244c9127cc",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "page.php",
+      "sha256": "35e4124533d6638c5af176e37245c30fd79944597ccf2fab171e3158c1b46d6b",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "archive-gw_product.php",
+      "sha256": "bbae784000d4bca02ba938fce598ded3512842100b30c500ad86e69d321009c8",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "taxonomy-gw_category.php",
+      "sha256": "4d0ace29e81603bf5730209b89bd4ad0df69f4a006b3da56821785250dc67574",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "footer.php",
+      "sha256": "fb7d11386233d6fb5957f0b38d38aed2b45f5c26de6af781712e6bb486cad1b6",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "front-page.php",
+      "sha256": "f9a3271493574980b3b7d3adb3887c046e37a72143e946fa51ea6af556941e83",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "README.md",
+      "sha256": "f4bc318c794758c1e53da533ce8a733c663d280a07ee52b586ce5b5912ac4dc9",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "style.css",
+      "sha256": "4ab57016c4cabf52bf6ac3da9ea9bf5a0efc0610dff7e50568251c0c78a4d091",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "404.php",
+      "sha256": "53e9cb90fbe712f60dc1e4f249328ffd4faf840bb10ec1dd34eb85177c98bf41",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "functions.php",
+      "sha256": "3e6e65e1d4af2af68b15daf92d47fc2c7f108af3e2b8c5798c77dc5d46a6915a",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "parts/contact-form.php",
+      "sha256": "7212abfc27d4cc14e5d37ea94713b7e587349218319d47514b73dcae0323d1fd",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/art/bodycare.svg",
+      "sha256": "b7feaecc791acc032409ebe08b66b096d7a91ffe91784443ebc2c9349be06c5d",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/art/grooming-tools.svg",
+      "sha256": "cba79154332a1864a91a0d2bdb61ceecfa4c62ed5464d9d36ad4fff2093540f2",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/art/finder-compass.svg",
+      "sha256": "93e108f55177234a178f06310efc77c34a1e94eccb03fc55b3eae4deac3c5ec2",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/art/compass-world.svg",
+      "sha256": "616eed42480a6663c403c3efa4a9023d36643202dde9d4739a1c2cde92dcc185",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/art/haircare.svg",
+      "sha256": "d7e7f2a1c35ba836dd458df5857040dc77b73d391046cfccfc73dd65feaad0b0",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/art/beard-grooming.svg",
+      "sha256": "0a322814f9d55b1360f6b370f03c158cc4c9edf5a93a9a0cdde89b613cf66d71",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/art/skincare.svg",
+      "sha256": "76bd0ac8335d05a15685a8885fa1f99af3c68ba1805499b1b1b441eb2025b534",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/art/fragrance.svg",
+      "sha256": "97e81a556da2328a97501999419eec5fee90f99ce024802afb71acd1a07be8fc",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/brand/glowwise-wordmark.svg",
+      "sha256": "13733c8369c7b2f34810c6067e21c17e4c9a694d2003b449287d45f806ebe334",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/manifest.json",
+      "sha256": "d80f70da28698141249f98b47a969aa118f8fe4890e95b7b4671445bc157af30",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.INNOHIWQ.css",
+      "sha256": "0ea6d2f368cc6ee8c9f9c3033151db17fbacd0d70464d8d1f9a0aa65d5899e4c",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.6JU3OWWG.js",
+      "sha256": "09698d90f5ae27f3da30b5f081606f918e8c23284b8cfc2fa8bb338f8144023e",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.E3R3RBNJ.js",
+      "sha256": "c5036f0bfeb9a11b47b554639024f8cda05219e1f8f2bdb80598442080df2445",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.O2AFXFO3.css",
+      "sha256": "6a89abe9e54e3907e273c852fa95337f9499d15d624d78f019c9960cfd1b8f32",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/dm-serif-display-latin.DCCDLJOI.woff2",
+      "sha256": "fdf61e20fd2c0108e0ea28da4daca0035205b4b7fc031a3974b865b704de160a",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.X7JPGNXY.js",
+      "sha256": "28da5d58f096d384e1c3a3014484d33c8058ee4067b149d14ce1ecc3d7fab053",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.L4BI3GIE.js",
+      "sha256": "e3d46d49a63ca142338661197d29b5793efb5d89a2f99d8c98d95079879a2184",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/motion.SXOEH7HN.js",
+      "sha256": "45a41c3db19d100e9c903a2c432ae2709d95681f7d0b2fc8838f2fcf1c0fd192",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.KPK465IT.css",
+      "sha256": "5ffade4a17a0361d0f50371ef87fd670407d0d8ddaeaeab46e70b83670fd2f9c",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.A22YZTF3.css",
+      "sha256": "0781f9d8475236117aca693f8699e7354e70b5729821b7c910b08e54ae7b63c9",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.VBH3GSP7.css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/site.IJJAHOI6.css",
+      "sha256": "c2f5ea00896fe2f9ad3d4f584d9d6fbf52e707bf17855d61fde6534d5890312f",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/dist/manrope-latin.73PUZEUA.woff2",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/src/site.css",
+      "sha256": "bd7e0d586966309d07c13bc9042859851e74f52b68b0af8248c34fe5f9fe0147",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/src/site.js",
+      "sha256": "efc861ec00b8db6d2ff36017358a6e9126f9d94ec2ab772c08a1245c7ad7dc7a",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/src/motion.js",
+      "sha256": "49d7202a3aa3e70ecae331eb7a031283fcaf3ab3e4ef8c0fd6be6c5148c8a0e0",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/fonts/manrope-latin.woff2",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/fonts/dm-serif-display-latin.woff2",
+      "sha256": "fdf61e20fd2c0108e0ea28da4daca0035205b4b7fc031a3974b865b704de160a",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/fonts/dm-serif-display-latin.OFL.txt",
+      "sha256": "aa49c876a28d8c0b0a3027d6c25b9c607eee8c0fb96165011d42a6ace1408fe1",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "themes",
+      "relativePath": "assets/fonts/manrope-latin.OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "plugins",
+      "relativePath": "README.md",
+      "sha256": "d9b03c4e11609766f26544b2448844be478bda3b9d138caff8811592cb457c9e",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "plugins",
+      "relativePath": "glowwise-core.php",
+      "sha256": "3b918f10d3f197ef3fb120dfcc72d82486306f61389ac3cb98433e8e1754dcea",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "plugins",
+      "relativePath": "includes/model.php",
+      "sha256": "d79a1ad1e72e6f0c3fb3996bd5ee301e5418f188f5026706d980c420bfe6761f",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "plugins",
+      "relativePath": "includes/contact.php",
+      "sha256": "09422963368704f8ae8bbc173c200def07711693e9ec6774e901cb0ee1c4b014",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "plugins",
+      "relativePath": "includes/catalog.php",
+      "sha256": "afd955d7182c2d8716fbb39c8e65339ca8e27e07463fd4b5fcbca50eb8181e83",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "plugins",
+      "relativePath": "includes/import.php",
+      "sha256": "4b77a5a672e7fb339be6694f889a9c7ba68c203ef74b7163265a618e25d87037",
+      "matchesLiveSourceOrGeneratedAsset": true
+    },
+    {
+      "entity": "plugins",
+      "relativePath": "includes/seo.php",
+      "sha256": "e716dac3a9f744fe4bc658489b7a873dbd7eca25430a4be5cfdd2116c6ee4b52",
+      "matchesLiveSourceOrGeneratedAsset": true
+    }
+  ]
+}

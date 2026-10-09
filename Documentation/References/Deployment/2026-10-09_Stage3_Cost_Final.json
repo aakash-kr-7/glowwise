@@ -1,0 +1,11 @@
+{
+  "capturedUTC": "2026-10-09T13:52:01.543693+00:00",
+  "purpose": "Existing guard refreshed after final recovery traffic; limits/lease unchanged; delayed reported zero is not zero consumption",
+  "guard": {
+    "checked": "2026-10-09T13:51:58.321332+00:00",
+    "modeledUSD": 0.2095,
+    "reportedUSD": 0,
+    "totalTx": 277096560,
+    "decision": "continue"
+  }
+}

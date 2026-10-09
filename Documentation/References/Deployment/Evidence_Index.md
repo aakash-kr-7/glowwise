@@ -40,12 +40,12 @@ Compatibility/control references: [WordPress requirements](https://wordpress.org
 
 ## Stage 3 implementation evidence
 
-9 October 2026. Protected real WordPress product, 36 sourced product families, seven mapped guides, 16 native pages and six hubs. Public launch and actual browser acceptance are pending. Every artifact below includes its capture timestamp, purpose and limits; private originals/backups remain excluded. The reviewed Git revision and final matching recovery will be appended after successful publication. Earlier foundation evidence is historical and is not rewritten as current product proof.
+9 October 2026. Protected real WordPress product, 36 sourced product families, seven mapped guides, 16 native pages and six hubs. Public launch and actual browser acceptance are pending. Every artifact below includes its capture timestamp, purpose and limits; private originals/backups remain excluded. Reviewed Git publication and matching final recovery are recorded below. Earlier foundation evidence is historical and is not rewritten as current product proof.
 
 | Artifact | UTC capture / purpose | Traceability |
 |---|---|---|
 | [Core Tests](2026-10-09_Stage3_Core_Tests.json) | 2026-10-09T13:15:30+00:00. 46 disposable WordPress checks: rules, permissions, CSRF/spam/rate/expiry, guide metadata and cleanup. | T08/T10/T13; PR06–09/13–18/23/31 |
-| [Import SEO Tests](2026-10-09_Stage3_Import_SEO_Tests.json) | 2026-10-09T12:39:59+00:00. 10 checks: repeat/edited-safe import, private-free export, taxonomy roundtrip and pagination/noindex rules. | T09/T11/T13; PR23/25/29/35 |
+| [Import SEO Tests](2026-10-09_Stage3_Import_SEO_Tests.json) | 2026-10-09T13:42:12+00:00. 10 checks: repeat/edited-safe import, private-free export, taxonomy roundtrip and pagination/noindex rules. | T09/T11/T13; PR23/25/29/35 |
 | [HTTP Tests](2026-10-09_Stage3_HTTP_Tests.json) | 2026-10-09T13:43:26.762153+00:00. 335 assertions across 69 actual HTTPS routes, metadata/schema/footer, published-only APIs and private boundaries. No rendered browser interaction claim. | T06–T13; PR01–36; M1-07–09; M2-02 foundation |
 | [Article Schema](2026-10-09_Stage3_Article_Schema.json) | 2026-10-09T13:36:29.021239+00:00. Seven targeted guide regressions: one Article, coherent editorial organization author in Article/WebPage, no personal account node. | T11/T13; PR24/29; M2-02 foundation |
 | [Runtime](2026-10-09_Stage3_Runtime.json) | 2026-10-09T12:50:34.103316+00:00. Actual versions, plugins/theme, healthy service/cron configuration and no OOM restart. No secret environment or account output. | T04/T07/T13; PR25/26/31/34; M1-08/09 |
@@ -54,8 +54,24 @@ Compatibility/control references: [WordPress requirements](https://wordpress.org
 | [Palette](2026-10-09_Stage3_Palette.json) | 2026-10-09T13:00:32.001432+00:00. Nine chosen text token combinations computed against WCAG contrast formula. Not visual accessibility certification. | T06/T13; PR22 |
 | [Preservation](2026-10-09_Stage3_Preservation.json) | 2026-10-09T13:01:19.659192+00:00. Fourteen supplied originals compared with original inventory SHA256 values, unchanged. | T01/T14; PR35/36 |
 | [Cost](2026-10-09_Stage3_Cost.json) | 2026-10-09T13:36:31.304835+00:00. Existing guard modeled/reported consumption and outbound readback. Delayed reported zero does not mean free. | T02/T14; PR34/36 |
-| [Publication Review](2026-10-09_Stage3_Publication_Review.json) | 2026-10-09T13:39:00.363051+00:00. Staged source/sanitized evidence reviewed for credentials/private account data/runtime and rights boundary. No universal secret-detector claim. | T14; PR35/36 |
+| [Publication Review](2026-10-09_Stage3_Publication_Review.json) | 2026-10-09T13:45:30.582621+00:00. Staged source/sanitized evidence reviewed for credentials/private account data/runtime and rights boundary. No universal secret-detector claim. | T14; PR35/36 |
 
 Browser blocker: the Codex preview displays “This site can’t be reached” and browser security policy rejects inspecting the internal error page. A normal user preview/authentication handoff is pending. No desktop/mobile screenshot, reflow, keyboard, motion, local-storage or browser consent success is fabricated. Server/HTTP evidence above is independent and cannot replace those journeys. All pages remain Basic Auth/noindex/no-store; no public indexation, CDN HIT, CWV or rich-result claim.
 
 Additional reviewed records: [first render](2026-10-09_Stage3_First_Render.json) is the earlier bounded route/asset smoke check, superseded by the 335-assertion run; [VM build and health](2026-10-09_Stage3_Build_Health.txt) records actual final lock installation/minification, all theme/core PHP syntax, Compose syntax, healthy services and successful host cron (T04/T07/T13; PR25/26/31; M1-08/09); [selected deployed source](2026-10-09_Stage3_Deployed_Source.json) records 90 exact VM/local source hash matches at its capture timestamp (T14; PR35/36). Initial commit/publication was still pending at that manifest capture; the later Git record establishes the actual revision.
+
+## Final reviewed revision and recovery
+
+Runtime/content baseline is [791f855](https://github.com/aakash-kr-7/glowwise/commit/791f855e6d6d7392db89769fb4c675ac1dd204bd); subsequent annotations only update documentation/evidence. Nothing opens the private launch gate.
+
+| Artifact | UTC capture / purpose | Traceability |
+|---|---|---|
+| [Git Revision](2026-10-09_Stage3_Git_Revision.json) | 2026-10-09T13:46:54.538574+00:00. First authorized reviewed push: actual commit 791f855; all 158 tracked blobs matched the VM; normal correct owner credentials, no force push. | T14; PR33/35/36; M1-09 |
+| [Updraft Final Restore](2026-10-09_Stage3_Updraft_Final_Restore.json) | 2026-10-09T13:48:54.560880+00:00. Matching full UpdraftPlus ZIP/database isolated restore after final source publication; actual counts 36/7/16, disposable DB removed. | T14; PR31/36; M1-09; M2-09 foundation |
+| [Updraft Source Match](2026-10-09_Stage3_Updraft_Source_Match.json) | 2026-10-09T13:50:41.706723+00:00. All 52 custom theme/core, licensed fonts and generated files in the final backup match live source/assets. | T14; PR26/31/35/36; M1-09 |
+| [Off VM Final](2026-10-09_Stage3_Off_VM_Final.json) | 2026-10-09T13:51:55.922119+00:00. Final 107,055,647-byte restricted off-VM export; all five inner checksums PASS; older backups preserved. | T14; PR31/36; M1-09 |
+| [Cost Final](2026-10-09_Stage3_Cost_Final.json) | 2026-10-09T13:52:01.543693+00:00. Refreshed after final recovery transfer: modeled USD0.2095, delayed reported USD0, 277,096,560 bytes outbound, existing guard continue. | T02/T14; PR34/36 |
+| [Post Recovery Health](2026-10-09_Stage3_Post_Recovery_Health.json) | 2026-10-09T13:53:37.932745+00:00. Actual HTTPS/catalog after restart, 36 total products, healthy services, no OOM/restart, successful cron and active guard timer. | T04/T13/T14; PR25/31/34; M1-08/09 |
+| [Final infrastructure recovery](2026-10-09_Stage3_Recovery_Final.txt) | 13:48:56 UTC creation / 13:49:46 UTC isolated validation. Actual stopped/restarted services, five checksums, selected restored file hashes, four SQL table counts and global noindex; live DB unchanged. | T14; PR31/36; M1-09; M2-09 foundation |
+
+These are restricted real recovery archives; they are not the later sanitized public Drive assignment bundle. Backup content and credentials remain outside Git. Actual desktop/mobile interaction screenshots and browser acceptance are still pending; no workaround or simulated browser result is substituted.

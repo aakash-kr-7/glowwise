@@ -1,0 +1,17 @@
+Purpose: matching reviewed source private infrastructure backup and isolated restore; source revision 791f855e6d6d7392db89769fb4c675ac1dd204bd. No raw backup content or secrets.
+Private recovery set: 20261009T134856Z
+103M	/srv/glowwise/backups/20261009T134856Z
+caddy-config.tar.gz: OK
+caddy-data.tar.gz: OK
+config-and-source.tar.gz: OK
+database.sql.gz: OK
+wordpress.tar.gz: OK
+2026-10-09T13:49:46.497572+00:00 Restore validation 20261009T134856Z
+wp-config.php restored hash matches live persistent volume
+wp-includes/version.php restored hash matches live persistent volume
+wp_options restored row count matches live database
+wp_posts restored row count matches live database
+wp_users restored row count matches live database
+wp_postmeta restored row count matches live database
+Restored database remains non-indexable. Live database was not replaced.
+PASS: private archive integrity, isolated file extraction and SQL restore.

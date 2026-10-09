@@ -1,0 +1,51 @@
+{
+  "capturedUTC": "2026-10-09T13:48:54.560880+00:00",
+  "purpose": "Actual private full UpdraftPlus archive verification and isolated SQL restore; live DB unchanged; no raw backup content/filename/credentials",
+  "checks": [
+    {
+      "entity": "plugins",
+      "bytes": 14360019,
+      "sha256": "1f3900b8f7649875b9a6505832441aa035b6387715638eab97b31f5ae70623fa",
+      "integrity": true
+    },
+    {
+      "entity": "themes",
+      "bytes": 13639899,
+      "sha256": "d60505a8d2fc292574cc50bd910580b02c0c954bd8bc308705c137412916b125",
+      "integrity": true
+    },
+    {
+      "entity": "others",
+      "bytes": 2531,
+      "sha256": "7e7ca2bbfd570263302e235fd3b57a273ae92b864d8f3f8341ba50f155de1bfd",
+      "integrity": true
+    },
+    {
+      "entity": "uploads",
+      "bytes": 232,
+      "sha256": "d3e76f63e9e0a7d96966bca46aa647c417a8ce3f84779a5164671bd1d2d4f855",
+      "integrity": true
+    },
+    {
+      "contentKind": "gw_product",
+      "restoredPublishedCount": 36,
+      "expected": 36,
+      "pass": true
+    },
+    {
+      "contentKind": "post",
+      "restoredPublishedCount": 7,
+      "expected": 7,
+      "pass": true
+    },
+    {
+      "contentKind": "page",
+      "restoredPublishedCount": 16,
+      "expected": 16,
+      "pass": true
+    }
+  ],
+  "globalNoindexRestored": true,
+  "disposableDatabaseRemoved": true,
+  "sourceRevision": "791f855e6d6d7392db89769fb4c675ac1dd204bd"
+}

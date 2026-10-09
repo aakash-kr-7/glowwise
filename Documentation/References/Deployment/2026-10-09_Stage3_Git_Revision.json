@@ -1,0 +1,808 @@
+{
+  "capturedUTC": "2026-10-09T13:46:54.538574+00:00",
+  "purpose": "Actual first reviewed public Git publication and VM association; all tracked blobs match working source; no private state or generated/runtime assets included",
+  "repository": "https://github.com/aakash-kr-7/glowwise",
+  "branch": "main",
+  "revision": "791f855e6d6d7392db89769fb4c675ac1dd204bd",
+  "remoteWorkBeforeFirstPush": "Empty; normal owner credential manager used; no force push",
+  "preexistingVMSelectedSourcePreservedAndReviewed": true,
+  "allTrackedBlobsMatchVM": true,
+  "trackedFileCount": 158,
+  "checks": [
+    {
+      "path": ".env.example",
+      "sha256": "9ad6deffc33c6caf7d56f916c4c23a41243fd58692040c8e07f1618eb504747f",
+      "matchesVM": true
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "9c50309f890923a26b59dc06d7b948983beef841921559f4e3087eb1e07f73cd",
+      "matchesVM": true
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "f1c3251f832613c739daf19d62eb8654fe562091e7253418cef9244d7194ae7b",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Deployment/Access_2026-10-09_Stage_1.md",
+      "sha256": "e29d5818d6318f3ece51ca76eae7e45e53384514e140e86872f978c7f562919a",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Deployment/CODEX_BUILD_AND_DEPLOY_PROMPTS.md",
+      "sha256": "445a42f47edda12a17c865a3befd1ab076fed17de221e19a5409c79d24d952af",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Deployment/COST_LEDGER.md",
+      "sha256": "8e2fbb40f0a47e2511c257b7a5b82d7686679de2e8496894c14083285c87b61d",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Deployment/Cost_Estimate_2026-10-09.md",
+      "sha256": "88fddf979b8d136c06c0d9b1dfa7bb818e4a034672f8dd55032a114fbb40ef28",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Deployment/INFRASTRUCTURE_PLAN.md",
+      "sha256": "19cad6387f5f1d3129a2b5f1efeb7ae73f0ba678ac3e3183f03f18f6b5fec9a8",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Deployment/OPERATIONS.md",
+      "sha256": "78d4e3e42cd40804aa58e2039587f58cdb8d774b043582dd7ccbcb10e5390465",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Deployment/Readiness_2026-10-09.md",
+      "sha256": "1ec03cd3c532702f975386c8b3330ad64ef703f4709139b5350222bd35e849e7",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Deployment/Stage_2_2026-10-09.md",
+      "sha256": "550a7ad303a755b891b6cb7ef66bddff78e3a0ebb7b6ebdd7c82fc43be126177",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Deployment/Stage_3_2026-10-09.md",
+      "sha256": "f2280f2e44b3bcbce309741ac1b11316f1002ccba0107cc3b64036c9967b13a7",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/ASSET_REGISTER.json",
+      "sha256": "1b4fa41e77ac93f0cdbe27207fbed1fa45ef61070a48993c8058f306582eb3c4",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/BUILD_STATE.md",
+      "sha256": "bb443fc61dde25ec054e02b0f7b42fea6b41e3cbcc7e0c06f0dcea1d7d0c36e4",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/DECISIONS.md",
+      "sha256": "25710027ad9aaa3e586b6121f5600bd3001e09ebcd661a7b85be5281fa1c7ef8",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/EXECUTION_PLAN.md",
+      "sha256": "dab4a4a485d2405bb97b038e6622a46bd699589bcd1cc71ecbd83e0b46137370",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/FONT_SOURCES.json",
+      "sha256": "2b5e875ca29a1e1bc42fe8d26c11909837a0f9f3d0ccc7bbd08a0f070d5a314b",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/GUIDE_SOURCE_REGISTER.json",
+      "sha256": "178d0722e79f1ed43478416af3813964b6ba5c5aa877f608455ad6a689b72b04",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/PRODUCT_SOURCE_REGISTER.csv",
+      "sha256": "a1dab53ac6bd549b45ca4e40041262511dd42d5f6a9398cf55a0f175a541cf19",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/REQUIREMENTS_TRACEABILITY.md",
+      "sha256": "0299f618a73bb0ef9ad4fbaebd7d12ac62ab0e33f801768531390d98ac708901",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/RESEARCH_UPDATES.md",
+      "sha256": "74981315a7750398643d2e8591378b3959f6f5a2e7b16d99f971e83a9f5417d3",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/SOURCE_INVENTORY.csv",
+      "sha256": "8f638db214f8c22c389a063058bfee889fc63477464b5078d6b00965d953f192",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/SOURCE_REVIEW.md",
+      "sha256": "33f27d4b2d81a21c48f0a0ae535bb772671f03520e6fce5756340065206d4f87",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Implementation/STAGE_3_WORK.md",
+      "sha256": "f5e41fa8ef1a834d32baf8decbf1da1b47a4e5ad1f47f7f02d5c81b58b608790",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Milestone 1/01_Niche_Target_Audience_and_SEO_Problem_Identification.md",
+      "sha256": "97fab8e5d019ef06a7eb2c3325472f69e0d1889ee822f6f6e269694c126877b1",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Milestone 1/02_Keyword_Research_LSI_and_Search_Intent_Mapping.md",
+      "sha256": "64beed57841690b10d26655bcddb1960cfcc174f0423f73088b673f36f3de9d7",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Milestone 1/03_Competitor_Analysis_and_SERP_Breakdown.md",
+      "sha256": "ad555f654bceabb9754c666c11934b0bc3ab71ac1432c71a1aac520b0f63a9b3",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/Milestone 1/04_Keyword_to_Page_and_Content_Mapping.md",
+      "sha256": "145738143538d78547d464ce10f93c0836e772469dbe8443ed68b0e6a20429cd",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Azure_Configuration.json",
+      "sha256": "dfc55c97f6cf07e6c485f648f04d8f80dc8f81888d5c7a0c5c75b3e5fe520376",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Backup_Create.txt",
+      "sha256": "a7a5efd75fc65df1ae07a1a760598035ff3e427d7e4b2c178fb69c3846fec02b",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Backup_Restore.txt",
+      "sha256": "46693862c056002add12e5926792f8d14704889be1558e3e22d221285c298b66",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Backup_Restore_Final.txt",
+      "sha256": "026f8e9ecb858ab94b8f501662db4f38fc90a01910b5b02c3ff7a8e376e937d1",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Cache_Config.jpg",
+      "sha256": "659c8ad2becc203b0ab261776b29beb499fab3ae7f12d93e1cce227e216328b6",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Cache_Expression.json",
+      "sha256": "cc1825a0ad297f1abf84b3238ef875201083d3b26972fa3aa47b35bcb60e0061",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Cache_Rule.jpg",
+      "sha256": "f41ceee8e0a535061760f3772e5714ae4b2c7cfc9020837d05e30634531a0825",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_DNS.jpg",
+      "sha256": "112a126560a89c9f3067725fd61ee690c5209ff40c2babce13950522d2745f05",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Edge_TLS.jpg",
+      "sha256": "f45b07df9d164065999fef127ebba9ced39eb343dbcce8c5fbcc936990147cc9",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Full_Strict.jpg",
+      "sha256": "bcb5017ed5f673fa430ba8f3381ab97fe1f55a609e345aa68a533211a36e2d6d",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Config_Validation.txt",
+      "sha256": "ad11728772c42af7ccc3b772f8d647979f3ebffd227f06bf2e3033061ae36549",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_DNS.json",
+      "sha256": "812daae71507437d84ff9a68d2393772bd4be0375c607ce442a02df79e31b232",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Deployed_Source.json",
+      "sha256": "b9626af3921085935e6493d0ca40d911d0137c5c49d71ec8525874383d429802",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Handoff_Verification.json",
+      "sha256": "13449a21765bac9285af44867342b99fb06ea32121618601a65efcb105799538",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Off_VM_Recovery.json",
+      "sha256": "8c157c7181fcdc95221ecdd23ab39b5ea4f52e28a66bb9f2c338d6ae6727284b",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Ports_HTTP.json",
+      "sha256": "a5a68d5a0fcfaba57c4f9fc7f6eaf535839e42867adb99f1b7da0c208d035362",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Public_HTTP.txt",
+      "sha256": "2c7061cb411dbee644367660e7f9c4fc3de36d8647121fed9ecfd12b3cefda01",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_SSH_Versions_Health.txt",
+      "sha256": "4d34348a76db41651c029b68fd5e56d65ee728da04f74a3400cf3b57f8b91018",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Article_Schema.json",
+      "sha256": "a1c0661f77669f791bcfc53b06501e98df172446cabca0982a72aa8a5894c7fe",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Build_Health.txt",
+      "sha256": "74bda49d667fc97423a2c6d2f004e276ad29b7294844cd702b0aa7a5e03423e1",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Core_Tests.json",
+      "sha256": "5cafc362d0236b506fcbdb5bf254e8476ee45f4e7b6e458f39279d620630fff4",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Cost.json",
+      "sha256": "fbfd155c32d5d88c59135a871db8adb01221e6d1094ec5281384c7eb64521403",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Deployed_Source.json",
+      "sha256": "ebbc4552b75afd6235c955fa2a879189ab18b589f59bef28d4b525a617685799",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_First_Render.json",
+      "sha256": "d1f31bd672b0a6295695423fabc8abd513ecd5c1bbf31ea852ff7bb72d4490cb",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_HTTP_Tests.json",
+      "sha256": "3b140e2b660c9add68392441a44afddb97cdf19cde798fef9f6299a0633503bf",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Import_SEO_Tests.json",
+      "sha256": "57a4052700bb03ee4ffce8cc099d4169ec2843aa0d287583ecd0e913ed75a0b8",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Off_VM_Recovery.json",
+      "sha256": "280e9b024ff128571826343742ac182af962bf6c2ec57c7ecfbb0f05327bd323",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Palette.json",
+      "sha256": "7d7f5ef397fd839fc33fed646538c68eeb49a4b3377c4369705551088ed9df87",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Preservation.json",
+      "sha256": "88e32498abfccc2f7a039b15943df15f0dea1336327aaa7c383ea4918c32bbda",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Publication_Review.json",
+      "sha256": "de8c505c897e6cd23227abcb16bb7c75ffa7cb4ef4a5125c97e937d346ba6b68",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Runtime.json",
+      "sha256": "336ba56aa7c8b494b9da5e67305d63a297f098c2a23a57b7c2ac64febec0142b",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Updraft_Restore.json",
+      "sha256": "a8b97be89c814fbcf41976aa817ca6a26e98cbb3bc593ee5c2d11f27e64593d1",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_TLS_HTTP_WordPress.jsonl",
+      "sha256": "e8027cb2c3e8a7af2cb53880e6244039e9f7d65a864286181127c9535013dda6",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_VM_Minification.txt",
+      "sha256": "cc6c93756c985b7246692eead7bea5b352232e4a9f2e58491348f60d773f8c00",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_WordPress_Admin.json",
+      "sha256": "5239f79ecb630c7284810d67e247cf67f29c57983b179119d900b4333f9c28ff",
+      "matchesVM": true
+    },
+    {
+      "path": "Documentation/References/Deployment/Evidence_Index.md",
+      "sha256": "3cb9de2694853c22bf47e7f5e3db3aa8607d5fc54999e86fb13432008dcdd046",
+      "matchesVM": true
+    },
+    {
+      "path": "GLOWWISE_SOURCE_OF_TRUTH.md",
+      "sha256": "1d78e7cce5a953207ea82417d4c43c836eaa2b61d228a402cdaa19a614a44672",
+      "matchesVM": true
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "387c0d2bba1819a55d3ae3612c25fcea7ddb656bdd3b4572edbda1f4fec78505",
+      "matchesVM": true
+    },
+    {
+      "path": "README.md",
+      "sha256": "7b84704e8e71380924747502ab9b336c5d89478c8c71532dec24ca7660e5ca52",
+      "matchesVM": true
+    },
+    {
+      "path": "assets/Glowwise_logo.png",
+      "sha256": "5fb4d17d96ac27fd90a357539ac7b6381c40c130f0ddda8d75f480a432f52d49",
+      "matchesVM": true
+    },
+    {
+      "path": "assets/Glowwise_logo_bg_removed.png",
+      "sha256": "92469a420274f56ff338df7114e83e334f0414741f73252808a21313c47f0e75",
+      "matchesVM": true
+    },
+    {
+      "path": "assets/Glowwise_logo_bg_removed.svg",
+      "sha256": "e0d04d395fab12934deccf9844299a79cf620e0de734e0aa83dc77d35246d61e",
+      "matchesVM": true
+    },
+    {
+      "path": "assets/glowwise_display.png",
+      "sha256": "9bcdd111ca739bf177d043de85b2734fff74a2dc62107f6ae2156a7bd0380272",
+      "matchesVM": true
+    },
+    {
+      "path": "assets/glowwise_display_bg_removed.png",
+      "sha256": "26d5f44e0b22da58707e885253182854cc13cd353ab91121804dbcb6cf8a7dd4",
+      "matchesVM": true
+    },
+    {
+      "path": "assets/glowwise_display_bg_removed.svg",
+      "sha256": "e82fb36c5e32492bbda534a7f76a409397dc69803fec85d4595d30f5eab50bf7",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides.json",
+      "sha256": "f55f144a303a0ee08270b5aae39e57b571d5b16bfc506748892ff91a7f94384a",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/beard-oil-benefits.html",
+      "sha256": "58e885f2c69783749022d5b82b633cc28cbe1692506a1c76ecd86a7d65eb76ca",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/body-lotion-for-dry-skin.html",
+      "sha256": "23d7315e43f1a4d8f5a27ae963271cc19721f5add10d7982b569a3228e4f8edc",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/face-wash-for-sensitive-skin.html",
+      "sha256": "7cab16b4e82cdf5894fabb180cdf1556b42cd4297520e3111b55a4181e8f278c",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/perfumes-under-1000.html",
+      "sha256": "ebdc06a383696f92fa11fc25d31e144c72fc2d1034b717408ad850fac2172790",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/shampoo-for-dry-frizzy-hair.html",
+      "sha256": "83494504c3fd5d185506a55a2e700ac3f0c564e1659ba51c681329a1b14dc14e",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/sunscreen-for-oily-skin.html",
+      "sha256": "1bfdc51967a67d8c28a43667121950aae016f7a5d4abf66c798fbe6b95e3335f",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/trimmers-under-1500.html",
+      "sha256": "44294cd63aee8cd14988c80fddf4d1df3d40b3c0cbb08876abbaa35024cb23ba",
+      "matchesVM": true
+    },
+    {
+      "path": "content/keyword-ownership.csv",
+      "sha256": "cd242f0ef479a7aea645e33795987dcf5bd2add3831ecff5945dd356ac379748",
+      "matchesVM": true
+    },
+    {
+      "path": "content/pages.json",
+      "sha256": "212cdc84247932575caf9afdbbe23465ec8c487768d6b57346ccd45b9324632c",
+      "matchesVM": true
+    },
+    {
+      "path": "content/products.json",
+      "sha256": "ec74c999e6b7d460e03db3c4b909b9a6c26a4e74fab15733b34a75df82d19618",
+      "matchesVM": true
+    },
+    {
+      "path": "content/seed.json",
+      "sha256": "64fb3f2d6248dbdd18d38b23d5c97468c8ccee220ca19166bd8d6858b886ed51",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/azure/foundation.json",
+      "sha256": "96aa0e8d38f4629338942233cb270229e6503e3871eb47e468f727ef05cf4201",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/host/docker-packages.lock",
+      "sha256": "6e8e7646f21c6cd7a2c18df96a2f5737f9c243a6c00f9c82544dab6ef3946757",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/backup.sh",
+      "sha256": "5da66f97884909a46bc9b927fad05b518eb364a5a9df755e05e65e4a5aa0001f",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/bootstrap-host.sh",
+      "sha256": "28af80ec8fef3a55bb55c7d26f2caa53dc283942bbc9dbf06b12d576f5491743",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/build-assets.sh",
+      "sha256": "c37b196d9194732ca9a7cf37059e392c9e3c91bdd8c9c5b4117955fe6caeff72",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/collect-evidence.sh",
+      "sha256": "c3f7f5d055257ac9fe685fa3fe459800a6371a6e1a3b4c63e69282611974e914",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/configure-cache-backup.php",
+      "sha256": "609dbccb45452bcd49422e3c4618e6a9e510d63429fd8c47d26f7b5f0e0044cb",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/configure-wordpress.php",
+      "sha256": "722843be8dec50a215226417b155b68323e241c01571f00905f73821774fb112",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/cost-guard.py",
+      "sha256": "bebe7e6c2e2575969b60f6e9bb258a2f495b1c63c745254e35edd938505ecfa3",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-cost-guard.service",
+      "sha256": "599511d2321b8c9634b86bb44d5d9e0ab74d381e8271de617399b9057ab83e59",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-cost-guard.timer",
+      "sha256": "58422dc3993ed49d241e64f8124eb80c698cd92a3e200e68d5c200f90214e1dc",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-metadata-firewall.service",
+      "sha256": "aaa78d2902bca981828f5e3cd2a57dd246510c08caf35a1a72b9266d8d86918e",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-wordpress-cron.service",
+      "sha256": "4c3c761139e44c3ade4e78ce714ffe05240cbb2735ff308d4e605248ea4d11f5",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-wordpress-cron.timer",
+      "sha256": "59fbb1bb327da1a7bb39f2d72e79376ce9ad139f7f1e99c2171a9aa4a7c1b1ed",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/initialize-secrets.py",
+      "sha256": "0962caf21619d2304451aadfab5ae0adeb37cf939f575b09264e51e0de143e04",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/install-wordpress.py",
+      "sha256": "606cbd85f597e57fdfb553ad48e252001f97d2e614dff4bc7c8f14c2048c0cf1",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/protect-metadata.sh",
+      "sha256": "cfcd566f7284934447f9c26e3515f47254b60b12ca7646896cb5d0420ccefc23",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/updraft-backup.php",
+      "sha256": "8af191e627d105d8de4ca68935ab591245ba965a05e5166027e65fcea7893204",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/verify-restore.py",
+      "sha256": "8749ce5738af7b95cb78e0646b2e3a43e82f6782555501da79b3eff4c4c8da34",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/verify-updraft.py",
+      "sha256": "6780274f9a8226699f1d63e5d53835bf587327397bbe126c91156e7ed46da5b8",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/Caddyfile",
+      "sha256": "3403427fec27ac88709b41cabafd8bf6abc75fafd387fc8acf4412f45dc5aece",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/apache-limits.conf",
+      "sha256": "06c051e7123d3e1df2e9b4ef94609304e49f0ba3cc70de710412dafa11272d2e",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/compose.yaml",
+      "sha256": "a4593a1aca9b28b8d3d4bfbd65b7309f3053f4a78ec8b798956415e912452d50",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/images.lock.json",
+      "sha256": "e73e52c0c6ffc783ef113ed85c8dd12dae8a899db54fc7ba389cc0c98cf67c03",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/php.ini",
+      "sha256": "7e5cd2cce38a44be3871112dfa4d388a6339c4041d833125c9b252e13bc05be0",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/plugins.lock.json",
+      "sha256": "89dcc0a211ac490a247b8688c42d17f78c5a9f129adad096f7942c6ec73908e1",
+      "matchesVM": true
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "bd1ac8aa105acf23debd100b01ed2068b910218fad3f56bce402c29a9a804137",
+      "matchesVM": true
+    },
+    {
+      "path": "package.json",
+      "sha256": "2eedc32305f2c9382a4872813965ad3c1886df72a6303aecfb70c61dee477748",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/README.md",
+      "sha256": "d9b03c4e11609766f26544b2448844be478bda3b9d138caff8811592cb457c9e",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/glowwise-core.php",
+      "sha256": "3b918f10d3f197ef3fb120dfcc72d82486306f61389ac3cb98433e8e1754dcea",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/catalog.php",
+      "sha256": "afd955d7182c2d8716fbb39c8e65339ca8e27e07463fd4b5fcbca50eb8181e83",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/contact.php",
+      "sha256": "09422963368704f8ae8bbc173c200def07711693e9ec6774e901cb0ee1c4b014",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/import.php",
+      "sha256": "4b77a5a672e7fb339be6694f889a9c7ba68c203ef74b7163265a618e25d87037",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/model.php",
+      "sha256": "d79a1ad1e72e6f0c3fb3996bd5ee301e5418f188f5026706d980c420bfe6761f",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/seo.php",
+      "sha256": "e716dac3a9f744fe4bc658489b7a873dbd7eca25430a4be5cfdd2116c6ee4b52",
+      "matchesVM": true
+    },
+    {
+      "path": "tests/core-integration.php",
+      "sha256": "dc8aa5a7dbd8b05c3cc1d973a901998dbcabc8ee48dc2050e81098c8af145495",
+      "matchesVM": true
+    },
+    {
+      "path": "tests/http-acceptance.py",
+      "sha256": "3b98c4558ac40964be02d57b784bd9d658ce8be932bac4cb606d3910393cc07a",
+      "matchesVM": true
+    },
+    {
+      "path": "tests/import-seo-integration.php",
+      "sha256": "a1a44d32c8ac030a97dc331697c093a0760744d0483421ff24fa37438bdb1a60",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/404.php",
+      "sha256": "53e9cb90fbe712f60dc1e4f249328ffd4faf840bb10ec1dd34eb85177c98bf41",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/README.md",
+      "sha256": "f4bc318c794758c1e53da533ce8a733c663d280a07ee52b586ce5b5912ac4dc9",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/archive-gw_product.php",
+      "sha256": "bbae784000d4bca02ba938fce598ded3512842100b30c500ad86e69d321009c8",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/beard-grooming.svg",
+      "sha256": "0a322814f9d55b1360f6b370f03c158cc4c9edf5a93a9a0cdde89b613cf66d71",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/bodycare.svg",
+      "sha256": "b7feaecc791acc032409ebe08b66b096d7a91ffe91784443ebc2c9349be06c5d",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/compass-world.svg",
+      "sha256": "616eed42480a6663c403c3efa4a9023d36643202dde9d4739a1c2cde92dcc185",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/finder-compass.svg",
+      "sha256": "93e108f55177234a178f06310efc77c34a1e94eccb03fc55b3eae4deac3c5ec2",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/fragrance.svg",
+      "sha256": "97e81a556da2328a97501999419eec5fee90f99ce024802afb71acd1a07be8fc",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/grooming-tools.svg",
+      "sha256": "cba79154332a1864a91a0d2bdb61ceecfa4c62ed5464d9d36ad4fff2093540f2",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/haircare.svg",
+      "sha256": "d7e7f2a1c35ba836dd458df5857040dc77b73d391046cfccfc73dd65feaad0b0",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/skincare.svg",
+      "sha256": "76bd0ac8335d05a15685a8885fa1f99af3c68ba1805499b1b1b441eb2025b534",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/brand/glowwise-wordmark.svg",
+      "sha256": "13733c8369c7b2f34810c6067e21c17e4c9a694d2003b449287d45f806ebe334",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/dm-serif-display-latin.OFL.txt",
+      "sha256": "aa49c876a28d8c0b0a3027d6c25b9c607eee8c0fb96165011d42a6ace1408fe1",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/dm-serif-display-latin.woff2",
+      "sha256": "fdf61e20fd2c0108e0ea28da4daca0035205b4b7fc031a3974b865b704de160a",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/manrope-latin.OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/manrope-latin.woff2",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/motion.js",
+      "sha256": "49d7202a3aa3e70ecae331eb7a031283fcaf3ab3e4ef8c0fd6be6c5148c8a0e0",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/site.css",
+      "sha256": "bd7e0d586966309d07c13bc9042859851e74f52b68b0af8248c34fe5f9fe0147",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/site.js",
+      "sha256": "efc861ec00b8db6d2ff36017358a6e9126f9d94ec2ab772c08a1245c7ad7dc7a",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/footer.php",
+      "sha256": "fb7d11386233d6fb5957f0b38d38aed2b45f5c26de6af781712e6bb486cad1b6",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/front-page.php",
+      "sha256": "f9a3271493574980b3b7d3adb3887c046e37a72143e946fa51ea6af556941e83",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/functions.php",
+      "sha256": "3e6e65e1d4af2af68b15daf92d47fc2c7f108af3e2b8c5798c77dc5d46a6915a",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/header.php",
+      "sha256": "7fba1c99b952854f92e25fc99f4396f9f82245ac2b0f74f39e42df70f531a7f5",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/home.php",
+      "sha256": "89e141c6bb01a767bd0888e6c552226c193e9480ce0508004f96be16c9988ceb",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/index.php",
+      "sha256": "5129e110c5087b5b9d5d3937f0627f6872a15afdeb34c697790950244c9127cc",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/page.php",
+      "sha256": "35e4124533d6638c5af176e37245c30fd79944597ccf2fab171e3158c1b46d6b",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/parts/contact-form.php",
+      "sha256": "7212abfc27d4cc14e5d37ea94713b7e587349218319d47514b73dcae0323d1fd",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/single-gw_product.php",
+      "sha256": "4d74d78c5530a97c61c73e0799a1c35496fd1343fd420bfeee8f10789d1f4627",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/single.php",
+      "sha256": "427935b6007932bef035612d6721e499a67d0c2010498cc3838c9e57fee0e4fd",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/style.css",
+      "sha256": "4ab57016c4cabf52bf6ac3da9ea9bf5a0efc0610dff7e50568251c0c78a4d091",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/taxonomy-gw_category.php",
+      "sha256": "4d0ace29e81603bf5730209b89bd4ad0df69f4a006b3da56821785250dc67574",
+      "matchesVM": true
+    },
+    {
+      "path": "tooling/build-assets.mjs",
+      "sha256": "075808b32626b52d39fdbd36ee6ac1c1b22e6358ef375abfa6cb63499cf2fb38",
+      "matchesVM": true
+    },
+    {
+      "path": "tooling/build-guide-manifest.py",
+      "sha256": "b3917317f81fb933aa969acb7faa5576f982d42be3b1029268282e085fa7f9e3",
+      "matchesVM": true
+    },
+    {
+      "path": "tooling/compile-content.py",
+      "sha256": "3c42886548ed45aa19a1b75faf6ef298e12b2237011f1a0dc7d7ff40cd469282",
+      "matchesVM": true
+    },
+    {
+      "path": "tooling/generate-art.py",
+      "sha256": "7dac41baf0fa07ad70215979410f329fea7f337f4b1075d5ce102714c6ad17f6",
+      "matchesVM": true
+    }
+  ],
+  "launchGateClosed": true,
+  "limitations": [
+    "Generated asset manifest/backup follow separately",
+    "Actual browser acceptance pending normal preview handoff"
+  ]
+}
