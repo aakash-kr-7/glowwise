@@ -1,0 +1,57 @@
+{
+  "capturedUTC": "2026-10-09T15:41:05.065436+00:00",
+  "purpose": "Actual anonymous HTTPS access after owner-requested removal of preview Basic Auth; no Authorization header, credentials or bodies saved",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "noBasicAuthChallenge": true,
+      "noindex": true,
+      "noStore": true
+    },
+    {
+      "path": "/explore/",
+      "status": 200,
+      "noBasicAuthChallenge": true,
+      "noindex": true,
+      "noStore": true
+    },
+    {
+      "path": "/finder/",
+      "status": 200,
+      "noBasicAuthChallenge": true,
+      "noindex": true,
+      "noStore": true
+    },
+    {
+      "path": "/wp-json/glowwise/v1/products",
+      "status": 200,
+      "noBasicAuthChallenge": true,
+      "noindex": true,
+      "noStore": true,
+      "publishedCatalogTotal": 36
+    },
+    {
+      "path": "/wp-login.php",
+      "status": 200,
+      "noBasicAuthChallenge": true,
+      "noindex": true,
+      "noStore": true
+    },
+    {
+      "path": "/wp-admin/",
+      "status": 200,
+      "noBasicAuthChallenge": true,
+      "noindex": true,
+      "noStore": true,
+      "anonymousAdminRedirectedToWordPressLogin": true
+    }
+  ],
+  "optionalCredentialImportRetainedButCommented": true,
+  "searchIndexingDisabled": true,
+  "wordpressAdminStillRequiresOwnLogin": true,
+  "limitations": [
+    "Public preview, not completed public launch/acceptance",
+    "Earlier browser error-page security restriction not bypassed"
+  ]
+}

@@ -1,0 +1,1355 @@
+{
+  "capturedUTC": "2026-10-09T15:43:05.913266+00:00",
+  "purpose": "Real HTTP route/content/schema/API/permission checks; no private body, token or credential captured",
+  "previewProfile": "public-noindex",
+  "checks": [
+    {
+      "test": "/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/explore/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/explore/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/explore/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/explore/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/explore/page/2/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/explore/page/2/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/explore/page/2/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/explore/page/2/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/explore/page/3/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/explore/page/3/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/explore/page/3/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/explore/page/3/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/guides/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/guides/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/guides/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/page/2/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/guides/page/2/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/guides/page/2/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/guides/page/2/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-50/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-50/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-50/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-50/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-50/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-60/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-60/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-60/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-60/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-spf-60/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-lite/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-lite/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-lite/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-lite/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-lite/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-p1/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-p1/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-p1/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-p1/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-power-p1/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s3/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s3/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s3/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s3/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s3/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turboone/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turboone/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turboone/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turboone/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turboone/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s2/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s2/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s2/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s2/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-smartone-s2/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turbolite/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turbolite/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turbolite/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turbolite/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/products/vega-turbolite/ product has no invented offer/rating",
+      "pass": true
+    },
+    {
+      "test": "/categories/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/categories/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/categories/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/categories/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/finder/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/finder/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/finder/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/finder/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/compare/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/compare/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/compare/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/compare/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/saved/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/saved/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/saved/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/saved/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/about/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/about/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/about/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/about/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/how-we-select/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/how-we-select/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/how-we-select/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/how-we-select/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/contact/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/contact/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/contact/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/contact/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/corrections/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/corrections/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/corrections/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/corrections/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/privacy/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/privacy/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/privacy/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/privacy/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/terms/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/terms/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/terms/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/terms/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/cookies-and-storage/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/cookies-and-storage/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/cookies-and-storage/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/cookies-and-storage/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/disclosures/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/disclosures/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/disclosures/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/disclosures/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/accessibility/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/accessibility/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/accessibility/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/accessibility/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/sitemap/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/sitemap/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/sitemap/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/sitemap/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ uses a coherent editorial Article/WebPage author",
+      "pass": true
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ uses a coherent editorial Article/WebPage author",
+      "pass": true
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ uses a coherent editorial Article/WebPage author",
+      "pass": true
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ uses a coherent editorial Article/WebPage author",
+      "pass": true
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ uses a coherent editorial Article/WebPage author",
+      "pass": true
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ uses a coherent editorial Article/WebPage author",
+      "pass": true
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ uses a coherent editorial Article/WebPage author",
+      "pass": true
+    },
+    {
+      "test": "/categories/skincare/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/categories/skincare/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/categories/skincare/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/categories/skincare/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/categories/haircare/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/categories/haircare/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/categories/haircare/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/categories/haircare/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/categories/bodycare/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/categories/bodycare/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/categories/bodycare/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/categories/bodycare/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/categories/fragrance/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/categories/fragrance/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/categories/fragrance/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/categories/fragrance/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/categories/beard-grooming/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/categories/beard-grooming/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/categories/beard-grooming/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/categories/beard-grooming/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/categories/grooming-tools/ renders one h1, footer, private no-store and noindex",
+      "pass": true
+    },
+    {
+      "test": "/categories/grooming-tools/ has a unique title and meaningful description",
+      "pass": true
+    },
+    {
+      "test": "/categories/grooming-tools/ has no analytics/external font SDK",
+      "pass": true
+    },
+    {
+      "test": "/categories/grooming-tools/ uses one truthful publisher graph",
+      "pass": true
+    },
+    {
+      "test": "/ matches the configured preview access profile",
+      "pass": true
+    },
+    {
+      "test": "/wp-json/glowwise/v1/products matches the configured preview access profile",
+      "pass": true
+    },
+    {
+      "test": "/wp-login.php matches the configured preview access profile",
+      "pass": true
+    },
+    {
+      "test": "Anonymous administrator dashboard requires WordPress login",
+      "pass": true
+    },
+    {
+      "test": "Unknown page returns actual 404",
+      "pass": true
+    },
+    {
+      "test": "Catalog ?type=sunscreen&max-price=350 succeeds privately",
+      "pass": true
+    },
+    {
+      "test": "Budget uses selected checked variant",
+      "pass": true
+    },
+    {
+      "test": "Catalog ?fragrance-free=yes succeeds privately",
+      "pass": true
+    },
+    {
+      "test": "Unknown fragrance attributes never pass",
+      "pass": true
+    },
+    {
+      "test": "Catalog ?category=fragrance succeeds privately",
+      "pass": true
+    },
+    {
+      "test": "Catalog ?type=beard-trimmer&max-price=1 succeeds privately",
+      "pass": true
+    },
+    {
+      "test": "Budget no-match returns no substitute",
+      "pass": true
+    },
+    {
+      "test": "Malformed REST filters return 400",
+      "pass": true
+    },
+    {
+      "test": "Anonymous account directory is absent",
+      "pass": true
+    },
+    {
+      "test": "Private contact type is absent",
+      "pass": true
+    },
+    {
+      "test": "Contact token uses Secure HttpOnly SameSite security cookie",
+      "pass": true
+    },
+    {
+      "test": "Invalid contact fails with truthful client error",
+      "pass": true
+    }
+  ],
+  "limitations": [
+    "No browser rendering/interaction claim",
+    "Global noindex intentionally suppresses Yoast canonical/XML output; launch checks remain required"
+  ]
+}

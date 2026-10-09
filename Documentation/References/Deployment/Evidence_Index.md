@@ -75,3 +75,9 @@ Runtime/content baseline is [791f855](https://github.com/aakash-kr-7/glowwise/co
 | [Final infrastructure recovery](2026-10-09_Stage3_Recovery_Final.txt) | 13:48:56 UTC creation / 13:49:46 UTC isolated validation. Actual stopped/restarted services, five checksums, selected restored file hashes, four SQL table counts and global noindex; live DB unchanged. | T14; PR31/36; M1-09; M2-09 foundation |
 
 These are restricted real recovery archives; they are not the later sanitized public Drive assignment bundle. Backup content and credentials remain outside Git. Actual desktop/mobile interaction screenshots and browser acceptance are still pending; no workaround or simulated browser result is substituted.
+
+## Owner-authorized public preview access
+
+2026-10-09T15:43:51.978950+00:00. [Anonymous preview checks](2026-10-09_Public_Preview_Access.json): actual HTTPS homepage, Explore, Finder, published-only catalog and login return 200 without Basic Auth; administrator path redirects to native WordPress login. Noindex/no-store remain. Maps D31, T05/T13, PR25/29/31/33. Earlier Basic Auth evidence is historical; optional private credential import is retained but disabled. No desktop/mobile browser journey or indexable launch success is inferred.
+
+[Public-preview HTTP regression](2026-10-09_Public_Preview_HTTP_Tests.json), captured 2026-10-09T15:43:05.913266+00:00: **336 assertions / 69 routes PASS**, anonymous default profile, no Authorization header; native admin login required, private inbox/user REST denial and form security unchanged. Maps T05/T13, PR25/29/31/33. Historical authenticated 335-assertion evidence is preserved.

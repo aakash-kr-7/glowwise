@@ -9,3 +9,5 @@ Pending focused user handoff: manually load https://glowwise.tech in Codex brows
 Next: actual desktop/mobile browser journeys, visual/accessibility/storage/error/consent/admin editing acceptance after the normal preview handoff; fix findings and update evidence. Keep Basic Auth/noindex/no-store. No new Azure resources or lease extension. Maintain the US$10 total ledger and 16 October lease/23 October retention-review boundary.
 
 Private operator tooling is under .local/deployment. Public source is one codebase; build on VM with deploy/scripts/build-assets.sh, import with wp glowwise import (no force by default), and use the committed tests/runbook. All supplied source documents/research/assets remain preserved.
+
+Owner update 2026-10-09T15:43:51.978950+00:00: preview password removed on explicit request. Public HTTPS requires no credentials; WordPress admin login, noindex/no-store and cost controls remain. Optional Caddy auth import is commented and private secret preserved. Earlier requested preview-authentication handoff is obsolete; browser interaction acceptance remains unverified.

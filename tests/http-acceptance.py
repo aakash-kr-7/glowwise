@@ -11,12 +11,14 @@ private=root/'.local/deployment/CREDENTIALS.private.json'
 credentials=json.loads(private.read_text(encoding='utf-8-sig')) if private.exists() else {}
 user=os.getenv('GW_PREVIEW_USER',credentials.get('developmentUsername',''))
 password=os.getenv('GW_PREVIEW_PASSWORD',credentials.get('developmentPassword',''))
-assert user and password,'Provide the private preview credentials through the documented handoff.'
+locked=os.getenv('GW_PREVIEW_LOCKED','0')=='1'
+if locked:assert user and password,'Provide the private preview credentials through the documented handoff.'
 origin='https://glowwise.tech';jar=http.cookiejar.CookieJar()
 client=urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
 authorization='Basic '+base64.b64encode((user+':'+password).encode()).decode()
 checks=[];titles={}
-def get(path,auth=True,data=None,headers=None):
+def get(path,auth=None,data=None,headers=None):
+    if auth is None:auth=locked
     h={'User-Agent':'Glowwise-owned-acceptance/1.0'}
     if auth:h['Authorization']=authorization
     if headers:h.update(headers)
@@ -56,7 +58,10 @@ for path in dict.fromkeys(paths):
         check(path+' product has no invented offer/rating',len(products)==1 and not any(k in products[0] for k in ['offers','aggregateRating','review']))
 print('Rendered and checked',len(set(paths)),'routes',flush=True)
 for path in ['/','/wp-json/glowwise/v1/products','/wp-login.php']:
-    check(path+' requires private preview access',get(path,auth=False)[0]==401)
+    check(path+' matches the configured preview access profile',get(path,auth=False)[0]==(401 if locked else 200))
+if not locked:
+    status,body,_=get('/wp-admin/',auth=False)
+    check('Anonymous administrator dashboard requires WordPress login',status==200 and 'id="loginform"' in body)
 check('Unknown page returns actual 404',get('/gw-acceptance-missing-page/')[0]==404)
 for query in ['?type=sunscreen&max-price=350','?fragrance-free=yes','?category=fragrance','?type=beard-trimmer&max-price=1']:
     status,body,headers=get('/wp-json/glowwise/v1/products'+query);result=json.loads(body)
@@ -72,6 +77,6 @@ guard=[cookie for cookie in jar if cookie.name=='gw_form_guard']
 check('Contact token uses Secure HttpOnly SameSite security cookie',status==200 and bool(guard) and guard[0].secure and 'HttpOnly' in guard[0]._rest and guard[0]._rest.get('SameSite')=='Strict')
 status,_,_=get('/wp-json/glowwise/v1/contact',data=json.dumps({'token':token}).encode(),headers={'Content-Type':'application/json','Origin':origin})
 check('Invalid contact fails with truthful client error',status in [400,422])
-out={'capturedUTC':datetime.datetime.now(datetime.timezone.utc).isoformat(),'purpose':'Real authenticated HTTP route/content/schema/API/permission checks; no private body, token or credential captured','checks':checks,'limitations':['No browser rendering/interaction claim','Global private noindex intentionally suppresses Yoast canonical/XML output; launch checks remain required']}
-dest=root/'Documentation/References/Deployment/2026-10-09_Stage3_HTTP_Tests.json';dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(json.dumps(out,indent=2)+'\n',encoding='utf-8')
+out={'capturedUTC':datetime.datetime.now(datetime.timezone.utc).isoformat(),'purpose':'Real HTTP route/content/schema/API/permission checks; no private body, token or credential captured','previewProfile':'locked' if locked else 'public-noindex','checks':checks,'limitations':['No browser rendering/interaction claim','Global noindex intentionally suppresses Yoast canonical/XML output; launch checks remain required']}
+dest=root/'Documentation/References/Deployment'/('2026-10-09_Stage3_HTTP_Tests.json' if locked else '2026-10-09_Public_Preview_HTTP_Tests.json');dest.parent.mkdir(parents=True,exist_ok=True);dest.write_text(json.dumps(out,indent=2)+'\n',encoding='utf-8')
 print(len(checks),'HTTP assertions passed')

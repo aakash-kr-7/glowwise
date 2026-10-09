@@ -25,8 +25,9 @@ glowwise.tech {
     Referrer-Policy strict-origin-when-cross-origin
     X-Frame-Options SAMEORIGIN
   }
-  # Restricted development installation. This file is never in Git.
-  import /run/secrets/development-auth
+  # Owner-authorized public preview. Uncomment to restore the optional lock.
+  # The imported credential file remains private and is never in Git.
+  # import /run/secrets/development-auth
   header Cache-Control "private, no-store"
   reverse_proxy wordpress:80 {
     header_up X-Forwarded-Proto https
