@@ -15,7 +15,13 @@ parser.add_argument('--evidence',default='.local/deployment/deployed-revision.js
 args=parser.parse_args()
 assert re.fullmatch(r'[0-9a-f]{40}',args.revision),'Use reviewed full commit SHA'
 assert re.fullmatch(r'[a-zA-Z0-9-]+',args.host)
-def run(command,**kw):return subprocess.run(command,check=True,capture_output=True,**kw)
+def run(command,**kw):
+    result=subprocess.run(command,capture_output=True,**kw)
+    if result.returncode:
+        # These commands carry no passwords/tokens; diagnostics are path-only.
+        error=result.stderr if isinstance(result.stderr,str) else result.stderr.decode(errors='replace')
+        raise RuntimeError(error[-2000:])
+    return result
 assert run(['git','rev-parse',args.revision],text=True).stdout.strip()==args.revision
 assert run(['git','rev-parse','HEAD'],text=True).stdout.strip()==args.revision,'Checkout the reviewed revision first'
 work=Path('.local/deployment');work.mkdir(parents=True,exist_ok=True)
