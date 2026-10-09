@@ -1,0 +1,17 @@
+# Finite launch cost and availability decision
+
+9 October 2026, before changing availability controls. The owner authorized launch inside the existing US$10 total allowance. No new VM, disk, IP, monitoring service or marketplace image is needed.
+
+The existing fallback models seven full running days at US$0.5112/day, followed by seven retained/deallocated days at US$0.2304/day including a conservative disk-transaction reserve, US$1.20 traffic reserve and US$2 uncertainty buffer: **US$8.392**, approximately US$8.39. Free benefits are not deducted from the fallback. Compute, OS disk and static IPv4 are included in these rates; outbound traffic and disk transactions remain uncertain. The latest guard at 16:26:39 UTC modeled US$0.2644 and ~296 MB outbound. Provider actual cost is unavailable, not zero.
+
+Continuous public availability within the **existing lease ending 16 October 04:01:49 UTC** is covered by the original seven-full-day fallback. The daily midnight deallocation schedule was disabled at17:23:52UTC after acceptance for that bounded launch window only. Preserve the 15-minute US$6 conservative lifetime exposure, 10-GiB traffic and lease-expiry deallocation guard and subscription spending protection. No automatic start or lease extension is authorized. Verify the schedule and guard after changing them.
+
+**Billing-unit correction:** the first actual usage rows now report **INR**, not USD. At 16:47:48 UTC actual reported cost was INR 1.8285, a lagged value; fallback modeled US$0.2719. The guard now normalizes INR with a conservative **70 INR per USD** floor, overestimating consumption rather than equating rupees to dollars. ECB 9 October reference rates (108.3965 INR/EUR and 1.1206 USD/EUR) imply about 96.73 INR/USD; the floor provides a substantial safety margin and is not represented as the market rate. Unsupported billing currencies fail closed for review. Six production conversion/aggregation/error checks pass.
+
+The existing annual budget was originally amount 8 **in the billing currency**; historical US$8 statements were incorrect. It is updated to **INR 560**, with INR 140/280/420/560 actual notifications and INR 420 forecast, using the same conservative factor. This does not grant a new allowance or change spending protection. The separate US$6/model/lease/traffic shutdown guard remains the practical control. See the actual sanitized budget readback.
+
+Exchange sources: [ECB INR](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-inr.en.html), [ECB USD](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.en.html).
+
+Budget alerts are delayed notifications, not a custom hard cap. A guest or identity outage can prevent its guard; the operator must monitor daily and deallocate through Azure if needed. Deallocation leaves disk/IP costs at approximately US$0.2104/day plus transactions. At the lease, preserve recovery and review retention; resolve retained resources by 23 October against fresh actuals. Do not delete the project or backups automatically. Follow the explicitly approved eventual teardown procedure in OPERATIONS after a lifecycle decision.
+
+This finite launch is not indefinite free hosting. Continuing after the lease needs a new cost/lifecycle decision within the same allowance; changing a monthly budget does not replenish the US$10 total.

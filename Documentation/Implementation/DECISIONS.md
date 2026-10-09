@@ -57,3 +57,21 @@ Primary verification references: [WP-CLI runcommand](https://make.wordpress.org/
 ## D31 — public preview without Basic Auth (2026-10-09T15:43:51.978950+00:00)
 
 Explicit owner instruction removes the development password lock now. Comment only the Caddy private credential import; retain the private file/mount for optional reactivation. Keep global search noindex, private no-store/cache exclusions and native WordPress admin authentication. This is a viewable development preview, not the indexable launch/acceptance gate. Actual anonymous HTTPS and administrator-login redirect checks pass; no credential output. Cost/resources/lease unchanged.
+
+
+## Current launch decisions — 10 October 2026 IST
+
+These supersede earlier operational status statements, preserving them as history.
+
+| ID | Decision / source / reason | Actual observation |
+|---|---|---|
+| D32 | Owner authorized launch after material journey/privacy/security fixes. Enable production/blog_public1 and comment global development noindex; preserve utility/filter noindex/native admin login. | 782 anonymous assertions/69routes/59XML URLs; actual Google crawler valid. |
+| D33 | Actual subscription reports INR. Normalize conservatively70INR/USD, unsupported units fail closed; budgetINR560, guardUS$6, original finitelease unchanged. No increased allowance. | Six currency checks, actual budget/spendingOn/readback; alerts delayed, disk/IP still billable. |
+| D34 | Real GA4 basic consentv3 includes fixed finder_complete/compare_add/save_product/retailer_click, clean page path only; no free text/product IDs/answers/custom parameters. [Official events API](https://developers.google.com/analytics/devguides/collection/ga4/events). | Four events visible in actual Realtime testing; pre-consent/withdraw0SDK; EM/ads off and2-month retention. Supersedes D28. |
+| D35 | Retain original labelled category art because checked Minimalist/Plum terms do not authorize photo reuse. Original unmodified supplied brand PNG serves social identity; do not pretend it is an Article/product photograph. | Rights review/register, Schema.org0errors/warnings; Google optional Article image warning honestly retained. |
+| D36 | Disable daily midnight deallocation only for existing finitelease to allow actual live access; preserve traffic/model/normalizedactual/lease guard and spending protection. | Provider statusDisabled confirmed; lease16October09:31:49IST unchanged. No automaticstart/extension/deletion. |
+| D37 | Keep WPSC pagecache off and dynamic/private responses no-store; cache only safe public static assets, no blanket cacheeverything. | 56actual header/redirect/cache checks, staticHIT/compression and no privateHIT/Age. |
+| D38 | Verify full private Updraft plus coherent infrastructure, recovered WordPress runtime inside isolated container/nohostports and restricted offVM checksums; never replace production DB in validation. Export newest set using sortedUTC order. | Earlier unsorted exporter selected historical12:51set; preserved as earlycopy and superseded by finalmatching set. Exact final artifacts record scope. |
+| D39 | Normal reviewed Git push using correct owner credentials; verify deployed tracked blobs/HEAD and generatedmanifest, with no paidCI/automaticbranch deploy. | Exact final publication artifact/runbook records hashes and revision; owner WordPressedits preserved. |
+
+No core implementation decision currently needs owner input. Later lifecycle before16October, designated backlink domains, submission identity/calendar and exact sanitized public backup sharing remain outside completed launch scope. NativeOSmotion/zoom and fieldINP remain limitations, not fabricated tests.

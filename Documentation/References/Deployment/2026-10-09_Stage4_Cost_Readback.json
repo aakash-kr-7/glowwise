@@ -1,0 +1,62 @@
+{
+  "capturedUTC": "2026-10-09T21:02:04.807227+00:00",
+  "purpose": "Fresh actual subscription/resource/availability and lifetime-cost guard readback; private identifiers excluded",
+  "subscriptionType": "Azure for Students",
+  "state": "Enabled",
+  "spendingProtection": "On",
+  "resources": [
+    {
+      "name": "glowwise-vnet",
+      "type": "Microsoft.Network/virtualNetworks",
+      "region": "koreacentral"
+    },
+    {
+      "name": "glowwise-nsg",
+      "type": "Microsoft.Network/networkSecurityGroups",
+      "region": "koreacentral"
+    },
+    {
+      "name": "glowwise-ip",
+      "type": "Microsoft.Network/publicIPAddresses",
+      "region": "koreacentral"
+    },
+    {
+      "name": "glowwise-nic",
+      "type": "Microsoft.Network/networkInterfaces",
+      "region": "koreacentral"
+    },
+    {
+      "name": "glowwise-vm",
+      "type": "Microsoft.Compute/virtualMachines",
+      "region": "koreacentral"
+    },
+    {
+      "name": "glowwise-os",
+      "type": "Microsoft.Compute/disks",
+      "region": "koreacentral"
+    },
+    {
+      "name": "shutdown-computevm-glowwise-vm",
+      "type": "Microsoft.DevTestLab/schedules",
+      "region": "koreacentral"
+    }
+  ],
+  "power": [
+    "VM running"
+  ],
+  "providerDailyShutdown": {
+    "status": "Disabled",
+    "dailyRecurrence": {
+      "time": "1830"
+    },
+    "timeZoneId": "UTC"
+  },
+  "costGuard": {
+    "checked": "2026-10-09T21:02:04.060820+00:00",
+    "modeledUSD": 0.3622,
+    "reportedUSD": null,
+    "reportedAmounts": null,
+    "totalTx": 423694945,
+    "decision": "continue"
+  }
+}

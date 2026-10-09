@@ -1,0 +1,41 @@
+{
+  "capturedUTC": "2026-10-09T16:49:10.025561+00:00",
+  "purpose": "Real existing annual budget update; private recipients/IDs excluded",
+  "billingCurrency": "INR",
+  "amountINR": 560.0,
+  "notifications": [
+    {
+      "name": "actual100",
+      "thresholdPercent": 100.0,
+      "thresholdType": "Actual",
+      "enabled": true
+    },
+    {
+      "name": "actual25",
+      "thresholdPercent": 25.0,
+      "thresholdType": "Actual",
+      "enabled": true
+    },
+    {
+      "name": "actual50",
+      "thresholdPercent": 50.0,
+      "thresholdType": "Actual",
+      "enabled": true
+    },
+    {
+      "name": "actual75",
+      "thresholdPercent": 75.0,
+      "thresholdType": "Actual",
+      "enabled": true
+    },
+    {
+      "name": "forecast75",
+      "thresholdPercent": 75.0,
+      "thresholdType": "Forecasted",
+      "enabled": true
+    }
+  ],
+  "conservativeINRPerUSD": 70,
+  "notHardCap": true,
+  "noSubscriptionUpgrade": true
+}

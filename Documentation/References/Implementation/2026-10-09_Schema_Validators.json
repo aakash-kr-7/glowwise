@@ -1,0 +1,34 @@
+{
+  "capturedUTC": "2026-10-09T20:56:44.552229+00:00",
+  "purpose": "Actual official Google Rich Results and Schema.org validator observations, no account metadata",
+  "product": {
+    "URL": "https://glowwise.tech/products/minimalist-b12-oat-cleanser/",
+    "validator": "https://validator.schema.org/",
+    "errors": 0,
+    "warnings": 0,
+    "items": [
+      "WebPage",
+      "Product"
+    ],
+    "capturedUTC": "2026-10-09T17:06:00Z",
+    "timePrecision": "Approximate observation minute"
+  },
+  "article": {
+    "URL": "https://glowwise.tech/guides/face-wash-for-sensitive-skin/",
+    "reportURL": "https://search.google.com/test/rich-results/result?id=8HSvCttUQub0q9bvEie91w",
+    "crawlUTC": "2026-10-09T17:24:28Z",
+    "crawl": "success",
+    "validItems": [
+      "Article",
+      "BreadcrumbList"
+    ],
+    "nonCritical": [
+      "Optional Article image missing: original SVG illustration is not represented as a licensed product photo"
+    ]
+  },
+  "limits": [
+    "Valid structured data does not guarantee rich appearance/indexing",
+    "Editorial product graph has no merchant offers, reviews or ratings",
+    "Earlier prelaunch noindex crawl failure remains a historical observation; postlaunch recrawl succeeds"
+  ]
+}

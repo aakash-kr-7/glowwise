@@ -1,0 +1,190 @@
+{
+  "capturedUTC": "2026-10-09T21:02:15.386812+00:00",
+  "purpose": "Fresh authoritative/public delegation/proxy/TXT observations and system-trusted edge/origin certificate checks; no verification bypass",
+  "DNS": [
+    {
+      "resolver": "angela.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "NS",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"angela.ns.cloudflare.com\",\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"trace.ns.cloudflare.com\",\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "angela.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "A",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "angela.ns.cloudflare.com",
+      "name": "www.glowwise.tech",
+      "type": "A",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "angela.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "TXT",
+      "exitCode": 0,
+      "answer": "{\n    \"Name\":  \"glowwise.tech\",\n    \"Type\":  16,\n    \"TTL\":  300,\n    \"IPAddress\":  null,\n    \"NameHost\":  null,\n    \"Strings\":  [\n                    \"google-site-verification=YKG_0HCZDAdzKuXmb1HhTa-edR6NIrSoQySpOyh4DbM\"\n                ]\n}"
+    },
+    {
+      "resolver": "trace.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "NS",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"angela.ns.cloudflare.com\",\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"trace.ns.cloudflare.com\",\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "trace.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "A",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "trace.ns.cloudflare.com",
+      "name": "www.glowwise.tech",
+      "type": "A",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "trace.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "TXT",
+      "exitCode": 0,
+      "answer": "{\n    \"Name\":  \"glowwise.tech\",\n    \"Type\":  16,\n    \"TTL\":  300,\n    \"IPAddress\":  null,\n    \"NameHost\":  null,\n    \"Strings\":  [\n                    \"google-site-verification=YKG_0HCZDAdzKuXmb1HhTa-edR6NIrSoQySpOyh4DbM\"\n                ]\n}"
+    },
+    {
+      "resolver": "1.1.1.1",
+      "name": "glowwise.tech",
+      "type": "NS",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"angela.ns.cloudflare.com\",\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"trace.ns.cloudflare.com\",\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "1.1.1.1",
+      "name": "glowwise.tech",
+      "type": "A",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "1.1.1.1",
+      "name": "www.glowwise.tech",
+      "type": "A",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "1.1.1.1",
+      "name": "glowwise.tech",
+      "type": "TXT",
+      "exitCode": 0,
+      "answer": "{\n    \"Name\":  \"glowwise.tech\",\n    \"Type\":  16,\n    \"TTL\":  300,\n    \"IPAddress\":  null,\n    \"NameHost\":  null,\n    \"Strings\":  [\n                    \"google-site-verification=YKG_0HCZDAdzKuXmb1HhTa-edR6NIrSoQySpOyh4DbM\"\n                ]\n}"
+    },
+    {
+      "resolver": "8.8.8.8",
+      "name": "glowwise.tech",
+      "type": "NS",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  21600,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"angela.ns.cloudflare.com\",\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  21600,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"trace.ns.cloudflare.com\",\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "8.8.8.8",
+      "name": "glowwise.tech",
+      "type": "A",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "8.8.8.8",
+      "name": "www.glowwise.tech",
+      "type": "A",
+      "exitCode": 0,
+      "answer": "[\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    },\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null,\n        \"Strings\":  null\n    }\n]"
+    },
+    {
+      "resolver": "8.8.8.8",
+      "name": "glowwise.tech",
+      "type": "TXT",
+      "exitCode": 0,
+      "answer": "{\n    \"Name\":  \"glowwise.tech\",\n    \"Type\":  16,\n    \"TTL\":  300,\n    \"IPAddress\":  null,\n    \"NameHost\":  null,\n    \"Strings\":  [\n                    \"google-site-verification=YKG_0HCZDAdzKuXmb1HhTa-edR6NIrSoQySpOyh4DbM\"\n                ]\n}"
+    }
+  ],
+  "certificates": [
+    {
+      "connection": "edge",
+      "validatedSystemTrust": true,
+      "TLS": "TLSv1.3",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Let's Encrypt"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "YE2"
+          ]
+        ]
+      ],
+      "SAN": [
+        [
+          "DNS",
+          "*.glowwise.tech"
+        ],
+        [
+          "DNS",
+          "glowwise.tech"
+        ]
+      ],
+      "notBefore": "Oct  9 02:03:21 2026 GMT",
+      "notAfter": "Jan  7 02:03:20 2027 GMT"
+    },
+    {
+      "connection": "origin",
+      "validatedSystemTrust": true,
+      "TLS": "TLSv1.3",
+      "issuer": [
+        [
+          [
+            "countryName",
+            "US"
+          ]
+        ],
+        [
+          [
+            "organizationName",
+            "Let's Encrypt"
+          ]
+        ],
+        [
+          [
+            "commonName",
+            "YE1"
+          ]
+        ]
+      ],
+      "SAN": [
+        [
+          "DNS",
+          "glowwise.tech"
+        ]
+      ],
+      "notBefore": "Oct  9 03:07:37 2026 GMT",
+      "notAfter": "Jan  7 03:07:36 2027 GMT"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "capturedUTC": "2026-10-09T17:23:52.477590+00:00",
+  "purpose": "Disable only the existing daily shutdown for the original finite launch lease; no new resource or lease extension",
+  "previousStatus": "Enabled",
+  "currentStatus": "Disabled",
+  "dailyRecurrencePreserved": {
+    "time": "1830"
+  },
+  "leaseExpiresUTC": "2026-10-16T04:01:49+00:00",
+  "guardExposureUSD": 6,
+  "guardTrafficGiB": 10,
+  "spendingProtectionUnchanged": true,
+  "automaticDeletion": false
+}

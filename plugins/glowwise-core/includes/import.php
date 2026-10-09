@@ -26,7 +26,7 @@ WP_CLI::add_command('glowwise import',function($args,$assoc) {
         wp_update_post(['ID'=>$id,'post_status'=>'publish']);update_post_meta($id,'_gw_source_hash',$sourceHash);update_post_meta($id,'_gw_import_signature',gw_content_signature($id));$count[$existing?'updated':'created']++;
     }
     $home=get_page_by_path('home');$guides=get_page_by_path('guides');if ($home && $guides) { update_option('show_on_front','page');update_option('page_on_front',$home->ID);update_option('page_for_posts',$guides->ID); }
-    update_option('permalink_structure','/guides/%postname%/');update_option('blog_public',0);update_option('blogname','Glowwise');update_option('blogdescription','Find your kind of good.');flush_rewrite_rules();
+    update_option('permalink_structure','/guides/%postname%/');if (isset($assoc['development'])) { update_option('blog_public',0); }update_option('blogname','Glowwise');update_option('blogdescription','Find your kind of good.');flush_rewrite_rules();
     WP_CLI::success(wp_json_encode($count));
 });
 WP_CLI::add_command('glowwise export',function($args) {

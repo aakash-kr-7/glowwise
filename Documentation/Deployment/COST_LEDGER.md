@@ -1,4 +1,24 @@
+# Current lifetime cost checkpoint — 10 October 2026 IST
+
+Latest21:02:04UTC readback: AzureforStudents Enabled/spendingprotectionOn, same7resources, VM running, providerdailyshutdownDisabled for originallease only. Guard modeled **US$.3622**, reportedamount temporarilyunavailable, hostTX423,694,945bytes, continue. Last successfully reported billing observation20:50UTC: **INR10.56099557**, conservativelynormalizedUS$.15087 using70INR/USD. Do not substitute unavailable for zero or claim remaining student-credit balance.
+
+Fallback US$.5112/runningday (~15.55/730hmonth); expectedbenefit .2304/day (~7.01/month), not deducted fromfallback. Retaineddisk/IP .2104/day plus transactions (.2304conservativeplanning). Original7running+7retained+1.20traffic+2buffer≈**US$8.39**. Onlyfinitelease16October09:31:49IST; resolve retention by23October. US$10 is TOTAL, not monthly. Currentmodel leaves aboutUS$9.64 nominal allowance, but laggedbilling/traffic/retention must be reconciled; it is not a verified spendable balance.
+
+INR560 budgetalerts and US$6/max(model,normalizedreported)15mguard/10GiBTX/lease checks remain. Alerts delayed, guestidentity failure possible; manualdailyreview/deallocation necessary. No newbillableresources/upgrade/card/paidmonitoring. No automaticdelete orleaseextension. Safe lifecycle steps are inOPERATIONS. Actual evidence2026-10-09_Stage4_Cost_Readback.json; earlier billing/currency statements below are **historical**, superseded by this checkpoint and unitcorrection.
+
+---
+
+## Historical cost observations (preserved)
+
 # Glowwise lifetime cost ledger
+
+## Stage 4 billing-unit correction — 9 October 2026
+
+Actual usage is now available in **INR**: 1.8285020806 reported for 9 October. This is lagged consumption, not the final bill. Earlier budget descriptions as US$8 were incorrect: Azure's amount uses billing currency. The existing annual budget has been corrected to INR 560, with actual 140/280/420/560 and forecast 420 notifications, using a conservative 70 INR/USD factor. Actual readback: `../References/Deployment/2026-10-09_Launch_Budget.json`. This is not a hard cap or new monthly allowance. Subscription spending protection remains unchanged.
+
+The real guard at **16:47:48 UTC** reports fallback modeled **US$0.2719**, INR **1.8285** normalized conservatively to **US$0.02612**, 314,880,163 transmitted bytes and continue. It takes the higher model/normalized value. INR is never equated to USD; unexpected currency/response fails closed. Six conversion/aggregation/error checks pass. The reviewed 70 INR/USD floor overestimates cost compared with the approximately 96.73 rate implied by current ECB references; see LAUNCH_COST_ESTIMATE. Refresh actuals and exchange assumptions daily. Previous unavailable/zero observations remain historical.
+
+Finite continuous launch is planned within the same original seven-full-day lease ending 16 October 04:01:49 UTC; it does not authorize indefinite hosting. Until launch, daily shutdown remains enabled. At launch it may be disabled only after the documented finite estimate and guard verification. Disk/IP retention costs and 23 October lifecycle review remain.
 
 Updated 9 October 2026, approximately 11:00 UTC / 16:30 IST. **US$10 TOTAL**, including consumption covered by Azure student credit. No monthly reset, subscription upgrade, card or new allowance is authorized. This ledger must continue across later stages.
 

@@ -1,0 +1,19 @@
+{
+  "capturedUTC": "2026-10-09T21:05:35.511777+00:00",
+  "purpose": "Actual final consentv3 browser and GA4 Realtime observations, private account/client data excluded",
+  "measurementId": "G-XC6V3MXTJP",
+  "testTrafficOnly": true,
+  "eventsObserved": {
+    "finder_complete": 1,
+    "compare_add": 1,
+    "save_product": 1,
+    "retailer_click": 1
+  },
+  "actualFinderResults": 4,
+  "withdrawalDOMSDKCount": 0,
+  "savedCountAfterWithdrawal": 2,
+  "preAffirmationSDKCount": 0,
+  "enhancedMeasurement": false,
+  "retentionMonths": 2,
+  "limitations": "Read-only DOM cannot inspect cookie values; production unit verifies cleanup/gating. Realtime test traffic is not organic audience."
+}

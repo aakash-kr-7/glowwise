@@ -1,0 +1,61 @@
+{
+  "purpose": "Pre-optimization stage 4 baseline",
+  "requestedDomain": "glowwise.tech",
+  "requestedDevices": "DESKTOP,MOBILE",
+  "forcedFresh": true,
+  "observedDate": "2026-10-09",
+  "revision": "39355348c349b39938d745f2cb2a1518b82515d3",
+  "provider": "Connected Ubersuggest pagespeed_audit",
+  "limitations": "Provider omitted exact collection timestamp, Lighthouse version, throttling conditions, tested final URL, scores and field data. TBT is not INP. No CrUX claim.",
+  "result": {
+    "done": true,
+    "report": {
+      "DESKTOP": {
+        "status": "ok",
+        "lab_metrics": {
+          "First Contentful Paint": "522 ms",
+          "Speed Index": "1.2 s",
+          "Cumulative Layout Shift": "0.015",
+          "Total Blocking Time": "0 ms",
+          "Time to Interactive": "522 ms",
+          "Largest Contentful Paint": "522 ms"
+        },
+        "opportunities": [
+          {
+            "opportunity": "Unused Javascript",
+            "estimated_savings": "0 ms",
+            "size_reduction_kb": 21
+          },
+          {
+            "opportunity": "Redirects",
+            "estimated_savings": "190 ms",
+            "size_reduction_kb": null
+          }
+        ]
+      },
+      "MOBILE": {
+        "status": "ok",
+        "lab_metrics": {
+          "Cumulative Layout Shift": "0.064",
+          "Total Blocking Time": "0 ms",
+          "Largest Contentful Paint": "2.0 s",
+          "First Contentful Paint": "1.8 s",
+          "Speed Index": "4.3 s",
+          "Time to Interactive": "2.0 s"
+        },
+        "opportunities": [
+          {
+            "opportunity": "Unused Javascript",
+            "estimated_savings": "0 ms",
+            "size_reduction_kb": 21
+          },
+          {
+            "opportunity": "Redirects",
+            "estimated_savings": "630 ms",
+            "size_reduction_kb": null
+          }
+        ]
+      }
+    }
+  }
+}

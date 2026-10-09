@@ -1,0 +1,34 @@
+{
+  "capturedUTC": "2026-10-09T20:56:44.552229+00:00",
+  "purpose": "Observed successful actual isolated recovered WordPress runtime log; earlier host-to-internal-network probe was refused, then corrected to a request inside the container",
+  "verifiedUTC": "2026-10-09T17:19:26.029365+00:00",
+  "backupUTC": "20261009T171711Z",
+  "checks": [
+    {
+      "test": "Recovered native WordPress/custom homepage/footer boots",
+      "pass": true
+    },
+    {
+      "test": "Recovered glowwise-core API serves 36 published products",
+      "pass": true
+    },
+    {
+      "test": "7 published guides and 16 pages recovered",
+      "pass": true
+    },
+    {
+      "test": "No host port mapping; temporary internal-only container",
+      "pass": true
+    },
+    {
+      "test": "Temporary container, database and extracted private files removed",
+      "pass": true
+    }
+  ],
+  "liveDatabaseOverwritten": false,
+  "notTested": [
+    "New Azure VM reconstruction",
+    "Restored administrator browser login",
+    "DNS disaster failover"
+  ]
+}

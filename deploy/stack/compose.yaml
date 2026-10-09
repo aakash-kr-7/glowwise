@@ -37,7 +37,7 @@ services:
       WORDPRESS_CONFIG_EXTRA: |
         define('WP_HOME', '${GW_ORIGIN:-https://glowwise.tech}');
         define('WP_SITEURL', '${GW_ORIGIN:-https://glowwise.tech}');
-        define('WP_ENVIRONMENT_TYPE', 'development');
+        if (!defined('WP_ENVIRONMENT_TYPE')) { define('WP_ENVIRONMENT_TYPE', '${GW_ENVIRONMENT:-production}'); }
         define('DISALLOW_FILE_EDIT', true);
         define('AUTOMATIC_UPDATER_DISABLED', true);
         define('DISABLE_WP_CRON', true);

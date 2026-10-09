@@ -81,3 +81,6 @@ These are restricted real recovery archives; they are not the later sanitized pu
 2026-10-09T15:43:51.978950+00:00. [Anonymous preview checks](2026-10-09_Public_Preview_Access.json): actual HTTPS homepage, Explore, Finder, published-only catalog and login return 200 without Basic Auth; administrator path redirects to native WordPress login. Noindex/no-store remain. Maps D31, T05/T13, PR25/29/31/33. Earlier Basic Auth evidence is historical; optional private credential import is retained but disabled. No desktop/mobile browser journey or indexable launch success is inferred.
 
 [Public-preview HTTP regression](2026-10-09_Public_Preview_HTTP_Tests.json), captured 2026-10-09T15:43:05.913266+00:00: **336 assertions / 69 routes PASS**, anonymous default profile, no Authorization header; native admin login required, private inbox/user REST denial and form security unchanged. Maps T05/T13, PR25/29/31/33. Historical authenticated 335-assertion evidence is preserved.
+
+
+Current launched observations: [Stage4 index](Stage4_Evidence_Index.md),10October2026IST. Earlier foundation/preview entries remain historical.

@@ -38,8 +38,8 @@ try:
         statement = ('SELECT COUNT(*) FROM ' + table + ';').encode()
         assert sql(statement, 'glowwise') == sql(statement, test_db)
         print(table, 'restored row count matches live database')
-    assert sql(b"SELECT option_value FROM wp_options WHERE option_name='blog_public';",test_db).strip()==b'0'
-    print('Restored database remains non-indexable. Live database was not replaced.')
+    assert sql(b"SELECT option_value FROM wp_options WHERE option_name='blog_public';",test_db).strip()==sql(b"SELECT option_value FROM wp_options WHERE option_name='blog_public';",'glowwise').strip()
+    print('Restored indexing decision matches live. Live database was not replaced.')
 finally:
     # Only the database created by this validation is disposable.
     sql(('DROP DATABASE ' + test_db + ';').encode())

@@ -5,6 +5,20 @@ import json
 from pathlib import Path
 import urllib.request
 
+def normalize_reported_cost(rows, columns, inr_per_usd_guard=70):
+    """Overestimate INR exposure using a reviewed conservative conversion floor."""
+    if inr_per_usd_guard <= 0:
+        raise ValueError('Invalid conservative exchange factor')
+    currency_index=columns.index('Currency')
+    amount_index=columns.index('PreTaxCost')
+    amounts={}
+    for row in rows:
+        currency=row[currency_index]
+        if currency not in {'USD','INR'}:
+            raise ValueError('Unexpected billing currency: stop for review')
+        amounts[currency]=amounts.get(currency,0)+float(row[amount_index])
+    return amounts.get('USD',0)+amounts.get('INR',0)/inr_per_usd_guard,amounts
+
 PRIVATE = Path('/srv/glowwise/private')
 cfg = json.loads((PRIVATE / 'cost-guard.json').read_text())
 now = dt.datetime.now(dt.timezone.utc)
@@ -27,6 +41,8 @@ def arm(path, body):
         return json.loads(response.read() or b'{}')
 
 reported = None
+reported_amounts = None
+currency_error = False
 try:
     result = arm('/subscriptions/' + cfg['subscriptionId'] +
         '/providers/Microsoft.CostManagement/query?api-version=2025-03-01',
@@ -36,13 +52,11 @@ try:
                      'aggregation': {'totalCost': {'name': 'PreTaxCost', 'function': 'Sum'}}}})
     columns = [c['name'] for c in result['properties']['columns']]
     rows = result['properties']['rows']
-    currencies = {row[columns.index('Currency')] for row in rows}
-    if currencies - {'USD'}:
-        raise ValueError('Unexpected billing currency: manual review required')
-    reported = sum(float(row[columns.index('PreTaxCost')]) for row in rows)
+    reported,reported_amounts=normalize_reported_cost(rows,columns,cfg.get('inrPerUSDGuard',70))
 except Exception as error:
     # Do not log response bodies, access tokens or private account identifiers.
     print('Cost query unavailable:', type(error).__name__, '; retail exposure model remains active')
+    currency_error=isinstance(error,ValueError)
 
 state_file = PRIVATE / 'cost-guard-state.json'
 state = json.loads(state_file.read_text()) if state_file.exists() else {}
@@ -52,7 +66,9 @@ previous = state.get('lastTx', tx)
 total_tx = state.get('totalTx', 0) + (tx - previous if tx >= previous else tx)
 exposure = max(modeled, reported or 0)
 reason = None
-if now >= lease:
+if currency_error:
+    reason = 'unexpected cost currency or response: manual review required'
+elif now >= lease:
     reason = 'seven-day lease expired'
 elif exposure >= cfg['shutdownUSD']:
     reason = 'conservative lifetime exposure threshold reached'
@@ -60,11 +76,12 @@ elif total_tx >= cfg['txLimitBytes']:
     reason = 'development outbound traffic guard reached'
 state.update({'checked': now.isoformat(), 'lastTx': tx, 'totalTx': total_tx,
               'modeledUSD': round(modeled, 4), 'reportedUSD': reported,
+              'reportedAmounts': reported_amounts,
               'decision': reason or 'continue'})
 state_file.write_text(json.dumps(state, indent=2))
 state_file.chmod(0o600)
 print('Cost guard:', json.dumps({k: state[k] for k in
-      ['checked', 'modeledUSD', 'reportedUSD', 'totalTx', 'decision']}))
+      ['checked', 'modeledUSD', 'reportedUSD', 'reportedAmounts', 'totalTx', 'decision']}))
 if reason:
     arm(cfg['vmId'] + '/deallocate?api-version=2024-07-01', {})
     print('Azure deallocation requested; disk/IP remain chargeable. No data deleted.')

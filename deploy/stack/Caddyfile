@@ -20,15 +20,25 @@ www.glowwise.tech {
 glowwise.tech {
   encode zstd gzip
   header {
-    X-Robots-Tag "noindex, nofollow, noarchive"
+    # Optional development gate: restore only for an authorized preview rollback.
+    # X-Robots-Tag "noindex, nofollow, noarchive"
     X-Content-Type-Options nosniff
     Referrer-Policy strict-origin-when-cross-origin
     X-Frame-Options SAMEORIGIN
   }
-  # Owner-authorized public preview. Uncomment to restore the optional lock.
+  # Owner-authorized public launch. Uncomment to restore the optional preview lock.
   # The imported credential file remains private and is never in Git.
   # import /run/secrets/development-auth
-  header Cache-Control "private, no-store"
+  # HTML/API/admin remain private. Only reviewed public theme assets may cache.
+  @dynamic not path_regexp publicAsset ^/wp-content/themes/glowwise/assets/.*\.(css|js|svg|woff2)$
+  header @dynamic Cache-Control "private, no-store"
+  @static path_regexp publicAsset ^/wp-content/themes/glowwise/assets/.*\.(css|js|svg|woff2)$
+  header @static {
+    Cache-Control "public, max-age=86400"
+    Access-Control-Allow-Origin "*"
+  }
+  @hashed path_regexp hashedAsset ^/wp-content/themes/glowwise/assets/dist/[a-z-]+\.[A-Z0-9]+\.(css|js)$
+  header @hashed Cache-Control "public, max-age=31536000, immutable"
   reverse_proxy wordpress:80 {
     header_up X-Forwarded-Proto https
     header_up X-Forwarded-Host glowwise.tech

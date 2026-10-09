@@ -1,0 +1,23 @@
+{
+  "capturedUTC": "2026-10-09T21:02:24Z",
+  "purpose": "Actual connector readback after submission; fetched does not mean indexed",
+  "siteUrl": "sc-domain:glowwise.tech",
+  "sitemaps": [
+    {
+      "path": "https://glowwise.tech/sitemap_index.xml",
+      "lastSubmitted": "2026-10-09T17:24:20.642Z",
+      "isPending": false,
+      "isSitemapsIndex": true,
+      "lastDownloaded": "2026-10-09T17:55:01.959Z",
+      "warnings": "0",
+      "errors": "0",
+      "contents": [
+        {
+          "type": "web",
+          "submitted": "8",
+          "indexed": "0"
+        }
+      ]
+    }
+  ]
+}

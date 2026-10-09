@@ -11,7 +11,10 @@ add_filter('wpseo_breadcrumb_links',function($links) {
     if (is_singular('gw_product')) { $product=gw_product(get_queried_object_id());if ($product) { return [['url'=>home_url('/'),'text'=>'Home'],['url'=>home_url('/categories/'),'text'=>'Categories'],['url'=>home_url('/categories/'.$product['category'].'/'),'text'=>gw_categories()[$product['category']]],['text'=>$product['name']]]; } }
     return $links;
 });
-add_filter('wpseo_metadesc',function($description) { $meta=gw_archive_metadata();return $meta?$meta[1]:$description; });
+function gw_archive_description($description) { $meta=gw_archive_metadata();$page=max(1,(int)get_query_var('paged'));return $meta?$meta[1].($page>1?' Browse page '.$page.' of the edit.':''):$description; }
+add_filter('wpseo_metadesc','gw_archive_description');
+add_filter('wpseo_opengraph_desc','gw_archive_description');
+add_filter('wpseo_opengraph_title',function($title) { $meta=gw_archive_metadata();$page=max(1,(int)get_query_var('paged'));return $meta?$meta[0].($page>1?' · Page '.$page:''):$title; });
 function gw_utility_noindex() {
     return is_search() || is_author() || is_date() || is_tag() || is_page(['finder','compare','saved','privacy','terms','cookies-and-storage','sitemap']) || (is_post_type_archive('gw_product') && count(array_intersect(array_keys($_GET),['q','category','type','max-price','fragrance-free','finish','sort']))>0);
 }

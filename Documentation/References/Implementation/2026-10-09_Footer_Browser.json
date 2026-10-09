@@ -1,0 +1,144 @@
+{
+  "capturedUTC": "2026-10-09T16:52:35.405Z",
+  "purpose": "Actual anonymous desktop footer navigation",
+  "checks": [
+    {
+      "label": "✧glowwise",
+      "url": "https://glowwise.tech/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Categories",
+      "url": "https://glowwise.tech/categories/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Explore products",
+      "url": "https://glowwise.tech/explore/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "The guides",
+      "url": "https://glowwise.tech/guides/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Product finder",
+      "url": "https://glowwise.tech/finder/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Compare",
+      "url": "https://glowwise.tech/compare/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Your saved list",
+      "url": "https://glowwise.tech/saved/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Skincare",
+      "url": "https://glowwise.tech/categories/skincare/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Haircare",
+      "url": "https://glowwise.tech/categories/haircare/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Bodycare",
+      "url": "https://glowwise.tech/categories/bodycare/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Fragrance",
+      "url": "https://glowwise.tech/categories/fragrance/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Beard & grooming",
+      "url": "https://glowwise.tech/categories/beard-grooming/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Grooming tools",
+      "url": "https://glowwise.tech/categories/grooming-tools/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "About us",
+      "url": "https://glowwise.tech/about/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "How we select",
+      "url": "https://glowwise.tech/how-we-select/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Contact",
+      "url": "https://glowwise.tech/contact/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Corrections",
+      "url": "https://glowwise.tech/corrections/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Disclosures",
+      "url": "https://glowwise.tech/disclosures/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Accessibility",
+      "url": "https://glowwise.tech/accessibility/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Privacy",
+      "url": "https://glowwise.tech/privacy/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Terms",
+      "url": "https://glowwise.tech/terms/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Cookies & browser storage",
+      "url": "https://glowwise.tech/cookies-and-storage/",
+      "pass": true,
+      "h1": 1
+    },
+    {
+      "label": "Site map",
+      "url": "https://glowwise.tech/sitemap/",
+      "pass": true,
+      "h1": 1
+    }
+  ]
+}

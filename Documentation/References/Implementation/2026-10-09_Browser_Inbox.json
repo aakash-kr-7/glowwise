@@ -1,0 +1,11 @@
+{
+  "capturedUTC": "2026-10-09T16:09:34+00:00",
+  "purpose": "Real desktop contact/correction submissions verified independently in private WordPress inbox; only labelled test records removed",
+  "checks": [
+    {"kind":"contact","savedInPrivateInbox":true,"anonymousReadDenied":true,"publicSearchAbsent":true,"retentionExpiresAfter90Days":true},
+    {"kind":"correction","savedInPrivateInbox":true,"anonymousReadDenied":true,"publicSearchAbsent":true,"retentionExpiresAfter90Days":true}
+  ],
+  "disposableRecordsRemoved": 2,
+  "rawContactDataExcluded": true,
+  "method": "Actual browser forms then tests/browser-inbox-receipts.php on VM; no email delivery claimed"
+}

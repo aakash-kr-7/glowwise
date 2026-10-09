@@ -137,6 +137,19 @@
       "source": "Documentation/Implementation/FONT_SOURCES.json",
       "derivative": false,
       "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972"
+    },
+    {
+      "path": "theme/glowwise/assets/brand/glowwise-social.png",
+      "kind": "Unmodified supplied Glowwise logo copied for OpenGraph sharing",
+      "rights": "Owner-supplied identity, authorized project use; third-party rights not independently asserted",
+      "source": "assets/Glowwise_logo.png",
+      "derivative": false,
+      "sha256": "5fb4d17d96ac27fd90a357539ac7b6381c40c130f0ddda8d75f480a432f52d49",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "notProductPhotography": true
     }
   ],
   "dependencyRights": [
@@ -151,5 +164,6 @@
       "license": "MIT",
       "source": "https://github.com/evanw/esbuild/blob/main/LICENSE.md"
     }
-  ]
+  ],
+  "updatedUTC": "2026-10-09T20:56:44.552229+00:00"
 }

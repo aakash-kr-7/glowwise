@@ -1,0 +1,27 @@
+{
+  "capturedUTC": "2026-10-09T20:56:44.552229+00:00",
+  "purpose": "Actual browser readback, private account screenshots retained outside Git",
+  "observedUTC": "2026-10-09T17:22:00Z",
+  "timePrecision": "Observation minute",
+  "plan": "Free",
+  "encryption": "Full (strict)",
+  "cacheLevel": "Standard",
+  "browserTTL": "Respect Existing Headers",
+  "developmentMode": false,
+  "alwaysOnline": false,
+  "cacheRules": [
+    {
+      "name": "Glowwise dynamic and private bypass",
+      "active": true,
+      "action": "Bypass",
+      "scope": "Writes; admin/login/cron/XMLRPC/REST/contact; authorization; WordPress/session/form cookies; any query; all non-static paths"
+    }
+  ],
+  "cacheResponseRules": 0,
+  "globalPreviewHeaderRemovedUTC": "2026-10-09T17:23:57Z",
+  "purgeEverything": "Submitted after launch; modal completed, refreshed static headers verified separately",
+  "AutoMinify": "Retired; esbuild minifies on VM",
+  "HSTSPreload": false,
+  "originACME": "Caddy, explicit Let's Encrypt CA with persistent volume; Certbot absent",
+  "renewalCycleActuallyElapsed": false
+}

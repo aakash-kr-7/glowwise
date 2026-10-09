@@ -1,0 +1,15 @@
+Purpose: actual private file/SQL restore, no public backup material.
+caddy-config.tar.gz: OK
+caddy-data.tar.gz: OK
+config-and-source.tar.gz: OK
+database.sql.gz: OK
+wordpress.tar.gz: OK
+2026-10-09T17:18:02.616973+00:00 Restore validation 20261009T171711Z
+wp-config.php restored hash matches live persistent volume
+wp-includes/version.php restored hash matches live persistent volume
+wp_options restored row count matches live database
+wp_posts restored row count matches live database
+wp_users restored row count matches live database
+wp_postmeta restored row count matches live database
+Restored indexing decision matches live. Live database was not replaced.
+PASS: private archive integrity, isolated file extraction and SQL restore.

@@ -1,0 +1,76 @@
+{
+  "capturedUTC": "2026-10-09T20:56:44.552229+00:00",
+  "purpose": "Actual official PageSpeed browser reports and free GTmetrix summary; manually transcribed observed report values",
+  "page": "https://glowwise.tech/",
+  "prelaunch": {
+    "reportUTC": "2026-10-09T16:58:16Z",
+    "reportURL": "https://pagespeed.web.dev/analysis/https-glowwise-tech/j7c8yi6nmj",
+    "mobile": {
+      "performance": 95,
+      "LCPms": 1951,
+      "CLS": 0.063,
+      "TBTms": 0,
+      "speedIndexMs": 4280,
+      "SEO": 69
+    },
+    "desktop": {
+      "performance": 100,
+      "LCPms": 415,
+      "CLS": 0.013,
+      "TBTms": 0,
+      "speedIndexMs": 731,
+      "SEO": 69
+    }
+  },
+  "launched": {
+    "reportUTC": "2026-10-09T17:24:53Z",
+    "reportURL": "https://pagespeed.web.dev/analysis/https-glowwise-tech/rzph4tx2r4",
+    "mobile": {
+      "performance": 97,
+      "LCPms": 1989,
+      "CLS": 0.063,
+      "TBTms": 0,
+      "speedIndexMs": 2739,
+      "SEO": 100
+    },
+    "desktop": {
+      "performance": 100,
+      "LCPms": 444,
+      "CLS": 0.013,
+      "TBTms": 0,
+      "speedIndexMs": 577,
+      "SEO": 100
+    },
+    "accessibilityBoth": 100,
+    "bestPracticesBoth": 100
+  },
+  "conditions": {
+    "Lighthouse": "13.5.0",
+    "Chrome": "153.0.8010.36",
+    "mobile": "Emulated Moto G Power, Slow 4G, single initial page load",
+    "desktop": "Emulated desktop, Custom throttling, single initial page load",
+    "cacheWarmness": "Not independently controlled",
+    "fieldData": "No Data; no CrUX or INP measurement"
+  },
+  "GTmetrix": {
+    "reportUTC": "2026-10-09T16:58:00Z",
+    "timePrecision": "Minute displayed by provider",
+    "reportURL": "https://gtmetrix.com/reports/glowwise.tech/8WT5HLbT/",
+    "location": "Seattle WA USA",
+    "Chrome": "154.0.0.0",
+    "Lighthouse": "12.6.1",
+    "connection": "Unthrottled, as displayed at request",
+    "performance": 95,
+    "structure": 93,
+    "LCPms": 1100,
+    "CLS": 0.04,
+    "TBTms": 0,
+    "limitation": "Full details/export/mobile tests require account; no paid plan or trial created"
+  },
+  "limits": [
+    "Single lab runs vary; measured LCP change is not proof of optimization causality",
+    "TBT is not INP; field responsiveness remains unmeasured",
+    "Automated accessibility score is not WCAG certification",
+    "A later fixed-name analytics event addition is separately tested; final source-specific repeat follows"
+  ]
+}

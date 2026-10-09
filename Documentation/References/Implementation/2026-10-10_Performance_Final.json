@@ -1,0 +1,36 @@
+{
+  "capturedUTC": "2026-10-09T21:05:56.750Z",
+  "purpose": "Actual official PSI final deployed analytics-v3 bundle, browser readback",
+  "report": "https://pagespeed.web.dev/analysis/https-glowwise-tech/0pdz9wpllj?form_factor=mobile",
+  "reportUTC": "2026-10-09T21:01:41Z",
+  "site": "https://glowwise.tech/",
+  "bundleManifestSHA256": "b31a82c972663ecbe59fd09c852686fd796cc37161bd45a7bf59c8efec8aa582",
+  "mobile": {
+    "performance": 96,
+    "LCPms": 2028,
+    "FCPms": 1869,
+    "CLS": 0.003,
+    "TBTmsCalculator": 3,
+    "TBTdisplay": "0 ms",
+    "speedIndexMs": 4154,
+    "device": "Moto G Power",
+    "throttle": "Slow 4G"
+  },
+  "desktop": {
+    "performance": 100,
+    "LCPms": 419,
+    "FCPms": 416,
+    "CLS": 0.023,
+    "TBTms": 0,
+    "speedIndexMs": 570,
+    "throttle": "Custom"
+  },
+  "lighthouse": "13.5.0",
+  "chromium": "153.0.8010.36",
+  "conditions": "Single page session, initial load; uncontrolled cache/run variability",
+  "seo": 100,
+  "automatedAccessibility": 100,
+  "field": "No Data",
+  "INPmeasured": false,
+  "certification": false
+}

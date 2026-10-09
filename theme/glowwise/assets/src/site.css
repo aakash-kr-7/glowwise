@@ -25,3 +25,5 @@
 .site-footer :focus-visible,.finder-feature :focus-visible{outline-color:var(--on-brand)}.compare-scroll:focus-visible{outline:3px solid var(--ink);outline-offset:4px}.catalog-filter-panel>summary::after{content:"+";float:right}.catalog-filter-panel[open]>summary::after{content:"-"}.footer-links{grid-template-columns:repeat(4,1fr)}@media(max-width:900px){.footer-links{grid-template-columns:repeat(2,1fr)}}
 
 input:not([type=checkbox]),select,textarea{border-color:var(--ink-muted)}input[type=checkbox]{accent-color:var(--brand)}
+
+@media(min-width:901px){.js .menu-toggle{display:none}}

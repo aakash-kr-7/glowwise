@@ -1,0 +1,31 @@
+{
+  "capturedUTC": "2026-10-09T17:21:45.844151+00:00",
+  "purpose": "Actual restricted off-VM full recovery copy; no private payload shared",
+  "sourceSetUTC": "20261009T125117Z",
+  "bytes": 75247830,
+  "sha256": "f51687dab201a753c4fab10a5c7f687e87437bf38e6ee107dfc27caafc6f2b2a",
+  "checks": [
+    {
+      "component": "caddy-config.tar.gz",
+      "sha256Matches": true
+    },
+    {
+      "component": "caddy-data.tar.gz",
+      "sha256Matches": true
+    },
+    {
+      "component": "config-and-source.tar.gz",
+      "sha256Matches": true
+    },
+    {
+      "component": "database.sql.gz",
+      "sha256Matches": true
+    },
+    {
+      "component": "wordpress.tar.gz",
+      "sha256Matches": true
+    }
+  ],
+  "location": "Ignored ACL-restricted .local/deployment/recovery-stage4-2026-10-09.tar.gz",
+  "encryptionAtRestVerified": false
+}

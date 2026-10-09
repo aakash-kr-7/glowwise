@@ -3,6 +3,7 @@
 if (!defined('WP_CLI') || !WP_CLI) { exit; }
 $GLOBALS['gw_import_checks']=[];
 function gw_assert_import($name,$pass) { $GLOBALS['gw_import_checks'][]=['test'=>$name,'pass'=>(bool)$pass];if (!$pass) { throw new RuntimeException($name); } }
+$indexingBefore=(int)get_option('blog_public');
 $slug='gw-disposable-import-'.bin2hex(random_bytes(6));$path=tempnam(sys_get_temp_dir(),'gw-import-');$id=0;
 $record=['kind'=>'page','slug'=>$slug,'title'=>'Disposable import fixture','html'=>'<p>Explicitly disposable original fixture.</p>'];
 $command='glowwise import '.escapeshellarg($path);
@@ -22,7 +23,7 @@ try {
     $original=$GLOBALS['wp_query'];$q=new WP_Query(['post_type'=>'gw_product','paged'=>2]);$q->is_post_type_archive=true;$GLOBALS['wp_query']=$q;
     gw_assert_import('Clean archive pagination self-canonical rule',apply_filters('wpseo_canonical','')===home_url('/explore/page/2/'));
     $_GET=['type'=>'sunscreen'];gw_assert_import('Filtered catalog noindex rule',gw_utility_noindex());$_GET=[];
-    gw_assert_import('Development remains globally non-indexable',(int)get_option('blog_public')===0);
+    gw_assert_import('Repeat import preserves the existing launch-indexing decision',(int)get_option('blog_public')===$indexingBefore);
     $GLOBALS['wp_query']=$original;
 } finally { if ($id) { wp_delete_post($id,true); }unlink($path); }
 gw_assert_import('Disposable import fixture removed',get_page_by_path($slug)===null);
