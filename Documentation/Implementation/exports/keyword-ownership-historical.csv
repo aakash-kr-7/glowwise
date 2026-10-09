@@ -1,0 +1,26 @@
+source_id,exact_keyword,source_role,volume_estimate,kd,source_relevance_0_5,owner_id,owner_url,owner_role,duplicate_of,metric_provider,market,observed_date,evidence_reference
+K01,shampoo for dry and frizzy hair,Initial focus,6600,18,,G01,/guides/shampoo-for-dry-frizzy-hair/,Primary,,Semrush,India / English,2026-10-08,R01 · E01–E02
+K02,which is the best sunscreen for oily skin,Initial focus,1600,18,,G02,/guides/sunscreen-for-oily-skin/,Primary,,Semrush,India / English,2026-10-08,R07 · E13
+K03,perfume under 1000,Initial focus,1300,19,,G03,/guides/perfumes-under-1000/,Primary,,Semrush,India / English,2026-10-08,R09 · E17–E18
+K04,which body lotion is good for dry skin,Initial focus,140,13,,G04,/guides/body-lotion-for-dry-skin/,Primary,,Semrush,India / English,2026-10-08,R05 · E09
+K05,which face wash is best for sensitive skin,Conditional focus,390,20,,G05,/guides/face-wash-for-sensitive-skin/,Primary,,Semrush,India / English,2026-10-08,R06 · E11
+K06,beard oil benefits,Conditional focus,590,24,,G06,/guides/beard-oil-benefits/,Primary,,Semrush,India / English,2026-10-08,R08 · E14
+K07,best trimmer under 1500,Conditional focus,720,29,,G07,/guides/trimmers-under-1500/,Primary,,Semrush,India / English,2026-10-08,R03 · E06
+K08,body lotion for dry skin,Secondary,18100,28,,G04,/guides/body-lotion-for-dry-skin/,Supporting,,Semrush,India / English,2026-10-08,R05 · E08–E09
+K09,best body lotion for dry skin,Secondary,6600,23,,G04,/guides/body-lotion-for-dry-skin/,Supporting,,Semrush,India / English,2026-10-08,R05 · E09
+K10,which shampoo is best for dry and frizzy hair,Secondary,1300,13,,G01,/guides/shampoo-for-dry-frizzy-hair/,Supporting,,Semrush,India / English,2026-10-08,R01 · E02
+K11,best shampoo for dry and frizzy hair,Secondary,12100,30,,G01,/guides/shampoo-for-dry-frizzy-hair/,Supporting,,Semrush,India / English,2026-10-08,R01 · E02
+K12,face wash for sensitive skin,Secondary,5400,32,,G05,/guides/face-wash-for-sensitive-skin/,Supporting,,Semrush,India / English,2026-10-08,R06 · E10–E11
+K13,best sunscreen for oily skin,Secondary,60500,22,,G02,/guides/sunscreen-for-oily-skin/,Supporting,,Semrush,India / English,2026-10-08,R07 · E12–E13
+K14,trimmer under 1500,Secondary,260,30,,G07,/guides/trimmers-under-1500/,Supporting,,Semrush,India / English,2026-10-08,R03 · E05–E06
+K15,cetaphil face wash for sensitive skin,"Secondary, brand-specific",1000,33,,G05,/guides/face-wash-for-sensitive-skin/,Supporting,,Semrush,India / English,2026-10-08,R06 · E11
+L01,which shampoo is best for dry and frizzy hair,Related / LSI terminology from rubric,1300,13,4,G01,/guides/shampoo-for-dry-frizzy-hair/,Supporting,K10,Semrush,India / English,2026-10-08,R01 · E02
+L02,best shampoo and conditioner for dry frizzy hair,Related / LSI terminology from rubric,1000,29,4,G01,/guides/shampoo-for-dry-frizzy-hair/,Supporting,,Semrush,India / English,2026-10-08,R01; saved report text
+L03,which body lotion is good for dry skin,Related / LSI terminology from rubric,140,13,4,G04,/guides/body-lotion-for-dry-skin/,Supporting,K04,Semrush,India / English,2026-10-08,R05 · E09
+L04,which face wash is best for sensitive skin,Related / LSI terminology from rubric,390,20,4,G05,/guides/face-wash-for-sensitive-skin/,Supporting,K05,Semrush,India / English,2026-10-08,R06 · E11
+L05,which is the best sunscreen for oily skin,Related / LSI terminology from rubric,1600,18,4,G02,/guides/sunscreen-for-oily-skin/,Supporting,K02,Semrush,India / English,2026-10-08,R07 · E13
+L06,best sunscreen for oily skin spf 50,Related / LSI terminology from rubric,2900,26,5,G02,/guides/sunscreen-for-oily-skin/,Supporting,,Semrush,India / English,2026-10-08,R07 · E13
+L07,best perfume for women under 1000,Related / LSI terminology from rubric,720,7,5,G03,/guides/perfumes-under-1000/,Supporting,,Semrush,India / English,2026-10-08,R09 · E18
+L08,best perfume for men under 1000,Related / LSI terminology from rubric,3600,17,5,G03,/guides/perfumes-under-1000/,Supporting,,Semrush,India / English,2026-10-08,R09 · E18
+L09,best trimmer for men under 1500,Related / LSI terminology from rubric,320,23,5,G07,/guides/trimmers-under-1500/,Supporting,,Semrush,India / English,2026-10-08,R03 · E06
+L10,which shampoo is best for frizzy and dry hair,Related / LSI terminology from rubric,170,19,4,G01,/guides/shampoo-for-dry-frizzy-hair/,Supporting,,Semrush,India / English,2026-10-08,R01 · E02

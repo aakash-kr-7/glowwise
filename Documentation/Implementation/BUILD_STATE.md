@@ -1,5 +1,15 @@
 # Glowwise build state
 
+## Completed documentation handoff — 10 October 2026 IST
+
+Start with [FINAL_BUILD_HANDOFF.md](FINAL_BUILD_HANDOFF.md), then [EVIDENCE_INDEX.md](EVIDENCE_INDEX.md) and the ten distinct M1 rows in [REQUIREMENTS_TRACEABILITY.md](REQUIREMENTS_TRACEABILITY.md). This stage produced supporting SEO/deployment/content/export/demo/M2/submission records, **not the remaining formal academic criterion submissions**. The documentation agent resumes in the original planning chat using preserved R1–R4 and handbook Table78; no guessing or relabelling historical metrics.
+
+Fresh smoke/readback at 9 October21:37UTC /10 October03:07IST: actual homepage rendered anonymously, eight endpoints200, three services healthy, production indexing/timers active, authoritative/public DNS and trusted edge/origin TLS valid. Same seven Azure resources; spending protectionOn, modeledUS$0.3748/laggedactualINR10.56099557, guardcontinue. Native published export confirms36 products/seven guides/16 Pages. Earlier complete acceptance remains separately dated, not rerun by this document-only stage.
+
+Runtime/backup revision remains8222054f8d70042a3383012ec60a9b3b12235066; pre-handoff documentation HEAD2a21cbc432316042d828d1221d8bd55168fedf60. Final documentation-only push/deploy and all-blob match are recorded by local operator `Documentation/References/Deployment/2026-10-10_Handoff_Deployed.json`; final reply provides resulting SHA. Executable code/assets unchanged. Owner actions: hosting lifecycle before16October09:31:49IST, retained-resource decision by23October; submission identity/calendar deadline, human demo/submission, instructor backlink domains/publication permission and separately sanitized restore-tested public-backup sharing. No new resources/public backup/outreach/assessment completion claimed.
+
+Prior implementation/recovery records below are preserved as dated history. Current handoff is the documentation-agent resume point; refresh live state and cumulative cost before any later operational action.
+
 Updated 10 October 2026 IST. **The complete initial release is live at https://glowwise.tech.** Custom WordPress theme/core, 36 verified product families, seven original mapped guides, 16 editable pages and six category hubs run on the existing Azure VM. Native admin authentication remains; the extra preview lock is off. No local website runtime or replacement architecture was introduced.
 
 ## Verified launch state
