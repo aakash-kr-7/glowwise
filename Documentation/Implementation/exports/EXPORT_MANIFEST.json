@@ -1,5 +1,5 @@
 {
-  "capturedUTC": "2026-10-09T21:44:57.686200+00:00",
+  "capturedUTC": "2026-10-09T21:45:36.285560+00:00",
   "purpose": "Actual published-only native content export and derived registers; no account, inbox, private configuration or provider raw output",
   "nativeExportUTC": "2026-10-09T21:37:50+00:00",
   "counts": {
@@ -12,6 +12,6 @@
     "guides.csv": "5777898bff230405b4189a0a8f5f544d8d3fe56cbe3dacc07da527392ee2f061",
     "keyword-ownership-historical.csv": "ac505907756366f14f7d2a1390b5724254d0d27dc5b1e62dca467f73a74ff9d4",
     "products.csv": "dfa53c82274858bd827f7259dc61d5fbd1f2b027356c9f91e102654cf405974b",
-    "published-content.json": "bbb621337f0bbbb18caed4a8ff380d3e82076138dde7247e63c130b63f463fb4"
+    "published-content.json": "bb3e07c2aa557c686f982c3982fe3139aa4293e3168bb4775ea71114b0c91704"
   }
 }
