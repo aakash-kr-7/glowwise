@@ -1,5 +1,5 @@
 {
-  "capturedUTC": "2026-10-09T20:51:19.554439+00:00",
+  "capturedUTC": "2026-10-09T21:16:14.507122+00:00",
   "purpose": "Actual own-site origin-independent edge redirects and repeated private/public cache observations, tokens excluded",
   "checks": [
     {
@@ -252,8 +252,8 @@
       "pass": true,
       "observation": {
         "Cache-Control": "public, max-age=86400",
-        "CF-Cache-Status": "MISS",
-        "Age": null,
+        "CF-Cache-Status": "HIT",
+        "Age": "1504",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -264,7 +264,7 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
+        "Age": "1505",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -275,18 +275,7 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
-        "Content-Encoding": "gzip",
-        "X-Robots-Tag": null
-      }
-    },
-    {
-      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
-      "pass": true,
-      "observation": {
-        "Cache-Control": "public, max-age=86400",
-        "CF-Cache-Status": "MISS",
-        "Age": null,
+        "Age": "1505",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -297,7 +286,18 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
+        "Age": "1503",
+        "Content-Encoding": "gzip",
+        "X-Robots-Tag": null
+      }
+    },
+    {
+      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+      "pass": true,
+      "observation": {
+        "Cache-Control": "public, max-age=86400",
+        "CF-Cache-Status": "HIT",
+        "Age": "1504",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -308,18 +308,7 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
-        "Content-Encoding": "gzip",
-        "X-Robots-Tag": null
-      }
-    },
-    {
-      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/haircare.svg",
-      "pass": true,
-      "observation": {
-        "Cache-Control": "public, max-age=86400",
-        "CF-Cache-Status": "MISS",
-        "Age": null,
+        "Age": "1504",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -330,7 +319,18 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
+        "Age": "1502",
+        "Content-Encoding": "gzip",
+        "X-Robots-Tag": null
+      }
+    },
+    {
+      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/haircare.svg",
+      "pass": true,
+      "observation": {
+        "Cache-Control": "public, max-age=86400",
+        "CF-Cache-Status": "HIT",
+        "Age": "1503",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -341,18 +341,7 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
-        "Content-Encoding": "gzip",
-        "X-Robots-Tag": null
-      }
-    },
-    {
-      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/bodycare.svg",
-      "pass": true,
-      "observation": {
-        "Cache-Control": "public, max-age=86400",
-        "CF-Cache-Status": "MISS",
-        "Age": null,
+        "Age": "1503",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -363,7 +352,18 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
+        "Age": "1501",
+        "Content-Encoding": "gzip",
+        "X-Robots-Tag": null
+      }
+    },
+    {
+      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/bodycare.svg",
+      "pass": true,
+      "observation": {
+        "Cache-Control": "public, max-age=86400",
+        "CF-Cache-Status": "HIT",
+        "Age": "1501",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -374,18 +374,7 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
-        "Content-Encoding": "gzip",
-        "X-Robots-Tag": null
-      }
-    },
-    {
-      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/fragrance.svg",
-      "pass": true,
-      "observation": {
-        "Cache-Control": "public, max-age=86400",
-        "CF-Cache-Status": "MISS",
-        "Age": null,
+        "Age": "1501",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -396,7 +385,18 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
+        "Age": "1500",
+        "Content-Encoding": "gzip",
+        "X-Robots-Tag": null
+      }
+    },
+    {
+      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/fragrance.svg",
+      "pass": true,
+      "observation": {
+        "Cache-Control": "public, max-age=86400",
+        "CF-Cache-Status": "HIT",
+        "Age": "1500",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -407,18 +407,7 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
-        "Content-Encoding": "gzip",
-        "X-Robots-Tag": null
-      }
-    },
-    {
-      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/beard-grooming.svg",
-      "pass": true,
-      "observation": {
-        "Cache-Control": "public, max-age=86400",
-        "CF-Cache-Status": "MISS",
-        "Age": null,
+        "Age": "1500",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -429,7 +418,18 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
+        "Age": "1498",
+        "Content-Encoding": "gzip",
+        "X-Robots-Tag": null
+      }
+    },
+    {
+      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/beard-grooming.svg",
+      "pass": true,
+      "observation": {
+        "Cache-Control": "public, max-age=86400",
+        "CF-Cache-Status": "HIT",
+        "Age": "1499",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -440,18 +440,7 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
-        "Content-Encoding": "gzip",
-        "X-Robots-Tag": null
-      }
-    },
-    {
-      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/grooming-tools.svg",
-      "pass": true,
-      "observation": {
-        "Cache-Control": "public, max-age=86400",
-        "CF-Cache-Status": "MISS",
-        "Age": null,
+        "Age": "1499",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -462,7 +451,18 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
+        "Age": "1497",
+        "Content-Encoding": "gzip",
+        "X-Robots-Tag": null
+      }
+    },
+    {
+      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/grooming-tools.svg",
+      "pass": true,
+      "observation": {
+        "Cache-Control": "public, max-age=86400",
+        "CF-Cache-Status": "HIT",
+        "Age": "1497",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -473,18 +473,7 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
-        "Content-Encoding": "gzip",
-        "X-Robots-Tag": null
-      }
-    },
-    {
-      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/finder-compass.svg",
-      "pass": true,
-      "observation": {
-        "Cache-Control": "public, max-age=86400",
-        "CF-Cache-Status": "MISS",
-        "Age": null,
+        "Age": "1497",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -495,7 +484,18 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
+        "Age": "1496",
+        "Content-Encoding": "gzip",
+        "X-Robots-Tag": null
+      }
+    },
+    {
+      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/art/finder-compass.svg",
+      "pass": true,
+      "observation": {
+        "Cache-Control": "public, max-age=86400",
+        "CF-Cache-Status": "HIT",
+        "Age": "1496",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -506,13 +506,13 @@
       "observation": {
         "Cache-Control": "public, max-age=86400",
         "CF-Cache-Status": "HIT",
-        "Age": "0",
+        "Age": "1496",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
     },
     {
-      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/dist/site.6ZHSNJU7.js",
+      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/dist/site.MEMLYMLD.js",
       "pass": true,
       "observation": {
         "Cache-Control": "public, max-age=31536000, immutable",
@@ -523,7 +523,7 @@
       }
     },
     {
-      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/dist/site.6ZHSNJU7.js",
+      "test": "Reviewed public static asset cache header https://glowwise.tech/wp-content/themes/glowwise/assets/dist/site.MEMLYMLD.js",
       "pass": true,
       "observation": {
         "Cache-Control": "public, max-age=31536000, immutable",
@@ -534,7 +534,7 @@
       }
     },
     {
-      "test": "Actual public edge HIT https://glowwise.tech/wp-content/themes/glowwise/assets/dist/site.6ZHSNJU7.js",
+      "test": "Actual public edge HIT https://glowwise.tech/wp-content/themes/glowwise/assets/dist/site.MEMLYMLD.js",
       "pass": true,
       "observation": {
         "Cache-Control": "public, max-age=31536000, immutable",
@@ -549,8 +549,8 @@
       "pass": true,
       "observation": {
         "Cache-Control": "public, max-age=31536000, immutable",
-        "CF-Cache-Status": "MISS",
-        "Age": null,
+        "CF-Cache-Status": "HIT",
+        "Age": "1495",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -561,7 +561,7 @@
       "observation": {
         "Cache-Control": "public, max-age=31536000, immutable",
         "CF-Cache-Status": "HIT",
-        "Age": "1",
+        "Age": "1495",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }
@@ -572,7 +572,7 @@
       "observation": {
         "Cache-Control": "public, max-age=31536000, immutable",
         "CF-Cache-Status": "HIT",
-        "Age": "1",
+        "Age": "1495",
         "Content-Encoding": "gzip",
         "X-Robots-Tag": null
       }

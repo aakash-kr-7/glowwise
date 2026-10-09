@@ -89,6 +89,7 @@ Run serially, preferably after reviewed deployment and before further edits:
 cd /srv/glowwise/source/deploy/stack
 sudo docker compose run --rm -T wpcli eval-file /srv/glowwise/scripts/updraft-backup.php
 sudo python3 /srv/glowwise/source/deploy/scripts/verify-updraft.py
+sudo python3 /srv/glowwise/source/deploy/scripts/verify-updraft-source.py
 sudo bash /srv/glowwise/source/deploy/scripts/backup.sh
 sudo python3 /srv/glowwise/source/deploy/scripts/verify-restore.py
 sudo python3 /srv/glowwise/source/deploy/scripts/verify-restored-runtime.py
@@ -103,7 +104,7 @@ Export the latest **sorted UTC set**, not filesystem find order, through a tempo
 
 ## Lifetime cost and eventual teardown
 
-Azure for Students spending protection stays On. INR560 budget notifications use conservative70INR/USD (actual140/280/420/560, forecast420); delayed alerts are **not a custom US$10 hard cap**. Guard checks every15m, deallocates at max(normalized reported,modeled)≥US$6,10GiB host TX or original lease **16 October 09:31:49 IST**. Unsupported currency fails closed. Daily midnight provider shutdown is disabled for the finite launch lease; no automatic start/extension. Guard/identity outage can require manual Azure deallocation. Check timer/ledger daily:
+Azure for Students spending protection stays On. INR 560 budget notifications use conservative70INR/USD (actual140/280/420/560, forecast420); delayed alerts are **not a custom US$10 hard cap**. Guard checks every15m, deallocates at max(normalized reported,modeled)≥US$6,10 GiB host TX or original lease **16 October 09:31:49 IST**. Unsupported currency fails closed. Daily midnight provider shutdown is disabled for the finite launch lease; no automatic start/extension. Guard/identity outage can require manual Azure deallocation. Check timer/ledger daily:
 
 ```bash
 sudo systemctl status glowwise-cost-guard.timer --no-pager
@@ -120,6 +121,9 @@ $az = Join-Path $PWD '.local/tooling/azure-cli/bin/az.cmd'
 & $az vm start -g glowwise-dev-rg -n glowwise-vm --output none
 ```
 
-Compose/guest stop is not deallocation. Retained disk/IP ≈US$.2104/day plus transactions (conservative .2304/day planning). Fallback running .5112/day; expected benefit .2304/day, benefits not deducted from fallback. Original7running+7retained+1.20traffic+2buffer ≈US$8.39. Refresh actuals (INR), modeled lifetime exposure and lag; unavailable cost/remaining credit is unknown, never zero.
+Compose/guest stop is not deallocation. Retained disk/IP ≈US$0.2104/day plus transactions (conservative .2304/day planning). Fallback running .5112/day; expected benefit .2304/day, benefits not deducted from fallback. Original7running+7retained+1.20traffic+2buffer ≈US$8.39. Refresh actuals (INR), modeled lifetime exposure and lag; unavailable cost/remaining credit is unknown, never zero.
 
-Resolve retention by23October against fresh costs. **No automatic teardown/deletion.** After explicit lifecycle approval: freeze writes; create/verify/export recovery; choose DNS outage handling; deallocate/confirm; inspect exact owned resources; delete approved VM/disk/IP/network only; inspect detached disks/NIC/IP/snapshots/residual meters; remove obsolete identity/role/schedule; requery lagged usage. OS disk Detach deliberately survives VM deletion and keeps billing. Keep offline backups unless separately authorized to delete.
+Resolve retention by23 October against fresh costs. **No automatic teardown/deletion.** After explicit lifecycle approval: freeze writes; create/verify/export recovery; choose DNS outage handling; deallocate/confirm; inspect exact owned resources; delete approved VM/disk/IP/network only; inspect detached disks/NIC/IP/snapshots/residual meters; remove obsolete identity/role/schedule; requery lagged usage. OS disk Detach deliberately survives VM deletion and keeps billing. Keep offline backups unless separately authorized to delete.
+
+
+Verified reproducible manual transfer: from project root run `python tooling/deploy-reviewed.py --revision <reviewed-full-HEAD-SHA> --evidence .local/deployment/deployed-revision.json` after source review/private backup. It refuses unexpected VM edits/deletions before extraction and verifies every tracked blob; build/test assets on VM if executable changes. Actual232-file deployment8222054 passed. Latest full recovery set 20261009T211303Z corresponds to that executable revision; subsequent handoff-only evidence does not change runtime software.

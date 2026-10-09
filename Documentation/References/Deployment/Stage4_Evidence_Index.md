@@ -48,3 +48,22 @@ Updated 2026-10-09T21:10:22.470726+00:00. UTC timestamps; screenshot times are c
 | [2026-10-10_PSI_Mobile_Final.png](../Implementation/2026-10-10_PSI_Mobile_Final.png) | 2026-10-09T21:05:47.702443+00:00 | Actual browser screenshot or scoped journey record; limits in Browser_Acceptance | T13/PR32; M2-02/08 |
 
 All ten distinct M1 criteria remain in REQUIREMENTS_TRACEABILITY, including separate SERP/competitor mappings to the existing combined research. Formal academic packaging/submission, public sanitized backup and marks are not claimed. Native OS motion/zoom and field INP remain limited.
+
+
+## Final runtime publication/recovery follow-up
+
+| Actual artifact | Timestamp | Purpose | Traceability |
+|---|---|---|---|
+| [2026-10-09_Stage4_Off_VM_Early.json](2026-10-09_Stage4_Off_VM_Early.json) | 2026-10-09T17:21:45.844151+00:00 | Actual restricted off-VM full recovery copy; no private payload shared | T14/16, PR31/34–36; M1-09/M2-09 |
+| [2026-10-10_Stage4_Deployed_Code.json](2026-10-10_Stage4_Deployed_Code.json) | 2026-10-09T21:12:12.237073+00:00 | Actual reviewed Git commit deployed through pinned SSH; every tracked blob matches, no credentials/runtime data transferred | T14/16, PR31/34–36; M1-09/M2-09 |
+| [2026-10-10_Stage4_Final_Units.json](2026-10-10_Stage4_Final_Units.json) | 2026-10-09T21:12:39.675158+00:00 | Actual final VM analytics-v3 whitelist, motion and currency unit outputs; no private payload | T14/16, PR31/34–36; M1-09/M2-09 |
+| [2026-10-10_Stage4_Updraft_Final.json](2026-10-10_Stage4_Updraft_Final.json) | 2026-10-09T21:12:58.990043+00:00 | Actual private full UpdraftPlus archive verification and isolated SQL restore; live DB unchanged; no raw backup content/filename/credentials | T14/16, PR31/34–36; M1-09/M2-09 |
+| [2026-10-10_Stage4_Updraft_Source_Match.json](2026-10-10_Stage4_Updraft_Source_Match.json) | 2026-10-09T21:13:01.102806+00:00 | Every actual custom theme/core source, licensed font and generated asset in the final UpdraftPlus archives matches the live deployment; archive names/content stay private | T14/16, PR31/34–36; M1-09/M2-09 |
+| [2026-10-10_Stage4_Infrastructure_Restore.txt](2026-10-10_Stage4_Infrastructure_Restore.txt) | 2026-10-09T21:13:53Z | Actual coherent file/SQL restore with liveDB unchanged | T14/16, PR31/34–36; M1-09/M2-09 |
+| [2026-10-10_Stage4_Restored_Runtime.json](2026-10-10_Stage4_Restored_Runtime.json) | 2026-10-09T21:14:07.415292+00:00 | Actual isolated restored WordPress runtime; recovered files and SQL, no production overwrite or public second site | T14/16, PR31/34–36; M1-09/M2-09 |
+| [2026-10-10_Stage4_Post_Recovery_Health.json](2026-10-10_Stage4_Post_Recovery_Health.json) | 2026-10-09T21:17:02.604776+00:00 | Actual healthy production services/public endpoints/timers after coherent backup restart; temporary restore/fixture resources absent | T14/16, PR31/34–36; M1-09/M2-09 |
+| [2026-10-10_Stage4_Temporary_Cleanup.json](2026-10-10_Stage4_Temporary_Cleanup.json) | 2026-10-09T21:16:32.739497+00:00 | Remove five historical disposable restore-test extractions only; actual root-restricted recovery archives/off-VM copies preserved | T14/16, PR31/34–36; M1-09/M2-09 |
+
+Stage4_Off_VM/Updraft generic artifacts now record the fresh21:13set; earlycopy is preserved separately. Exact runtime source8222054; final handoff-only HEAD/allblobs are recorded by latest local operator deployment output (`2026-10-10_Stage4_Deployed_Final.json`, not committed to avoid self-reference). Final reply supplies that actual final SHA.
+
+Publication review: [2026-10-10_Stage4_Publication_Review.json](2026-10-10_Stage4_Publication_Review.json),2026-10-09T21:19:45.052958+00:00, T14/16, PR35/36, M1-09. All tracked source/public evidence inspected; private originals remain ignored.

@@ -1,9 +1,9 @@
 {
-  "capturedUTC": "2026-10-09T17:21:45.844151+00:00",
+  "capturedUTC": "2026-10-09T21:14:33.895531+00:00",
   "purpose": "Actual restricted off-VM full recovery copy; no private payload shared",
-  "sourceSetUTC": "20261009T125117Z",
-  "bytes": 75247830,
-  "sha256": "f51687dab201a753c4fab10a5c7f687e87437bf38e6ee107dfc27caafc6f2b2a",
+  "sourceSetUTC": "20261009T211303Z",
+  "bytes": 108812089,
+  "sha256": "380505ee449c122703ba2c86fd1d5b85b2bccc934acb570c7d900641828249d1",
   "checks": [
     {
       "component": "caddy-config.tar.gz",

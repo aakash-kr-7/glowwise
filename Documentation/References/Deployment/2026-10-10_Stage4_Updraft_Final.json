@@ -1,5 +1,5 @@
 {
-  "capturedUTC": "2026-10-09T21:14:13.364887+00:00",
+  "capturedUTC": "2026-10-09T21:12:58.990043+00:00",
   "purpose": "Actual private full UpdraftPlus archive verification and isolated SQL restore; live DB unchanged; no raw backup content/filename/credentials",
   "checks": [
     {

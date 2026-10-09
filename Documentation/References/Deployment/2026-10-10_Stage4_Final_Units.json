@@ -1,0 +1,6 @@
+{
+  "capturedUTC": "2026-10-09T21:12:39.675158+00:00",
+  "purpose": "Actual final VM analytics-v3 whitelist, motion and currency unit outputs; no private payload",
+  "command": "sudo bash deploy/scripts/test-assets.sh",
+  "output": "PASS No request or dataLayer before explicit enable\nPASS Denied cookies do not throw or activate analytics\nPASS Contact, corrections, 404 routes and search never load SDK\nPASS Catalog query is stripped from all supplied event URLs\nPASS Repeated enable cannot double-load SDK\nPASS Withdrawal disables stream, clears accessible cookies, requests unload\nPASS Fixed tool events require consent and exclude all supplied arbitrary data\n{\"checks\":7,\"pass\":true,\"scope\":\"isolated unit rules, not browser telemetry\"}\nPASS: reduced-motion initial state, pause/resume, hidden document and live preference change; isolated unit checks, not OS browser emulation.\nPASS: six cost unit/aggregation/fail-closed cases; INR is not equated to USD.\n"
+}

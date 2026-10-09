@@ -4,7 +4,7 @@
   "report": "https://pagespeed.web.dev/analysis/https-glowwise-tech/0pdz9wpllj?form_factor=mobile",
   "reportUTC": "2026-10-09T21:01:41Z",
   "site": "https://glowwise.tech/",
-  "bundleManifestSHA256": "b31a82c972663ecbe59fd09c852686fd796cc37161bd45a7bf59c8efec8aa582",
+  "bundleManifestSHA256": "4cf72809603d25dfb4df63c1ee40708039d6873fffa580c0759380c08db45119",
   "mobile": {
     "performance": 96,
     "LCPms": 2028,
@@ -32,5 +32,6 @@
   "automatedAccessibility": 100,
   "field": "No Data",
   "INPmeasured": false,
-  "certification": false
+  "certification": false,
+  "manifestProvenance": "Actual VM sha256sum and deployed-source verification; earlier manually entered hash corrected. Final site bundle paths separately observed; metrics unchanged."
 }

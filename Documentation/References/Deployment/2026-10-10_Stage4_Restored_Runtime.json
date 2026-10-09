@@ -1,0 +1,34 @@
+{
+  "capturedUTC": "2026-10-09T21:14:07.415292+00:00",
+  "purpose": "Actual isolated restored WordPress runtime; recovered files and SQL, no production overwrite or public second site",
+  "checks": [
+    {
+      "test": "Restored native WordPress boots and renders actual custom homepage/footer",
+      "pass": true
+    },
+    {
+      "test": "Recovered custom plugin/API serves 36 published products",
+      "pass": true
+    },
+    {
+      "test": "Restored published post count",
+      "count": 7,
+      "pass": true
+    },
+    {
+      "test": "Restored published page count",
+      "count": 16,
+      "pass": true
+    },
+    {
+      "test": "Temporary HTTP has no host port binding; isolated internal network, request from inside container",
+      "pass": true
+    }
+  ],
+  "temporaryContainerDatabaseAndExtractedFilesRemoved": true,
+  "notTested": [
+    "A new Azure VM rebuild",
+    "Restored administrator browser login",
+    "Disaster DNS failover"
+  ]
+}

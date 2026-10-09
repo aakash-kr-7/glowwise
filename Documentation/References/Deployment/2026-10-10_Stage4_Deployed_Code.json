@@ -1,0 +1,1170 @@
+{
+  "capturedUTC": "2026-10-09T21:12:12.237073+00:00",
+  "purpose": "Actual reviewed Git commit deployed through pinned SSH; every tracked blob matches, no credentials/runtime data transferred",
+  "revision": "8222054f8d70042a3383012ec60a9b3b12235066",
+  "trackedFiles": 232,
+  "trackedWorkingTreeClean": true,
+  "generatedManifestSHA256": "4cf72809603d25dfb4df63c1ee40708039d6873fffa580c0759380c08db45119",
+  "checks": [
+    {
+      "path": ".env.example",
+      "sha256": "c3389f0a6010a033d9cb615a3a6d9a76cbd32fe6747015102c205213a21a8028",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "9c50309f890923a26b59dc06d7b948983beef841921559f4e3087eb1e07f73cd",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "f1c3251f832613c739daf19d62eb8654fe562091e7253418cef9244d7194ae7b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/Access_2026-10-09_Stage_1.md",
+      "sha256": "e29d5818d6318f3ece51ca76eae7e45e53384514e140e86872f978c7f562919a",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/CODEX_BUILD_AND_DEPLOY_PROMPTS.md",
+      "sha256": "445a42f47edda12a17c865a3befd1ab076fed17de221e19a5409c79d24d952af",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/COST_LEDGER.md",
+      "sha256": "ac29477bec588e955cf5e1b38bd3b2bea241ff4a31b30b0c868089c2af7416ae",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/Cost_Estimate_2026-10-09.md",
+      "sha256": "88fddf979b8d136c06c0d9b1dfa7bb818e4a034672f8dd55032a114fbb40ef28",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/INFRASTRUCTURE_PLAN.md",
+      "sha256": "19cad6387f5f1d3129a2b5f1efeb7ae73f0ba678ac3e3183f03f18f6b5fec9a8",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/LAUNCH_COST_ESTIMATE.md",
+      "sha256": "8ec33665b58f48b4453d4f5f6c8611ac007dbc3add4ac3a35d1efd3319e22c5f",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/OPERATIONS.md",
+      "sha256": "1bd763b12e4ce61e9a854f494785aab7a14b92d8390bcc6d8ae93d3369e54a91",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/PERFORMANCE.md",
+      "sha256": "d322a1ad12462556b4f12f9de827208f19d34582acbfe7c2765db755d2a733be",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/Readiness_2026-10-09.md",
+      "sha256": "1ec03cd3c532702f975386c8b3330ad64ef703f4709139b5350222bd35e849e7",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/Stage_2_2026-10-09.md",
+      "sha256": "550a7ad303a755b891b6cb7ef66bddff78e3a0ebb7b6ebdd7c82fc43be126177",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Deployment/Stage_3_2026-10-09.md",
+      "sha256": "3f47e0047045165dcc7a48580608ab1ac9ba60edf09de4030241916c070b28b2",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/ACCEPTANCE_REPORT.md",
+      "sha256": "d4a3493789da5ed938e72ae59231fce12d8536b9c1b6202338062cc7edea7dd3",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/ASSET_REGISTER.json",
+      "sha256": "5bf49ccf1386223b10d8df882b13c0b31cc4764830c7c359e488b0406df7dc9c",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/BUILD_STATE.md",
+      "sha256": "29d0fa6e072e42cf3e4ab73075612cd67178a421be0840bc61b934d7e3f51b8e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/DECISIONS.md",
+      "sha256": "f326ac6d24e4599404460eccaa77881d4099aa30cd0c367986e38f2ac2e59579",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/EXECUTION_PLAN.md",
+      "sha256": "25e71178d5fad95c93c4bbc95bb34e21e62df109edc68ac6500c533de3961f94",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/FONT_SOURCES.json",
+      "sha256": "2b5e875ca29a1e1bc42fe8d26c11909837a0f9f3d0ccc7bbd08a0f070d5a314b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/GUIDE_SOURCE_REGISTER.json",
+      "sha256": "178d0722e79f1ed43478416af3813964b6ba5c5aa877f608455ad6a689b72b04",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/IMAGE_RIGHTS_REVIEW.md",
+      "sha256": "a4618abcff3d8eb541c9b20c2341aee8f052e8a7ecdf837560bd41270ff6e6b7",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/PRODUCT_SOURCE_REGISTER.csv",
+      "sha256": "a1dab53ac6bd549b45ca4e40041262511dd42d5f6a9398cf55a0f175a541cf19",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/REQUIREMENTS_TRACEABILITY.md",
+      "sha256": "070b2a2c57ed1f4e419cb8d8dd2339203bdc3b84b8f705fc6cda8ab73bd47302",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/RESEARCH_UPDATES.md",
+      "sha256": "74981315a7750398643d2e8591378b3959f6f5a2e7b16d99f971e83a9f5417d3",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/SOURCE_INVENTORY.csv",
+      "sha256": "8f638db214f8c22c389a063058bfee889fc63477464b5078d6b00965d953f192",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/SOURCE_REVIEW.md",
+      "sha256": "33f27d4b2d81a21c48f0a0ae535bb772671f03520e6fce5756340065206d4f87",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/STAGE_3_WORK.md",
+      "sha256": "617bd2137a943e4d06560eccceffe2d258968f9414c9a395f7f65cce8a31d63b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Implementation/STAGE_4_WORK.md",
+      "sha256": "84e7c61facb8b0ee7e402abe5a814c6ba1fc66f4cfa2229314c57480508d1dcb",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Milestone 1/01_Niche_Target_Audience_and_SEO_Problem_Identification.md",
+      "sha256": "97fab8e5d019ef06a7eb2c3325472f69e0d1889ee822f6f6e269694c126877b1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Milestone 1/02_Keyword_Research_LSI_and_Search_Intent_Mapping.md",
+      "sha256": "64beed57841690b10d26655bcddb1960cfcc174f0423f73088b673f36f3de9d7",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Milestone 1/03_Competitor_Analysis_and_SERP_Breakdown.md",
+      "sha256": "ad555f654bceabb9754c666c11934b0bc3ab71ac1432c71a1aac520b0f63a9b3",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/Milestone 1/04_Keyword_to_Page_and_Content_Mapping.md",
+      "sha256": "145738143538d78547d464ce10f93c0836e772469dbe8443ed68b0e6a20429cd",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Azure_Configuration.json",
+      "sha256": "dfc55c97f6cf07e6c485f648f04d8f80dc8f81888d5c7a0c5c75b3e5fe520376",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Backup_Create.txt",
+      "sha256": "a7a5efd75fc65df1ae07a1a760598035ff3e427d7e4b2c178fb69c3846fec02b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Backup_Restore.txt",
+      "sha256": "46693862c056002add12e5926792f8d14704889be1558e3e22d221285c298b66",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Backup_Restore_Final.txt",
+      "sha256": "026f8e9ecb858ab94b8f501662db4f38fc90a01910b5b02c3ff7a8e376e937d1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Cache_Config.jpg",
+      "sha256": "659c8ad2becc203b0ab261776b29beb499fab3ae7f12d93e1cce227e216328b6",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Cache_Expression.json",
+      "sha256": "cc1825a0ad297f1abf84b3238ef875201083d3b26972fa3aa47b35bcb60e0061",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Cache_Rule.jpg",
+      "sha256": "f41ceee8e0a535061760f3772e5714ae4b2c7cfc9020837d05e30634531a0825",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_DNS.jpg",
+      "sha256": "112a126560a89c9f3067725fd61ee690c5209ff40c2babce13950522d2745f05",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Edge_TLS.jpg",
+      "sha256": "f45b07df9d164065999fef127ebba9ced39eb343dbcce8c5fbcc936990147cc9",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Full_Strict.jpg",
+      "sha256": "bcb5017ed5f673fa430ba8f3381ab97fe1f55a609e345aa68a533211a36e2d6d",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Cloudflare_Launch_Settings.json",
+      "sha256": "c339fe343b3bac8d6e6d06c677152c4c9a72a5edecdd9c1a2f3d8dbb461af10a",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Config_Validation.txt",
+      "sha256": "ad11728772c42af7ccc3b772f8d647979f3ebffd227f06bf2e3033061ae36549",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_DNS.json",
+      "sha256": "812daae71507437d84ff9a68d2393772bd4be0375c607ce442a02df79e31b232",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Deployed_Source.json",
+      "sha256": "b9626af3921085935e6493d0ca40d911d0137c5c49d71ec8525874383d429802",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Handoff_Verification.json",
+      "sha256": "13449a21765bac9285af44867342b99fb06ea32121618601a65efcb105799538",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Launch_Availability.json",
+      "sha256": "75458c4755387448d2becbc0ffd090092115bdb3bb648bf34b6842a42d1281a7",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Launch_Budget.json",
+      "sha256": "26114f4effb4271c20581a9071c458b959c02a79847f19a0c7fd00572344a889",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Launch_Cache_Redirects.json",
+      "sha256": "7a17f82f41be3d946b42ec59a9cef93227058f5469ccc6cf0eb0f631df21b276",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Launch_HTTP.json",
+      "sha256": "e96669f35ef5e47be84490861c38161d87e1f737dc2f10d570ae8a042769f1a3",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Launched_HTTP.json",
+      "sha256": "12edd85584167489451ccb6e34287f2e85fea6b453c58b3ee5ef30dc4c976fe2",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Off_VM_Recovery.json",
+      "sha256": "8c157c7181fcdc95221ecdd23ab39b5ea4f52e28a66bb9f2c338d6ae6727284b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Ports_HTTP.json",
+      "sha256": "a5a68d5a0fcfaba57c4f9fc7f6eaf535839e42867adb99f1b7da0c208d035362",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Public_HTTP.txt",
+      "sha256": "2c7061cb411dbee644367660e7f9c4fc3de36d8647121fed9ecfd12b3cefda01",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Public_Preview_Access.json",
+      "sha256": "add5e85a652e9f9365f65157aa48879ea653000a157bbb2fc0780ba730c28e3b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Public_Preview_HTTP_Tests.json",
+      "sha256": "70628406968f9054e6e47c774973b8478c35e491abe2d61411ee07a7d452efb1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_SSH_Versions_Health.txt",
+      "sha256": "4d34348a76db41651c029b68fd5e56d65ee728da04f74a3400cf3b57f8b91018",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Article_Schema.json",
+      "sha256": "a1c0661f77669f791bcfc53b06501e98df172446cabca0982a72aa8a5894c7fe",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Build_Health.txt",
+      "sha256": "74bda49d667fc97423a2c6d2f004e276ad29b7294844cd702b0aa7a5e03423e1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Core_Tests.json",
+      "sha256": "5cafc362d0236b506fcbdb5bf254e8476ee45f4e7b6e458f39279d620630fff4",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Cost.json",
+      "sha256": "fbfd155c32d5d88c59135a871db8adb01221e6d1094ec5281384c7eb64521403",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Cost_Final.json",
+      "sha256": "960da128b053f6348a18eb7dba3ee6561e750f78e0e4197e20bfbc8437065ab8",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Deployed_Source.json",
+      "sha256": "ebbc4552b75afd6235c955fa2a879189ab18b589f59bef28d4b525a617685799",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_First_Render.json",
+      "sha256": "d1f31bd672b0a6295695423fabc8abd513ecd5c1bbf31ea852ff7bb72d4490cb",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Git_Revision.json",
+      "sha256": "d4d483d2c1b6208236a7af38ec7aab20457f8a4d0928e9f8e36bc089f69cb99f",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_HTTP_Tests.json",
+      "sha256": "3b140e2b660c9add68392441a44afddb97cdf19cde798fef9f6299a0633503bf",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Import_SEO_Tests.json",
+      "sha256": "57a4052700bb03ee4ffce8cc099d4169ec2843aa0d287583ecd0e913ed75a0b8",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Off_VM_Final.json",
+      "sha256": "596aeb045e814e41af63b9240df4e12e448af3d154caebeea2a11c62d5fbcace",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Off_VM_Recovery.json",
+      "sha256": "280e9b024ff128571826343742ac182af962bf6c2ec57c7ecfbb0f05327bd323",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Palette.json",
+      "sha256": "7d7f5ef397fd839fc33fed646538c68eeb49a4b3377c4369705551088ed9df87",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Post_Recovery_Health.json",
+      "sha256": "fb5be6079561b46753baaabbd5b59897310fb8ec9c4a3057377a27dd440c995e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Preservation.json",
+      "sha256": "88e32498abfccc2f7a039b15943df15f0dea1336327aaa7c383ea4918c32bbda",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Publication_Review.json",
+      "sha256": "de8c505c897e6cd23227abcb16bb7c75ffa7cb4ef4a5125c97e937d346ba6b68",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Recovery_Final.txt",
+      "sha256": "5e5d249de61ac9a77b00bf1ebd951d9753fb09cbc30d88011fc0059b12bba176",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Runtime.json",
+      "sha256": "336ba56aa7c8b494b9da5e67305d63a297f098c2a23a57b7c2ac64febec0142b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Updraft_Final_Restore.json",
+      "sha256": "f94defbc8c36432e5b2908691b7608525606a945e94321f9294e53f0d944bd8c",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Updraft_Restore.json",
+      "sha256": "a8b97be89c814fbcf41976aa817ca6a26e98cbb3bc593ee5c2d11f27e64593d1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage3_Updraft_Source_Match.json",
+      "sha256": "44729658e9b209f15ea0473725ce35e1e69d61dcd5fcf64ce35234b4ab8e8d84",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage4_Cost_Readback.json",
+      "sha256": "db01ef08c676e1bdb3c71cdf39f9f364d2387db27a6eeae13bcf01acc6d3db32",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage4_DNS_TLS.json",
+      "sha256": "19acdf94a5c8b0a8441be51405b9c6b1eb313ff670b4aa24d8966d95a8907388",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage4_Infrastructure_Restore.txt",
+      "sha256": "ad034d8ff089f9486d5e511eb2029a202105a6675f010f33e22fcf0624bf457b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage4_Off_VM.json",
+      "sha256": "fc742e6bbc9a09ce1739571f3f02f7b93298bce8767f9c17cfbe008abafb250b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage4_Off_VM_Early.json",
+      "sha256": "fc742e6bbc9a09ce1739571f3f02f7b93298bce8767f9c17cfbe008abafb250b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage4_Preservation.json",
+      "sha256": "2cffdb36950177e29b7a96775bb59914a269823f6bc7bfe9a98eaee99d6f0621",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage4_Regression.json",
+      "sha256": "a30ccbed190e44df4f476e04228930549aaceebc828a2da82ca9a43c2a921649",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage4_Restored_Runtime.json",
+      "sha256": "00af3d000fda957eaa5e9f5e2ff5465325e167cf692225069f82c4e7fb2e0624",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_Stage4_Updraft.json",
+      "sha256": "9be2c61b38664943eb11656cba67d75c9727927cbf19b2cbfe4e3368c89485c2",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_TLS_HTTP_WordPress.jsonl",
+      "sha256": "e8027cb2c3e8a7af2cb53880e6244039e9f7d65a864286181127c9535013dda6",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_VM_Minification.txt",
+      "sha256": "cc6c93756c985b7246692eead7bea5b352232e4a9f2e58491348f60d773f8c00",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/2026-10-09_WordPress_Admin.json",
+      "sha256": "5239f79ecb630c7284810d67e247cf67f29c57983b179119d900b4333f9c28ff",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/Evidence_Index.md",
+      "sha256": "6f2442ca7ded5f765f151291835e35dcaa40f7e5a3e175f93f8445e5646d3620",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Deployment/Stage4_Evidence_Index.md",
+      "sha256": "31a649270699ea5fec483d79c6dd29070bc6877c83bfb15ad897c4b2e99cb618",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Browser_Acceptance.md",
+      "sha256": "d30b4ca669d09cccecfb7bb10d06c3aa7f2be386b104c71fb62844302b5492a3",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Browser_Inbox.json",
+      "sha256": "b8fd548a77eae2fdbe5dcd85c371a07f2a5093a6959a2654b29d07ddc92ca6b9",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Desktop_Baseline.png",
+      "sha256": "a094bf7455c829ca183fa19e38d455411334971569dae9271168d00984158260",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Footer_Browser.json",
+      "sha256": "89b0650285cd778f3a86a676b64c057c45390b3829f9ea42a0973bede200aba9",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_GTmetrix.png",
+      "sha256": "d936657e2aaa8c3b52323d55f12f965593235e7c8c4895368902fabd0d556697",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Google_Sitemap.json",
+      "sha256": "14c2c17d8ff58e2ce85d504a6d253c50210fdc2a17dd0b7ca6c0019198947476",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Guide_Reflow.png",
+      "sha256": "cef2d18197218ef96cd675360e6590a89ee1cdc2ebc8944355e31bcbfb8f36fd",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Mobile_Compare.png",
+      "sha256": "c79920b7dd95471ad6b9768045ebd8bafdabdeeb8289eb9b9fa10a30d916c596",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Mobile_Network_Recovery.png",
+      "sha256": "fd085f59ddb307528e52c4d93e1858b1e3754a438bd5a8f91c88ca0a0d45394a",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Mobile_Preview.png",
+      "sha256": "59f567153ebf0096e53c35abee3fd1ce6c5d9835fd78a3675847e44531662c12",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Official_PSI_Access.json",
+      "sha256": "db377074165052b04956d2e3b510e0da527e26ee99c3f5e2ca0c7c1ba65e8f4f",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_PSI_Desktop_Launched.png",
+      "sha256": "69c98f21fef844d84b935300c225f7b15eeda4454238b5bb5e91da8d5f3a281d",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_PSI_Desktop_Prelaunch.png",
+      "sha256": "c00411377529fa0438e8f3335d3520e3d30de77283d731d8c406181fe145237a",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_PSI_Mobile_Launched.png",
+      "sha256": "bcd966b7e42be7de214b8199f9999f217d7666062a8fe6054bd5e8a1f4b232dd",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_PSI_Mobile_Prelaunch.png",
+      "sha256": "2ac0367522e00cedc3736054fa41e15f503caed92719199ad610a1f6c250e6c3",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Performance_After.json",
+      "sha256": "264a9b57f90f84ad9e41bb73117ebc0662ec652435a06f2a209efe1c2b50d909",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Performance_Baseline.json",
+      "sha256": "e937fccaf9247734bcf2ab0b9c58bd9ebc0bc6c77d6101eb000084b4e5a28016",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Performance_Browser.json",
+      "sha256": "643539c8f3b5d938ec42d41bf317d5a88d54c39e2125846ad45ec25993f4d142",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Rich_Results_Launched.png",
+      "sha256": "3da23726cd99656d23164d2f3759d1750005ab3b1372a0afd354652c138e1376",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Schema_Product.png",
+      "sha256": "3071c0466c5327df569cbc20967071cf61baa958d6ca5e48d47d8576edf42fe6",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-09_Schema_Validators.json",
+      "sha256": "c1cc0c887e2f13a2ec807977dbee724cb820eb106d5a8b15ccb52ddab4a40a2d",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-10_GA4_Consent_Events.json",
+      "sha256": "7eafd9f957ed9c847eac7030fef3f9b1c86c2ab1938fe522b6b577b6340f4547",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-10_GSC_Sitemap_Readback.json",
+      "sha256": "6e7551ee952d75ddcdbeeade971695e03c2307e3b19fb0e9a29de6f5cbda31b1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-10_Home_Desktop_Live.png",
+      "sha256": "3c00ac5ac1ad84068c8b99e6ab4c552b264cc0743cd263e7fc16fc1728433a56",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-10_Home_Mobile_Live.png",
+      "sha256": "1f9fe623c7a7277d4ad6a84af21c485a266aaab8fe31c56dd6c07e06df193269",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-10_PSI_Desktop_Final.png",
+      "sha256": "71f31660f7d62a23d84bd5e4cf6fdf389a35d4cb1f430f0de4ec66f8df249869",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-10_PSI_Mobile_Final.png",
+      "sha256": "084d30fe56b600e8560f90a907ebdfad59b622d258033a72e1ec0da685c5103c",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "Documentation/References/Implementation/2026-10-10_Performance_Final.json",
+      "sha256": "a42ca048ac330765a5068309d19c3dfdb2e66fca27fa0f93bbc9bd2c921f1532",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "GLOWWISE_SOURCE_OF_TRUTH.md",
+      "sha256": "1d78e7cce5a953207ea82417d4c43c836eaa2b61d228a402cdaa19a614a44672",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "387c0d2bba1819a55d3ae3612c25fcea7ddb656bdd3b4572edbda1f4fec78505",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "README.md",
+      "sha256": "d636aee19542c91450d6bd601aa16e03347ae30fb8dd78e5754e15c6e7e62a09",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "assets/Glowwise_logo.png",
+      "sha256": "5fb4d17d96ac27fd90a357539ac7b6381c40c130f0ddda8d75f480a432f52d49",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "assets/Glowwise_logo_bg_removed.png",
+      "sha256": "92469a420274f56ff338df7114e83e334f0414741f73252808a21313c47f0e75",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "assets/Glowwise_logo_bg_removed.svg",
+      "sha256": "e0d04d395fab12934deccf9844299a79cf620e0de734e0aa83dc77d35246d61e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "assets/glowwise_display.png",
+      "sha256": "9bcdd111ca739bf177d043de85b2734fff74a2dc62107f6ae2156a7bd0380272",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "assets/glowwise_display_bg_removed.png",
+      "sha256": "26d5f44e0b22da58707e885253182854cc13cd353ab91121804dbcb6cf8a7dd4",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "assets/glowwise_display_bg_removed.svg",
+      "sha256": "e82fb36c5e32492bbda534a7f76a409397dc69803fec85d4595d30f5eab50bf7",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/guides.json",
+      "sha256": "f55f144a303a0ee08270b5aae39e57b571d5b16bfc506748892ff91a7f94384a",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/guides/beard-oil-benefits.html",
+      "sha256": "58e885f2c69783749022d5b82b633cc28cbe1692506a1c76ecd86a7d65eb76ca",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/guides/body-lotion-for-dry-skin.html",
+      "sha256": "23d7315e43f1a4d8f5a27ae963271cc19721f5add10d7982b569a3228e4f8edc",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/guides/face-wash-for-sensitive-skin.html",
+      "sha256": "7cab16b4e82cdf5894fabb180cdf1556b42cd4297520e3111b55a4181e8f278c",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/guides/perfumes-under-1000.html",
+      "sha256": "ebdc06a383696f92fa11fc25d31e144c72fc2d1034b717408ad850fac2172790",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/guides/shampoo-for-dry-frizzy-hair.html",
+      "sha256": "83494504c3fd5d185506a55a2e700ac3f0c564e1659ba51c681329a1b14dc14e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/guides/sunscreen-for-oily-skin.html",
+      "sha256": "1bfdc51967a67d8c28a43667121950aae016f7a5d4abf66c798fbe6b95e3335f",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/guides/trimmers-under-1500.html",
+      "sha256": "44294cd63aee8cd14988c80fddf4d1df3d40b3c0cbb08876abbaa35024cb23ba",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/keyword-ownership.csv",
+      "sha256": "cd242f0ef479a7aea645e33795987dcf5bd2add3831ecff5945dd356ac379748",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/pages.json",
+      "sha256": "da2ed144cc6587ca3580cfa139b5f7126a78424b1355a876721bb6de8ff27d66",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/products.json",
+      "sha256": "67d2f750db0e480dc9f3efeed7606eb028314b8c07d5670745101498906e6a94",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/public-config.json",
+      "sha256": "cc84f7aa5c75faab5f9e49c88acd87a2032a16525e5280bc6ae4b7602babd62e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "content/seed.json",
+      "sha256": "a136af8552a3bdaff097a2c6bff8e0d67a93ba590efda1a1b5bc4318e375088a",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/azure/foundation.json",
+      "sha256": "96aa0e8d38f4629338942233cb270229e6503e3871eb47e468f727ef05cf4201",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/host/docker-packages.lock",
+      "sha256": "6e8e7646f21c6cd7a2c18df96a2f5737f9c243a6c00f9c82544dab6ef3946757",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/backup.sh",
+      "sha256": "5da66f97884909a46bc9b927fad05b518eb364a5a9df755e05e65e4a5aa0001f",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/bootstrap-host.sh",
+      "sha256": "28af80ec8fef3a55bb55c7d26f2caa53dc283942bbc9dbf06b12d576f5491743",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/build-assets.sh",
+      "sha256": "c37b196d9194732ca9a7cf37059e392c9e3c91bdd8c9c5b4117955fe6caeff72",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/collect-evidence.sh",
+      "sha256": "c3f7f5d055257ac9fe685fa3fe459800a6371a6e1a3b4c63e69282611974e914",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/configure-cache-backup.php",
+      "sha256": "609dbccb45452bcd49422e3c4618e6a9e510d63429fd8c47d26f7b5f0e0044cb",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/configure-public.php",
+      "sha256": "4cbe707449e0d3d10e91b279aa2bb26366b18b4bb2dcbefe96ca778560819505",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/configure-wordpress.php",
+      "sha256": "722843be8dec50a215226417b155b68323e241c01571f00905f73821774fb112",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/cost-guard.py",
+      "sha256": "ab357f69d2f0fc9588d72ce6d87005d711f51fbc5aae3f2e70c400db1b97e04e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-cost-guard.service",
+      "sha256": "599511d2321b8c9634b86bb44d5d9e0ab74d381e8271de617399b9057ab83e59",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-cost-guard.timer",
+      "sha256": "58422dc3993ed49d241e64f8124eb80c698cd92a3e200e68d5c200f90214e1dc",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-metadata-firewall.service",
+      "sha256": "aaa78d2902bca981828f5e3cd2a57dd246510c08caf35a1a72b9266d8d86918e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-wordpress-cron.service",
+      "sha256": "4c3c761139e44c3ade4e78ce714ffe05240cbb2735ff308d4e605248ea4d11f5",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-wordpress-cron.timer",
+      "sha256": "59fbb1bb327da1a7bb39f2d72e79376ce9ad139f7f1e99c2171a9aa4a7c1b1ed",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/initialize-secrets.py",
+      "sha256": "0962caf21619d2304451aadfab5ae0adeb37cf939f575b09264e51e0de143e04",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/install-wordpress.py",
+      "sha256": "606cbd85f597e57fdfb553ad48e252001f97d2e614dff4bc7c8f14c2048c0cf1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/protect-metadata.sh",
+      "sha256": "cfcd566f7284934447f9c26e3515f47254b60b12ca7646896cb5d0420ccefc23",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/test-assets.sh",
+      "sha256": "98f23c49cb23a4eae25e00ee2361ad1383e7bb8d78d6cc16dc82418e08574670",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/updraft-backup.php",
+      "sha256": "4bf03829a2f6b20637d07c003df20f6e29b2cbc3d52630143249bbac6e484aa1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/verify-restore.py",
+      "sha256": "3454ed0526815b6145ea6281c34b73459cdb7d7b1c6d732eea028fc27ceb5866",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/verify-restored-runtime.py",
+      "sha256": "aa0068c72a3e54d74ff85a75dbd74fda14212ccf6aab39ea2a7a7902e96de3b2",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/verify-updraft-source.py",
+      "sha256": "6780ddf81dd369c9bbf840611045fb6de57fbf539c27da2caef3e2cc3e6c162e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/scripts/verify-updraft.py",
+      "sha256": "f023d97d86aa8eea3471a4fbdee94593736fddfe06893758489678f45ff25009",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/stack/Caddyfile",
+      "sha256": "8b7719cbf74e2772f681eed1b980792d16ca0c330c6120a01f83dfe5eea27b86",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/stack/apache-limits.conf",
+      "sha256": "06c051e7123d3e1df2e9b4ef94609304e49f0ba3cc70de710412dafa11272d2e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/stack/compose.yaml",
+      "sha256": "f44075aef39c8159cda96b77b122c25507edcafc03cdcedb3158b663706535f2",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/stack/images.lock.json",
+      "sha256": "e73e52c0c6ffc783ef113ed85c8dd12dae8a899db54fc7ba389cc0c98cf67c03",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/stack/php.ini",
+      "sha256": "7e5cd2cce38a44be3871112dfa4d388a6339c4041d833125c9b252e13bc05be0",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "deploy/stack/plugins.lock.json",
+      "sha256": "89dcc0a211ac490a247b8688c42d17f78c5a9f129adad096f7942c6ec73908e1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "bd1ac8aa105acf23debd100b01ed2068b910218fad3f56bce402c29a9a804137",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "package.json",
+      "sha256": "2eedc32305f2c9382a4872813965ad3c1886df72a6303aecfb70c61dee477748",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "plugins/glowwise-core/README.md",
+      "sha256": "d9b03c4e11609766f26544b2448844be478bda3b9d138caff8811592cb457c9e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "plugins/glowwise-core/glowwise-core.php",
+      "sha256": "3b918f10d3f197ef3fb120dfcc72d82486306f61389ac3cb98433e8e1754dcea",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/catalog.php",
+      "sha256": "df6629fa69242cdd0f3ed882c763aa7da55e33142cc455a75854ca68ff6fbf4e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/contact.php",
+      "sha256": "09422963368704f8ae8bbc173c200def07711693e9ec6774e901cb0ee1c4b014",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/import.php",
+      "sha256": "a97ae3939ac96aedf6d0a58055750b0b82944f8c4006c0fda2d3c7ece1263ddd",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/model.php",
+      "sha256": "d79a1ad1e72e6f0c3fb3996bd5ee301e5418f188f5026706d980c420bfe6761f",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/seo.php",
+      "sha256": "bf546ca0e09ad38a1b5c72c97a2a5862ca242f68526081ebbcd06b9852dd90a7",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/analytics-unit.mjs",
+      "sha256": "da901103135a080eb27e008b45b14974f4483fd7d4442856bd7185bf7756c464",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/browser-inbox-receipts.php",
+      "sha256": "9da40fd1768c19c2e593b8fa70725057044ea7e867e3b263315e94f8b60e0174",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/browser-storage-fixture.php",
+      "sha256": "c1afa1edb8619a567cc22b73b766b7bb90d8b46b2c1c63aa7914636cf3fbc1ee",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/cache-redirects.py",
+      "sha256": "9e499a54d7e1efc8d0b7f071c1b0c9dcff350bcde69ca17dfb2f47002ea0c278",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/core-integration.php",
+      "sha256": "dc8aa5a7dbd8b05c3cc1d973a901998dbcabc8ee48dc2050e81098c8af145495",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/cost-units.py",
+      "sha256": "827099acb1c3fb948cd9e27c6d75a0907c5f3099afa3727a56eab51d248eda31",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/http-acceptance.py",
+      "sha256": "ab36d62872464deb7014efdfbbd859f9ab7bcd3f51e6b031aec22bc811b214c3",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/import-seo-integration.php",
+      "sha256": "1f311e4146b342f9409d3f76168219fa3c618bc282c5ddef30cbe6a60c85514a",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/launch-http.py",
+      "sha256": "4e3f0f0d34359a908fc746fb10011fd2b9f1cad1aad78940899ebe6a3093d772",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tests/motion-unit.mjs",
+      "sha256": "4a98b6b1c5f873fae3b03bcea0acebbd805396cbbd7a775921e8f93b7051d9ed",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/404.php",
+      "sha256": "53e9cb90fbe712f60dc1e4f249328ffd4faf840bb10ec1dd34eb85177c98bf41",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/README.md",
+      "sha256": "f4bc318c794758c1e53da533ce8a733c663d280a07ee52b586ce5b5912ac4dc9",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/archive-gw_product.php",
+      "sha256": "bbae784000d4bca02ba938fce598ded3512842100b30c500ad86e69d321009c8",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/beard-grooming.svg",
+      "sha256": "0a322814f9d55b1360f6b370f03c158cc4c9edf5a93a9a0cdde89b613cf66d71",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/bodycare.svg",
+      "sha256": "b7feaecc791acc032409ebe08b66b096d7a91ffe91784443ebc2c9349be06c5d",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/compass-world.svg",
+      "sha256": "616eed42480a6663c403c3efa4a9023d36643202dde9d4739a1c2cde92dcc185",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/finder-compass.svg",
+      "sha256": "93e108f55177234a178f06310efc77c34a1e94eccb03fc55b3eae4deac3c5ec2",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/fragrance.svg",
+      "sha256": "97e81a556da2328a97501999419eec5fee90f99ce024802afb71acd1a07be8fc",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/grooming-tools.svg",
+      "sha256": "cba79154332a1864a91a0d2bdb61ceecfa4c62ed5464d9d36ad4fff2093540f2",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/haircare.svg",
+      "sha256": "d7e7f2a1c35ba836dd458df5857040dc77b73d391046cfccfc73dd65feaad0b0",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/skincare.svg",
+      "sha256": "76bd0ac8335d05a15685a8885fa1f99af3c68ba1805499b1b1b441eb2025b534",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/brand/glowwise-social.png",
+      "sha256": "5fb4d17d96ac27fd90a357539ac7b6381c40c130f0ddda8d75f480a432f52d49",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/brand/glowwise-wordmark.svg",
+      "sha256": "13733c8369c7b2f34810c6067e21c17e4c9a694d2003b449287d45f806ebe334",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/dm-serif-display-latin.OFL.txt",
+      "sha256": "aa49c876a28d8c0b0a3027d6c25b9c607eee8c0fb96165011d42a6ace1408fe1",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/dm-serif-display-latin.woff2",
+      "sha256": "fdf61e20fd2c0108e0ea28da4daca0035205b4b7fc031a3974b865b704de160a",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/manrope-latin.OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/manrope-latin.woff2",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/analytics.js",
+      "sha256": "9edacbd5cc676d157a9c63273beaa1da7630d93d8f9f08f583fe955288facece",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/motion.js",
+      "sha256": "49d7202a3aa3e70ecae331eb7a031283fcaf3ab3e4ef8c0fd6be6c5148c8a0e0",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/site.css",
+      "sha256": "177a56a0c78bd693eade90f5d68118875f1d406f135676d96cf9d866b87cf920",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/site.js",
+      "sha256": "d3e0680fda413a25bf0258b1611d6dac164d9e13dac1c0c217d566034e7e8984",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/footer.php",
+      "sha256": "568143bd0a5bd4e91de95fff3fc0d70a9ed2af7154d23bc0c400b887f1ef1d04",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/front-page.php",
+      "sha256": "f9a3271493574980b3b7d3adb3887c046e37a72143e946fa51ea6af556941e83",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/functions.php",
+      "sha256": "84277b0d7ac2d624d3cac64f5ef5fc3c5d472fb8168607865f99889da900f5b7",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/header.php",
+      "sha256": "e415a7b2a42b353177a5416b4b5e38aff2cb54fdc9519ea3b8a7c4430820f65e",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/home.php",
+      "sha256": "89e141c6bb01a767bd0888e6c552226c193e9480ce0508004f96be16c9988ceb",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/index.php",
+      "sha256": "5129e110c5087b5b9d5d3937f0627f6872a15afdeb34c697790950244c9127cc",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/page.php",
+      "sha256": "35e4124533d6638c5af176e37245c30fd79944597ccf2fab171e3158c1b46d6b",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/parts/contact-form.php",
+      "sha256": "7212abfc27d4cc14e5d37ea94713b7e587349218319d47514b73dcae0323d1fd",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/single-gw_product.php",
+      "sha256": "e4d620d6f235e34c8d84ac400b4fe1b873f9e2b9bdb6b1d9233b709ad3cfb5af",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/single.php",
+      "sha256": "427935b6007932bef035612d6721e499a67d0c2010498cc3838c9e57fee0e4fd",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/style.css",
+      "sha256": "4ab57016c4cabf52bf6ac3da9ea9bf5a0efc0610dff7e50568251c0c78a4d091",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "theme/glowwise/taxonomy-gw_category.php",
+      "sha256": "4d0ace29e81603bf5730209b89bd4ad0df69f4a006b3da56821785250dc67574",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tooling/build-assets.mjs",
+      "sha256": "075808b32626b52d39fdbd36ee6ac1c1b22e6358ef375abfa6cb63499cf2fb38",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tooling/build-guide-manifest.py",
+      "sha256": "b3917317f81fb933aa969acb7faa5576f982d42be3b1029268282e085fa7f9e3",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tooling/compile-content.py",
+      "sha256": "3c42886548ed45aa19a1b75faf6ef298e12b2237011f1a0dc7d7ff40cd469282",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tooling/deploy-reviewed.py",
+      "sha256": "ccd73fa8480b6bab5f3041acf96732733e354f70f9ff5d3e2148863a99dcfb20",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tooling/generate-art.py",
+      "sha256": "7dac41baf0fa07ad70215979410f329fea7f337f4b1075d5ce102714c6ad17f6",
+      "matchesReviewedArchive": true
+    },
+    {
+      "path": "tooling/update-consent-policy.py",
+      "sha256": "8bf2fbd48507628f3330f216f3d19820dc625e3407bb0c01dd9ff3bd758edf3b",
+      "matchesReviewedArchive": true
+    }
+  ]
+}

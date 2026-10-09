@@ -1,0 +1,31 @@
+{
+  "capturedUTC": "2026-10-09T21:16:32.739497+00:00",
+  "purpose": "Remove five historical disposable restore-test extractions only; actual root-restricted recovery archives/off-VM copies preserved",
+  "checks": [
+    {
+      "temporaryExtraction": "20261009T041358Z",
+      "removed": true,
+      "originalRecoverySetPreserved": true
+    },
+    {
+      "temporaryExtraction": "20261009T041523Z",
+      "removed": true,
+      "originalRecoverySetPreserved": true
+    },
+    {
+      "temporaryExtraction": "20261009T134856Z",
+      "removed": true,
+      "originalRecoverySetPreserved": true
+    },
+    {
+      "temporaryExtraction": "20261009T105546Z",
+      "removed": true,
+      "originalRecoverySetPreserved": true
+    },
+    {
+      "temporaryExtraction": "20261009T125117Z",
+      "removed": true,
+      "originalRecoverySetPreserved": true
+    }
+  ]
+}

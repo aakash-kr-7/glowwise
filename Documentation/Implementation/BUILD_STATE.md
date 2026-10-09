@@ -25,3 +25,16 @@ Actual before/after provider and official PSI/GTmetrix lab evidence exists; PERF
 No known core-journey/security blocker remains from this acceptance pass. Final source publication/recovery linkage is tracked explicitly in ACCEPTANCE_REPORT. Native OS motion/zoom and full screen-reader/device matrix remain limitations. New GSC/GA4 properties have no meaningful organic history or field INP. Optional Article image warning is honest; licensed product photography is unavailable, so original labelled non-packaging artwork is used. All 14 supplied originals remain hash-identical.
 
 Later coursework work: 18–24-guide expansion, instructor-designated backlink domain/access, real observation periods, ten-criterion formal packaging, separately sanitized restore-tested public backup sharing, viva and actual human submission. No marks/indexing/indefinite hosting guarantee. Next operational action is daily lifetime-cost review and an explicit lifecycle decision before the existing lease expires.
+
+
+## Final publication and recovery — 10 October 2026 IST
+
+Runtime/portable source revision **8222054f8d70042a3383012ec60a9b3b12235066** is actually pushed normally to the supplied repository. All **232 tracked blobs** and VM HEAD matched; generated manifest SHA256 **4cf72809603d25dfb4df63c1ee40708039d6873fffa580c0759380c08db45119**. Final handoff additions change documentation/evidence only; the latest operator deploy verification records their exact HEAD and all tracked blobs separately, avoiding a self-referential commit hash.
+
+Fresh full Updraft completed and verified21:12:58UTC. **63** actual custom theme/core/font/generated files match the live backup byte-for-byte. Coherent infrastructure set **20261009T211303Z** passed five checksum entries, selected WordPress configuration/version hashes and four SQL table counts; indexing matches production. Recovered WordPress boots, renders custom homepage/footer, serves36 products and restores7 guides/16 pages with no host port. Disposable runtime/database/extraction removed. New-VM rebuild, restored administrator browser login and DNS failover were not tested.
+
+Restricted off-VM copy `.local/deployment/recovery-stage4-2026-10-09.tar.gz`: **108,812,089 bytes**, SHA256 **380505ee449c122703ba2c86fd1d5b85b2bccc934acb570c7d900641828249d1**, all five inner checksums pass. ACL readback limits access to owner/System; encryption at rest not verified. The earlier unsorted export selected historical12:51set; preserved as recovery-stage4-early-2026-10-09.tar.gz and Stage4_Off_VM_Early.json, not presented as current. Original recovery archives are preserved; five old temporary test extractions removed after confirming original sets remain.
+
+Post-recovery actual WordPress/MariaDB/Caddy all healthy, current plugins/production indexing, cost/retention timers active, no temporary browser fixture/runtime, eight public endpoints200; the56 cache/redirect assertions pass again. No production database was overwritten, raw private backup published or new Azure resource created. Latest cost readback is in Stage4_Cost_Readback; spending protectionOn and original finite lease remain.
+
+Final cost checkpoint21:17UTC: modeledUS$0.3677, laggedactualINR10.56099557 (~US$0.15087 conservative normalization), spendingprotectionOn, same7resources, guardcontinue. No new allowance or indefinitehosting.

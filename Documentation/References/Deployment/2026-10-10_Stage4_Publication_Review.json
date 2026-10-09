@@ -1,0 +1,13 @@
+{
+  "capturedUTC": "2026-10-09T21:19:45.052958+00:00",
+  "purpose": "Actual final tracked publication review and private recovery ACL observation; no raw secret/contact/account/backup content",
+  "trackedFilesReviewed": 240,
+  "secretOrPrivateIdentifierAlerts": [],
+  "rawBackupsKeysCredentialsRuntimeAndCopyrightArchivesExcluded": true,
+  "sourceDocumentsPreserved": 14,
+  "restrictedOffVMAccess": "Owner and SYSTEM only, inherited child ACLs; actual icacls readback",
+  "encryptedOffVMVerified": false,
+  "correctNormalGitOwnerUsed": true,
+  "noRemoteOverwriteOrForcePush": true,
+  "runtimeCodeRevision": "8222054f8d70042a3383012ec60a9b3b12235066"
+}

@@ -1,5 +1,5 @@
 {
-  "capturedUTC": "2026-10-09T21:02:04.807227+00:00",
+  "capturedUTC": "2026-10-09T21:17:31.586799+00:00",
   "purpose": "Fresh actual subscription/resource/availability and lifetime-cost guard readback; private identifiers excluded",
   "subscriptionType": "Azure for Students",
   "state": "Enabled",
@@ -52,11 +52,13 @@
     "timeZoneId": "UTC"
   },
   "costGuard": {
-    "checked": "2026-10-09T21:02:04.060820+00:00",
-    "modeledUSD": 0.3622,
-    "reportedUSD": null,
-    "reportedAmounts": null,
-    "totalTx": 423694945,
+    "checked": "2026-10-09T21:17:27.357436+00:00",
+    "modeledUSD": 0.3677,
+    "reportedUSD": 0.15087136528253,
+    "reportedAmounts": {
+      "INR": 10.5609955697771
+    },
+    "totalTx": 535919823,
     "decision": "continue"
   }
 }
