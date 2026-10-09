@@ -1,0 +1,42 @@
+{
+  "capturedUTC": "2026-10-09T11:04:15.801019+00:00",
+  "purpose": "Own-origin external TCP tests and HTTP canonical redirect, no login secrets used. Timeout means no connection observed, not an exhaustive scanner.",
+  "ports": [
+    {
+      "TCPport": 22,
+      "connectedFromAuthorizedOperator": true
+    },
+    {
+      "TCPport": 80,
+      "connectedFromAuthorizedOperator": true
+    },
+    {
+      "TCPport": 443,
+      "connectedFromAuthorizedOperator": true
+    },
+    {
+      "TCPport": 3306,
+      "connectedFromAuthorizedOperator": false
+    },
+    {
+      "TCPport": 8080,
+      "connectedFromAuthorizedOperator": false
+    },
+    {
+      "TCPport": 2019,
+      "connectedFromAuthorizedOperator": false
+    }
+  ],
+  "HTTPredirects": [
+    {
+      "host": "glowwise.tech",
+      "status": 301,
+      "location": "https://glowwise.tech/foundation-check?x=1"
+    },
+    {
+      "host": "www.glowwise.tech",
+      "status": 301,
+      "location": "https://glowwise.tech/foundation-check?x=1"
+    }
+  ]
+}

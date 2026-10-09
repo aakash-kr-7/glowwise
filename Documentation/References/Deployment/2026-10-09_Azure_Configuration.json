@@ -1,0 +1,171 @@
+{
+  "capturedUTC": "2026-10-09T11:04:15.801019+00:00",
+  "purpose": "Actual deployed resource/security/cost-control readback; account, tenant, operator IP and IDs excluded.",
+  "subscription": {
+    "type": "Azure for Students",
+    "state": "Enabled",
+    "spendingLimit": "On"
+  },
+  "region": "koreacentral",
+  "resourceGroup": "glowwise-dev-rg",
+  "vm": "glowwise-vm",
+  "size": "Standard_B2ats_v2",
+  "image": {
+    "exactVersion": "24.04.202609040",
+    "offer": "ubuntu-24_04-lts",
+    "publisher": "Canonical",
+    "sku": "server",
+    "version": "24.04.202609040"
+  },
+  "osDisk": {
+    "name": "glowwise-os",
+    "diskSizeGiB": 32,
+    "deleteOption": "Detach"
+  },
+  "diskSKU": "StandardSSD_LRS",
+  "securityProfile": {
+    "securityType": "TrustedLaunch",
+    "uefiSettings": {
+      "secureBootEnabled": true,
+      "vTpmEnabled": true
+    }
+  },
+  "identity": {
+    "type": "SystemAssigned",
+    "access": "Cost Management Reader; self-deallocation role limited to this VM. Containers blocked from IMDS."
+  },
+  "powerState": "VM running",
+  "sshPasswordDisabled": true,
+  "originIPv4": "20.249.61.80",
+  "publicIPSKU": {
+    "name": "Standard",
+    "tier": "Regional"
+  },
+  "publicIPAllocation": "Static",
+  "tags": {
+    "environment": "development",
+    "lifetimeLimitUSD": "10",
+    "managedBy": "Codex",
+    "project": "Glowwise",
+    "publisher": "Imagine-Utopia"
+  },
+  "NSG": [
+    {
+      "name": "SSH-Operator",
+      "priority": 100,
+      "direction": "Inbound",
+      "access": "Allow",
+      "protocol": "Tcp",
+      "destinationPortRange": "22",
+      "sourceAddressPrefix": "[current operator IPv4]/32"
+    },
+    {
+      "name": "HTTP-ACME",
+      "priority": 110,
+      "direction": "Inbound",
+      "access": "Allow",
+      "protocol": "Tcp",
+      "destinationPortRange": "80",
+      "sourceAddressPrefix": "Internet"
+    },
+    {
+      "name": "HTTPS",
+      "priority": 120,
+      "direction": "Inbound",
+      "access": "Allow",
+      "protocol": "Tcp",
+      "destinationPortRange": "443",
+      "sourceAddressPrefix": "Internet"
+    }
+  ],
+  "budget": {
+    "name": "glowwise-total-guard",
+    "amountUSD": 8.0,
+    "period": "Annually",
+    "notifications": {
+      "actual100": {
+        "enabled": true,
+        "operator": "GreaterThanOrEqualTo",
+        "threshold": 100.0,
+        "thresholdType": "Actual"
+      },
+      "actual25": {
+        "enabled": true,
+        "operator": "GreaterThanOrEqualTo",
+        "threshold": 25.0,
+        "thresholdType": "Actual"
+      },
+      "actual50": {
+        "enabled": true,
+        "operator": "GreaterThanOrEqualTo",
+        "threshold": 50.0,
+        "thresholdType": "Actual"
+      },
+      "actual75": {
+        "enabled": true,
+        "operator": "GreaterThanOrEqualTo",
+        "threshold": 75.0,
+        "thresholdType": "Actual"
+      },
+      "forecast75": {
+        "enabled": true,
+        "operator": "GreaterThanOrEqualTo",
+        "threshold": 75.0,
+        "thresholdType": "Forecasted"
+      }
+    }
+  },
+  "controls": {
+    "dailyDeallocateUTC": "18:30",
+    "dailyDeallocateIST": "00:00",
+    "providerSchedule": {
+      "status": "Enabled",
+      "dailyRecurrence": {
+        "time": "1830"
+      },
+      "timeZoneId": "UTC"
+    },
+    "timerMinutes": 15,
+    "shutdownExposureUSD": 6,
+    "leaseExpires": "2026-10-16T04:01:49.323187+00:00",
+    "trafficGuardGiB": 10,
+    "automaticDelete": false
+  },
+  "resources": [
+    {
+      "name": "glowwise-vnet",
+      "type": "Microsoft.Network/virtualNetworks",
+      "location": "koreacentral"
+    },
+    {
+      "name": "glowwise-nsg",
+      "type": "Microsoft.Network/networkSecurityGroups",
+      "location": "koreacentral"
+    },
+    {
+      "name": "glowwise-ip",
+      "type": "Microsoft.Network/publicIPAddresses",
+      "location": "koreacentral"
+    },
+    {
+      "name": "glowwise-nic",
+      "type": "Microsoft.Network/networkInterfaces",
+      "location": "koreacentral"
+    },
+    {
+      "name": "glowwise-vm",
+      "type": "Microsoft.Compute/virtualMachines",
+      "location": "koreacentral"
+    },
+    {
+      "name": "glowwise-os",
+      "type": "Microsoft.Compute/disks",
+      "location": "koreacentral"
+    },
+    {
+      "name": "shutdown-computevm-glowwise-vm",
+      "type": "Microsoft.DevTestLab/schedules",
+      "location": "koreacentral"
+    }
+  ]
+}

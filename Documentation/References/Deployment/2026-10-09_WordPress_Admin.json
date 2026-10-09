@@ -1,0 +1,46 @@
+{
+  "capturedUTC": "2026-10-09T10:58:31.231775+00:00",
+  "purpose": "Actual WordPress administrator sign-in with private handoff; no password, username, cookie value, nonce or page content logged.",
+  "loginRedirectHTTPS": true,
+  "dashboardHTTPstatus": 200,
+  "dashboardDetected": true,
+  "secureHttpOnlyAuthCookieObserved": true,
+  "cookieAttributes": [
+    {
+      "cookieClass": "other",
+      "secure": true,
+      "httpOnly": true
+    },
+    {
+      "cookieClass": "other",
+      "secure": true,
+      "httpOnly": true
+    },
+    {
+      "cookieClass": "authentication",
+      "secure": true,
+      "httpOnly": true
+    },
+    {
+      "cookieClass": "authentication",
+      "secure": true,
+      "httpOnly": true
+    },
+    {
+      "cookieClass": "authentication",
+      "secure": true,
+      "httpOnly": true
+    },
+    {
+      "cookieClass": "other",
+      "secure": true,
+      "httpOnly": false
+    },
+    {
+      "cookieClass": "other",
+      "secure": true,
+      "httpOnly": false
+    }
+  ],
+  "environment": "Basic Auth protected development; verified origin TLS"
+}

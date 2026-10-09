@@ -1,0 +1,114 @@
+{
+  "capturedUTC": "2026-10-09T11:04:15.801019+00:00",
+  "purpose": "Authoritative and independent public resolver delegation and proxied apex/www observations. CNAME may be flattened by Cloudflare proxy.",
+  "queries": [
+    {
+      "server": "angela.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "NS",
+      "command": "Resolve-DnsName glowwise.tech -Type NS -Server angela.ns.cloudflare.com -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"angela.ns.cloudflare.com\"\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"trace.ns.cloudflare.com\"\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "angela.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "A",
+      "command": "Resolve-DnsName glowwise.tech -Type A -Server angela.ns.cloudflare.com -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "angela.ns.cloudflare.com",
+      "name": "www.glowwise.tech",
+      "type": "A",
+      "command": "Resolve-DnsName www.glowwise.tech -Type A -Server angela.ns.cloudflare.com -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null\n    },\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "trace.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "NS",
+      "command": "Resolve-DnsName glowwise.tech -Type NS -Server trace.ns.cloudflare.com -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"angela.ns.cloudflare.com\"\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  86400,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"trace.ns.cloudflare.com\"\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "trace.ns.cloudflare.com",
+      "name": "glowwise.tech",
+      "type": "A",
+      "command": "Resolve-DnsName glowwise.tech -Type A -Server trace.ns.cloudflare.com -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "trace.ns.cloudflare.com",
+      "name": "www.glowwise.tech",
+      "type": "A",
+      "command": "Resolve-DnsName www.glowwise.tech -Type A -Server trace.ns.cloudflare.com -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null\n    },\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "1.1.1.1",
+      "name": "glowwise.tech",
+      "type": "NS",
+      "command": "Resolve-DnsName glowwise.tech -Type NS -Server 1.1.1.1 -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  85658,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"angela.ns.cloudflare.com\"\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  85658,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"trace.ns.cloudflare.com\"\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "1.1.1.1",
+      "name": "glowwise.tech",
+      "type": "A",
+      "command": "Resolve-DnsName glowwise.tech -Type A -Server 1.1.1.1 -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "1.1.1.1",
+      "name": "www.glowwise.tech",
+      "type": "A",
+      "command": "Resolve-DnsName www.glowwise.tech -Type A -Server 1.1.1.1 -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null\n    },\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "8.8.8.8",
+      "name": "glowwise.tech",
+      "type": "NS",
+      "command": "Resolve-DnsName glowwise.tech -Type NS -Server 8.8.8.8 -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  21075,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"angela.ns.cloudflare.com\"\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  2,\n        \"TTL\":  21075,\n        \"IPAddress\":  null,\n        \"NameHost\":  \"trace.ns.cloudflare.com\"\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "8.8.8.8",
+      "name": "glowwise.tech",
+      "type": "A",
+      "command": "Resolve-DnsName glowwise.tech -Type A -Server 8.8.8.8 -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null\n    },\n    {\n        \"Name\":  \"glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null\n    }\n]",
+      "error": ""
+    },
+    {
+      "server": "8.8.8.8",
+      "name": "www.glowwise.tech",
+      "type": "A",
+      "command": "Resolve-DnsName www.glowwise.tech -Type A -Server 8.8.8.8 -DnsOnly | Select-Object Name,Type,TTL,IPAddress,NameHost | ConvertTo-Json",
+      "exitCode": 0,
+      "output": "[\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"104.21.95.116\",\n        \"NameHost\":  null\n    },\n    {\n        \"Name\":  \"www.glowwise.tech\",\n        \"Type\":  1,\n        \"TTL\":  300,\n        \"IPAddress\":  \"172.67.144.188\",\n        \"NameHost\":  null\n    }\n]",
+      "error": ""
+    }
+  ]
+}

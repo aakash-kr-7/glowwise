@@ -1,0 +1,155 @@
+{
+  "capturedUTC": "2026-10-09T12:44:20.435946+00:00",
+  "purpose": "Rights, originality and preservation register; product visuals explicitly non-packaging",
+  "assets": [
+    {
+      "path": "assets/glowwise_display.png",
+      "kind": "Original supplied brand asset",
+      "rights": "Owner-supplied Glowwise identity; authorized project use; independent third-party licensing not asserted",
+      "source": "Supplied project assets",
+      "derivative": false,
+      "sha256": "9bcdd111ca739bf177d043de85b2734fff74a2dc62107f6ae2156a7bd0380272"
+    },
+    {
+      "path": "assets/glowwise_display_bg_removed.png",
+      "kind": "Original supplied brand asset",
+      "rights": "Owner-supplied Glowwise identity; authorized project use; independent third-party licensing not asserted",
+      "source": "Supplied project assets",
+      "derivative": false,
+      "sha256": "26d5f44e0b22da58707e885253182854cc13cd353ab91121804dbcb6cf8a7dd4"
+    },
+    {
+      "path": "assets/glowwise_display_bg_removed.svg",
+      "kind": "Original supplied brand asset",
+      "rights": "Owner-supplied Glowwise identity; authorized project use; independent third-party licensing not asserted",
+      "source": "Supplied project assets",
+      "derivative": false,
+      "sha256": "e82fb36c5e32492bbda534a7f76a409397dc69803fec85d4595d30f5eab50bf7"
+    },
+    {
+      "path": "assets/Glowwise_logo.png",
+      "kind": "Original supplied brand asset",
+      "rights": "Owner-supplied Glowwise identity; authorized project use; independent third-party licensing not asserted",
+      "source": "Supplied project assets",
+      "derivative": false,
+      "sha256": "5fb4d17d96ac27fd90a357539ac7b6381c40c130f0ddda8d75f480a432f52d49"
+    },
+    {
+      "path": "assets/Glowwise_logo_bg_removed.png",
+      "kind": "Original supplied brand asset",
+      "rights": "Owner-supplied Glowwise identity; authorized project use; independent third-party licensing not asserted",
+      "source": "Supplied project assets",
+      "derivative": false,
+      "sha256": "92469a420274f56ff338df7114e83e334f0414741f73252808a21313c47f0e75"
+    },
+    {
+      "path": "assets/Glowwise_logo_bg_removed.svg",
+      "kind": "Original supplied brand asset",
+      "rights": "Owner-supplied Glowwise identity; authorized project use; independent third-party licensing not asserted",
+      "source": "Supplied project assets",
+      "derivative": false,
+      "sha256": "e0d04d395fab12934deccf9844299a79cf620e0de734e0aa83dc77d35246d61e"
+    },
+    {
+      "path": "theme/glowwise/assets/art/beard-grooming.svg",
+      "kind": "Original geometric illustration",
+      "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
+      "source": "tooling/generate-art.py",
+      "derivative": false,
+      "sha256": "637b5194f0530b64e0e37c47a60d6fd242537445a56a5bd585a4ffda3475dd8f"
+    },
+    {
+      "path": "theme/glowwise/assets/art/bodycare.svg",
+      "kind": "Original geometric illustration",
+      "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
+      "source": "tooling/generate-art.py",
+      "derivative": false,
+      "sha256": "c91f3fc3ae95059bbc167d8301142dadd6a36dbe957ab4a8598bdedada320add"
+    },
+    {
+      "path": "theme/glowwise/assets/art/compass-world.svg",
+      "kind": "Original geometric illustration",
+      "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
+      "source": "tooling/generate-art.py",
+      "derivative": false,
+      "sha256": "12637972757cd262911421458cf75a5b1a8d65a08fe5af03a989c354873dce0a"
+    },
+    {
+      "path": "theme/glowwise/assets/art/finder-compass.svg",
+      "kind": "Original geometric illustration",
+      "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
+      "source": "tooling/generate-art.py",
+      "derivative": false,
+      "sha256": "4fd76805f65119142501ad3bdb34e2d882d36ed9300ae308be7b676be56dba84"
+    },
+    {
+      "path": "theme/glowwise/assets/art/fragrance.svg",
+      "kind": "Original geometric illustration",
+      "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
+      "source": "tooling/generate-art.py",
+      "derivative": false,
+      "sha256": "d3b3360adb2c497f473bbc5bfd84b8e4be6727a06ef12dc9beec54b64ff591cb"
+    },
+    {
+      "path": "theme/glowwise/assets/art/grooming-tools.svg",
+      "kind": "Original geometric illustration",
+      "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
+      "source": "tooling/generate-art.py",
+      "derivative": false,
+      "sha256": "2bc1d8b35868fc00e70b724efbde9c239549d82e6b7b2449b8f8b8f3880a74fc"
+    },
+    {
+      "path": "theme/glowwise/assets/art/haircare.svg",
+      "kind": "Original geometric illustration",
+      "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
+      "source": "tooling/generate-art.py",
+      "derivative": false,
+      "sha256": "7eb53c6f2a2cc2067b525da7c6967ec12839c4c4a782c8f2e523b71d62483258"
+    },
+    {
+      "path": "theme/glowwise/assets/art/skincare.svg",
+      "kind": "Original geometric illustration",
+      "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
+      "source": "tooling/generate-art.py",
+      "derivative": false,
+      "sha256": "a78a2f014190c0edd59cd01983d8399a7c562b6e00adeceec64fc1026b5ca467"
+    },
+    {
+      "path": "theme/glowwise/assets/brand/glowwise-wordmark.svg",
+      "kind": "Supplied wordmark viewport derivative",
+      "rights": "Authorized project use of owner-supplied identity; paths/colors preserved; only canvas crop changed",
+      "source": "assets/Glowwise_logo_bg_removed.svg",
+      "derivative": true,
+      "sha256": "b4c9ec3cff5f377f8d545b7109e6e36785205863d81d7c4ed827239cb9428fe3"
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/dm-serif-display-latin.woff2",
+      "kind": "Self-hosted DM Serif Display Latin WOFF2",
+      "rights": "SIL OFL 1.1; adjacent OFL.txt retained",
+      "source": "Documentation/Implementation/FONT_SOURCES.json",
+      "derivative": false,
+      "sha256": "fdf61e20fd2c0108e0ea28da4daca0035205b4b7fc031a3974b865b704de160a"
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/manrope-latin.woff2",
+      "kind": "Self-hosted Manrope Latin WOFF2",
+      "rights": "SIL OFL 1.1; adjacent OFL.txt retained",
+      "source": "Documentation/Implementation/FONT_SOURCES.json",
+      "derivative": false,
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972"
+    }
+  ],
+  "dependencyRights": [
+    {
+      "name": "GSAP 3.15.0 and ScrollTrigger",
+      "license": "GSAP standard no-charge license, not MIT/GPL",
+      "source": "https://gsap.com/community/standard-license/",
+      "use": "Decorative site animation; no visual animation builder; original notices retained by esbuild legal comments"
+    },
+    {
+      "name": "esbuild 0.28.2",
+      "license": "MIT",
+      "source": "https://github.com/evanw/esbuild/blob/main/LICENSE.md"
+    }
+  ]
+}

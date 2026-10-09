@@ -1,0 +1,95 @@
+{
+  "capturedUTC": "2026-10-09T11:04:15.801019+00:00",
+  "purpose": "Restricted local recovery copy integrity; no backup contents or credentials published.",
+  "copies": [
+    {
+      "bytes": 106807675,
+      "sha256": "e3b424f6faffeb5bb952a3f8e82ba8551f3dd1205a7622992aac4ed08150e768",
+      "archiveMembersVerified": [
+        {
+          "set": "20261009T041358Z",
+          "file": "caddy-config.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T041358Z",
+          "file": "caddy-data.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T041358Z",
+          "file": "config-and-source.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T041358Z",
+          "file": "database.sql.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T041358Z",
+          "file": "wordpress.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T041523Z",
+          "file": "caddy-config.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T041523Z",
+          "file": "caddy-data.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T041523Z",
+          "file": "config-and-source.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T041523Z",
+          "file": "database.sql.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T041523Z",
+          "file": "wordpress.tar.gz",
+          "sha256Matches": true
+        }
+      ],
+      "location": "Ignored, ACL-restricted .local/deployment/recovery-2026-10-09.tar.gz"
+    },
+    {
+      "bytes": 35594818,
+      "sha256": "620699746e8aafeae3dfdd3c2ea2a28b7f482ec175682029fc8ddf95c6f9b984",
+      "archiveMembersVerified": [
+        {
+          "set": "20261009T105546Z",
+          "file": "caddy-config.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T105546Z",
+          "file": "caddy-data.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T105546Z",
+          "file": "config-and-source.tar.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T105546Z",
+          "file": "database.sql.gz",
+          "sha256Matches": true
+        },
+        {
+          "set": "20261009T105546Z",
+          "file": "wordpress.tar.gz",
+          "sha256Matches": true
+        }
+      ],
+      "location": "Ignored, ACL-restricted .local/deployment/recovery-2026-10-09-final.tar.gz"
+    }
+  ]
+}

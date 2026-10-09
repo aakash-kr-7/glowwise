@@ -1,0 +1,62 @@
+{
+  "capturedUTC": "2026-10-09T13:01:19.659192+00:00",
+  "purpose": "Supplied source/research/reference/brand preservation against Stage 1 inventory; operational files are intentionally maintained separately",
+  "files": [
+    {
+      "path": "assets/glowwise_display.png",
+      "hashMatches": true
+    },
+    {
+      "path": "assets/glowwise_display_bg_removed.png",
+      "hashMatches": true
+    },
+    {
+      "path": "assets/glowwise_display_bg_removed.svg",
+      "hashMatches": true
+    },
+    {
+      "path": "assets/Glowwise_logo.png",
+      "hashMatches": true
+    },
+    {
+      "path": "assets/Glowwise_logo_bg_removed.png",
+      "hashMatches": true
+    },
+    {
+      "path": "assets/Glowwise_logo_bg_removed.svg",
+      "hashMatches": true
+    },
+    {
+      "path": "Documentation/Milestone 1/01_Niche_Target_Audience_and_SEO_Problem_Identification.md",
+      "hashMatches": true
+    },
+    {
+      "path": "Documentation/Milestone 1/02_Keyword_Research_LSI_and_Search_Intent_Mapping.md",
+      "hashMatches": true
+    },
+    {
+      "path": "Documentation/Milestone 1/03_Competitor_Analysis_and_SERP_Breakdown.md",
+      "hashMatches": true
+    },
+    {
+      "path": "Documentation/Milestone 1/04_Keyword_to_Page_and_Content_Mapping.md",
+      "hashMatches": true
+    },
+    {
+      "path": "milestone_1/Milestone1  someparts temporary.md",
+      "hashMatches": true
+    },
+    {
+      "path": "Reference/Milestone 1 and 2 details with reference material links.md",
+      "hashMatches": true
+    },
+    {
+      "path": "Reference/Mini-Project Handbook.docx",
+      "hashMatches": true
+    },
+    {
+      "path": "Reference/SEO prof notes.md",
+      "hashMatches": true
+    }
+  ]
+}

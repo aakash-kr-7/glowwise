@@ -1,0 +1,28 @@
+{
+  "capturedUTC": "2026-10-09T11:09:45.981177+00:00",
+  "purpose": "Final source preservation, traceability, local-link, public privacy and Git ignore verification; no product journey tests claimed.",
+  "suppliedFilesMatchedOriginalSHA256": 102,
+  "intentionalOwnerAuthorizedChanges": [
+    "GLOWWISE_SOURCE_OF_TRUTH.md"
+  ],
+  "allOtherSuppliedFilesByteIdentical": true,
+  "requirementCounts": {
+    "PR": 36,
+    "M1-": 10,
+    "M2-": 10
+  },
+  "localDocumentationLinksChecked": 44,
+  "newSourceAndOperationalTextFilesPrivateValueScanned": 54,
+  "privateValueLeaksFound": 0,
+  "restrictedFilesIgnored": [
+    ".local/deployment/CREDENTIALS.private.json",
+    ".local/deployment/glowwise_ed25519",
+    ".local/deployment/recovery-2026-10-09-final.tar.gz",
+    "Reference/Mini-Project Handbook.docx"
+  ],
+  "trackedFiles": 0,
+  "branch": "main",
+  "noGitCommitOrPush": true,
+  "gitDiffCheck": "PASS (untracked files separately reviewed)",
+  "credentialACL": "Verified separately using Windows Get-Acl: owner and SYSTEM only, inherited from restricted deployment folder."
+}

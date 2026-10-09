@@ -1,0 +1,16 @@
+* text=auto eol=lf
+*.php text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+*.css text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.md whitespace=-blank-at-eol
+theme/glowwise/assets/fonts/*.OFL.txt whitespace=-blank-at-eol
+# Preserve supplied originals byte-for-byte, including their original line endings.
+assets/** -text
+"Documentation/Milestone 1/**" -text
+GLOWWISE_SOURCE_OF_TRUTH.md -text
+*.woff2 -text

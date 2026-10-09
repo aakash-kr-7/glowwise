@@ -1,0 +1,97 @@
+[
+  {
+    "slug": "shampoo-for-dry-frizzy-hair",
+    "canonical": "https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/",
+    "category": "haircare",
+    "wordCountExcludingTemplate": 667,
+    "checked": "2026-10-09",
+    "sources": [
+      "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"
+    ],
+    "method": "Original desk research; manufacturer claims distinguished; no personal testing",
+    "sourcePath": "content/guides/shampoo-for-dry-frizzy-hair.html"
+  },
+  {
+    "slug": "sunscreen-for-oily-skin",
+    "canonical": "https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+    "category": "skincare",
+    "wordCountExcludingTemplate": 588,
+    "checked": "2026-10-09",
+    "sources": [
+      "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/choosing-right-sunscreen",
+      "https://www.aad.org/public/everyday-care/skin-care-basics/dry/oily-skin",
+      "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen"
+    ],
+    "method": "Original desk research; manufacturer claims distinguished; no personal testing",
+    "sourcePath": "content/guides/sunscreen-for-oily-skin.html"
+  },
+  {
+    "slug": "perfumes-under-1000",
+    "canonical": "https://glowwise.tech/guides/perfumes-under-1000/",
+    "category": "fragrance",
+    "wordCountExcludingTemplate": 580,
+    "checked": "2026-10-09",
+    "sources": [
+      "https://www.skinn.in/shop/20ml-perfumes",
+      "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html"
+    ],
+    "method": "Original desk research; manufacturer claims distinguished; no personal testing",
+    "sourcePath": "content/guides/perfumes-under-1000.html"
+  },
+  {
+    "slug": "body-lotion-for-dry-skin",
+    "canonical": "https://glowwise.tech/guides/body-lotion-for-dry-skin/",
+    "category": "bodycare",
+    "wordCountExcludingTemplate": 577,
+    "checked": "2026-10-09",
+    "sources": [
+      "https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin",
+      "https://beminimalist.co/products/niacinamide-05-body-lotion"
+    ],
+    "method": "Original desk research; manufacturer claims distinguished; no personal testing",
+    "sourcePath": "content/guides/body-lotion-for-dry-skin.html"
+  },
+  {
+    "slug": "face-wash-for-sensitive-skin",
+    "canonical": "https://glowwise.tech/guides/face-wash-for-sensitive-skin/",
+    "category": "skincare",
+    "wordCountExcludingTemplate": 619,
+    "checked": "2026-10-09",
+    "sources": [
+      "https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101",
+      "https://beminimalist.co/products/oat-extract-06-gentle-cleanser",
+      "https://beminimalist.co/products/aquaporin-booster-05-cleanser"
+    ],
+    "method": "Original desk research; manufacturer claims distinguished; no personal testing",
+    "sourcePath": "content/guides/face-wash-for-sensitive-skin.html"
+  },
+  {
+    "slug": "beard-oil-benefits",
+    "canonical": "https://glowwise.tech/guides/beard-oil-benefits/",
+    "category": "beard-grooming",
+    "wordCountExcludingTemplate": 598,
+    "checked": "2026-10-09",
+    "sources": [
+      "https://www.aad.org/public/everyday-care/skin-care-secrets/face/healthy-beard",
+      "https://beardo.in/products/beardo-godfather-beard-oil",
+      "https://beardo.in/products/beardo-beard-and-hair-growth-oil"
+    ],
+    "method": "Original desk research; manufacturer claims distinguished; no personal testing",
+    "sourcePath": "content/guides/beard-oil-benefits.html"
+  },
+  {
+    "slug": "trimmers-under-1500",
+    "canonical": "https://glowwise.tech/guides/trimmers-under-1500/",
+    "category": "grooming-tools",
+    "wordCountExcludingTemplate": 567,
+    "checked": "2026-10-09",
+    "sources": [
+      "https://www.vega.co.in/men-grooming/trimmers.html",
+      "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
+      "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
+      "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html"
+    ],
+    "method": "Original desk research; manufacturer claims distinguished; no personal testing",
+    "sourcePath": "content/guides/trimmers-under-1500.html"
+  }
+]

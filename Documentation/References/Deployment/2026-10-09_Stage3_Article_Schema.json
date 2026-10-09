@@ -1,0 +1,45 @@
+{
+  "capturedUTC": "2026-10-09T13:36:29.021239+00:00",
+  "purpose": "Targeted real guide schema regression after removing empty WebPage author reference",
+  "checks": [
+    {
+      "guide": "shampoo-for-dry-frizzy-hair",
+      "pass": true,
+      "purpose": "One Article and coherent editorial author in Article/WebPage; no personal account node"
+    },
+    {
+      "guide": "sunscreen-for-oily-skin",
+      "pass": true,
+      "purpose": "One Article and coherent editorial author in Article/WebPage; no personal account node"
+    },
+    {
+      "guide": "perfumes-under-1000",
+      "pass": true,
+      "purpose": "One Article and coherent editorial author in Article/WebPage; no personal account node"
+    },
+    {
+      "guide": "body-lotion-for-dry-skin",
+      "pass": true,
+      "purpose": "One Article and coherent editorial author in Article/WebPage; no personal account node"
+    },
+    {
+      "guide": "face-wash-for-sensitive-skin",
+      "pass": true,
+      "purpose": "One Article and coherent editorial author in Article/WebPage; no personal account node"
+    },
+    {
+      "guide": "beard-oil-benefits",
+      "pass": true,
+      "purpose": "One Article and coherent editorial author in Article/WebPage; no personal account node"
+    },
+    {
+      "guide": "trimmers-under-1500",
+      "pass": true,
+      "purpose": "One Article and coherent editorial author in Article/WebPage; no personal account node"
+    }
+  ],
+  "limitations": [
+    "Not an external schema validator result",
+    "Global private launch gate stays closed"
+  ]
+}

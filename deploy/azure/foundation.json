@@ -1,0 +1,221 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "sshPublicKey": {
+      "type": "string"
+    },
+    "operatorCidr": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string",
+      "defaultValue": "koreacentral"
+    }
+  },
+  "variables": {
+    "tags": {
+      "project": "Glowwise",
+      "publisher": "Imagine-Utopia",
+      "environment": "development",
+      "lifetimeLimitUSD": "10",
+      "managedBy": "Codex"
+    }
+  },
+  "resources": [
+    {
+      "type": "Microsoft.Network/networkSecurityGroups",
+      "apiVersion": "2024-05-01",
+      "name": "glowwise-nsg",
+      "location": "[parameters('location')]",
+      "tags": "[variables('tags')]",
+      "properties": {
+        "securityRules": [
+          {
+            "name": "SSH-Operator",
+            "properties": {
+              "priority": 100,
+              "protocol": "Tcp",
+              "access": "Allow",
+              "direction": "Inbound",
+              "sourceAddressPrefix": "[parameters('operatorCidr')]",
+              "sourcePortRange": "*",
+              "destinationAddressPrefix": "*",
+              "destinationPortRange": "22"
+            }
+          },
+          {
+            "name": "HTTP-ACME",
+            "properties": {
+              "priority": 110,
+              "protocol": "Tcp",
+              "access": "Allow",
+              "direction": "Inbound",
+              "sourceAddressPrefix": "Internet",
+              "sourcePortRange": "*",
+              "destinationAddressPrefix": "*",
+              "destinationPortRange": "80"
+            }
+          },
+          {
+            "name": "HTTPS",
+            "properties": {
+              "priority": 120,
+              "protocol": "Tcp",
+              "access": "Allow",
+              "direction": "Inbound",
+              "sourceAddressPrefix": "Internet",
+              "sourcePortRange": "*",
+              "destinationAddressPrefix": "*",
+              "destinationPortRange": "443"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Microsoft.Network/virtualNetworks",
+      "apiVersion": "2024-05-01",
+      "name": "glowwise-vnet",
+      "location": "[parameters('location')]",
+      "tags": "[variables('tags')]",
+      "properties": {
+        "addressSpace": {
+          "addressPrefixes": [
+            "10.42.0.0/16"
+          ]
+        },
+        "subnets": [
+          {
+            "name": "web",
+            "properties": {
+              "addressPrefix": "10.42.1.0/24",
+              "defaultOutboundAccess": false
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Microsoft.Network/publicIPAddresses",
+      "apiVersion": "2024-05-01",
+      "name": "glowwise-ip",
+      "location": "[parameters('location')]",
+      "tags": "[variables('tags')]",
+      "properties": {
+        "publicIPAllocationMethod": "Static",
+        "publicIPAddressVersion": "IPv4",
+        "idleTimeoutInMinutes": 4
+      },
+      "sku": {
+        "name": "Standard",
+        "tier": "Regional"
+      }
+    },
+    {
+      "type": "Microsoft.Network/networkInterfaces",
+      "apiVersion": "2024-05-01",
+      "name": "glowwise-nic",
+      "location": "[parameters('location')]",
+      "tags": "[variables('tags')]",
+      "properties": {
+        "networkSecurityGroup": {
+          "id": "[resourceId('Microsoft.Network/networkSecurityGroups','glowwise-nsg')]"
+        },
+        "ipConfigurations": [
+          {
+            "name": "primary",
+            "properties": {
+              "privateIPAllocationMethod": "Dynamic",
+              "subnet": {
+                "id": "[resourceId('Microsoft.Network/virtualNetworks/subnets','glowwise-vnet','web')]"
+              },
+              "publicIPAddress": {
+                "id": "[resourceId('Microsoft.Network/publicIPAddresses','glowwise-ip')]"
+              }
+            }
+          }
+        ]
+      },
+      "dependsOn": [
+        "[resourceId('Microsoft.Network/networkSecurityGroups', 'glowwise-nsg')]",
+        "[resourceId('Microsoft.Network/virtualNetworks', 'glowwise-vnet')]",
+        "[resourceId('Microsoft.Network/publicIPAddresses', 'glowwise-ip')]"
+      ]
+    },
+    {
+      "type": "Microsoft.Compute/virtualMachines",
+      "apiVersion": "2024-07-01",
+      "name": "glowwise-vm",
+      "location": "[parameters('location')]",
+      "tags": "[variables('tags')]",
+      "properties": {
+        "hardwareProfile": {
+          "vmSize": "Standard_B2ats_v2"
+        },
+        "storageProfile": {
+          "imageReference": {
+            "publisher": "Canonical",
+            "offer": "ubuntu-24_04-lts",
+            "sku": "server",
+            "version": "24.04.202609040"
+          },
+          "osDisk": {
+            "name": "glowwise-os",
+            "createOption": "FromImage",
+            "diskSizeGB": 32,
+            "deleteOption": "Detach",
+            "caching": "ReadWrite",
+            "managedDisk": {
+              "storageAccountType": "StandardSSD_LRS"
+            }
+          }
+        },
+        "osProfile": {
+          "computerName": "glowwise-vm",
+          "adminUsername": "glowwiseadmin",
+          "linuxConfiguration": {
+            "disablePasswordAuthentication": true,
+            "provisionVMAgent": true,
+            "ssh": {
+              "publicKeys": [
+                {
+                  "path": "/home/glowwiseadmin/.ssh/authorized_keys",
+                  "keyData": "[parameters('sshPublicKey')]"
+                }
+              ]
+            }
+          }
+        },
+        "networkProfile": {
+          "networkInterfaces": [
+            {
+              "id": "[resourceId('Microsoft.Network/networkInterfaces','glowwise-nic')]",
+              "properties": {
+                "deleteOption": "Detach"
+              }
+            }
+          ]
+        },
+        "diagnosticsProfile": {
+          "bootDiagnostics": {
+            "enabled": false
+          }
+        },
+        "securityProfile": {
+          "securityType": "TrustedLaunch",
+          "uefiSettings": {
+            "secureBootEnabled": true,
+            "vTpmEnabled": true
+          }
+        }
+      },
+      "dependsOn": [
+        "[resourceId('Microsoft.Network/networkInterfaces', 'glowwise-nic')]"
+      ],
+      "identity": {
+        "type": "SystemAssigned"
+      }
+    }
+  ]
+}

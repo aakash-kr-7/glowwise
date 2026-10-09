@@ -1,0 +1,35 @@
+{
+  "capturedUTC": "2026-10-09T13:01:29.973069+00:00",
+  "purpose": "Restricted off-VM recovery archive and all inner checksum verification; private data never published",
+  "setUTC": "2026-10-09T12:51:17Z",
+  "archiveBytes": 75247830,
+  "sha256": "f51687dab201a753c4fab10a5c7f687e87437bf38e6ee107dfc27caafc6f2b2a",
+  "checks": [
+    {
+      "archive": "caddy-config.tar.gz",
+      "bytes": 1136,
+      "sha256Matches": true
+    },
+    {
+      "archive": "caddy-data.tar.gz",
+      "bytes": 5632,
+      "sha256Matches": true
+    },
+    {
+      "archive": "config-and-source.tar.gz",
+      "bytes": 27367570,
+      "sha256Matches": true
+    },
+    {
+      "archive": "database.sql.gz",
+      "bytes": 69849,
+      "sha256Matches": true
+    },
+    {
+      "archive": "wordpress.tar.gz",
+      "bytes": 47863415,
+      "sha256Matches": true
+    }
+  ],
+  "limitation": "Captures this checkpoint; source changes after 12:51 are in Git/source and require a later final matching recovery set"
+}

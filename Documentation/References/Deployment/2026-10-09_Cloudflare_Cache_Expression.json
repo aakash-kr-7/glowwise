@@ -1,0 +1,7 @@
+{
+  "recordedUTC": "2026-10-09T11:02:22.063Z",
+  "purpose": "Exact expression used for the active Cloudflare Free bypass rule; activation proof in cache-rule screenshot.",
+  "name": "Glowwise dynamic and private bypass",
+  "action": "bypass_cache",
+  "expression": "(not http.request.method in {\"GET\" \"HEAD\"}) or starts_with(http.request.uri.path, \"/wp-admin\") or starts_with(http.request.uri.path, \"/wp-json\") or starts_with(http.request.uri.path, \"/contact\") or http.request.uri.path in {\"/wp-login.php\" \"/xmlrpc.php\" \"/wp-cron.php\"} or http.cookie contains \"wordpress_\" or http.cookie contains \"wp-postpass_\" or http.cookie contains \"comment_author_\" or http.cookie contains \"glowwise_\" or any(http.request.headers[\"authorization\"][*] ne \"\") or http.request.uri.query ne \"\" or not (ends_with(http.request.uri.path, \".css\") or ends_with(http.request.uri.path, \".js\") or ends_with(http.request.uri.path, \".woff2\") or ends_with(http.request.uri.path, \".woff\") or ends_with(http.request.uri.path, \".png\") or ends_with(http.request.uri.path, \".jpg\") or ends_with(http.request.uri.path, \".jpeg\") or ends_with(http.request.uri.path, \".webp\") or ends_with(http.request.uri.path, \".avif\") or ends_with(http.request.uri.path, \".svg\") or ends_with(http.request.uri.path, \".ico\"))"
+}

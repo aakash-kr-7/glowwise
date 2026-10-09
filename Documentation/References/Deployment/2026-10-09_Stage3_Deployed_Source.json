@@ -1,0 +1,457 @@
+{
+  "capturedUTC": "2026-10-09T13:43:35.425298+00:00",
+  "purpose": "Selected reviewed deployable source/build/content hashes match actual VM working tree before first commit; private state/dependencies/generated assets excluded",
+  "checks": [
+    {
+      "path": "content/guides/beard-oil-benefits.html",
+      "sha256": "58e885f2c69783749022d5b82b633cc28cbe1692506a1c76ecd86a7d65eb76ca",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/body-lotion-for-dry-skin.html",
+      "sha256": "23d7315e43f1a4d8f5a27ae963271cc19721f5add10d7982b569a3228e4f8edc",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/face-wash-for-sensitive-skin.html",
+      "sha256": "7cab16b4e82cdf5894fabb180cdf1556b42cd4297520e3111b55a4181e8f278c",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/perfumes-under-1000.html",
+      "sha256": "ebdc06a383696f92fa11fc25d31e144c72fc2d1034b717408ad850fac2172790",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/shampoo-for-dry-frizzy-hair.html",
+      "sha256": "83494504c3fd5d185506a55a2e700ac3f0c564e1659ba51c681329a1b14dc14e",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/sunscreen-for-oily-skin.html",
+      "sha256": "1bfdc51967a67d8c28a43667121950aae016f7a5d4abf66c798fbe6b95e3335f",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides/trimmers-under-1500.html",
+      "sha256": "44294cd63aee8cd14988c80fddf4d1df3d40b3c0cbb08876abbaa35024cb23ba",
+      "matchesVM": true
+    },
+    {
+      "path": "content/guides.json",
+      "sha256": "f55f144a303a0ee08270b5aae39e57b571d5b16bfc506748892ff91a7f94384a",
+      "matchesVM": true
+    },
+    {
+      "path": "content/keyword-ownership.csv",
+      "sha256": "399e5ca0b3854a7ad76e0ffa8899ab0b66105195fede2b059ab89fe8ee760566",
+      "matchesVM": true
+    },
+    {
+      "path": "content/pages.json",
+      "sha256": "212cdc84247932575caf9afdbbe23465ec8c487768d6b57346ccd45b9324632c",
+      "matchesVM": true
+    },
+    {
+      "path": "content/products.json",
+      "sha256": "ec74c999e6b7d460e03db3c4b909b9a6c26a4e74fab15733b34a75df82d19618",
+      "matchesVM": true
+    },
+    {
+      "path": "content/seed.json",
+      "sha256": "64fb3f2d6248dbdd18d38b23d5c97468c8ccee220ca19166bd8d6858b886ed51",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/azure/foundation.json",
+      "sha256": "96aa0e8d38f4629338942233cb270229e6503e3871eb47e468f727ef05cf4201",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/host/docker-packages.lock",
+      "sha256": "6e8e7646f21c6cd7a2c18df96a2f5737f9c243a6c00f9c82544dab6ef3946757",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/backup.sh",
+      "sha256": "5da66f97884909a46bc9b927fad05b518eb364a5a9df755e05e65e4a5aa0001f",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/bootstrap-host.sh",
+      "sha256": "28af80ec8fef3a55bb55c7d26f2caa53dc283942bbc9dbf06b12d576f5491743",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/build-assets.sh",
+      "sha256": "c37b196d9194732ca9a7cf37059e392c9e3c91bdd8c9c5b4117955fe6caeff72",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/collect-evidence.sh",
+      "sha256": "c3f7f5d055257ac9fe685fa3fe459800a6371a6e1a3b4c63e69282611974e914",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/configure-cache-backup.php",
+      "sha256": "609dbccb45452bcd49422e3c4618e6a9e510d63429fd8c47d26f7b5f0e0044cb",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/configure-wordpress.php",
+      "sha256": "722843be8dec50a215226417b155b68323e241c01571f00905f73821774fb112",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/cost-guard.py",
+      "sha256": "bebe7e6c2e2575969b60f6e9bb258a2f495b1c63c745254e35edd938505ecfa3",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-cost-guard.service",
+      "sha256": "599511d2321b8c9634b86bb44d5d9e0ab74d381e8271de617399b9057ab83e59",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-cost-guard.timer",
+      "sha256": "58422dc3993ed49d241e64f8124eb80c698cd92a3e200e68d5c200f90214e1dc",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-metadata-firewall.service",
+      "sha256": "aaa78d2902bca981828f5e3cd2a57dd246510c08caf35a1a72b9266d8d86918e",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-wordpress-cron.service",
+      "sha256": "4c3c761139e44c3ade4e78ce714ffe05240cbb2735ff308d4e605248ea4d11f5",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/glowwise-wordpress-cron.timer",
+      "sha256": "59fbb1bb327da1a7bb39f2d72e79376ce9ad139f7f1e99c2171a9aa4a7c1b1ed",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/initialize-secrets.py",
+      "sha256": "0962caf21619d2304451aadfab5ae0adeb37cf939f575b09264e51e0de143e04",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/install-wordpress.py",
+      "sha256": "606cbd85f597e57fdfb553ad48e252001f97d2e614dff4bc7c8f14c2048c0cf1",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/protect-metadata.sh",
+      "sha256": "cfcd566f7284934447f9c26e3515f47254b60b12ca7646896cb5d0420ccefc23",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/updraft-backup.php",
+      "sha256": "8af191e627d105d8de4ca68935ab591245ba965a05e5166027e65fcea7893204",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/verify-restore.py",
+      "sha256": "8749ce5738af7b95cb78e0646b2e3a43e82f6782555501da79b3eff4c4c8da34",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/scripts/verify-updraft.py",
+      "sha256": "6780274f9a8226699f1d63e5d53835bf587327397bbe126c91156e7ed46da5b8",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/apache-limits.conf",
+      "sha256": "06c051e7123d3e1df2e9b4ef94609304e49f0ba3cc70de710412dafa11272d2e",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/Caddyfile",
+      "sha256": "3403427fec27ac88709b41cabafd8bf6abc75fafd387fc8acf4412f45dc5aece",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/compose.yaml",
+      "sha256": "a4593a1aca9b28b8d3d4bfbd65b7309f3053f4a78ec8b798956415e912452d50",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/images.lock.json",
+      "sha256": "e73e52c0c6ffc783ef113ed85c8dd12dae8a899db54fc7ba389cc0c98cf67c03",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/php.ini",
+      "sha256": "7e5cd2cce38a44be3871112dfa4d388a6339c4041d833125c9b252e13bc05be0",
+      "matchesVM": true
+    },
+    {
+      "path": "deploy/stack/plugins.lock.json",
+      "sha256": "89dcc0a211ac490a247b8688c42d17f78c5a9f129adad096f7942c6ec73908e1",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/glowwise-core.php",
+      "sha256": "3b918f10d3f197ef3fb120dfcc72d82486306f61389ac3cb98433e8e1754dcea",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/catalog.php",
+      "sha256": "afd955d7182c2d8716fbb39c8e65339ca8e27e07463fd4b5fcbca50eb8181e83",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/contact.php",
+      "sha256": "09422963368704f8ae8bbc173c200def07711693e9ec6774e901cb0ee1c4b014",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/import.php",
+      "sha256": "4b77a5a672e7fb339be6694f889a9c7ba68c203ef74b7163265a618e25d87037",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/model.php",
+      "sha256": "d79a1ad1e72e6f0c3fb3996bd5ee301e5418f188f5026706d980c420bfe6761f",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/includes/seo.php",
+      "sha256": "e716dac3a9f744fe4bc658489b7a873dbd7eca25430a4be5cfdd2116c6ee4b52",
+      "matchesVM": true
+    },
+    {
+      "path": "plugins/glowwise-core/README.md",
+      "sha256": "a6ed8fc850371d0c758412c113a0da9fe3fb288c230c2054b5e400718bef30b6",
+      "matchesVM": true
+    },
+    {
+      "path": "tests/core-integration.php",
+      "sha256": "dc8aa5a7dbd8b05c3cc1d973a901998dbcabc8ee48dc2050e81098c8af145495",
+      "matchesVM": true
+    },
+    {
+      "path": "tests/http-acceptance.py",
+      "sha256": "3b98c4558ac40964be02d57b784bd9d658ce8be932bac4cb606d3910393cc07a",
+      "matchesVM": true
+    },
+    {
+      "path": "tests/import-seo-integration.php",
+      "sha256": "a1a44d32c8ac030a97dc331697c093a0760744d0483421ff24fa37438bdb1a60",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/404.php",
+      "sha256": "53e9cb90fbe712f60dc1e4f249328ffd4faf840bb10ec1dd34eb85177c98bf41",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/archive-gw_product.php",
+      "sha256": "bbae784000d4bca02ba938fce598ded3512842100b30c500ad86e69d321009c8",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/beard-grooming.svg",
+      "sha256": "637b5194f0530b64e0e37c47a60d6fd242537445a56a5bd585a4ffda3475dd8f",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/bodycare.svg",
+      "sha256": "c91f3fc3ae95059bbc167d8301142dadd6a36dbe957ab4a8598bdedada320add",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/compass-world.svg",
+      "sha256": "12637972757cd262911421458cf75a5b1a8d65a08fe5af03a989c354873dce0a",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/finder-compass.svg",
+      "sha256": "4fd76805f65119142501ad3bdb34e2d882d36ed9300ae308be7b676be56dba84",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/fragrance.svg",
+      "sha256": "d3b3360adb2c497f473bbc5bfd84b8e4be6727a06ef12dc9beec54b64ff591cb",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/grooming-tools.svg",
+      "sha256": "2bc1d8b35868fc00e70b724efbde9c239549d82e6b7b2449b8f8b8f3880a74fc",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/haircare.svg",
+      "sha256": "7eb53c6f2a2cc2067b525da7c6967ec12839c4c4a782c8f2e523b71d62483258",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/art/skincare.svg",
+      "sha256": "a78a2f014190c0edd59cd01983d8399a7c562b6e00adeceec64fc1026b5ca467",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/brand/glowwise-wordmark.svg",
+      "sha256": "b4c9ec3cff5f377f8d545b7109e6e36785205863d81d7c4ed827239cb9428fe3",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/dm-serif-display-latin.OFL.txt",
+      "sha256": "aa49c876a28d8c0b0a3027d6c25b9c607eee8c0fb96165011d42a6ace1408fe1",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/dm-serif-display-latin.woff2",
+      "sha256": "fdf61e20fd2c0108e0ea28da4daca0035205b4b7fc031a3974b865b704de160a",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/manrope-latin.OFL.txt",
+      "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/fonts/manrope-latin.woff2",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/motion.js",
+      "sha256": "49d7202a3aa3e70ecae331eb7a031283fcaf3ab3e4ef8c0fd6be6c5148c8a0e0",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/site.css",
+      "sha256": "bd7e0d586966309d07c13bc9042859851e74f52b68b0af8248c34fe5f9fe0147",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/assets/src/site.js",
+      "sha256": "efc861ec00b8db6d2ff36017358a6e9126f9d94ec2ab772c08a1245c7ad7dc7a",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/footer.php",
+      "sha256": "fb7d11386233d6fb5957f0b38d38aed2b45f5c26de6af781712e6bb486cad1b6",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/front-page.php",
+      "sha256": "f9a3271493574980b3b7d3adb3887c046e37a72143e946fa51ea6af556941e83",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/functions.php",
+      "sha256": "3e6e65e1d4af2af68b15daf92d47fc2c7f108af3e2b8c5798c77dc5d46a6915a",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/header.php",
+      "sha256": "7fba1c99b952854f92e25fc99f4396f9f82245ac2b0f74f39e42df70f531a7f5",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/home.php",
+      "sha256": "89e141c6bb01a767bd0888e6c552226c193e9480ce0508004f96be16c9988ceb",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/index.php",
+      "sha256": "5129e110c5087b5b9d5d3937f0627f6872a15afdeb34c697790950244c9127cc",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/page.php",
+      "sha256": "35e4124533d6638c5af176e37245c30fd79944597ccf2fab171e3158c1b46d6b",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/parts/contact-form.php",
+      "sha256": "7212abfc27d4cc14e5d37ea94713b7e587349218319d47514b73dcae0323d1fd",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/README.md",
+      "sha256": "4d88aadcebc5ab1f2f0432df347b9a2b9321d3bbadf809a206bda86c5615e627",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/single-gw_product.php",
+      "sha256": "4d74d78c5530a97c61c73e0799a1c35496fd1343fd420bfeee8f10789d1f4627",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/single.php",
+      "sha256": "427935b6007932bef035612d6721e499a67d0c2010498cc3838c9e57fee0e4fd",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/style.css",
+      "sha256": "4ab57016c4cabf52bf6ac3da9ea9bf5a0efc0610dff7e50568251c0c78a4d091",
+      "matchesVM": true
+    },
+    {
+      "path": "theme/glowwise/taxonomy-gw_category.php",
+      "sha256": "4d0ace29e81603bf5730209b89bd4ad0df69f4a006b3da56821785250dc67574",
+      "matchesVM": true
+    },
+    {
+      "path": "tooling/build-assets.mjs",
+      "sha256": "075808b32626b52d39fdbd36ee6ac1c1b22e6358ef375abfa6cb63499cf2fb38",
+      "matchesVM": true
+    },
+    {
+      "path": "tooling/build-guide-manifest.py",
+      "sha256": "b3917317f81fb933aa969acb7faa5576f982d42be3b1029268282e085fa7f9e3",
+      "matchesVM": true
+    },
+    {
+      "path": "tooling/compile-content.py",
+      "sha256": "3c42886548ed45aa19a1b75faf6ef298e12b2237011f1a0dc7d7ff40cd469282",
+      "matchesVM": true
+    },
+    {
+      "path": "tooling/generate-art.py",
+      "sha256": "7dac41baf0fa07ad70215979410f329fea7f337f4b1075d5ce102714c6ad17f6",
+      "matchesVM": true
+    },
+    {
+      "path": "package.json",
+      "sha256": "c56febe482915568be8bde3deb71ae07fe7ce53d5587be0d5c4a2ad3db8fd0f3",
+      "matchesVM": true
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "e1c4c87cf53229179d8370aeb0ba82783df087b057fa355d05b4ba3761cc84da",
+      "matchesVM": true
+    },
+    {
+      "path": "README.md",
+      "sha256": "7b84704e8e71380924747502ab9b336c5d89478c8c71532dec24ca7660e5ca52",
+      "matchesVM": true
+    },
+    {
+      "path": ".env.example",
+      "sha256": "9ad6deffc33c6caf7d56f916c4c23a41243fd58692040c8e07f1618eb504747f",
+      "matchesVM": true
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "f1c3251f832613c739daf19d62eb8654fe562091e7253418cef9244d7194ae7b",
+      "matchesVM": true
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "387c0d2bba1819a55d3ae3612c25fcea7ddb656bdd3b4572edbda1f4fec78505",
+      "matchesVM": true
+    },
+    {
+      "path": ".gitattributes",
+      "sha256": "661891ea889060f738dce3d06d1d861a67a5a307549501b5aff3d65ba666aaaf",
+      "matchesVM": true
+    }
+  ],
+  "revisionAtCapture": "Uncommitted reviewed source; later publication record binds these files to Git blobs"
+}

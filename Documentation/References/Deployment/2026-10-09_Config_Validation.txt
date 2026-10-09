@@ -1,0 +1,8 @@
+Purpose: actual restricted VM configuration/health or isolated recovery command output; secrets excluded.
+2026-10-09T11:05:14+00:00
+Valid configuration
+NAME                   IMAGE                                                                                                   COMMAND                  SERVICE     CREATED       STATUS                    PORTS
+glowwise-caddy-1       caddy:2.11.7-alpine@sha256:d8542f48d34a9cf4e4c11a478865229840e87e4c96ea3f439101f31a5d35f75f             "caddy run --config …"   caddy       7 hours ago   Up 8 minutes (healthy)    0.0.0.0:80->80/tcp, [::]:80->80/tcp, 0.0.0.0:443->443/tcp, [::]:443->443/tcp, 443/udp, 2019/tcp
+glowwise-database-1    mariadb:11.4.13@sha256:1292844148b311e4ed4300022a996d39083f415a963e970cf47cad1b3b18e3a6                 "docker-entrypoint.s…"   database    7 hours ago   Up 15 minutes (healthy)   3306/tcp
+glowwise-wordpress-1   wordpress:7.1.3-php8.3-apache@sha256:8ecd8d8e374167ea22235acf30f80d1165b82f07ffa5bcef90c1cad8f7be251f   "docker-entrypoint.s…"   wordpress   7 hours ago   Up 9 minutes (healthy)    80/tcp
+No_pending_reboot

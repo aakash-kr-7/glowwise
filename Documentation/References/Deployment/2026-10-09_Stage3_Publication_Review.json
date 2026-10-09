@@ -1,0 +1,20 @@
+{
+  "capturedUTC": "2026-10-09T13:45:30.582621+00:00",
+  "purpose": "Review staged source and sanitized deployment evidence before authorized public commit; secret/account values checked in memory and never output",
+  "candidateSourceFiles": 122,
+  "sanitizedEvidenceFiles": 33,
+  "privatePasswordAdminAccountMatches": 0,
+  "privateKeyTokenPatterns": 0,
+  "forbiddenRuntimePaths": 0,
+  "expectedPublicOriginAndNonSecretSSHPreviewAliasReviewed": true,
+  "emailOccurrencesReviewed": "Only fixture@invalid.example in disposable tests; owner public profile no-reply commit identity",
+  "ignoredResearchArchivesRetained": true,
+  "limitations": [
+    "Automated scan supports manual source/rights review; not a universal secret detector",
+    "Dependency/licence and owner-supplied asset rights documented separately; original licensed notices retained"
+  ],
+  "finalStagedCandidateFiles": 158,
+  "reviewedSanitizedDeploymentEvidenceIncluded": true,
+  "privateGUIDMatchesInText": 0,
+  "suppliedImageC2PAProvenanceRetained": true
+}

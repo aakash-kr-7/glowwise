@@ -1,0 +1,83 @@
+Purpose: actual VM command output; commands are in deploy/scripts/collect-evidence.sh or verify-restore.py. Secrets/account IDs excluded.
+2026-10-09T10:50:18+00:00
+PRETTY_NAME="Ubuntu 24.04.5 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.5 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+7.0.0-1017-azure x86_64 GNU/Linux
+SSH effective policy
+maxauthtries 3
+permitrootlogin no
+pubkeyauthentication yes
+passwordauthentication no
+kbdinteractiveauthentication no
+allowusers glowwiseadmin
+256 SHA256:66EQ40f2ejYQUIM+1i2oH7utqO+EEch0YNkY36Z2xPg root@glowwise-vm (ED25519)
+Pinned host packages
+docker-ce=5:29.9.0-1~ubuntu.24.04~noble
+docker-ce-cli=5:29.9.0-1~ubuntu.24.04~noble
+containerd.io=2.4.1-2~ubuntu.24.04~noble
+docker-buildx-plugin=0.38.0-1~ubuntu.24.04~noble
+docker-compose-plugin=5.6.0-1~ubuntu.24.04~noble
+Engine 29.9.0
+Docker Compose version v5.6.0
+PHP 8.3.35 (cli) (built: Oct  6 2026 01:28:49) (NTS)
+Copyright (c) The PHP Group
+Zend Engine v4.3.35, Copyright (c) Zend Technologies
+    with Zend OPcache v8.3.35, Copyright (c), by Zend Technologies
+Server version: Apache/2.4.68 (Debian)
+Server built:   2026-06-11T18:28:43
+mariadb from 11.4.13-MariaDB, client 15.2 for debian-linux-gnu (x86_64) using  EditLine wrapper
+v2.11.7 h1:yj0Y4fYZGPkSvibBJ1sTWE33xC0fxztVyXEW5iIdUT4=
+WP-CLI 2.12.0
+7.1.3
+0
+https://glowwise.tech
+NAME                   IMAGE                                                                                                   COMMAND                  SERVICE     CREATED       STATUS                        PORTS
+glowwise-caddy-1       caddy:2.11.7-alpine@sha256:d8542f48d34a9cf4e4c11a478865229840e87e4c96ea3f439101f31a5d35f75f             "caddy run --config …"   caddy       7 hours ago   Up About a minute (healthy)   0.0.0.0:80->80/tcp, [::]:80->80/tcp, 0.0.0.0:443->443/tcp, [::]:443->443/tcp, 443/udp, 2019/tcp
+glowwise-database-1    mariadb:11.4.13@sha256:1292844148b311e4ed4300022a996d39083f415a963e970cf47cad1b3b18e3a6                 "docker-entrypoint.s…"   database    7 hours ago   Up About a minute (healthy)   3306/tcp
+glowwise-wordpress-1   wordpress:7.1.3-php8.3-apache@sha256:8ecd8d8e374167ea22235acf30f80d1165b82f07ffa5bcef90c1cad8f7be251f   "docker-entrypoint.s…"   wordpress   7 hours ago   Up About a minute (healthy)   80/tcp
+glowwise-caddy-1 5.285MiB / 128MiB
+glowwise-wordpress-1 14.16MiB / 384MiB
+glowwise-database-1 29.5MiB / 256MiB
+Database network internal=true
+State  Recv-Q Send-Q Local Address:Port Peer Address:PortProcess
+LISTEN 0      4096      127.0.0.54:53        0.0.0.0:*
+LISTEN 0      4096   127.0.0.53%lo:53        0.0.0.0:*
+LISTEN 0      4096         0.0.0.0:80        0.0.0.0:*
+LISTEN 0      4096         0.0.0.0:22        0.0.0.0:*
+LISTEN 0      4096         0.0.0.0:443       0.0.0.0:*
+LISTEN 0      4096            [::]:80           [::]:*
+LISTEN 0      4096            [::]:22           [::]:*
+LISTEN 0      4096            [::]:443          [::]:*
+-N DOCKER-USER
+-A DOCKER-USER -d 169.254.169.254/32 -j REJECT --reject-with icmp-port-unreachable
+               total        used        free      shared  buff/cache   available
+Mem:           836Mi       326Mi        60Mi       6.5Mi       477Mi       510Mi
+Swap:          2.0Gi       126Mi       1.9Gi
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        30G  7.7G   23G  26% /
+NEXT                        LEFT LAST                        PASSED UNIT                      ACTIVATES
+Fri 2026-10-09 10:51:02 UTC  29s Fri 2026-10-09 10:41:47 UTC      - glowwise-cost-guard.timer glowwise-cost-guard.service
+
+1 timers listed.
+Pass --all to see loaded but inactive timers, too.
+Oct 09 10:26:13 glowwise-vm systemd[1]: Starting glowwise-cost-guard.service - Glowwise lifetime exposure and operating lease guard...
+Oct 09 10:26:18 glowwise-vm python3[60423]: Cost guard: {"checked": "2026-10-09T10:26:13.274301+00:00", "modeledUSD": 0.1365, "reportedUSD": 0, "totalTx": 33712520, "decision": "continue"}
+Oct 09 10:26:18 glowwise-vm systemd[1]: glowwise-cost-guard.service: Deactivated successfully.
+Oct 09 10:26:18 glowwise-vm systemd[1]: Finished glowwise-cost-guard.service - Glowwise lifetime exposure and operating lease guard.
+Oct 09 10:41:47 glowwise-vm systemd[1]: Starting glowwise-cost-guard.service - Glowwise lifetime exposure and operating lease guard...
+Oct 09 10:41:49 glowwise-vm python3[62690]: Cost guard: {"checked": "2026-10-09T10:41:47.314228+00:00", "modeledUSD": 0.142, "reportedUSD": 0, "totalTx": 34868861, "decision": "continue"}
+Oct 09 10:41:49 glowwise-vm systemd[1]: glowwise-cost-guard.service: Deactivated successfully.
+Oct 09 10:41:49 glowwise-vm systemd[1]: Finished glowwise-cost-guard.service - Glowwise lifetime exposure and operating lease guard.
+active
+Cost guard: {"checked": "2026-10-09T10:50:33.323903+00:00", "modeledUSD": 0.1451, "reportedUSD": 0, "totalTx": 35199615, "decision": "continue"}

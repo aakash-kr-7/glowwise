@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "wordpress-seo",
+    "version": "28.6",
+    "requires": "6.9",
+    "requiresPHP": "7.4",
+    "tested": "7.1.3",
+    "lastUpdated": "2026-09-29 5:28am GMT",
+    "source": "https://wordpress.org/plugins/wordpress-seo/"
+  },
+  {
+    "slug": "wp-super-cache",
+    "version": "3.1.4",
+    "requires": "6.8",
+    "requiresPHP": "7.4",
+    "tested": "7.1.3",
+    "lastUpdated": "2026-09-30 6:33pm GMT",
+    "source": "https://wordpress.org/plugins/wp-super-cache/"
+  },
+  {
+    "slug": "updraftplus",
+    "version": "1.26.8",
+    "requires": "3.9",
+    "requiresPHP": false,
+    "tested": "7.1.3",
+    "lastUpdated": "2026-09-21 2:56pm GMT",
+    "source": "https://wordpress.org/plugins/updraftplus/"
+  }
+]

@@ -1,0 +1,1692 @@
+{
+  "schemaVersion": 1,
+  "categories": {
+    "skincare": {
+      "description": "Cleansing and sun protection, with the label details that help you choose. Explore face cleansers and sunscreens without treating a skin concern as a diagnosis."
+    },
+    "haircare": {
+      "description": "A considered wash-day starting point. Compare shampoos by their identified pack, named formula and source claims, then build a routine around how your hair actually feels."
+    },
+    "bodycare": {
+      "description": "Everyday comfort, from a fragrance-free lotion to a scent you enjoy. Check the pack size, read the limitations and keep personal tolerance at the centre of your choice."
+    },
+    "fragrance": {
+      "description": "Your scent, your preference. Discover checked eau de parfum variants and useful note descriptions—without pretending that a note list proves longevity or personal fit."
+    },
+    "beard-grooming": {
+      "description": "Conditioning, grooming and a little clarity about growth claims. Choose care for the beard and the skin underneath, with the product facts kept separate from marketing."
+    },
+    "grooming-tools": {
+      "description": "Practical details before the first trim. Compare identified beard-trimmer models, manufacturer runtime and cleaning instructions—not an invented performance score."
+    }
+  },
+  "records": [
+    {
+      "kind": "gw_product",
+      "slug": "minimalist-light-fluid-spf-50",
+      "title": "Minimalist Light Fluid SPF 50",
+      "excerpt": "A fragrance-free fluid sunscreen with a source-described natural finish.",
+      "description": "A fragrance-free fluid sunscreen with a source-described natural finish.",
+      "data": {
+        "brand": "Minimalist",
+        "category": "skincare",
+        "type": "sunscreen",
+        "checked": "2026-10-09",
+        "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen",
+        "retailer": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen",
+        "variants": [
+          {
+            "label": "30ml",
+            "price": 314.0,
+            "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483115681",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "50ml",
+            "price": 449.0,
+            "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483082913",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "100ml",
+            "price": 809.0,
+            "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45880101503137",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "yes",
+          "spf": "50",
+          "uva-rating": "PA++++",
+          "finish": "natural",
+          "water-resistance": "Manufacturer labels water resistant; follow the pack directions"
+        },
+        "summary": "A fragrance-free fluid sunscreen with a source-described natural finish.",
+        "strength": "Three checked sizes let you compare a smaller first purchase against the larger pack.",
+        "limitation": "A natural finish is a manufacturer description, not a wear test. Water resistance does not remove the need to reapply.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "minimalist-spf-50",
+      "title": "Minimalist SPF 50 Sunscreen",
+      "excerpt": "An SPF 50 option with clearly identified 30 g, 50 g and 100 g packs.",
+      "description": "An SPF 50 option with clearly identified 30 g, 50 g and 100 g packs.",
+      "data": {
+        "brand": "Minimalist",
+        "category": "skincare",
+        "type": "sunscreen",
+        "checked": "2026-10-09",
+        "source": "https://beminimalist.co/products/multi-vitamin-spf-50",
+        "retailer": "https://beminimalist.co/products/multi-vitamin-spf-50",
+        "variants": [
+          {
+            "label": "50g",
+            "price": 359.0,
+            "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368405665",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "100g",
+            "price": 629.0,
+            "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368438433",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "30g",
+            "price": 224.0,
+            "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=46656572817569",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "yes",
+          "spf": "50",
+          "uva-rating": "PA++++"
+        },
+        "summary": "An SPF 50 option with clearly identified 30 g, 50 g and 100 g packs.",
+        "strength": "Several pack sizes make item-budget comparisons easier without assuming all variants cost the same.",
+        "limitation": "Do not infer finish or water resistance from SPF alone. Check the current formulation label.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "minimalist-spf-60",
+      "title": "Minimalist SPF 60 Sunscreen",
+      "excerpt": "A 50 g sunscreen option for comparing labeled protection and item cost.",
+      "description": "A 50 g sunscreen option for comparing labeled protection and item cost.",
+      "data": {
+        "brand": "Minimalist",
+        "category": "skincare",
+        "type": "sunscreen",
+        "checked": "2026-10-09",
+        "source": "https://beminimalist.co/products/spf-60-silymarin",
+        "retailer": "https://beminimalist.co/products/spf-60-silymarin",
+        "variants": [
+          {
+            "label": "50 g",
+            "price": 539.0,
+            "source": "https://beminimalist.co/products/spf-60-silymarin?variant=40946129305761",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "spf": "60",
+          "uva-rating": "unknown"
+        },
+        "summary": "A 50 g sunscreen option for comparing labeled protection and item cost.",
+        "strength": "Its identified 50 g pack can be compared directly with other sunscreen packs.",
+        "limitation": "Higher labeled SPF is not proof of a better personal fit. No independent texture or white-cast testing was performed.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-green-tea-zinc-spf-50",
+      "title": "Plum Green Tea & Zinc SPF 50 Gel",
+      "excerpt": "A source-labeled fragrance-free sunscreen gel with a matte finish.",
+      "description": "A source-labeled fragrance-free sunscreen gel with a matte finish.",
+      "data": {
+        "brand": "Plum",
+        "category": "skincare",
+        "type": "sunscreen",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy",
+        "retailer": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy",
+        "variants": [
+          {
+            "label": "50 g",
+            "price": 359.0,
+            "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805614140",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "30 g",
+            "price": 239.0,
+            "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805646908",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "yes",
+          "spf": "50",
+          "uva-rating": "PA++++",
+          "finish": "matte"
+        },
+        "summary": "A source-labeled fragrance-free sunscreen gel with a matte finish.",
+        "strength": "The brand identifies a matte finish and SPF 50 PA++++, useful facts when building an oily-skin shortlist.",
+        "limitation": "Matte and non-comedogenic claims do not guarantee comfort or prevent every breakout. We have not tested the finish.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-rice-water-spf-50",
+      "title": "Plum 2% Niacinamide & Rice Water SPF 50",
+      "excerpt": "A hybrid sunscreen with 30 g, 50 g and 80 g variants to compare.",
+      "description": "A hybrid sunscreen with 30 g, 50 g and 80 g variants to compare.",
+      "data": {
+        "brand": "Plum",
+        "category": "skincare",
+        "type": "sunscreen",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan",
+        "retailer": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan",
+        "variants": [
+          {
+            "label": "80 g",
+            "price": 504.0,
+            "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989782076",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "50 g",
+            "price": 336.0,
+            "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989749308",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "30 g",
+            "price": 239.0,
+            "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=45687389519932",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "yes",
+          "spf": "50",
+          "uva-rating": "PA++++"
+        },
+        "summary": "A hybrid sunscreen with 30 g, 50 g and 80 g variants to compare.",
+        "strength": "The manufacturer identifies SPF 50 PA++++ and fragrance-free formulation.",
+        "limitation": "Niacinamide in the name is not a promise of results. Finish and suitability remain individual.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-sheer-tinted-spf-50",
+      "title": "Plum 3% Niacinamide Sheer-Tinted SPF 50",
+      "excerpt": "A 50 g tinted sunscreen option, with tint suitability to check in person.",
+      "description": "A 50 g tinted sunscreen option, with tint suitability to check in person.",
+      "data": {
+        "brand": "Plum",
+        "category": "skincare",
+        "type": "sunscreen",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g",
+        "retailer": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g",
+        "variants": [
+          {
+            "label": "50 g",
+            "price": 499.0,
+            "source": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g?variant=43525413929020",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "spf": "50",
+          "tint": "Manufacturer describes sheer tint"
+        },
+        "summary": "A 50 g tinted sunscreen option, with tint suitability to check in person.",
+        "strength": "Tint is a practical difference from untinted sunscreen when comparing preferences.",
+        "limitation": "A single tint may not suit every skin tone. Glowwise has not tested coverage or color matching.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "minimalist-b12-oat-cleanser",
+      "title": "Minimalist B12 + Oat Extract 6.5% Cleanser",
+      "excerpt": "A fragrance-free, low-foaming cleanser in a checked 120 ml pack.",
+      "description": "A fragrance-free, low-foaming cleanser in a checked 120 ml pack.",
+      "data": {
+        "brand": "Minimalist",
+        "category": "skincare",
+        "type": "face-cleanser",
+        "checked": "2026-10-09",
+        "source": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser",
+        "retailer": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser",
+        "variants": [
+          {
+            "label": "120ml",
+            "price": 269.0,
+            "source": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser?variant=45220519280801",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "yes",
+          "texture": "Low-foaming gel cream, manufacturer description",
+          "ph": "5.5â€“6.5"
+        },
+        "summary": "A fragrance-free, low-foaming cleanser in a checked 120 ml pack.",
+        "strength": "The manufacturer explicitly describes a low-foaming format and fragrance-free formulation.",
+        "limitation": "Sensitive skin can still react to a fragrance-free formula. The old URL says 6%; the current product name says 6.5%.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "minimalist-aquaporin-cleanser",
+      "title": "Minimalist Aquaporin Booster 5% Cleanser",
+      "excerpt": "A source-labeled fragrance-free daily cleanser in a 100 ml pack.",
+      "description": "A source-labeled fragrance-free daily cleanser in a 100 ml pack.",
+      "data": {
+        "brand": "Minimalist",
+        "category": "skincare",
+        "type": "face-cleanser",
+        "checked": "2026-10-09",
+        "source": "https://beminimalist.co/products/aquaporin-booster-05-cleanser",
+        "retailer": "https://beminimalist.co/products/aquaporin-booster-05-cleanser",
+        "variants": [
+          {
+            "label": "100 ml",
+            "price": 269.0,
+            "source": "https://beminimalist.co/products/aquaporin-booster-05-cleanser?variant=41870498136225",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "yes",
+          "ph": "5.5"
+        },
+        "summary": "A source-labeled fragrance-free daily cleanser in a 100 ml pack.",
+        "strength": "The labeled pH of 5.5 and fragrance-free claim are useful for comparing the same product type.",
+        "limitation": "Hydration language is the manufacturerâ€™s claim. Personal tolerance and makeup removal have not been tested.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "minimalist-salicylic-lha-cleanser",
+      "title": "Minimalist Salicylic Acid + LHA 2% Cleanser",
+      "excerpt": "An active cleanser with salicylic acid and LHA identified in the product name.",
+      "description": "An active cleanser with salicylic acid and LHA identified in the product name.",
+      "data": {
+        "brand": "Minimalist",
+        "category": "skincare",
+        "type": "face-cleanser",
+        "checked": "2026-10-09",
+        "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser",
+        "retailer": "https://beminimalist.co/products/salicylic-lha-2-cleanser",
+        "variants": [
+          {
+            "label": "100ml",
+            "price": 269.0,
+            "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351136929",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "250ml",
+            "price": 539.0,
+            "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351169697",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "active-description": "Salicylic acid + LHA 2%, as named by the manufacturer"
+        },
+        "summary": "An active cleanser with salicylic acid and LHA identified in the product name.",
+        "strength": "The active-cleanser format distinguishes it from the simple-cleansing shortlist.",
+        "limitation": "An exfoliating cleanser is not our default suggestion for sensitive or already irritated skin. Consult a qualified clinician for treatment questions.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-rice-water-face-wash",
+      "title": "Plum 2% Niacinamide & Rice Water Face Wash",
+      "excerpt": "A face-wash option with checked 100 ml and 150 ml packs.",
+      "description": "A face-wash option with checked 100 ml and 150 ml packs.",
+      "data": {
+        "brand": "Plum",
+        "category": "skincare",
+        "type": "face-cleanser",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash",
+        "retailer": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash",
+        "variants": [
+          {
+            "label": "150 ml",
+            "price": 316.0,
+            "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248296508",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "100 ml",
+            "price": 252.0,
+            "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248329276",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "named-ingredient": "Niacinamide 2%, manufacturer product name"
+        },
+        "summary": "A face-wash option with checked 100 ml and 150 ml packs.",
+        "strength": "Explicit pack variants support a useful price comparison without treating the larger bottle as the entry price.",
+        "limitation": "Brightening language is a manufacturer claim. Fragrance-free status was not verified for this record.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "minimalist-hydrating-factors-shampoo",
+      "title": "Minimalist Hydrating Factors 7.3% Shampoo",
+      "excerpt": "A 250 ml shampoo positioned by the manufacturer for dry and frizzy hair.",
+      "description": "A 250 ml shampoo positioned by the manufacturer for dry and frizzy hair.",
+      "data": {
+        "brand": "Minimalist",
+        "category": "haircare",
+        "type": "shampoo",
+        "checked": "2026-10-09",
+        "source": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo",
+        "retailer": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo",
+        "variants": [
+          {
+            "label": "250 ml",
+            "price": 449.0,
+            "source": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo?variant=45928068317345",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "named-ingredients": "Glycerin, betaine and sodium hyaluronate in manufacturer description"
+        },
+        "summary": "A 250 ml shampoo positioned by the manufacturer for dry and frizzy hair.",
+        "strength": "The source names humectants including glycerin and betaine, rather than relying only on a smoothing slogan.",
+        "limitation": "A rinse-off shampoo does not replace conditioning. We have not measured frizz reduction or compared hair types.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "minimalist-maleic-shampoo",
+      "title": "Minimalist Maleic Bond Repair Complex 3.5% Shampoo",
+      "excerpt": "A shampoo with 100 ml and 250 ml packs, marketed for damaged hair.",
+      "description": "A shampoo with 100 ml and 250 ml packs, marketed for damaged hair.",
+      "data": {
+        "brand": "Minimalist",
+        "category": "haircare",
+        "type": "shampoo",
+        "checked": "2026-10-09",
+        "source": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo",
+        "retailer": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo",
+        "variants": [
+          {
+            "label": "100 ml",
+            "price": 198.0,
+            "source": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo?variant=46445505675425",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "250 ml",
+            "price": 473.0,
+            "source": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo?variant=46445505708193",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "formula-positioning": "Maleic Bond Repair Complex 3.5%, manufacturer naming"
+        },
+        "summary": "A shampoo with 100 ml and 250 ml packs, marketed for damaged hair.",
+        "strength": "A smaller checked pack provides a lower-cost way to consider the format before buying more.",
+        "limitation": "Bond-repair wording is a manufacturer claim, not a structural repair result verified by Glowwise.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-coconut-peptides-shampoo",
+      "title": "Plum Coconut Milk & Peptides Shampoo",
+      "excerpt": "A shampoo offered in clearly identified 250 ml, 500 ml and 750 ml packs.",
+      "description": "A shampoo offered in clearly identified 250 ml, 500 ml and 750 ml packs.",
+      "data": {
+        "brand": "Plum",
+        "category": "haircare",
+        "type": "shampoo",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo",
+        "retailer": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo",
+        "variants": [
+          {
+            "label": "250 ml",
+            "price": 276.0,
+            "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=42231068786748",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "500 ml",
+            "price": 464.0,
+            "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45773539901500",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "750 ml",
+            "price": 645.0,
+            "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45715828604988",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "named-ingredients": "Coconut milk and peptides, manufacturer naming"
+        },
+        "summary": "A shampoo offered in clearly identified 250 ml, 500 ml and 750 ml packs.",
+        "strength": "Multiple single-bottle sizes make both total cost and cost per volume visible.",
+        "limitation": "Softness and shine are manufacturer positioning. Do not infer hair-growth effects from the word peptides.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-avocado-argan-shampoo",
+      "title": "Plum Avocado & Argan Frizz Control Shampoo",
+      "excerpt": "A 250 ml shampoo marketed around frizz control and conditioning ingredients.",
+      "description": "A 250 ml shampoo marketed around frizz control and conditioning ingredients.",
+      "data": {
+        "brand": "Plum",
+        "category": "haircare",
+        "type": "shampoo",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy",
+        "retailer": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy",
+        "variants": [
+          {
+            "label": "250 ml",
+            "price": 356.0,
+            "source": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy?variant=41623335829564",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "formula-positioning": "Avocado & argan, manufacturer naming"
+        },
+        "summary": "A 250 ml shampoo marketed around frizz control and conditioning ingredients.",
+        "strength": "The named avocado-and-argan positioning gives you a distinct formula family to investigate.",
+        "limitation": "The manufacturerâ€™s frizz-control claim is not an independent result. Conditioning and handling still matter.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-anti-dandruff-shampoo",
+      "title": "Plum Anti-Dandruff Shampoo with 0.5% Salicylic Acid",
+      "excerpt": "An active scalp shampoo, separate from our ordinary dry-hair shortlist.",
+      "description": "An active scalp shampoo, separate from our ordinary dry-hair shortlist.",
+      "data": {
+        "brand": "Plum",
+        "category": "haircare",
+        "type": "shampoo",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid",
+        "retailer": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid",
+        "variants": [
+          {
+            "label": "500 ml",
+            "price": 679.0,
+            "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585269820",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "250 ml",
+            "price": 319.0,
+            "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585302588",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "100 ml",
+            "price": 176.0,
+            "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585335356",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "active-description": "0.5% salicylic acid, manufacturer product name"
+        },
+        "summary": "An active scalp shampoo, separate from our ordinary dry-hair shortlist.",
+        "strength": "The named 0.5% salicylic-acid formula is a clearly different selection from a conditioning shampoo.",
+        "limitation": "Persistent scalp symptoms deserve qualified advice. This record is not a diagnosis or a treatment plan.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "beardo-no-nonsense-shampoo",
+      "title": "Beardo No Nonsense Shampoo",
+      "excerpt": "An identified 200 ml everyday shampoo option from Beardo.",
+      "description": "An identified 200 ml everyday shampoo option from Beardo.",
+      "data": {
+        "brand": "Beardo",
+        "category": "haircare",
+        "type": "shampoo",
+        "checked": "2026-10-09",
+        "source": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml",
+        "retailer": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml",
+        "variants": [
+          {
+            "label": "200ml",
+            "price": 299.0,
+            "source": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml?variant=48678720536884",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown"
+        },
+        "summary": "An identified 200 ml everyday shampoo option from Beardo.",
+        "strength": "Its straightforward pack size makes it a comparable catalog entry alongside other shampoos.",
+        "limitation": "We have not verified a sensitive-scalp, fragrance-free or frizz-control claim for this record.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "minimalist-niacinamide-body-lotion",
+      "title": "Minimalist Niacinamide 5% Body Lotion",
+      "excerpt": "A 180 g body lotion with niacinamide and glycerin named by the manufacturer.",
+      "description": "A 180 g body lotion with niacinamide and glycerin named by the manufacturer.",
+      "data": {
+        "brand": "Minimalist",
+        "category": "bodycare",
+        "type": "body-lotion",
+        "checked": "2026-10-09",
+        "source": "https://beminimalist.co/products/niacinamide-05-body-lotion",
+        "retailer": "https://beminimalist.co/products/niacinamide-05-body-lotion",
+        "variants": [
+          {
+            "label": "180 g",
+            "price": 269.0,
+            "source": "https://beminimalist.co/products/niacinamide-05-body-lotion?variant=41824805519521",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "yes",
+          "named-ingredients": "Niacinamide and glycerin, manufacturer description"
+        },
+        "summary": "A 180 g body lotion with niacinamide and glycerin named by the manufacturer.",
+        "strength": "The weight-based pack is explicitly recorded so it is not incorrectly compared as 180 ml.",
+        "limitation": "A lotion may be insufficient for very dry areas. Fragrance tolerance and formula changes still need a label check.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-vanilla-caramello-lotion",
+      "title": "Plum BodyLovin Vanilla Caramello Lotion",
+      "excerpt": "A scented body lotion in the Vanilla Caramello fragrance family.",
+      "description": "A scented body lotion in the Vanilla Caramello fragrance family.",
+      "data": {
+        "brand": "Plum",
+        "category": "bodycare",
+        "type": "body-lotion",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
+        "retailer": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
+        "variants": [
+          {
+            "label": "400 ml",
+            "price": 385.0,
+            "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379177532",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          },
+          {
+            "label": "200 ml",
+            "price": 239.0,
+            "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379210300",
+            "availability": "Out of stock at check",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "scent": "Vanilla Caramello"
+        },
+        "summary": "A scented body lotion in the Vanilla Caramello fragrance family.",
+        "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
+        "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-vanilla-vibes-lotion",
+      "title": "Plum BodyLovin Vanilla Vibes Lotion",
+      "excerpt": "A scented body lotion in the Vanilla Vibes fragrance family.",
+      "description": "A scented body lotion in the Vanilla Vibes fragrance family.",
+      "data": {
+        "brand": "Plum",
+        "category": "bodycare",
+        "type": "body-lotion",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin",
+        "retailer": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin",
+        "variants": [
+          {
+            "label": "400 ml",
+            "price": 436.0,
+            "source": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin?variant=45560998821948",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "scent": "Vanilla Vibes"
+        },
+        "summary": "A scented body lotion in the Vanilla Vibes fragrance family.",
+        "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
+        "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-hawaiian-rumba-lotion",
+      "title": "Plum BodyLovin Hawaiian Rumba Lotion",
+      "excerpt": "A scented body lotion in the Hawaiian Rumba fragrance family.",
+      "description": "A scented body lotion in the Hawaiian Rumba fragrance family.",
+      "data": {
+        "brand": "Plum",
+        "category": "bodycare",
+        "type": "body-lotion",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin",
+        "retailer": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin",
+        "variants": [
+          {
+            "label": "400 ml",
+            "price": 420.0,
+            "source": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin?variant=45560998789180",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "scent": "Hawaiian Rumba"
+        },
+        "summary": "A scented body lotion in the Hawaiian Rumba fragrance family.",
+        "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
+        "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-tropic-lotion",
+      "title": "Plum BodyLovin Tropic of Discussion Lotion",
+      "excerpt": "A scented body lotion in the Tropic of Discussion fragrance family.",
+      "description": "A scented body lotion in the Tropic of Discussion fragrance family.",
+      "data": {
+        "brand": "Plum",
+        "category": "bodycare",
+        "type": "body-lotion",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin",
+        "retailer": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin",
+        "variants": [
+          {
+            "label": "400 ml",
+            "price": 396.0,
+            "source": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin?variant=44164693491772",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "scent": "Tropic of Discussion"
+        },
+        "summary": "A scented body lotion in the Tropic of Discussion fragrance family.",
+        "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
+        "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "plum-hazelnut-lotion",
+      "title": "Plum BodyLovin Hazelnut Eclair Lotion",
+      "excerpt": "A scented body lotion in the Hazelnut Eclair fragrance family.",
+      "description": "A scented body lotion in the Hazelnut Eclair fragrance family.",
+      "data": {
+        "brand": "Plum",
+        "category": "bodycare",
+        "type": "body-lotion",
+        "checked": "2026-10-09",
+        "source": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
+        "retailer": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
+        "variants": [
+          {
+            "label": "400 ml",
+            "price": 396.0,
+            "source": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin?variant=43540180271164",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "scent": "Hazelnut Eclair"
+        },
+        "summary": "A scented body lotion in the Hazelnut Eclair fragrance family.",
+        "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
+        "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "beardo-godfather-oil",
+      "title": "Beardo Godfather Beard Oil",
+      "excerpt": "A 30 ml beard oil to consider as a conditioning step.",
+      "description": "A 30 ml beard oil to consider as a conditioning step.",
+      "data": {
+        "brand": "Beardo",
+        "category": "beard-grooming",
+        "type": "beard-oil",
+        "checked": "2026-10-09",
+        "source": "https://beardo.in/products/beardo-godfather-beard-oil",
+        "retailer": "https://beardo.in/products/beardo-godfather-beard-oil",
+        "variants": [
+          {
+            "label": "30ml",
+            "price": 299.0,
+            "source": "https://beardo.in/products/beardo-godfather-beard-oil?variant=44872228438324",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "purpose": "Beard conditioning; no growth result verified"
+        },
+        "summary": "A 30 ml beard oil to consider as a conditioning step.",
+        "strength": "Its identified 30 ml pack makes size and item cost easy to compare with another beard oil.",
+        "limitation": "Oil is not a verified beard-growth treatment. Fragrance and individual skin tolerance were not independently assessed.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "beardo-beard-hair-oil",
+      "title": "Beardo Beard & Hair Growth Oil",
+      "excerpt": "A 50 ml oil whose product name includes a growth claim we have not verified.",
+      "description": "A 50 ml oil whose product name includes a growth claim we have not verified.",
+      "data": {
+        "brand": "Beardo",
+        "category": "beard-grooming",
+        "type": "beard-oil",
+        "checked": "2026-10-09",
+        "source": "https://beardo.in/products/beardo-beard-and-hair-growth-oil",
+        "retailer": "https://beardo.in/products/beardo-beard-and-hair-growth-oil",
+        "variants": [
+          {
+            "label": "50 ml",
+            "price": 499.0,
+            "source": "https://beardo.in/products/beardo-beard-and-hair-growth-oil?variant=44769418707252",
+            "availability": "Listed for purchase; delivery depends on your location",
+            "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "unknown",
+          "purpose": "Oil format; growth claim not independently verified"
+        },
+        "summary": "A 50 ml oil whose product name includes a growth claim we have not verified.",
+        "strength": "A larger checked pack offers a size comparison with the 30 ml Godfather oil.",
+        "limitation": "The name is the manufacturerâ€™s branding. Glowwise does not endorse a claim that this oil produces new beard growth.",
+        "sources": []
+      },
+      "html": "<p>Compare the identified variant, read its current label and check the retailerâ€™s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "skinn-raw-20ml",
+      "title": "SKINN Raw Eau de Parfum",
+      "excerpt": "A checked 20 ml eau de parfum from the Raw fragrance family.",
+      "description": "A checked 20 ml eau de parfum from the Raw fragrance family.",
+      "data": {
+        "brand": "SKINN by Titan",
+        "category": "fragrance",
+        "type": "eau-de-parfum",
+        "checked": "2026-10-09",
+        "source": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
+        "retailer": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
+        "variants": [
+          {
+            "label": "20 ml",
+            "price": 596,
+            "source": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
+            "availability": "Listed for purchase; delivery requires a postcode",
+            "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "concentration": "Eau de parfum, manufacturer label",
+          "opening-notes": "Bergamot, watery fruits and mandarin; manufacturer opening-note description"
+        },
+        "summary": "A checked 20 ml eau de parfum from the Raw fragrance family.",
+        "strength": "The identified 20 ml bottle fits the under-â‚¹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
+        "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+        "sources": [
+          "https://www.skinn.in/shop/20ml-perfumes"
+        ]
+      },
+      "html": "<p>The manufacturer markets this fragrance for men, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "skinn-steele-20ml",
+      "title": "SKINN Steele Eau de Parfum",
+      "excerpt": "A checked 20 ml eau de parfum from the Steele fragrance family.",
+      "description": "A checked 20 ml eau de parfum from the Steele fragrance family.",
+      "data": {
+        "brand": "SKINN by Titan",
+        "category": "fragrance",
+        "type": "eau-de-parfum",
+        "checked": "2026-10-09",
+        "source": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
+        "retailer": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
+        "variants": [
+          {
+            "label": "20 ml",
+            "price": 596,
+            "source": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
+            "availability": "Official-store listing; confirm current stock and delivery",
+            "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "concentration": "Eau de parfum, manufacturer label",
+          "opening-notes": "unknown"
+        },
+        "summary": "A checked 20 ml eau de parfum from the Steele fragrance family.",
+        "strength": "The identified 20 ml bottle fits the under-â‚¹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
+        "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+        "sources": [
+          "https://www.skinn.in/shop/20ml-perfumes"
+        ]
+      },
+      "html": "<p>The manufacturer markets this fragrance for men, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "skinn-verge-20ml",
+      "title": "SKINN Verge Eau de Parfum",
+      "excerpt": "A checked 20 ml eau de parfum from the Verge fragrance family.",
+      "description": "A checked 20 ml eau de parfum from the Verge fragrance family.",
+      "data": {
+        "brand": "SKINN by Titan",
+        "category": "fragrance",
+        "type": "eau-de-parfum",
+        "checked": "2026-10-09",
+        "source": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-fclm03pd.html",
+        "retailer": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-fclm03pd.html",
+        "variants": [
+          {
+            "label": "20 ml",
+            "price": 556,
+            "source": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-fclm03pd.html",
+            "availability": "Out of stock at check",
+            "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "concentration": "Eau de parfum, manufacturer label",
+          "opening-notes": "unknown"
+        },
+        "summary": "A checked 20 ml eau de parfum from the Verge fragrance family.",
+        "strength": "The identified 20 ml bottle fits the under-â‚¹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
+        "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+        "sources": [
+          "https://www.skinn.in/shop/20ml-perfumes"
+        ]
+      },
+      "html": "<p>The manufacturer markets this fragrance for men, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "skinn-celeste-20ml",
+      "title": "SKINN Celeste Eau de Parfum",
+      "excerpt": "A checked 20 ml eau de parfum from the Celeste fragrance family.",
+      "description": "A checked 20 ml eau de parfum from the Celeste fragrance family.",
+      "data": {
+        "brand": "SKINN by Titan",
+        "category": "fragrance",
+        "type": "eau-de-parfum",
+        "checked": "2026-10-09",
+        "source": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
+        "retailer": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
+        "variants": [
+          {
+            "label": "20 ml",
+            "price": 556,
+            "source": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
+            "availability": "Official-store listing; confirm current stock and delivery",
+            "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "concentration": "Eau de parfum, manufacturer label",
+          "opening-notes": "Grapefruit and ginger; manufacturer opening-note description"
+        },
+        "summary": "A checked 20 ml eau de parfum from the Celeste fragrance family.",
+        "strength": "The identified 20 ml bottle fits the under-â‚¹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
+        "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+        "sources": [
+          "https://www.skinn.in/shop/20ml-perfumes"
+        ]
+      },
+      "html": "<p>The manufacturer markets this fragrance for women, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "skinn-sheer-20ml",
+      "title": "SKINN Sheer Eau de Parfum",
+      "excerpt": "A checked 20 ml eau de parfum from the Sheer fragrance family.",
+      "description": "A checked 20 ml eau de parfum from the Sheer fragrance family.",
+      "data": {
+        "brand": "SKINN by Titan",
+        "category": "fragrance",
+        "type": "eau-de-parfum",
+        "checked": "2026-10-09",
+        "source": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
+        "retailer": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
+        "variants": [
+          {
+            "label": "20 ml",
+            "price": 556,
+            "source": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
+            "availability": "Official-store listing; confirm current stock and delivery",
+            "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "concentration": "Eau de parfum, manufacturer label",
+          "opening-notes": "Pear, strawberry and pink pepper; manufacturer description"
+        },
+        "summary": "A checked 20 ml eau de parfum from the Sheer fragrance family.",
+        "strength": "The identified 20 ml bottle fits the under-â‚¹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
+        "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+        "sources": [
+          "https://www.skinn.in/shop/20ml-perfumes"
+        ]
+      },
+      "html": "<p>The manufacturer markets this fragrance for women, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "skinn-nude-20ml",
+      "title": "SKINN Nude Eau de Parfum",
+      "excerpt": "A checked 20 ml eau de parfum from the Nude fragrance family.",
+      "description": "A checked 20 ml eau de parfum from the Nude fragrance family.",
+      "data": {
+        "brand": "SKINN by Titan",
+        "category": "fragrance",
+        "type": "eau-de-parfum",
+        "checked": "2026-10-09",
+        "source": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
+        "retailer": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
+        "variants": [
+          {
+            "label": "20 ml",
+            "price": 556,
+            "source": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
+            "availability": "Official-store listing; confirm current stock and delivery",
+            "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
+          }
+        ],
+        "attributes": {
+          "fragrance-free": "no",
+          "concentration": "Eau de parfum, manufacturer label",
+          "opening-notes": "Lychee and raspberry; manufacturer opening-note description"
+        },
+        "summary": "A checked 20 ml eau de parfum from the Nude fragrance family.",
+        "strength": "The identified 20 ml bottle fits the under-â‚¹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
+        "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+        "sources": [
+          "https://www.skinn.in/shop/20ml-perfumes"
+        ]
+      },
+      "html": "<p>The manufacturer markets this fragrance for women, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "vega-power-lite",
+      "title": "Vega Power Lite Beard Trimmer",
+      "excerpt": "A VHTH-38 beard trimmer with manufacturer-listed 90 minutes runtime.",
+      "description": "A VHTH-38 beard trimmer with manufacturer-listed 90 minutes runtime.",
+      "data": {
+        "brand": "Vega",
+        "category": "grooming-tools",
+        "type": "beard-trimmer",
+        "checked": "2026-10-09",
+        "source": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
+        "retailer": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
+        "variants": [
+          {
+            "label": "VHTH-38",
+            "price": 849,
+            "source": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
+            "availability": "Listed for purchase",
+            "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
+          }
+        ],
+        "attributes": {
+          "model": "VHTH-38",
+          "manufacturer-runtime": "90 minutes",
+          "manufacturer-charge-time": "Not verified",
+          "length-range": "0.5â€“20 mm",
+          "length-settings": "40",
+          "blade-material": "Stainless steel",
+          "cleaning": "Washable blades; full body water resistance not verified",
+          "charging": "Micro USB",
+          "power-mode": "Corded and cordless",
+          "travel-lock": "Manufacturer lists travel lock"
+        },
+        "summary": "A VHTH-38 beard trimmer with manufacturer-listed 90 minutes runtime.",
+        "strength": "The manufacturer lists 40 length settings and Micro USB charging, useful specifications for a same-type comparison.",
+        "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+        "sources": [
+          "https://www.vega.co.in/men-grooming/trimmers.html"
+        ]
+      },
+      "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailerâ€™s current policy.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "vega-power-p1",
+      "title": "Vega Power Series P1 Beard Trimmer",
+      "excerpt": "A VHTH-25 beard trimmer with manufacturer-listed 160 minutes runtime.",
+      "description": "A VHTH-25 beard trimmer with manufacturer-listed 160 minutes runtime.",
+      "data": {
+        "brand": "Vega",
+        "category": "grooming-tools",
+        "type": "beard-trimmer",
+        "checked": "2026-10-09",
+        "source": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
+        "retailer": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
+        "variants": [
+          {
+            "label": "VHTH-25",
+            "price": 1019,
+            "source": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
+            "availability": "Listed for purchase",
+            "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
+          }
+        ],
+        "attributes": {
+          "model": "VHTH-25",
+          "manufacturer-runtime": "160 minutes",
+          "manufacturer-charge-time": "90 minutes",
+          "length-range": "0.5â€“20 mm",
+          "length-settings": "40",
+          "blade-material": "Stainless steel",
+          "cleaning": "Washable blades; full body water resistance not verified",
+          "charging": "Micro USB",
+          "power-mode": "Corded and cordless",
+          "travel-lock": "Manufacturer lists travel lock"
+        },
+        "summary": "A VHTH-25 beard trimmer with manufacturer-listed 160 minutes runtime.",
+        "strength": "The manufacturer lists 40 length settings and Micro USB charging, useful specifications for a same-type comparison.",
+        "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+        "sources": [
+          "https://www.vega.co.in/men-grooming/trimmers.html"
+        ]
+      },
+      "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailerâ€™s current policy.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "vega-smartone-s3",
+      "title": "Vega Smartone S3 Beard Trimmer",
+      "excerpt": "A VHTH-36 beard trimmer with manufacturer-listed 160 minutes runtime.",
+      "description": "A VHTH-36 beard trimmer with manufacturer-listed 160 minutes runtime.",
+      "data": {
+        "brand": "Vega",
+        "category": "grooming-tools",
+        "type": "beard-trimmer",
+        "checked": "2026-10-09",
+        "source": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
+        "retailer": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
+        "variants": [
+          {
+            "label": "VHTH-36",
+            "price": 1154,
+            "source": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
+            "availability": "Listed for purchase",
+            "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
+          }
+        ],
+        "attributes": {
+          "model": "VHTH-36",
+          "manufacturer-runtime": "160 minutes",
+          "manufacturer-charge-time": "90 minutes",
+          "length-range": "0.5â€“20 mm",
+          "length-settings": "40",
+          "blade-material": "Titanium",
+          "cleaning": "IPX7, manufacturer label",
+          "charging": "USB Type-C",
+          "power-mode": "Corded and cordless",
+          "travel-lock": "Manufacturer lists travel lock"
+        },
+        "summary": "A VHTH-36 beard trimmer with manufacturer-listed 160 minutes runtime.",
+        "strength": "The manufacturer lists 40 length settings and USB Type-C charging, useful specifications for a same-type comparison.",
+        "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+        "sources": [
+          "https://www.vega.co.in/men-grooming/trimmers.html"
+        ]
+      },
+      "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailerâ€™s current policy.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "vega-turboone",
+      "title": "Vega Turboone Beard Trimmer",
+      "excerpt": "A VHTH-40 beard trimmer with manufacturer-listed 90 minutes runtime.",
+      "description": "A VHTH-40 beard trimmer with manufacturer-listed 90 minutes runtime.",
+      "data": {
+        "brand": "Vega",
+        "category": "grooming-tools",
+        "type": "beard-trimmer",
+        "checked": "2026-10-09",
+        "source": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
+        "retailer": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
+        "variants": [
+          {
+            "label": "VHTH-40",
+            "price": 879,
+            "source": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
+            "availability": "Out of stock at check",
+            "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
+          }
+        ],
+        "attributes": {
+          "model": "VHTH-40",
+          "manufacturer-runtime": "90 minutes",
+          "manufacturer-charge-time": "Not verified",
+          "length-range": "0.5â€“20 mm",
+          "length-settings": "40",
+          "blade-material": "Stainless steel",
+          "cleaning": "Washable blades; full body water resistance not verified",
+          "charging": "Micro USB",
+          "power-mode": "Corded and cordless",
+          "travel-lock": "Manufacturer lists travel lock"
+        },
+        "summary": "A VHTH-40 beard trimmer with manufacturer-listed 90 minutes runtime.",
+        "strength": "The manufacturer lists 40 length settings and Micro USB charging, useful specifications for a same-type comparison.",
+        "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+        "sources": [
+          "https://www.vega.co.in/men-grooming/trimmers.html"
+        ]
+      },
+      "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailerâ€™s current policy.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "vega-smartone-s2",
+      "title": "Vega Smartone S2 Beard Trimmer",
+      "excerpt": "A VHTH-31 beard trimmer with manufacturer-listed 160 minutes runtime.",
+      "description": "A VHTH-31 beard trimmer with manufacturer-listed 160 minutes runtime.",
+      "data": {
+        "brand": "Vega",
+        "category": "grooming-tools",
+        "type": "beard-trimmer",
+        "checked": "2026-10-09",
+        "source": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
+        "retailer": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
+        "variants": [
+          {
+            "label": "VHTH-31",
+            "price": 1154,
+            "source": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
+            "availability": "Out of stock at check",
+            "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
+          }
+        ],
+        "attributes": {
+          "model": "VHTH-31",
+          "manufacturer-runtime": "160 minutes",
+          "manufacturer-charge-time": "90 minutes",
+          "length-range": "0.5â€“20 mm",
+          "length-settings": "40",
+          "blade-material": "Not verified",
+          "cleaning": "IPX7, manufacturer label",
+          "charging": "USB Type-C",
+          "power-mode": "Corded and cordless",
+          "travel-lock": "Manufacturer lists travel lock"
+        },
+        "summary": "A VHTH-31 beard trimmer with manufacturer-listed 160 minutes runtime.",
+        "strength": "The manufacturer lists 40 length settings and USB Type-C charging, useful specifications for a same-type comparison.",
+        "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+        "sources": [
+          "https://www.vega.co.in/men-grooming/trimmers.html"
+        ]
+      },
+      "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailerâ€™s current policy.</p>"
+    },
+    {
+      "kind": "gw_product",
+      "slug": "vega-turbolite",
+      "title": "Vega Turbolite Beard Trimmer",
+      "excerpt": "A VHTH-41 beard trimmer with manufacturer-listed 90 minutes runtime.",
+      "description": "A VHTH-41 beard trimmer with manufacturer-listed 90 minutes runtime.",
+      "data": {
+        "brand": "Vega",
+        "category": "grooming-tools",
+        "type": "beard-trimmer",
+        "checked": "2026-10-09",
+        "source": "https://www.vega.co.in/turbolite-beard-trimmer.html",
+        "retailer": "https://www.vega.co.in/turbolite-beard-trimmer.html",
+        "variants": [
+          {
+            "label": "VHTH-41",
+            "price": 609,
+            "source": "https://www.vega.co.in/turbolite-beard-trimmer.html",
+            "availability": "Out of stock at check",
+            "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
+          }
+        ],
+        "attributes": {
+          "model": "VHTH-41",
+          "manufacturer-runtime": "90 minutes",
+          "manufacturer-charge-time": "90 minutes",
+          "length-range": "0.5â€“20 mm",
+          "length-settings": "40",
+          "blade-material": "Stainless steel",
+          "cleaning": "Washable blades; full body water resistance not verified",
+          "charging": "USB Type-C",
+          "power-mode": "Corded and cordless",
+          "travel-lock": "Manufacturer lists travel lock"
+        },
+        "summary": "A VHTH-41 beard trimmer with manufacturer-listed 90 minutes runtime.",
+        "strength": "The manufacturer lists 40 length settings and USB Type-C charging, useful specifications for a same-type comparison.",
+        "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+        "sources": [
+          "https://www.vega.co.in/men-grooming/trimmers.html"
+        ]
+      },
+      "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailerâ€™s current policy.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "home",
+      "title": "Find your kind of good.",
+      "excerpt": "Grooming discovery, with reasons.",
+      "description": "Grooming discovery, with reasons.",
+      "checked": "2026-10-09",
+      "html": "<p>Find thoughtfully researched grooming products, useful guides and a shortlist that fits your everyday life.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "categories",
+      "title": "Six categories. Your own direction.",
+      "excerpt": "Start where your routine needs a little clarity.",
+      "description": "Start where your routine needs a little clarity.",
+      "checked": "2026-10-09",
+      "html": "<p>From skincare to grooming tools, each edit connects source-checked products with practical reading. Everyone is welcome: choose by your preferences and needs, rather than a prescribed routine for your gender.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "guides",
+      "title": "The field notes",
+      "excerpt": "Original guides for everyday grooming decisions.",
+      "description": "Original guides for everyday grooming decisions.",
+      "checked": "2026-10-09",
+      "html": "<p>Our guides connect manufacturer facts with transparent selection advice.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "finder",
+      "title": "Find your fit.",
+      "excerpt": "A transparent, rules-based starting shortlist.",
+      "description": "A transparent, rules-based starting shortlist.",
+      "checked": "2026-10-09",
+      "html": "<p>Match exact category, type, item budget and verified attributes. No AI claims, diagnosis or paid placement.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "compare",
+      "title": "Make the differences clear.",
+      "excerpt": "Up to three products. One product type. Useful facts, side by side.",
+      "description": "Up to three products. One product type. Useful facts, side by side.",
+      "checked": "2026-10-09",
+      "html": "<p>Choose Compare on a product to add it here. Select the exact pack or model before comparing prices. “Not verified” means we could not establish that fact from the checked source; it is not a negative score.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "saved",
+      "title": "A little space for your good finds.",
+      "excerpt": "Your shortlist lives in this browser, with no account required.",
+      "description": "Your shortlist lives in this browser, with no account required.",
+      "checked": "2026-10-09",
+      "html": "<p>Save products while exploring, then return here to consider them at your own pace. Clearing this site’s browser data removes the list. Other devices and private browsing sessions have separate storage.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "about",
+      "title": "A compass, not more noise.",
+      "excerpt": "Glowwise helps you understand your everyday grooming choices.",
+      "description": "Glowwise helps you understand your everyday grooming choices.",
+      "checked": "2026-10-09",
+      "html": "<h2>Good care starts with clarity.</h2><p>Grooming can become a wall of claims, price variations and routines that seem to ask for one more step. Glowwise gives you a quieter starting point: a researched product edit, readable guides and tools that explain their decisions.</p><p>We focus on the Indian market and record prices in INR for identified packs and models. Our six categories span skincare, haircare, bodycare, fragrance, beard care and grooming tools. Products are selected by purpose and preference; everyone can use the same tools.</p><h2>The people behind Glowwise</h2><p>Glowwise is published by <strong>Imagine Utopia</strong>, founded by <strong>Aakash Kumar and Disa Bandhu</strong>. This website does not claim that Imagine Utopia is an incorporated or registered business. No public address, social account or contact email is stated without verification.</p><h2>What we make—and what we don’t</h2><p>We make editorial research easier to use. You can filter a catalog, follow original guides, compare source facts and save products locally. We do not sell products, process orders, operate customer accounts or diagnose conditions. Our finder uses visible rules, rather than an AI claim or a secret score.</p><h2>Our current boundaries</h2><p>This first edit is a bounded researched selection. We have not purchased, worn or laboratory-tested the listed products. Manufacturer statements remain manufacturer statements; stock and prices can change. We tell you what we checked, what distinguishes a product and what remains uncertain.</p><p><a href=\"/how-we-select/\">Read how we select</a>, <a href=\"/disclosures/\">see our disclosures</a> or <a href=\"/contact/\">send a note</a>.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "how-we-select",
+      "title": "A considered edit. A visible method.",
+      "excerpt": "The sources, limits and decisions behind each Glowwise shortlist.",
+      "description": "The sources, limits and decisions behind each Glowwise shortlist.",
+      "checked": "2026-10-09",
+      "html": "<h2>Start with a real decision</h2><p>We research choices people actually need to make: selecting a sunscreen texture, comparing a trimmer model or finding a clearly identified perfume variant within an item budget. Each guide owns a distinct question; a product record supplies the facts that several guides or tools may use.</p><h2>Check the identified product</h2><ol><li>Use a manufacturer’s product page or official store for the current product name and model or pack.</li><li>Read the named attributes and separate factual labels from performance claims. Unknown facts stay unknown.</li><li>Record the displayed item price for the identified variant, its source URL and the check date. Delivery, postcode eligibility, coupons and future stock changes are outside that price.</li><li>Write an original explanation of the useful distinction and a specific limitation. Never convert the manufacturer’s copy into a claim that we tested it.</li><li>Recheck the record when a correction or formula change is identified. The date shows the latest recorded check, not continuous stock monitoring.</li></ol><h2>Comparison should mean something</h2><p>Only products of the same type can share a comparison: shampoo with shampoo, eau de parfum with eau de parfum, and beard trimmers with beard trimmers. Select the pack before comparing. Weight and volume are different units; we do not pretend that 180 g equals 180 ml. A smaller item price may reflect a smaller quantity.</p><h2>How the finder works</h2><p>Category and type must match exactly. A budget matches when at least one checked variant costs no more than the selected item budget. A fragrance-free or finish filter matches only an explicit recorded source attribute. Results are alphabetical, with the matched variant and reasons visible. No paid ranking or predicted personal outcome is involved.</p><h2>Budget guides use a tighter rule</h2><p>“Under ₹1,000” and “under ₹1,500” mean strictly below those amounts for the identified variant at the check date. We do not include conditional coupon savings, assume a larger pack shares a smaller pack’s price or hide an out-of-stock notice. A listed but unavailable product remains reference information, not an available-to-buy promise.</p><h2>Research, not hands-on testing</h2><p>Glowwise’s current content is desk research. We have not independently measured SPF, ingredient effects, scent longevity, battery runtime, water resistance or performance on particular skin and hair types. General care guidance links to qualified sources and stays separate from medical diagnosis or treatment.</p><h2>Visuals and commercial independence</h2><p>Our original illustrations show category ideas, not product packaging or a product photograph. Manufacturer and retailer images are not reused without established permission. We currently receive no affiliate commission, sponsored placement, gifted-product consideration or retailer payment for these records.</p><p><a href=\"/corrections/\">Report a change with a supporting source</a>. We assess the supplied evidence and update the record when warranted; a submission is not a guarantee of publication.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "contact",
+      "title": "A note, thoughtfully received.",
+      "excerpt": "Questions, feedback and privacy requests go to our private WordPress inbox.",
+      "description": "Questions, feedback and privacy requests go to our private WordPress inbox.",
+      "checked": "2026-10-09",
+      "html": "<h2>What this form does</h2><p>Your message is saved in a private inbox accessible to the site’s WordPress administrators. A successful submission returns a reference you can keep. It does not send an email confirmation, and a reply is not guaranteed. No newsletter or marketing subscription is created.</p><h2>Keep the details useful</h2><p>Include the relevant Glowwise page and a clear question. Do not submit passwords, payment information or sensitive health details. For a factual error, use the <a href=\"/corrections/\">corrections form</a> and include a supporting source.</p><h2>Access or deletion requests</h2><p>Choose a subject such as “Privacy: deletion request”, include your previous message reference and use the same reply email. Administrators must assess a matching reference and sender before releasing or deleting message data; additional confirmation may be necessary. No identity document upload is requested through this form.</p><p>Live inbox messages are removed after 90 days by the retention task while the service runs. Private recovery copies can outlast that live period until backup retention is reviewed. A deletion request includes a manual review of those copies; we do not claim that deleting the live record instantly erases every backup. Read the <a href=\"/privacy/\">privacy policy</a> before sending.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "corrections",
+      "title": "Better information is welcome.",
+      "excerpt": "Help us correct a price, formula, source or editorial mistake.",
+      "description": "Help us correct a price, formula, source or editorial mistake.",
+      "checked": "2026-10-09",
+      "html": "<h2>A correction we can check</h2><p>Please link the affected Glowwise page and a reliable supporting source, identify the exact model or pack and describe the proposed correction. A price for a different pack, delivery location or coupon offer may not replace the recorded variant price.</p><h2>Our response</h2><p>A successful submission saves a private message and returns a reference. It is not a public comment, automatic edit or email delivery. Administrators review the evidence and decide whether a record or guide needs a change. No response deadline is promised.</p><h2>What counts as evidence</h2><p>A current manufacturer specification, an official-store variant price or qualified source supporting a general care claim is more useful than an untraceable screenshot or a personal review. We do not publish unverified treatment, growth or universal-suitability claims.</p><p>For other questions or privacy requests, use <a href=\"/contact/\">Contact</a>. The same <a href=\"/privacy/\">private handling and retention rules</a> apply to correction messages.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "privacy",
+      "title": "Your choices deserve clarity.",
+      "excerpt": "How Glowwise handles browser preferences, local lists and private messages.",
+      "description": "How Glowwise handles browser preferences, local lists and private messages.",
+      "checked": "2026-10-09",
+      "html": "<p>Last updated: 9 October 2026. Publisher: Imagine Utopia, founded by Aakash Kumar and Disa Bandhu. This policy describes this website’s implemented behaviour; it has not received legal review.</p><h2>Browsing and infrastructure</h2><p>The site runs on an Azure virtual machine behind Cloudflare. Network services necessarily process requests, including IP addresses, request paths and technical headers, to deliver and protect the website. Hosting and security services can hold operational records under their own service controls. We do not claim browsing is anonymous to those providers.</p><p>Glowwise does not run an analytics, advertising, session-replay or newsletter service. Contact message text is never added to analytics events. Static resources and licensed fonts are self-hosted.</p><h2>Lists stored in your browser</h2><p>Saved products and comparison selections are stored locally using product identifiers and selected variants. They do not create an account or sync to another device. To display the list, the browser requests the selected public product records from Glowwise; request logs may therefore contain product identifiers, but never a stored contact message.</p><p>Clear your saved list, clear the comparison or remove this site’s browser data to delete those local records. If storage is unavailable, the tools explain that a temporary selection cannot persist.</p><h2>Consent preferences</h2><p>Cookie settings record whether you accept an optional analytics preference. No analytics service is currently enabled, so accepting that preference does not start tracking. Rejecting or withdrawing it leaves essential browsing, saved products, comparisons and form security available. Reopen Cookie settings in any footer to change the preference.</p><h2>Private forms</h2><p>We collect the name, reply email, subject and message you submit. Corrections also include the affected page and supporting source. A reference and received/expiry timestamps help administrators handle the message. A short-lived essential cookie and matching signed form token protect submissions. The browser sends the token and the form fields to this site; they are not published in a public URL.</p><p>Validation, a hidden spam field and a connection-based limit help prevent abuse. Rate-control keys use a salted hash of the connection IP and hour, retained for up to two hours; the original IP is not stored in the inbox record. Network providers may separately process IP addresses.</p><h2>Who can access messages</h2><p>Only WordPress administrators with the required management capability can access the private inbox. Messages are excluded from public REST interfaces, search, product exports and sitemaps. No email notification or automated reply is configured. We do not sell message data or add senders to marketing lists.</p><h2>Retention and deletion</h2><p>Live messages expire after 90 days and are permanently removed by the scheduled retention task while the server runs. Shutdown may delay the task until the next start. Administrators can delete a live message earlier after verifying an appropriate request.</p><p>Restricted recovery backups may contain older message records. They are retained for recovery and are subject to manual lifecycle review, rather than an unsupported claim of immediate erasure. A deletion request includes a review of affected backup copies before it is treated as complete. Copies retained temporarily for recovery must not be restored into active use without applying recorded deletions. There is no claim of an automatic 90-day backup erasure.</p><h2>Request access or deletion</h2><p>Use <a href=\"/contact/\">Contact</a>, state “Privacy request” in the subject and include your prior reference using the same reply email. We must verify the request before releasing private data or deleting someone else’s record. Please avoid sensitive identity documents. A successful form receipt confirms storage, not that the request has already been fulfilled.</p><h2>External destinations and changes</h2><p>Retailer and research links lead to other websites with their own privacy and commercial terms. Glowwise does not control their checkout or tracking. This policy will be updated if the website’s behaviour changes; optional services must receive an appropriate consent review before activation.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "terms",
+      "title": "Use the edit thoughtfully.",
+      "excerpt": "The practical boundaries of Glowwise’s research and tools.",
+      "description": "The practical boundaries of Glowwise’s research and tools.",
+      "checked": "2026-10-09",
+      "html": "<p>Last updated: 9 October 2026. Glowwise is published by Imagine Utopia. These terms describe the current website and have not received legal review.</p><h2>Information, rather than a transaction</h2><p>Glowwise provides editorial product research and browser tools. We do not sell products, take payments, process returns or maintain customer accounts. Buying through a retailer link creates a relationship with that retailer under its own terms.</p><h2>Facts can change</h2><p>Prices and availability describe an identified variant at the recorded check date. Delivery costs, postcode availability, promotions, formulations and prices can change. Check the current retailer page and product label before relying on them. Unknown attributes and source limitations are deliberately visible.</p><h2>Personal suitability</h2><p>Guides are general educational information, not medical diagnosis, treatment or an assurance that a product is suitable for you. Manufacturer claims are not independent performance tests by Glowwise. Seek qualified advice for persistent or serious concerns and follow model-specific safety instructions.</p><h2>Use the tools fairly</h2><p>Do not submit abusive, unlawful, deceptive or sensitive private material through forms, attempt to access the private inbox or interfere with the website. The finder follows explicit catalog rules; saved lists depend on your browser storage and cannot be recovered from an account.</p><h2>Content and rights</h2><p>Glowwise editorial writing and original illustrations are created for this website. Third-party product names identify the relevant products; their brands and trademarks remain with their respective owners. Licensed fonts and software retain their licences. No affiliation is implied by listing a product or linking a source.</p><h2>Questions or corrections</h2><p><a href=\"/contact/\">Contact us</a> for a website question or use <a href=\"/corrections/\">Corrections</a> to supply evidence of a factual change. See <a href=\"/privacy/\">Privacy</a> for message handling and <a href=\"/disclosures/\">Disclosures</a> for commercial arrangements.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "cookies-and-storage",
+      "title": "Your browser, your choices.",
+      "excerpt": "What is stored, why it is used and how to change your preference.",
+      "description": "What is stored, why it is used and how to change your preference.",
+      "checked": "2026-10-09",
+      "html": "<p>Last updated: 9 October 2026. No analytics service is enabled on Glowwise.</p><h2>Essential browser storage</h2><ul><li><strong>Saved products — gw_saved_v1:</strong> localStorage holds selected product identifiers until you remove them or clear site data.</li><li><strong>Comparison — gw_compare_v1:</strong> localStorage holds up to three identifiers, their product type and selected variant until you clear the comparison or site data.</li><li><strong>Preferences — gw_consent_v1:</strong> localStorage holds the optional analytics preference, policy version and update time until you change it or clear site data.</li><li><strong>Form security — gw_form_guard:</strong> a Secure, HttpOnly, SameSite Strict cookie holds a signed random token for about one hour. A matching token protects contact/correction submissions.</li></ul><h2>Optional analytics</h2><p>The optional preference is inactive because no analytics provider, cookie or event collection is configured. Choosing acceptance does not send analytics requests or start analytics storage. If an optional service is later introduced, its behaviour and consent requirements must be reviewed first.</p><h2>Reject, reopen or withdraw</h2><p>Use Cookie settings in any footer. Reject optional or switch the analytics preference off and save to withdraw it. Essential functionality remains available. Clearing site data removes this preference and the local saved/comparison lists; settings will ask again on a later visit.</p><h2>If storage is blocked</h2><p>Browsing and reading still work. The interface reports when it cannot persist a local list and may retain only the current page’s temporary state. Browser privacy settings, private windows and clearing data can affect persistence. Glowwise cannot recover a local list from another device.</p><h2>Administration and security services</h2><p>WordPress sets essential login/session cookies when an administrator signs in. The protected development installation also requires access authentication. Cloudflare may process requests for delivery/security; no assertion is made that these infrastructure services never use operational security cookies.</p><p>Learn more in <a href=\"/privacy/\">Privacy</a>. Questions can be sent through <a href=\"/contact/\">Contact</a>.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "disclosures",
+      "title": "Clear about the relationship.",
+      "excerpt": "Research, product references and current commercial arrangements.",
+      "description": "Research, product references and current commercial arrangements.",
+      "checked": "2026-10-09",
+      "html": "<h2>Independent editorial research</h2><p>Glowwise is published by Imagine Utopia, founded by Aakash Kumar and Disa Bandhu. Its current catalog and guides are desk research. We have not personally tested the listed products or independently measured their performance.</p><h2>No current affiliate arrangement</h2><p>There are currently no affiliate commissions, paid product placements, sponsored guides, gifted-product arrangements or retailer payments supporting these listings. Retailer links are ordinary destinations, not an on-site checkout. Product inclusion does not imply a partnership with a brand.</p><h2>Facts and artwork</h2><p>Product names and source facts identify third-party products. Trademarks remain with their owners. Original category illustrations are explicitly labeled; they do not reproduce branded packaging or represent a photograph of the named product.</p><h2>If arrangements change</h2><p>Any future commercial relationship must be disclosed clearly where relevant and reflected on this page. It must not silently change source facts or present paid ranking as a finder result.</p><p><a href=\"/how-we-select/\">Read the editorial method</a> or <a href=\"/corrections/\">send a correction</a>.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "accessibility",
+      "title": "Designed for more ways to explore.",
+      "excerpt": "Our accessibility approach and a direct route for reporting barriers.",
+      "description": "Our accessibility approach and a direct route for reporting barriers.",
+      "checked": "2026-10-09",
+      "html": "<h2>Our target</h2><p>Glowwise aims for WCAG 2.2 Level AA through semantic structure, readable contrast, visible focus, keyboard controls, understandable labels and responsive content. This is a design and implementation target, not a certification or a claim of an independent audit.</p><h2>Using the website</h2><ul><li>A Skip to content link appears on keyboard focus.</li><li>Navigation, filters, forms and dialogs use labeled native controls. Product actions work by touch or keyboard without hover.</li><li>Content and tools share the same information on narrow and wide screens. A comparison table can scroll horizontally when needed.</li><li>Reduced-motion settings remove decorative animation. The homepage also includes a pause control for continuous motion.</li><li>Reading, product details, category navigation and the filter form do not rely on animation. Browser-local saved/comparison tools require JavaScript and provide clear explanations when storage is blocked.</li><li>Form validation and request states explain success or failure without claiming an email was sent.</li></ul><h2>Known boundaries</h2><p>Third-party retailer websites have their own accessibility behaviour. Very long comparison values may require horizontal scrolling. Browser and assistive-technology combinations differ; our implementation checks do not replace independent testing with every combination.</p><h2>Report a barrier</h2><p>Use <a href=\"/contact/\">Contact</a> with “Accessibility” in the subject. Include the page, the task you tried and, if comfortable, your browser or assistive technology. Please avoid sensitive personal information. The form saves a private message; a response deadline is not promised.</p>"
+    },
+    {
+      "kind": "page",
+      "slug": "sitemap",
+      "title": "A map of the edit.",
+      "excerpt": "Direct paths to categories, products, guides and useful tools.",
+      "description": "Direct paths to categories, products, guides and useful tools.",
+      "checked": "2026-10-09",
+      "html": "<p>This human-readable map helps you navigate Glowwise. Tool and policy pages may be excluded from search-engine indexing while still remaining available through the navigation and footer.</p>"
+    },
+    {
+      "kind": "post",
+      "slug": "shampoo-for-dry-frizzy-hair",
+      "title": "Shampoo for dry, frizzy hair: a considered starting point",
+      "excerpt": "Compare four checked shampoo packs, understand conditioning claims and choose a practical wash-day starting point.",
+      "description": "Compare four checked shampoo packs, understand conditioning claims and choose a practical wash-day starting point.",
+      "checked": "2026-10-09",
+      "category": "haircare",
+      "guide_products": [
+        "minimalist-hydrating-factors-shampoo",
+        "minimalist-maleic-shampoo",
+        "plum-coconut-peptides-shampoo",
+        "plum-avocado-argan-shampoo"
+      ],
+      "sources": [
+        "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips"
+      ],
+      "html": "<h2>Start with wash day, not a miracle claim</h2>\n<p>A shampoo has a specific job: cleaning your scalp and hair. If your lengths feel dry or frizzy, the useful question is which cleansing option fits the rest of your routine—not which bottle promises to erase every flyaway. A conditioning step, handling and your own hair texture remain part of that decision.</p>\n<p>The <a href=\"https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips\" rel=\"external noopener\">American Academy of Dermatology’s healthy-hair guidance</a> distinguishes cleaning the scalp from conditioning the lengths and advises a routine appropriate to hair type. We use that distinction as a starting point, without prescribing a universal washing frequency.</p>\n<h2>Four shampoos worth understanding</h2>\n<p>This is a small manufacturer-sourced shortlist, checked on 9 October 2026. We have not tested these shampoos on hair swatches or people. Prices belong to the exact listed pack and exclude delivery and conditional coupons.</p>\n<ul>\n<li><a href=\"/products/minimalist-hydrating-factors-shampoo/\">Minimalist Hydrating Factors 7.3% Shampoo</a>: ₹449 for 250 ml. Its manufacturer description names glycerin, betaine and sodium hyaluronate. Consider it when you want to investigate a shampoo positioned around hydration; the ingredient list does not establish how it will feel on your hair.</li>\n<li><a href=\"/products/minimalist-maleic-shampoo/\">Minimalist Maleic Bond Repair Complex 3.5% Shampoo</a>: ₹198 for 100 ml or ₹473 for 250 ml. The smaller pack lowers the first purchase cost. “Bond repair” is manufacturer positioning, rather than a repair outcome independently established by Glowwise.</li>\n<li><a href=\"/products/plum-coconut-peptides-shampoo/\">Plum Coconut Milk &amp; Peptides Shampoo</a>: ₹276 for 250 ml at the check. It also has larger single-bottle variants. Softness and shine claims are not evidence of new hair growth, and the product name alone cannot tell you its personal suitability.</li>\n<li><a href=\"/products/plum-avocado-argan-shampoo/\">Plum Avocado &amp; Argan Frizz Control Shampoo</a>: ₹356 for 250 ml. The brand’s frizz-control positioning makes it a relevant formula family to compare, but we have not measured frizz reduction or assessed its feel in Indian humidity.</li>\n</ul>\n<h2>Compare the quantity as well as the price</h2>\n<p>A ₹198 bottle and a ₹276 bottle do not necessarily represent the same amount of shampoo. In this check, the first is 100 ml and the second is 250 ml. Divide the item price by volume only when both quantities are expressed in the same unit. Delivery can also change the actual amount you pay.</p>\n<p>A smaller bottle can be sensible when trying a new format. A larger bottle may lower cost per volume once you already know you like it. Neither calculation proves that one formula is better. Use <a href=\"/compare/\">Compare</a> to place the identified variants side by side, rather than choosing purely from the headline price.</p>\n<h2>What to look for in your own routine</h2>\n<ol><li>Separate scalp needs from the feel of your lengths. An oily scalp and dry ends need not be treated as contradictory observations.</li><li>Read the current full label, especially if you already know an ingredient or fragrance does not suit you. We have not verified fragrance-free status for these four records.</li><li>Change one purchase decision at a time so you can understand your preference. Keep notes about the pack and routine you used rather than expecting an immediate universal result.</li><li>Consider whether you are comparing conditioning positioning with an active scalp shampoo. They are different reasons to buy, even though both are shampoos.</li></ol>\n<h2>What this shortlist leaves out</h2>\n<p>Our catalog also contains an active anti-dandruff shampoo, but an active scalp concern is not the same decision as an ordinary dry-length routine. We do not diagnose flaking, persistent itching or hair loss. Seek qualified advice for continuing scalp problems rather than interpreting a shopping guide as treatment.</p>\n<p>The list is not a market-wide “best” ranking. We selected identifiable packs whose manufacturer information could be followed, and kept performance language attributed to those manufacturers. Product photographs have not been reused; our illustrations represent the category.</p>\n<h2>A practical next step</h2>\n<p>Open the <a href=\"/categories/haircare/\">haircare edit</a>, compare two shampoos of the same type and choose the pack you would actually buy. The <a href=\"/finder/?category=haircare&amp;type=shampoo\">finder</a> can narrow the catalog by item budget. Its reasons explain a factual match, not a prediction of smoother hair.</p>\n"
+    },
+    {
+      "kind": "post",
+      "slug": "sunscreen-for-oily-skin",
+      "title": "Sunscreen for oily skin: protection, finish and a useful shortlist",
+      "excerpt": "Compare identified sunscreen variants, verified finish labels and protection information without a hidden performance score.",
+      "description": "Compare identified sunscreen variants, verified finish labels and protection information without a hidden performance score.",
+      "checked": "2026-10-09",
+      "category": "skincare",
+      "guide_products": [
+        "plum-green-tea-zinc-spf-50",
+        "minimalist-light-fluid-spf-50",
+        "plum-rice-water-spf-50",
+        "minimalist-spf-50"
+      ],
+      "sources": [
+        "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/choosing-right-sunscreen",
+        "https://www.aad.org/public/everyday-care/skin-care-basics/dry/oily-skin",
+        "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen"
+      ],
+      "html": "<h2>Texture matters, but protection comes first</h2>\n<p>When sunscreen feels uncomfortable, comparing the finish and format is useful. A matte label may matter to you, but it should sit alongside the protection information and directions—not replace them. The <a href=\"https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/choosing-right-sunscreen\" rel=\"external noopener\">American Academy of Dermatology recommends broad-spectrum SPF 30 or higher and water resistance</a>. Check those properties and the current pack directions before making texture your deciding factor.</p>\n<p>For oily skin, the AAD’s <a href=\"https://www.aad.org/public/everyday-care/skin-care-basics/dry/oily-skin\" rel=\"external noopener\">oily-skin guidance</a> discusses oil-free or non-comedogenic product labeling. Such a label helps build a shortlist; it does not guarantee that an individual will never experience a breakout or irritation.</p>\n<h2>Four different starting points</h2>\n<p>These manufacturer-sourced records were checked on 9 October 2026. We did not test SPF, white cast, oil control or performance during outdoor wear. All prices are for the identified variant before delivery.</p>\n<ul><li><a href=\"/products/plum-green-tea-zinc-spf-50/\">Plum Green Tea &amp; Zinc SPF 50 Gel</a>: ₹359 for 50 g or ₹239 for 30 g. The manufacturer labels it SPF 50 PA++++, fragrance free and matte. This is the clearest finish-based match in our current edit when you specifically request a matte sunscreen.</li>\n<li><a href=\"/products/minimalist-light-fluid-spf-50/\">Minimalist Light Fluid SPF 50</a>: ₹314 for 30 ml or ₹449 for 50 ml. The source describes a natural finish, fragrance-free formulation and water resistance. “Natural” is a different label from “matte”; we have not established which feels better on your skin.</li>\n<li><a href=\"/products/plum-rice-water-spf-50/\">Plum 2% Niacinamide &amp; Rice Water SPF 50</a>: ₹239 for 30 g and ₹336 for 50 g at the check. SPF 50 PA++++ and fragrance-free status are manufacturer labels. The named ingredient does not prove a particular change in your skin.</li>\n<li><a href=\"/products/minimalist-spf-50/\">Minimalist SPF 50 Sunscreen</a>: ₹224 for 30 g or ₹359 for 50 g. Several identified pack sizes make budget selection clear. We have not verified a particular finish for this record, so it cannot pass our matte or natural-finish filter.</li></ul>\n<h2>Unknown is useful information</h2>\n<p>If a source does not establish a finish, water-resistance detail or other attribute, we do not fill the gap with a guess. This is why a product can appear in Explore yet disappear when you choose a verified finish. It has not been rated worse; the requested fact simply was not verified.</p>\n<p>Likewise, “no white cast” is a manufacturer claim that may not describe every skin tone or amount applied. A tinted option introduces another decision: whether the tint suits you. Our product pages distinguish the recorded label from a personal wear test.</p>\n<h2>Make the shortlist practical</h2>\n<ol><li>Choose the pack you would buy. A 30 g item can fit your budget even if the 80 g variant does not.</li><li>Follow the current protection and application directions. Check reapplication and water-resistance instructions rather than interpreting a water-resistant label as all-day protection.</li><li>Compare finish preferences separately from ingredient names. Two SPF 50 products may still have different formats and an unknown finish.</li><li>Revisit the retailer for current stock, delivery and the full ingredient list before purchase.</li></ol>\n<p>For application guidance, consult the AAD’s <a href=\"https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen\" rel=\"external noopener\">sunscreen application resource</a>. Persistent irritation or a skin condition calls for qualified advice, not a finder result.</p>\n<h2>Use the tools without a hidden score</h2>\n<p>Open <a href=\"/explore/?category=skincare&amp;type=sunscreen\">the sunscreen catalog</a> and request a verified matte finish if that is your preference. The <a href=\"/finder/?category=skincare&amp;type=sunscreen\">finder</a> applies exact labels and your item budget, then keeps results alphabetical. Save a pair and use <a href=\"/compare/\">Compare</a> to inspect the variant price, known attributes and limitations. The tool does not predict acne, diagnose oily skin or claim that a more expensive product is automatically better.</p>\n"
+    },
+    {
+      "kind": "post",
+      "slug": "perfumes-under-1000",
+      "title": "Perfumes under ₹1,000: the checked 20 ml edit",
+      "excerpt": "Six identified eau de parfum variants, actual item prices and visible stock limitations for an honest fragrance shortlist.",
+      "description": "Six identified eau de parfum variants, actual item prices and visible stock limitations for an honest fragrance shortlist.",
+      "checked": "2026-10-09",
+      "category": "fragrance",
+      "guide_products": [
+        "skinn-raw-20ml",
+        "skinn-steele-20ml",
+        "skinn-celeste-20ml",
+        "skinn-sheer-20ml",
+        "skinn-nude-20ml",
+        "skinn-verge-20ml"
+      ],
+      "sources": [
+        "https://www.skinn.in/shop/20ml-perfumes",
+        "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html"
+      ],
+      "html": "<h2>A budget is only useful when the bottle is identified</h2>\n<p>A perfume name can cover several sizes, concentrations or gift sets. For this guide, “under ₹1,000” means the identified single item was strictly below ₹1,000 when checked on 9 October 2026. It excludes delivery and any conditional coupon. A price for 20 ml does not put the 50 ml bottle in the same budget.</p>\n<p>Our starting edit uses six distinct SKINN eau de parfum fragrance families in their 20 ml variants. They are genuine official-store destinations, rather than unverified marketplace sellers or decants. The narrow brand coverage is a research boundary, not a claim that other brands are inferior. We have not worn these perfumes or measured longevity.</p>\n<h2>The checked 20 ml edit</h2>\n<div class=\"table-wrap\"><table><thead><tr><th>Fragrance</th><th>Identified variant</th><th>Checked item price</th><th>Availability note</th></tr></thead><tbody>\n<tr><td><a href=\"/products/skinn-raw-20ml/\">SKINN Raw</a></td><td>20 ml EDP</td><td>₹596</td><td>Listed for purchase; delivery needs a postcode</td></tr>\n<tr><td><a href=\"/products/skinn-steele-20ml/\">SKINN Steele</a></td><td>20 ml EDP</td><td>₹596</td><td>Confirm current stock at the store</td></tr>\n<tr><td><a href=\"/products/skinn-celeste-20ml/\">SKINN Celeste</a></td><td>20 ml EDP</td><td>₹556</td><td>Confirm current stock at the store</td></tr>\n<tr><td><a href=\"/products/skinn-sheer-20ml/\">SKINN Sheer</a></td><td>20 ml EDP</td><td>₹556</td><td>Confirm current stock at the store</td></tr>\n<tr><td><a href=\"/products/skinn-nude-20ml/\">SKINN Nude</a></td><td>20 ml EDP</td><td>₹556</td><td>Confirm current stock at the store</td></tr>\n<tr><td><a href=\"/products/skinn-verge-20ml/\">SKINN Verge</a></td><td>20 ml EDP</td><td>₹556</td><td>Out of stock at the check</td></tr>\n</tbody></table></div>\n<p>The figures came from the <a href=\"https://www.skinn.in/shop/20ml-perfumes\" rel=\"external noopener\">official SKINN 20 ml listing</a> and the identified product destinations. Verge’s price is retained as reference information; an out-of-stock listing is not an available-to-buy recommendation. The larger bottles and gift sets are outside this checked budget shortlist.</p>\n<h2>Use scent notes as directions, not a verdict</h2>\n<p>For <a href=\"https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html\" rel=\"external noopener\">Raw’s identified variant</a>, the manufacturer describes an opening of bergamot, watery fruits and mandarin. The official category material describes grapefruit and ginger for Celeste, pear and strawberry for Sheer, and lychee and raspberry for Nude. Those descriptions are useful vocabulary for investigating a preference, not firsthand impressions written by Glowwise.</p>\n<p>We leave unverified note details unknown for other records. A note list also does not establish how long the scent lasts, how far it projects, how it behaves on your skin or whether it feels appropriate in a shared workplace. “Fresh”, “warm” and “sweet” are starting questions to explore through a sample or store visit when possible.</p>\n<h2>Think about the real first purchase</h2>\n<p>A small bottle lowers the total item cost and takes less storage space, but may have a different cost per millilitre from a larger bottle. You need not maximize quantity when you are unsure whether you like the fragrance. Compare the actual 20 ml variant, delivery charges and retailer return terms before buying.</p>\n<p>The manufacturer markets some fragrances for men and others for women. You can use those labels to find the correct source product, while choosing a scent by your own preferences. Our catalog does not restrict saving, finding or comparing based on gender.</p>\n<h2>What the guide cannot tell you</h2>\n<p>We do not have a tested “longest lasting” winner, an invented review score or a claim that these are the best perfumes in India. We also cannot authenticate a different seller’s stock through an official-store price. Follow the genuine destination, check the current variant and make your own decision about scent tolerance.</p>\n<p>Use <a href=\"/explore/?category=fragrance&amp;type=eau-de-parfum&amp;max-price=999\">the fragrance edit within ₹999</a> as a practical starting point, then compare up to three eau de parfum records. Save the possibilities you want to smell before deciding. The <a href=\"/how-we-select/\">selection method</a> explains why a budget match is a source fact, rather than an endorsement of personal fit.</p>\n"
+    },
+    {
+      "kind": "post",
+      "slug": "body-lotion-for-dry-skin",
+      "title": "Body lotion for dry skin: comfort, scent and clear choices",
+      "excerpt": "Compare a fragrance-free starting point with scented alternatives, keeping pack units and personal tolerance visible.",
+      "description": "Compare a fragrance-free starting point with scented alternatives, keeping pack units and personal tolerance visible.",
+      "checked": "2026-10-09",
+      "category": "bodycare",
+      "guide_products": [
+        "minimalist-niacinamide-body-lotion",
+        "plum-vanilla-caramello-lotion",
+        "plum-hawaiian-rumba-lotion"
+      ],
+      "sources": [
+        "https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin",
+        "https://beminimalist.co/products/niacinamide-05-body-lotion"
+      ],
+      "html": "<h2>Comfort before a long list of claims</h2>\n<p>A useful body-lotion choice begins with what you can comfortably use. Fragrance preference, pack size and a formulation’s stated ingredients are practical details. They are different questions from whether a product can treat a skin condition or deliver a result for everyone.</p>\n<p>The <a href=\"https://www.aad.org/public/everyday-care/skin-care-basics/dry/dermatologists-tips-relieve-dry-skin\" rel=\"external noopener\">American Academy of Dermatology’s dry-skin guidance</a> recommends applying moisturizer after washing and discusses fragrance-free options, with creams or ointments often more useful than lotions for very dry skin. This guide compares lotions as a shopping decision; it is not a treatment plan.</p>\n<h2>A fragrance-free starting point</h2>\n<p><a href=\"/products/minimalist-niacinamide-body-lotion/\">Minimalist Niacinamide 5% Body Lotion</a> was ₹269 for an identified 180 g pack on 9 October 2026. The <a href=\"https://beminimalist.co/products/niacinamide-05-body-lotion\" rel=\"external noopener\">manufacturer’s page</a> labels it fragrance free and names ingredients including glycerin and shea butter. That makes it a useful record when your explicit preference is a fragrance-free lotion.</p>\n<p>These facts do not establish that it will suit every person with dry or sensitive skin. We have not tested its absorption, feel, barrier effects or duration of comfort. It also comes in a weight-based pack: 180 g must not be silently converted into 180 ml for a volume-price comparison.</p>\n<h2>When scent is part of your preference</h2>\n<p>Our other body-lotion records include Plum BodyLovin’s <a href=\"/products/plum-vanilla-caramello-lotion/\">Vanilla Caramello</a>, <a href=\"/products/plum-vanilla-vibes-lotion/\">Vanilla Vibes</a>, <a href=\"/products/plum-hawaiian-rumba-lotion/\">Hawaiian Rumba</a>, <a href=\"/products/plum-tropic-lotion/\">Tropic of Discussion</a> and <a href=\"/products/plum-hazelnut-lotion/\">Hazelnut Eclair</a> families. These are fragranced alternatives, not substitutes for a verified fragrance-free requirement.</p>\n<p>At the check, their identified 400 ml items ranged from ₹385 to ₹436: Vanilla Caramello ₹385, Vanilla Vibes ₹436, Hawaiian Rumba ₹420, Tropic of Discussion ₹396 and Hazelnut Eclair ₹396. Delivery and future promotions are separate. We did not measure scent duration or rank the lotions by moisturizing performance.</p>\n<p>If fragrance has irritated your skin before, do not choose a scented product merely because its item price is lower. If you enjoy a scent and tolerate it, that is a personal preference you can weigh against the pack and retailer conditions. The site makes that distinction visible rather than treating every lotion as interchangeable.</p>\n<h2>Three comparisons that help</h2>\n<ol><li><strong>Compare requirements first.</strong> A fragrance-free label is a verifiable selection fact. A universal “sensitive-skin safe” promise is not.</li><li><strong>Compare matching units.</strong> You can calculate cost per volume between two 400 ml lotions, but a 180 g lotion requires a different comparison. Item budget still works for both.</li><li><strong>Compare the routine you will use.</strong> A product you can comfortably apply may be more useful to you than buying the largest pack before you know your preference. Read the current directions and label.</li></ol>\n<h2>When this category is too narrow</h2>\n<p>A lotion catalog does not cover every moisturizing format. If a lotion is not enough for your needs, the right next step is not necessarily adding another scented lotion. Persistent dryness, cracking, pain or recurring irritation warrants qualified advice. We do not infer a cause or recommend a medical treatment through the finder.</p>\n<p>Our <a href=\"/categories/bodycare/\">bodycare edit</a> is deliberately small and source-traceable. It does not represent an exhaustive comparison of all Indian-market lotions, and none of these products was independently tested by Glowwise.</p>\n<h2>Use the shortlist honestly</h2>\n<p>Apply a <a href=\"/explore/?type=body-lotion&amp;fragrance-free=yes\">verified fragrance-free filter</a> if that is a requirement. If fewer products remain, the tool is showing the boundary of our evidence. It will not invent a matching attribute to fill the screen. For a broader preference, compare the identified variants and check the retailer before purchase.</p>\n"
+    },
+    {
+      "kind": "post",
+      "slug": "face-wash-for-sensitive-skin",
+      "title": "Face wash for sensitive skin: a simpler, source-checked shortlist",
+      "excerpt": "Two fragrance-free cleanser records, different pack sizes and clear limits on what gentle-label claims can tell you.",
+      "description": "Two fragrance-free cleanser records, different pack sizes and clear limits on what gentle-label claims can tell you.",
+      "checked": "2026-10-09",
+      "category": "skincare",
+      "guide_products": [
+        "minimalist-b12-oat-cleanser",
+        "minimalist-aquaporin-cleanser"
+      ],
+      "sources": [
+        "https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101",
+        "https://beminimalist.co/products/oat-extract-06-gentle-cleanser",
+        "https://beminimalist.co/products/aquaporin-booster-05-cleanser"
+      ],
+      "html": "<h2>Make the decision simpler, not more confident than the evidence</h2>\n<p>“Sensitive skin” is a reason to be careful about assumptions. A cleanser’s gentle or fragrance-free label can help you investigate a product, but it cannot guarantee your personal tolerance. A shopping guide cannot diagnose why your skin feels uncomfortable.</p>\n<p>The <a href=\"https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101\" rel=\"external noopener\">American Academy of Dermatology’s face-washing guidance</a> recommends gentle cleansing with lukewarm water and fingertips, without scrubbing. We use that basic distinction to separate ordinary cleansing from an unnecessary search for the strongest active formula.</p>\n<h2>Two source-labeled fragrance-free options</h2>\n<p>These records were checked on 9 October 2026. Both prices are for the identified item before delivery. We have not assessed cleanser performance, irritation rates, makeup removal or results on volunteers.</p>\n<ul><li><a href=\"/products/minimalist-b12-oat-cleanser/\">Minimalist B12 + Oat Extract 6.5% Gentle Cleanser</a>: ₹269 for 120 ml. The <a href=\"https://beminimalist.co/products/oat-extract-06-gentle-cleanser\" rel=\"external noopener\">current manufacturer page</a> describes a low-foaming gel-cream cleanser, labels it fragrance free and lists pH 5.5–6.5. Its older URL contains “06”; we record the current 6.5% product name rather than silently reusing an older name.</li>\n<li><a href=\"/products/minimalist-aquaporin-cleanser/\">Minimalist Aquaporin Booster 5% Cleanser</a>: ₹269 for 100 ml. The <a href=\"https://beminimalist.co/products/aquaporin-booster-05-cleanser\" rel=\"external noopener\">manufacturer</a> labels it fragrance free and lists pH 5.5. Hydration and gentleness remain source claims; we have not confirmed how it feels for an individual user.</li></ul>\n<h2>Same item price, different identified packs</h2>\n<p>At this check the two items both cost ₹269, but one contains 120 ml and the other 100 ml. The difference is worth seeing without turning it into a performance ranking. On a same-unit calculation, that is about ₹224.17 per 100 ml for the 120 ml pack, versus ₹269 per 100 ml for the 100 ml pack. Delivery and future prices can change the actual comparison.</p>\n<p>That arithmetic does not determine tolerance, texture preference or whether you will finish the pack. It simply prevents a misleading comparison between equally priced bottles of different sizes. Select the correct variant in <a href=\"/compare/\">Compare</a> and read each product’s limitations.</p>\n<h2>Why an active cleanser is not the default here</h2>\n<p>The same catalog includes a salicylic-acid/LHA cleanser and a rice-water/niacinamide face wash. Their presence in the cleanser category does not make them automatic sensitive-skin recommendations. An ingredient name, a brightening claim or a low item price is not evidence of suitability for already irritated skin.</p>\n<p>Our verified-attribute filter only uses explicit recorded facts. An unknown fragrance-free status does not pass the fragrance-free filter. It is not interpreted as proof that the product contains fragrance, either; unknown is a distinct state.</p>\n<h2>Read the label in context</h2>\n<ol><li>Check the current formulation and your known sensitivities. A fragrance-free statement is one attribute, not a complete personal safety assessment.</li><li>Do not infer that low foaming means inadequate cleansing, or that stronger foaming means a better result. We have not tested removal performance for these records.</li><li>Avoid changing several product decisions at once if it makes your own preference harder to understand. Keep track of the exact product and pack you considered.</li><li>If irritation continues or you have a diagnosed condition, obtain qualified advice rather than relying on a category label.</li></ol>\n<h2>A small shortlist with visible boundaries</h2>\n<p>This guide has two checked starting options from one brand; it is not an exhaustive ranking of every gentle cleanser, and we do not invent a price for another brand to broaden the table. Other products can be considered when their exact current variant and claims are verified.</p>\n<p>Open the <a href=\"/explore/?type=face-cleanser&amp;fragrance-free=yes\">fragrance-free cleanser edit</a>, save the products you want to investigate and follow the linked full manufacturer information. For the next routine decision, read the separate <a href=\"/guides/sunscreen-for-oily-skin/\">sunscreen guide</a> rather than expecting a face wash to perform every skincare function.</p>\n"
+    },
+    {
+      "kind": "post",
+      "slug": "beard-oil-benefits",
+      "title": "Beard-oil benefits: conditioning without growth promises",
+      "excerpt": "Understand the conditioning role, compare two checked oil packs and separate manufacturer growth language from evidence.",
+      "description": "Understand the conditioning role, compare two checked oil packs and separate manufacturer growth language from evidence.",
+      "checked": "2026-10-09",
+      "category": "beard-grooming",
+      "guide_products": [
+        "beardo-godfather-oil",
+        "beardo-beard-hair-oil"
+      ],
+      "sources": [
+        "https://www.aad.org/public/everyday-care/skin-care-secrets/face/healthy-beard",
+        "https://beardo.in/products/beardo-godfather-beard-oil",
+        "https://beardo.in/products/beardo-beard-and-hair-growth-oil"
+      ],
+      "html": "<h2>Conditioning is a clearer goal than promised growth</h2>\n<p>The most useful way to think about beard oil is as an optional grooming and conditioning step. That is a different question from whether an oil creates new beard growth. Product names and marketing language should not blur the distinction.</p>\n<p>The <a href=\"https://www.aad.org/public/everyday-care/skin-care-secrets/face/healthy-beard\" rel=\"external noopener\">American Academy of Dermatology’s beard-care guidance</a> distinguishes options according to the skin beneath a beard: beard oil for normal or dry skin, a beard conditioner for acne-prone skin and a gentle moisturizer for sensitive skin. This does not mean oil is necessary or appropriate for everyone.</p>\n<h2>What a beard-oil record can usefully tell you</h2>\n<p>You can verify the product name, pack size, manufacturer purpose and current price. You can read the ingredients and directions for yourself. Those facts help you decide whether to investigate a format; they do not establish softness, absorption, acne outcomes or growth on your own skin.</p>\n<p>A pleasant scent is also a personal preference, rather than a care requirement. We have not verified fragrance-free status for the two oils below. They therefore do not pass the site’s verified fragrance-free filter.</p>\n<h2>The checked pair</h2>\n<ul><li><a href=\"/products/beardo-godfather-oil/\">Beardo Godfather Beard Oil</a>: ₹299 for an identified 30 ml variant, checked on 9 October 2026. It gives you a smaller oil pack to consider as a conditioning purchase. We do not present its branding as a measured result.</li>\n<li><a href=\"/products/beardo-beard-hair-oil/\">Beardo Beard &amp; Hair Growth Oil</a>: ₹499 for the identified 50 ml variant. “Growth” is part of the manufacturer’s product name. Glowwise has not verified that the oil produces new beard growth and does not endorse that implication.</li></ul>\n<p>Follow the respective <a href=\"https://beardo.in/products/beardo-godfather-beard-oil\" rel=\"external noopener\">Godfather source</a> and <a href=\"https://beardo.in/products/beardo-beard-and-hair-growth-oil\" rel=\"external noopener\">50 ml oil source</a> for current directions, ingredients and stock. Conditional offers, multi-packs and delivery are outside the recorded item prices.</p>\n<h2>The budget difference is mostly a quantity question</h2>\n<p>The ₹299 and ₹499 items are not the same volume. The first works out to about ₹996.67 per 100 ml; the second to ₹998 per 100 ml at the check. They have different identities and may have different formulations, so the calculation is a price comparison, not evidence that the oils perform alike.</p>\n<p>If you are unsure about the format, a smaller total purchase can matter more than optimizing cost per volume. If you already know your preference, check the current larger-pack and retailer terms. In either case, do not pay for an unverified growth promise merely because it appears in a name.</p>\n<h2>Choose care for the skin beneath</h2>\n<p>Beard care involves more than applying oil. The AAD guidance includes gentle washing and considering an appropriate conditioner or moisturizer. It is useful to read the skin-type distinctions in that source before assuming that the same oil step belongs in every routine.</p>\n<p>Persistent itch, bumps, irritation or other skin concerns should be assessed by a qualified professional. The finder does not interpret those symptoms, and our catalog does not offer an oil as treatment. Follow the current product directions and avoid treating an editorial shortlist as a safety guarantee.</p>\n<h2>Benefits we do not claim</h2>\n<p>We have not measured faster growth, filled patches, changed beard density, repaired a condition or established a universal “best oil”. We have not personally applied these products. A clear label or a source claim is still useful information when the boundary is visible.</p>\n<p>Use <a href=\"/explore/?type=beard-oil\">the beard-oil edit</a> and <a href=\"/compare/\">Compare</a> for the factual pair. If shaping is the decision you actually need to make, the separate <a href=\"/guides/trimmers-under-1500/\">trimmer guide</a> compares hardware. Oil and a trimmer cannot share a same-type comparison because they solve different tasks.</p>\n"
+    },
+    {
+      "kind": "post",
+      "slug": "trimmers-under-1500",
+      "title": "Trimmers under ₹1,500: six identified models, useful differences",
+      "excerpt": "Compare checked Vega models by item price, charging, manufacturer runtime and cleaning limits, with stock notices visible.",
+      "description": "Compare checked Vega models by item price, charging, manufacturer runtime and cleaning limits, with stock notices visible.",
+      "checked": "2026-10-09",
+      "category": "grooming-tools",
+      "guide_products": [
+        "vega-power-lite",
+        "vega-power-p1",
+        "vega-smartone-s3",
+        "vega-turboone",
+        "vega-smartone-s2",
+        "vega-turbolite"
+      ],
+      "sources": [
+        "https://www.vega.co.in/men-grooming/trimmers.html",
+        "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
+        "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
+        "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html"
+      ],
+      "html": "<h2>Compare a model, not a generic trimmer promise</h2>\n<p>A budget beard trimmer is easier to assess when the model number, charging connection and cleaning instructions are visible. For this guide, “under ₹1,500” means the identified model’s listed item price was strictly below ₹1,500 on 9 October 2026. Delivery and conditional coupons are excluded.</p>\n<p>Our initial group contains six Vega beard-trimmer models. It is a bounded same-type research group, not a claim that they beat every other brand. The specifications below are manufacturer figures; Glowwise has not measured runtime, charging, cutting performance or water resistance.</p>\n<h2>The checked models</h2>\n<div class=\"table-wrap\"><table><thead><tr><th>Model</th><th>Listed item price</th><th>Claimed runtime</th><th>Check note</th></tr></thead><tbody>\n<tr><td><a href=\"/products/vega-power-lite/\">Power Lite VHTH-38</a></td><td>₹849</td><td>90 minutes</td><td>Listed for purchase</td></tr>\n<tr><td><a href=\"/products/vega-power-p1/\">Power Series P1 VHTH-25</a></td><td>₹1,019</td><td>160 minutes</td><td>Listed for purchase</td></tr>\n<tr><td><a href=\"/products/vega-smartone-s3/\">SmartOne S3 VHTH-36</a></td><td>₹1,154</td><td>160 minutes</td><td>Listed for purchase</td></tr>\n<tr><td><a href=\"/products/vega-turboone/\">TurboOne VHTH-40</a></td><td>₹879</td><td>90 minutes</td><td>Out of stock</td></tr>\n<tr><td><a href=\"/products/vega-smartone-s2/\">SmartOne S2 VHTH-31</a></td><td>₹1,154</td><td>160 minutes</td><td>Out of stock</td></tr>\n<tr><td><a href=\"/products/vega-turbolite/\">Turbolite VHTH-41</a></td><td>₹609</td><td>90 minutes</td><td>Out of stock</td></tr>\n</tbody></table></div>\n<p>The prices were displayed on the <a href=\"https://www.vega.co.in/men-grooming/trimmers.html\" rel=\"external noopener\">official Vega trimmer listing</a>; the linked model pages establish the recorded specifications and stock notices. The out-of-stock records remain useful references, but they are not presented as available purchases. Check current stock and delivery before choosing.</p>\n<h2>Three differences worth your attention</h2>\n<p><strong>Charging connection:</strong> the <a href=\"https://www.vega.co.in/vega-power-lite-beard-trimmer.html\" rel=\"external noopener\">Power Lite</a> and <a href=\"https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html\" rel=\"external noopener\">Power Series P1</a> pages specify Micro USB. The <a href=\"https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html\" rel=\"external noopener\">SmartOne S3</a> specifies Type-C USB. Verify the included cable and adapter requirements; a familiar connection can be a more practical preference than a marketing feature name.</p>\n<p><strong>Cleaning:</strong> a washable blade is not the same claim as a waterproof device. The S3 page lists IPX7; several other pages list washable blades without establishing the same whole-device rating. Follow the exact model’s instructions, disconnect power when required and do not generalize one model’s cleaning method to another.</p>\n<p><strong>Charge time and runtime:</strong> the P1 and S3 pages list 90-minute charging and 160-minute operation figures. Those are manufacturer claims, not a laboratory comparison by Glowwise. A maximum runtime number does not establish cutting comfort, battery life after prolonged ownership or a better personal result.</p>\n<h2>Read the length settings carefully</h2>\n<p>The selected group lists 40 settings over a 0.5–20 mm range. Check the model page and comb configuration before assuming that every setting works without changing attachments. A precise model number is a better basis for a manual lookup than a retailer’s broad product-family name.</p>\n<p>Start with the guard and instructions appropriate to your task. The retailer’s branding around “smart” or “AI” features does not mean Glowwise’s finder is AI, and we do not convert that branding into an independent quality rating.</p>\n<h2>Choose a practical shortlist</h2>\n<ol><li>Pick only models currently available to your delivery location, unless you are deliberately keeping an unavailable model as a reference.</li><li>Select up to three beard trimmers and inspect charging, cleaning, known charge time and the identified model.</li><li>Read warranty and return conditions on the current retailer page, including any registration or extension conditions.</li><li>Keep total item cost separate from delivery and additional charging accessories.</li></ol>\n<p>Open <a href=\"/explore/?type=beard-trimmer&amp;max-price=1499\">the trimmer edit within ₹1,499</a>, then use <a href=\"/compare/\">Compare</a>. Body trimmers, multi-grooming kits and beard oils are different product types and do not silently enter this comparison. The goal is to make a specific hardware decision clearer—not to invent a universal winner.</p>\n"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+[Unit]
+Description=Check Glowwise cost exposure every fifteen minutes
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=15min
+Persistent=true
+[Install]
+WantedBy=timers.target

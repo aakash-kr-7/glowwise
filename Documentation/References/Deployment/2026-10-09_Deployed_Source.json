@@ -1,0 +1,32 @@
+{
+  "capturedUTC": "2026-10-09T11:02:00.809456+00:00",
+  "purpose": "Selected public source byte hashes compared with actual VM working copy. No Git revision exists yet. Documentation/research/runtime/secrets excluded.",
+  "VMsource": "/srv/glowwise/source",
+  "localEqualsDeployed": true,
+  "filesSHA256": {
+    "deploy/azure/foundation.json": "cd6b48de566356c816facda5a5af2a11abad7dcf53199421c8ee79fa240bc254",
+    "deploy/host/docker-packages.lock": "6e8e7646f21c6cd7a2c18df96a2f5737f9c243a6c00f9c82544dab6ef3946757",
+    "deploy/scripts/backup.sh": "5da66f97884909a46bc9b927fad05b518eb364a5a9df755e05e65e4a5aa0001f",
+    "deploy/scripts/bootstrap-host.sh": "28af80ec8fef3a55bb55c7d26f2caa53dc283942bbc9dbf06b12d576f5491743",
+    "deploy/scripts/build-assets.sh": "c37b196d9194732ca9a7cf37059e392c9e3c91bdd8c9c5b4117955fe6caeff72",
+    "deploy/scripts/collect-evidence.sh": "c3f7f5d055257ac9fe685fa3fe459800a6371a6e1a3b4c63e69282611974e914",
+    "deploy/scripts/cost-guard.py": "bebe7e6c2e2575969b60f6e9bb258a2f495b1c63c745254e35edd938505ecfa3",
+    "deploy/scripts/glowwise-cost-guard.service": "599511d2321b8c9634b86bb44d5d9e0ab74d381e8271de617399b9057ab83e59",
+    "deploy/scripts/glowwise-cost-guard.timer": "58422dc3993ed49d241e64f8124eb80c698cd92a3e200e68d5c200f90214e1dc",
+    "deploy/scripts/glowwise-metadata-firewall.service": "aaa78d2902bca981828f5e3cd2a57dd246510c08caf35a1a72b9266d8d86918e",
+    "deploy/scripts/initialize-secrets.py": "0962caf21619d2304451aadfab5ae0adeb37cf939f575b09264e51e0de143e04",
+    "deploy/scripts/install-wordpress.py": "606cbd85f597e57fdfb553ad48e252001f97d2e614dff4bc7c8f14c2048c0cf1",
+    "deploy/scripts/protect-metadata.sh": "cfcd566f7284934447f9c26e3515f47254b60b12ca7646896cb5d0420ccefc23",
+    "deploy/scripts/verify-restore.py": "8749ce5738af7b95cb78e0646b2e3a43e82f6782555501da79b3eff4c4c8da34",
+    "deploy/stack/apache-limits.conf": "06c051e7123d3e1df2e9b4ef94609304e49f0ba3cc70de710412dafa11272d2e",
+    "deploy/stack/Caddyfile": "bd10ebbca5e6a90a3a277c9bfe5bd06557726236b9749129f8fe6385cb1e6e4a",
+    "deploy/stack/compose.yaml": "e2a3245722631b3d7f18e368b9548eb8c563f9ed9c0ef098f65d4680563ebd13",
+    "deploy/stack/images.lock.json": "f7635cebc01ae9c968511a8dee01ee61177b53e384d6e6237ed62c731d31cc33",
+    "deploy/stack/php.ini": "7e5cd2cce38a44be3871112dfa4d388a6339c4041d833125c9b252e13bc05be0",
+    "package-lock.json": "7c52eead5fff64c3b74b420a3a8cf4c84f4c64ae9143173b78b26f0af359e987",
+    "package.json": "412ba5e1edccac408a30358d30b0e5b45ef545e2f7f6cb42bdae8c387b7d6787",
+    "plugins/glowwise-core/README.md": "a6ed8fc850371d0c758412c113a0da9fe3fb288c230c2054b5e400718bef30b6",
+    "theme/glowwise/README.md": "4d88aadcebc5ab1f2f0432df347b9a2b9321d3bbadf809a206bda86c5615e627",
+    "tooling/build-assets.mjs": "a5ebc5e2483923951a266db9d2266647acc40f939cbed881d3eef1623f9ea212"
+  }
+}

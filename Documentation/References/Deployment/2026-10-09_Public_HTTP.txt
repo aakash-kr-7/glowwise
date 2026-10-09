@@ -1,0 +1,22 @@
+2026-10-09T11:09:06.1303201Z
+Purpose: ordinary system resolver curl checks; no credentials or TLS bypass.
+HTTP/1.1 401 Unauthorized
+Date: Fri, 09 Oct 2026 11:09:08 GMT
+Connection: keep-alive
+Cache-Control: private, no-store
+referrer-policy: strict-origin-when-cross-origin
+Server: cloudflare
+www-authenticate: Basic realm="restricted"
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-robots-tag: noindex, nofollow, noarchive
+cf-cache-status: DYNAMIC
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 301 Moved Permanently
+Date: Fri, 09 Oct 2026 11:09:09 GMT
+Connection: keep-alive
+Location: https://glowwise.tech/
+Server: cloudflare
+cf-cache-status: DYNAMIC
+alt-svc: h3=":443"; ma=86400

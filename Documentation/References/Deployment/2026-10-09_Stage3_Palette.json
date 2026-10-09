@@ -1,0 +1,65 @@
+{
+  "capturedUTC": "2026-10-09T13:00:32.001432+00:00",
+  "purpose": "Static sRGB token-pair calculation from actual CSS; not a rendered accessibility audit or certification",
+  "source": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+  "pairs": [
+    {
+      "foreground": "ink",
+      "background": "canvas",
+      "ratio": 10.5647,
+      "normalTextAA": true
+    },
+    {
+      "foreground": "ink-soft",
+      "background": "canvas",
+      "ratio": 7.3277,
+      "normalTextAA": true
+    },
+    {
+      "foreground": "ink-muted",
+      "background": "canvas",
+      "ratio": 5.4918,
+      "normalTextAA": true
+    },
+    {
+      "foreground": "ink",
+      "background": "accent",
+      "ratio": 6.3912,
+      "normalTextAA": true
+    },
+    {
+      "foreground": "on-brand",
+      "background": "brand",
+      "ratio": 10.5647,
+      "normalTextAA": true
+    },
+    {
+      "foreground": "success",
+      "background": "canvas",
+      "ratio": 7.3801,
+      "normalTextAA": true
+    },
+    {
+      "foreground": "danger",
+      "background": "canvas",
+      "ratio": 7.2737,
+      "normalTextAA": true
+    },
+    {
+      "foreground": "warning",
+      "background": "canvas",
+      "ratio": 6.3942,
+      "normalTextAA": true
+    },
+    {
+      "foreground": "ink-muted",
+      "background": "surface",
+      "ratio": 5.9377,
+      "normalTextAA": true
+    }
+  ],
+  "limitations": [
+    "Browser focus/reflow/screen-reader checks remain pending",
+    "Decorative borders are excluded; input borders use ink-muted for visibility"
+  ]
+}

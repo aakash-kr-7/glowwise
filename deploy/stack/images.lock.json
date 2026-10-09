@@ -1,0 +1,27 @@
+{
+  "wordpress": {
+    "tag": "7.1.3-php8.3-apache",
+    "image": "wordpress:7.1.3-php8.3-apache@sha256:8ecd8d8e374167ea22235acf30f80d1165b82f07ffa5bcef90c1cad8f7be251f",
+    "platform": "linux/amd64"
+  },
+  "mariadb": {
+    "tag": "11.4.13",
+    "image": "mariadb:11.4.13@sha256:1292844148b311e4ed4300022a996d39083f415a963e970cf47cad1b3b18e3a6",
+    "platform": "linux/amd64"
+  },
+  "caddy": {
+    "tag": "2.11.7-alpine",
+    "image": "caddy:2.11.7-alpine@sha256:d8542f48d34a9cf4e4c11a478865229840e87e4c96ea3f439101f31a5d35f75f",
+    "platform": "linux/amd64"
+  },
+  "wordpress-cli": {
+    "tag": "cli-php8.3",
+    "image": "wordpress:cli-php8.3@sha256:36243da432a0f0a3b56dc3240ecee9b159108d71305e7c064d987a20a465bfde",
+    "platform": "linux/amd64"
+  },
+  "node-build": {
+    "tag": "24.21.0-alpine",
+    "image": "node:24.21.0-alpine@sha256:ebfe2f90462722a7a4de65e91990e97fe0d401c70e0e762c5b53302f905ec1c1",
+    "platform": "linux/amd64"
+  }
+}

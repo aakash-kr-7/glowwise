@@ -1,0 +1,11 @@
+[Unit]
+Description=Block container access to Azure managed identity
+After=docker.service
+Requires=docker.service
+PartOf=docker.service
+[Service]
+Type=oneshot
+ExecStart=/bin/bash /srv/glowwise/source/deploy/scripts/protect-metadata.sh
+RemainAfterExit=true
+[Install]
+WantedBy=docker.service

@@ -1,0 +1,12 @@
+[Unit]
+Description=Glowwise lifetime exposure and operating lease guard
+After=network-online.target
+Wants=network-online.target
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /srv/glowwise/source/deploy/scripts/cost-guard.py
+User=root
+UMask=0077
+NoNewPrivileges=true
+ProtectHome=true
+PrivateTmp=true

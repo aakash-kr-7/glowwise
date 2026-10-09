@@ -1,0 +1,175 @@
+{
+  "capturedUTC": "2026-10-09T12:38:22.578041+00:00",
+  "purpose": "Actual protected WordPress routes and built assets; credentials/cookies/form bodies excluded",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "title": "Find your kind of good. | Glowwise",
+      "criticalError": false,
+      "contentBytes": 37081,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "asset": "https://glowwise.tech/wp-content/themes/glowwise/assets/dist/site.A22YZTF3.css",
+      "status": 200,
+      "contentBytes": 30177
+    },
+    {
+      "asset": "https://glowwise.tech/wp-content/themes/glowwise/assets/dist/site.6JU3OWWG.js",
+      "status": 200,
+      "contentBytes": 16969
+    },
+    {
+      "asset": "https://glowwise.tech/wp-content/themes/glowwise/assets/dist/motion.SXOEH7HN.js",
+      "status": 200,
+      "contentBytes": 116171
+    },
+    {
+      "path": "/categories/",
+      "status": 200,
+      "title": "Six categories. Your own direction. | Glowwise",
+      "criticalError": false,
+      "contentBytes": 26395,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/categories/skincare/",
+      "status": 200,
+      "title": "Skincare products and guides | Glowwise",
+      "criticalError": false,
+      "contentBytes": 40303,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/explore/",
+      "status": 200,
+      "title": "Explore grooming products in India | Glowwise",
+      "criticalError": false,
+      "contentBytes": 42499,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/explore/page/2/",
+      "status": 200,
+      "title": "Explore grooming products in India | Glowwise",
+      "criticalError": false,
+      "contentBytes": 42653,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/guides/",
+      "status": 200,
+      "title": "Grooming guides for everyday decisions | Glowwise",
+      "criticalError": false,
+      "contentBytes": 28803,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/guides/face-wash-for-sensitive-skin/",
+      "status": 200,
+      "title": "Face wash for sensitive skin: a simpler, source-checked shortlist | Glowwise",
+      "criticalError": false,
+      "contentBytes": 37464,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/finder/",
+      "status": 200,
+      "title": "Find your fit. | Glowwise",
+      "criticalError": false,
+      "contentBytes": 27051,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/compare/",
+      "status": 200,
+      "title": "Make the differences clear. | Glowwise",
+      "criticalError": false,
+      "contentBytes": 24869,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/saved/",
+      "status": 200,
+      "title": "A little space for your good finds. | Glowwise",
+      "criticalError": false,
+      "contentBytes": 24930,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/contact/",
+      "status": 200,
+      "title": "A note, thoughtfully received. | Glowwise",
+      "criticalError": false,
+      "contentBytes": 27401,
+      "canonical": [],
+      "robots": [
+        "<meta name='robots' content='noindex, nofollow' />"
+      ],
+      "footerPresent": true,
+      "privateNoStore": true
+    },
+    {
+      "path": "/wp-json/glowwise/v1/products",
+      "status": 200,
+      "title": null,
+      "criticalError": false,
+      "contentBytes": 20965,
+      "canonical": [],
+      "robots": [],
+      "footerPresent": false,
+      "privateNoStore": true
+    }
+  ]
+}

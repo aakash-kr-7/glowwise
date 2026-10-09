@@ -1,0 +1,9 @@
+[Unit]
+Description=Run due WordPress events including private inbox retention
+After=docker.service
+Requires=docker.service
+[Service]
+Type=oneshot
+WorkingDirectory=/srv/glowwise/source/deploy/stack
+ExecStart=/usr/bin/docker compose run --rm --no-deps wpcli cron event run --due-now
+TimeoutStartSec=180

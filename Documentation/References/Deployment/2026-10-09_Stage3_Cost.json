@@ -1,0 +1,10 @@
+{
+  "capturedUTC": "2026-10-09T13:36:31.304835+00:00",
+  "purpose": "Existing cost-guard readback; delayed Azure feed is not zero consumption",
+  "guard": {
+    "checked": "2026-10-09T13:23:32.088550+00:00",
+    "modeledUSD": 0.1994,
+    "reportedUSD": 0,
+    "totalTx": 164730548
+  }
+}

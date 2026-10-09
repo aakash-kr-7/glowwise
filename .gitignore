@@ -1,0 +1,37 @@
+# Credentials and local-only deployment state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+.azure/
+.local/
+wp-config.php
+
+# Dependencies, generated site and persistent runtime data
+node_modules/
+__pycache__/
+*.pyc
+theme/glowwise/assets/dist/
+vendor/
+.runtime/
+backups/
+*.sql
+*.sql.gz
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Research archives need a privacy/rights review before public publication.
+# They remain intact locally; website source can be published independently.
+Reference/
+milestone_1/
+Documentation/References/
