@@ -121,9 +121,9 @@
         }
       ],
       "attributes": {
-        "fragrance-free": "unknown",
+        "fragrance-free": "yes",
         "spf": "60",
-        "uva-rating": "unknown"
+        "uva-rating": "PA++++"
       },
       "summary": "For the SPF 60 preference.",
       "strength": "This 50 g sunscreen carries SPF 60 and PA++++ labels and is fragrance-free. The brand lists Tinosorb S, Uvinul A Plus, Uvinul T 150 and titanium dioxide, with silymarin as a named additional ingredient. It costs more than the comparable 50 g SPF 50 choices in this edit.",
@@ -213,7 +213,8 @@
       "attributes": {
         "fragrance-free": "yes",
         "spf": "50",
-        "uva-rating": "PA++++"
+        "uva-rating": "PA++++",
+        "finish": "dewy"
       },
       "summary": "For a dewy finish and pack value.",
       "strength": "Plum describes this 2% niacinamide and rice-water SPF 50 PA++++ sunscreen as dewy rather than matte. It lists fragrance-free status and a four-hour water-resistance claim. The three checked sizes let you distinguish a small trial pack from the lower per-gram cost of the 80 g pack.",
@@ -247,7 +248,9 @@
       "attributes": {
         "fragrance-free": "unknown",
         "spf": "50",
-        "tint": "Manufacturer describes sheer tint"
+        "tint": "Manufacturer describes sheer tint",
+        "uva-rating": "PA++++",
+        "texture": "Lightweight fluid, manufacturer description"
       },
       "summary": "For sheer tint, after checking the shade.",
       "strength": "This is the separate 3% niacinamide and rice-water sheer-tinted SPF 50 PA++++ formulation in a 50 g pack. Its useful distinction is a light tint and sheer coverage, not simply a higher niacinamide number. Plum describes the tint as fitting many Indian skin tones; that is a brand description rather than a universal shade match.",
@@ -314,7 +317,8 @@
       ],
       "attributes": {
         "fragrance-free": "yes",
-        "ph": "5.5"
+        "ph": "5.5",
+        "texture": "Mild-foaming cleanser, manufacturer description"
       },
       "summary": "For a mild foaming preference.",
       "strength": "Aquaporin Booster 5% is the alternative for someone who prefers a mild foaming cleanser. Minimalist lists a pH of 5.5, fragrance-free status and a hydration-focused formula with glyceryl glucoside and glycerin. The word aquaporin describes the manufacturer's formulation story; Glowwise has not measured moisture transport in skin.",
@@ -353,8 +357,9 @@
         }
       ],
       "attributes": {
-        "fragrance-free": "unknown",
-        "active-description": "Salicylic acid + LHA 2%, as named by the manufacturer"
+        "fragrance-free": "yes",
+        "active-description": "Salicylic acid + LHA 2%, as named by the manufacturer",
+        "ph": "4.5–5.5"
       },
       "summary": "Conditional option for a separate exfoliation need.",
       "strength": "This fragrance-free cleanser combines salicylic acid and LHA under a 2% product label, with a published pH range of 4.5–5.5. It belongs in the comparison to show why a familiar brand and a low price do not make every cleanser the same kind of choice.",
@@ -469,7 +474,9 @@
       ],
       "attributes": {
         "fragrance-free": "unknown",
-        "formula-positioning": "Maleic Bond Repair Complex 3.5%, manufacturer naming"
+        "formula-positioning": "Maleic Bond Repair Complex 3.5%, manufacturer naming",
+        "sulphate-free": "yes",
+        "named-ingredients": "Maleic acid, transglutaminase and amino acids; manufacturer description"
       },
       "summary": "For a damage-focused routine.",
       "strength": "Maleic Bond Repair Complex 3.5% is a different brief from simply cleansing a dry scalp. The brand names maleic acid, transglutaminase and amino acids, alongside ceramide and vitamins B5 and E, and describes a sulphate-free bond-repair shampoo. Both 100 ml and 250 ml packs were listed for purchase.",
@@ -598,7 +605,8 @@
       ],
       "attributes": {
         "fragrance-free": "unknown",
-        "active-description": "0.5% salicylic acid, manufacturer product name"
+        "active-description": "0.5% salicylic acid, manufacturer product name",
+        "named-ingredients": "0.5% salicylic acid and piroctone olamine; manufacturer description"
       },
       "summary": "Conditional option when scalp flakes matter too.",
       "strength": "This is a scalp-focused shampoo with a labelled 0.5% salicylic acid concentration and piroctone olamine named by Plum. It should not be presented as just another moisturising wash. The 100 ml pack is a low-cost way to investigate the formula; 250 ml and 500 ml packs were also listed.",
@@ -769,7 +777,8 @@
       ],
       "attributes": {
         "fragrance-free": "no",
-        "scent": "Hawaiian Rumba"
+        "scent": "Fruity floral: pear, mandarin, lychee; floral heart; musk, vanilla, amber base (brand)",
+        "texture": "Gel cream, manufacturer description"
       },
       "summary": "For a fruit-and-floral scent profile.",
       "strength": "The current Hawaiian Rumba page describes a gel-cream lotion and a fragrance moving from pear, mandarin and lychee to gardenia, freesia and magnolia, with musk, vanilla and amber in the base. It is distinct from the dessert direction of Caramello and Hazelnut without claiming a different measured hydration result.",
@@ -802,7 +811,9 @@
       ],
       "attributes": {
         "fragrance-free": "no",
-        "scent": "Tropic of Discussion"
+        "scent": "Tropic of Discussion",
+        "texture": "Gel cream, manufacturer description",
+        "named-ingredients": "Hibiscus oil, pea peptide and coconut milk"
       },
       "summary": "For a tropical gel-cream preference.",
       "strength": "Tropic of Discussion is described by Plum as a lightweight gel-cream body lotion with a tropical fragrance. The brand names hibiscus oil, pea peptide and coconut milk. Its 400 ml checked price ties Hazelnut Eclair's, so the two should be chosen by texture and fragrance preference rather than an invented performance difference.",
@@ -835,7 +846,8 @@
       ],
       "attributes": {
         "fragrance-free": "no",
-        "scent": "Hazelnut Eclair"
+        "scent": "Hazelnut Eclair",
+        "named-ingredients": "Cocoa butter and vitamin B5"
       },
       "summary": "For a hazelnut-and-vanilla scent preference.",
       "strength": "Hazelnut Eclair is a 400 ml body lotion with cocoa butter and vitamin B5 highlighted by Plum. The brand describes its scent through hazelnut, chocolate and vanilla. Its checked unit price is the same as Tropic of Discussion's, and lower than Hawaiian Rumba and Vanilla Vibes at this check.",
@@ -868,7 +880,8 @@
       ],
       "attributes": {
         "fragrance-free": "unknown",
-        "purpose": "Beard conditioning; no growth result verified"
+        "purpose": "Beard conditioning; no growth result verified",
+        "format": "oil"
       },
       "summary": "For a fragrant conditioning routine.",
       "strength": "Godfather is a 30 ml beard oil that Beardo positions around conditioning, shine and a fragrant grooming finish. Its single bottle was listed for purchase at this check. It is a more direct conditioning brief than buying an oil only because the name promises growth.",
@@ -901,7 +914,9 @@
       ],
       "attributes": {
         "fragrance-free": "unknown",
-        "purpose": "Oil format; growth claim not independently verified"
+        "purpose": "Oil format; growth claim not independently verified",
+        "format": "oil",
+        "named-ingredients": "Hibiscus oil, coconut oil and amla; manufacturer description"
       },
       "summary": "Larger bottle for an established routine.",
       "strength": "Beardo's Beard & Hair Growth Oil is an identified 50 ml oil, with hibiscus, coconut and amla discussed on the manufacturer's page. The useful comparison here is its larger single-bottle size and checked cost per ml, not the growth language in its name.",

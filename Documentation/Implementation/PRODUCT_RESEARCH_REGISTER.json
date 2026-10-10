@@ -1,5 +1,5 @@
 {
-  "compiledUTC": "2026-10-10T04:58:32.766715+00:00",
+  "compiledUTC": "2026-10-10T05:07:46.961949+00:00",
   "purpose": "Reviewed public facts and original editorial rationale, not raw source reproduction or live price promises",
   "method": "Desk research, no hands-on testing, no numerical scores, no affiliation",
   "coreProducts": 36,
@@ -157,9 +157,9 @@
       "type": "sunscreen",
       "checked": "2026-10-10",
       "attributes": {
-        "fragrance-free": "unknown",
+        "fragrance-free": "yes",
         "spf": "60",
-        "uva-rating": "unknown"
+        "uva-rating": "PA++++"
       },
       "variants": [
         {
@@ -267,7 +267,8 @@
       "attributes": {
         "fragrance-free": "yes",
         "spf": "50",
-        "uva-rating": "PA++++"
+        "uva-rating": "PA++++",
+        "finish": "dewy"
       },
       "variants": [
         {
@@ -331,7 +332,9 @@
       "attributes": {
         "fragrance-free": "unknown",
         "spf": "50",
-        "tint": "Manufacturer describes sheer tint"
+        "tint": "Manufacturer describes sheer tint",
+        "uva-rating": "PA++++",
+        "texture": "Lightweight fluid, manufacturer description"
       },
       "variants": [
         {
@@ -430,7 +433,8 @@
       "checked": "2026-10-10",
       "attributes": {
         "fragrance-free": "yes",
-        "ph": "5.5"
+        "ph": "5.5",
+        "texture": "Mild-foaming cleanser, manufacturer description"
       },
       "variants": [
         {
@@ -478,8 +482,9 @@
       "type": "face-cleanser",
       "checked": "2026-10-10",
       "attributes": {
-        "fragrance-free": "unknown",
-        "active-description": "Salicylic acid + LHA 2%, as named by the manufacturer"
+        "fragrance-free": "yes",
+        "active-description": "Salicylic acid + LHA 2%, as named by the manufacturer",
+        "ph": "4.5–5.5"
       },
       "variants": [
         {
@@ -642,7 +647,9 @@
       "checked": "2026-10-10",
       "attributes": {
         "fragrance-free": "unknown",
-        "formula-positioning": "Maleic Bond Repair Complex 3.5%, manufacturer naming"
+        "formula-positioning": "Maleic Bond Repair Complex 3.5%, manufacturer naming",
+        "sulphate-free": "yes",
+        "named-ingredients": "Maleic acid, transglutaminase and amino acids; manufacturer description"
       },
       "variants": [
         {
@@ -812,7 +819,8 @@
       "checked": "2026-10-10",
       "attributes": {
         "fragrance-free": "unknown",
-        "active-description": "0.5% salicylic acid, manufacturer product name"
+        "active-description": "0.5% salicylic acid, manufacturer product name",
+        "named-ingredients": "0.5% salicylic acid and piroctone olamine; manufacturer description"
       },
       "variants": [
         {
@@ -1077,7 +1085,8 @@
       "checked": "2026-10-10",
       "attributes": {
         "fragrance-free": "no",
-        "scent": "Hawaiian Rumba"
+        "scent": "Fruity floral: pear, mandarin, lychee; floral heart; musk, vanilla, amber base (brand)",
+        "texture": "Gel cream, manufacturer description"
       },
       "variants": [
         {
@@ -1126,7 +1135,9 @@
       "checked": "2026-10-10",
       "attributes": {
         "fragrance-free": "no",
-        "scent": "Tropic of Discussion"
+        "scent": "Tropic of Discussion",
+        "texture": "Gel cream, manufacturer description",
+        "named-ingredients": "Hibiscus oil, pea peptide and coconut milk"
       },
       "variants": [
         {
@@ -1175,7 +1186,8 @@
       "checked": "2026-10-10",
       "attributes": {
         "fragrance-free": "no",
-        "scent": "Hazelnut Eclair"
+        "scent": "Hazelnut Eclair",
+        "named-ingredients": "Cocoa butter and vitamin B5"
       },
       "variants": [
         {
@@ -1224,7 +1236,8 @@
       "checked": "2026-10-10",
       "attributes": {
         "fragrance-free": "unknown",
-        "purpose": "Beard conditioning; no growth result verified"
+        "purpose": "Beard conditioning; no growth result verified",
+        "format": "oil"
       },
       "variants": [
         {
@@ -1273,7 +1286,9 @@
       "checked": "2026-10-10",
       "attributes": {
         "fragrance-free": "unknown",
-        "purpose": "Oil format; growth claim not independently verified"
+        "purpose": "Oil format; growth claim not independently verified",
+        "format": "oil",
+        "named-ingredients": "Hibiscus oil, coconut oil and amla; manufacturer description"
       },
       "variants": [
         {
