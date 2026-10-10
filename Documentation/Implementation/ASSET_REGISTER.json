@@ -283,5 +283,18 @@
       "https://www.tirabeauty.com/terms-and-conditions/"
     ],
     "observation": "No new exact-product image reuse licence established. The Man Company reserves images and restricts copying; Tira reserves its content. Other terms do not establish permission for these packaging photographs. Targeted Commons search found no matching licensed candidate; fresh OBF web access robots-blocked. No paid asset, hotlink or brand outreach."
+  },
+  "demoMediaRelease": {
+    "capturedUTC": "2026-10-10T10:09:17.775948+00:00",
+    "sourceManifest": "content/demo-media-manifest.json",
+    "families": 40,
+    "picturedVariants": 54,
+    "totalVariants": 55,
+    "newNativePhotos": 53,
+    "preservedCCPhoto": 1,
+    "rights": "Owner-requested demonstration use of source-attributed brand/listing photographs. No separate reuse permission or open licence inferred. The pre-existing CC BY-SA 50 g photo is preserved.",
+    "gap": "Minimalist Maleic Shampoo 100 ml remains a disclosed fallback.",
+    "filesInPublicGit": false,
+    "evidence": "Documentation/References/Deployment/Demo_Media/acceptance.json"
   }
 }

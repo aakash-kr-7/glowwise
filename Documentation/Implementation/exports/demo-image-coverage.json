@@ -1,0 +1,976 @@
+{
+  "capturedUTC": "2026-10-10T10:09:17.775948+00:00",
+  "purpose": "Actual published public variant image metadata; no accounts or private submissions",
+  "families": 40,
+  "picturedVariants": 54,
+  "products": [
+    {
+      "id": 52,
+      "slug": "beardo-beard-hair-oil",
+      "url": "https://glowwise.tech/products/beardo-beard-hair-oil/",
+      "imageAssets": {
+        "50 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/beardo-beard-hair-oil-50ml-1024x1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/beardo-beard-hair-oil-50ml-1024x1024.webp 1024w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-beard-hair-oil-50ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-beard-hair-oil-50ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-beard-hair-oil-50ml-768x768.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-beard-hair-oil-50ml.webp 1200w",
+          "source": "https://beardo.in/products/beardo-beard-and-hair-growth-oil?variant=44769418707252",
+          "licenseUrl": "https://beardo.in/products/beardo-beard-and-hair-growth-oil?variant=44769418707252",
+          "checked": "2026-10-10",
+          "alt": "Beardo Beard & Hair Growth Oil, 50 ml, official product photograph",
+          "credit": "Photo: Beardo",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 50,
+      "slug": "beardo-godfather-oil",
+      "url": "https://glowwise.tech/products/beardo-godfather-oil/",
+      "imageAssets": {
+        "30ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/beardo-godfather-oil-30ml-1024x1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/beardo-godfather-oil-30ml-1024x1024.webp 1024w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-godfather-oil-30ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-godfather-oil-30ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-godfather-oil-30ml-768x768.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-godfather-oil-30ml.webp 1200w",
+          "source": "https://beardo.in/products/beardo-godfather-beard-oil?variant=44872228438324",
+          "licenseUrl": "https://beardo.in/products/beardo-godfather-beard-oil?variant=44872228438324",
+          "checked": "2026-10-10",
+          "alt": "Beardo Godfather Beard Oil, 30ml, official product photograph",
+          "credit": "Photo: Beardo",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 36,
+      "slug": "beardo-no-nonsense-shampoo",
+      "url": "https://glowwise.tech/products/beardo-no-nonsense-shampoo/",
+      "imageAssets": {
+        "200ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/beardo-no-nonsense-shampoo-200ml-1024x1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/beardo-no-nonsense-shampoo-200ml-1024x1024.webp 1024w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-no-nonsense-shampoo-200ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-no-nonsense-shampoo-200ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-no-nonsense-shampoo-200ml-768x768.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/beardo-no-nonsense-shampoo-200ml.webp 1200w",
+          "source": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml?variant=48678720536884",
+          "licenseUrl": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml?variant=48678720536884",
+          "checked": "2026-10-10",
+          "alt": "Beardo No Nonsense Shampoo, 200ml, official product photograph",
+          "credit": "Photo: Beardo",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 335,
+      "slug": "bombay-beard-roll-on",
+      "url": "https://glowwise.tech/products/bombay-beard-roll-on/",
+      "imageAssets": {
+        "10 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/bombay-beard-roll-on-10ml.webp",
+          "width": 1000,
+          "height": 1000,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/bombay-beard-roll-on-10ml.webp 1000w, https://glowwise.tech/wp-content/uploads/2026/10/bombay-beard-roll-on-10ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/bombay-beard-roll-on-10ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/bombay-beard-roll-on-10ml-768x768.webp 768w",
+          "source": "https://www.bombayshavingcompany.com/products/beard-growth-oil-roll-on-for-men?variant=35813327929498",
+          "licenseUrl": "https://www.bombayshavingcompany.com/products/beard-growth-oil-roll-on-for-men?variant=35813327929498",
+          "checked": "2026-10-10",
+          "alt": "Bombay Shaving Company Beard Growth Roll-on, 10 ml, official product photograph",
+          "credit": "Photo: Bombay Shaving Company",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 337,
+      "slug": "bombay-onion-beard-oil",
+      "url": "https://glowwise.tech/products/bombay-onion-beard-oil/",
+      "imageAssets": {
+        "30 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/bombay-onion-beard-oil-30ml.webp",
+          "width": 1000,
+          "height": 1000,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/bombay-onion-beard-oil-30ml.webp 1000w, https://glowwise.tech/wp-content/uploads/2026/10/bombay-onion-beard-oil-30ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/bombay-onion-beard-oil-30ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/bombay-onion-beard-oil-30ml-768x768.webp 768w",
+          "source": "https://www.bombayshavingcompany.com/products/beard-growth-oil-onion?variant=35802777288858",
+          "licenseUrl": "https://www.bombayshavingcompany.com/products/beard-growth-oil-onion?variant=35802777288858",
+          "checked": "2026-10-10",
+          "alt": "Bombay Shaving Company Onion Beard Growth Oil, 30 ml, official product photograph",
+          "credit": "Photo: Bombay Shaving Company",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 20,
+      "slug": "minimalist-aquaporin-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-aquaporin-cleanser/",
+      "imageAssets": {
+        "100 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-aquaporin-cleanser-100ml-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-aquaporin-cleanser-100ml-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-aquaporin-cleanser-100ml-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-aquaporin-cleanser-100ml-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-aquaporin-cleanser-100ml.webp 825w",
+          "source": "https://beminimalist.co/products/aquaporin-booster-05-cleanser?variant=41870498136225",
+          "licenseUrl": "https://beminimalist.co/products/aquaporin-booster-05-cleanser?variant=41870498136225",
+          "checked": "2026-10-10",
+          "alt": "Minimalist Aquaporin Booster 5% Cleanser, 100 ml, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 18,
+      "slug": "minimalist-b12-oat-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-b12-oat-cleanser/",
+      "imageAssets": {
+        "120ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-b12-oat-cleanser-120ml-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-b12-oat-cleanser-120ml-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-b12-oat-cleanser-120ml-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-b12-oat-cleanser-120ml-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-b12-oat-cleanser-120ml.webp 825w",
+          "source": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser?variant=45220519280801",
+          "licenseUrl": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser?variant=45220519280801",
+          "checked": "2026-10-10",
+          "alt": "Minimalist B12 + Oat Extract 6.5% Cleanser, 120ml, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 26,
+      "slug": "minimalist-hydrating-factors-shampoo",
+      "url": "https://glowwise.tech/products/minimalist-hydrating-factors-shampoo/",
+      "imageAssets": {
+        "250 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-hydrating-factors-shampoo-250ml-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-hydrating-factors-shampoo-250ml-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-hydrating-factors-shampoo-250ml-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-hydrating-factors-shampoo-250ml-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-hydrating-factors-shampoo-250ml.webp 825w",
+          "source": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo?variant=45928068317345",
+          "licenseUrl": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo?variant=45928068317345",
+          "checked": "2026-10-10",
+          "alt": "Minimalist Hydrating Factors 7.3% Shampoo, 250 ml, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 6,
+      "slug": "minimalist-light-fluid-spf-50",
+      "url": "https://glowwise.tech/products/minimalist-light-fluid-spf-50/",
+      "imageAssets": {
+        "30ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-30ml-683x1024.webp",
+          "width": 683,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-30ml-683x1024.webp 683w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-30ml-200x300.webp 200w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-30ml-768x1152.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-30ml.webp 800w",
+          "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483115681",
+          "licenseUrl": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483115681",
+          "checked": "2026-10-10",
+          "alt": "Minimalist Light Fluid SPF 50, 30ml, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        },
+        "50ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-50ml-710x1024.webp",
+          "width": 710,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-50ml-710x1024.webp 710w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-50ml-208x300.webp 208w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-50ml-768x1108.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-50ml.webp 832w",
+          "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483082913",
+          "licenseUrl": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483082913",
+          "checked": "2026-10-10",
+          "alt": "Minimalist Light Fluid SPF 50, 50ml, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        },
+        "100ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-100ml-683x1024.webp",
+          "width": 683,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-100ml-683x1024.webp 683w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-100ml-200x300.webp 200w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-100ml-768x1152.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-light-fluid-spf-50-100ml.webp 800w",
+          "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45880101503137",
+          "licenseUrl": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45880101503137",
+          "checked": "2026-10-10",
+          "alt": "Minimalist Light Fluid SPF 50, 100ml, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 28,
+      "slug": "minimalist-maleic-shampoo",
+      "url": "https://glowwise.tech/products/minimalist-maleic-shampoo/",
+      "imageAssets": {
+        "250 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-maleic-shampoo-250ml-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-maleic-shampoo-250ml-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-maleic-shampoo-250ml-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-maleic-shampoo-250ml-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-maleic-shampoo-250ml.webp 825w",
+          "source": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo?variant=46445505708193",
+          "licenseUrl": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo?variant=46445505708193",
+          "checked": "2026-10-10",
+          "alt": "Minimalist Maleic Bond Repair Complex 3.5% Shampoo, 250 ml, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 38,
+      "slug": "minimalist-niacinamide-body-lotion",
+      "url": "https://glowwise.tech/products/minimalist-niacinamide-body-lotion/",
+      "imageAssets": {
+        "180 g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-niacinamide-body-lotion-180g-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-niacinamide-body-lotion-180g-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-niacinamide-body-lotion-180g-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-niacinamide-body-lotion-180g-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-niacinamide-body-lotion-180g.webp 825w",
+          "source": "https://beminimalist.co/products/niacinamide-05-body-lotion?variant=41824805519521",
+          "licenseUrl": "https://beminimalist.co/products/niacinamide-05-body-lotion?variant=41824805519521",
+          "checked": "2026-10-10",
+          "alt": "Minimalist Niacinamide 5% Body Lotion, 180 g, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 22,
+      "slug": "minimalist-salicylic-lha-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-salicylic-lha-cleanser/",
+      "imageAssets": {
+        "100ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-100ml-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-100ml-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-100ml-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-100ml-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-100ml.webp 825w",
+          "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351136929",
+          "licenseUrl": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351136929",
+          "checked": "2026-10-10",
+          "alt": "Minimalist Salicylic Acid + LHA 2% Cleanser, 100ml, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        },
+        "250ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-250ml-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-250ml-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-250ml-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-250ml-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-salicylic-lha-cleanser-250ml.webp 825w",
+          "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351169697",
+          "licenseUrl": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351169697",
+          "checked": "2026-10-10",
+          "alt": "Minimalist Salicylic Acid + LHA 2% Cleanser, 250ml, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 8,
+      "slug": "minimalist-spf-50",
+      "url": "https://glowwise.tech/products/minimalist-spf-50/",
+      "imageAssets": {
+        "50g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-50g-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-50g-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-50g-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-50g-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-50g.webp 825w",
+          "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368405665",
+          "licenseUrl": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368405665",
+          "checked": "2026-10-10",
+          "alt": "Minimalist SPF 50 Sunscreen, 50g, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        },
+        "100g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-100g-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-100g-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-100g-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-100g-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-100g.webp 825w",
+          "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368438433",
+          "licenseUrl": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368438433",
+          "checked": "2026-10-10",
+          "alt": "Minimalist SPF 50 Sunscreen, 100g, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        },
+        "30g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-30g-683x1024.webp",
+          "width": 683,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-30g-683x1024.webp 683w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-30g-200x300.webp 200w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-30g-768x1152.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-50-30g.webp 800w",
+          "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=46656572817569",
+          "licenseUrl": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=46656572817569",
+          "checked": "2026-10-10",
+          "alt": "Minimalist SPF 50 Sunscreen, 30g, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 10,
+      "slug": "minimalist-spf-60",
+      "url": "https://glowwise.tech/products/minimalist-spf-60/",
+      "imageAssets": {
+        "50 g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-60-50g-704x1024.webp",
+          "width": 704,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-60-50g-704x1024.webp 704w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-60-50g-206x300.webp 206w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-60-50g-768x1117.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/minimalist-spf-60-50g.webp 825w",
+          "source": "https://beminimalist.co/products/spf-60-silymarin?variant=40946129305761",
+          "licenseUrl": "https://beminimalist.co/products/spf-60-silymarin?variant=40946129305761",
+          "checked": "2026-10-10",
+          "alt": "Minimalist SPF 60 Sunscreen, 50 g, official product photograph",
+          "credit": "Photo: Minimalist",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 24,
+      "slug": "plum-rice-water-face-wash",
+      "url": "https://glowwise.tech/products/plum-rice-water-face-wash/",
+      "imageAssets": {
+        "150 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-150ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-150ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-150ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-150ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-150ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248296508",
+          "licenseUrl": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248296508",
+          "checked": "2026-10-10",
+          "alt": "Plum 2% Niacinamide & Rice Water Face Wash, 150 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        },
+        "100 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-100ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-100ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-100ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-100ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-face-wash-100ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248329276",
+          "licenseUrl": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248329276",
+          "checked": "2026-10-10",
+          "alt": "Plum 2% Niacinamide & Rice Water Face Wash, 100 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 14,
+      "slug": "plum-rice-water-spf-50",
+      "url": "https://glowwise.tech/products/plum-rice-water-spf-50/",
+      "imageAssets": {
+        "50 g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-768x1024.webp",
+          "width": 768,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-768x1024.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-225x300.webp 225w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-1152x1536.webp 1152w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g.webp 1200w",
+          "source": "https://world.openbeautyfacts.org/cgi/product_image.pl?code=8904430201070&id=front_en",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "checked": "2026-10-10",
+          "alt": "Plum Rice Water & Niacinamide 2% Hybrid Sunscreen SPF 50 PA++++ outer carton, 50 g, held in a shop",
+          "credit": "Photo: abhi127 / Open Beauty Facts",
+          "license": "CC BY-SA 3.0 · resized"
+        },
+        "80 g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-80g.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-80g.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-80g-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-80g-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-80g-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989782076",
+          "licenseUrl": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989782076",
+          "checked": "2026-10-10",
+          "alt": "Plum 2% Niacinamide & Rice Water SPF 50, 80 g, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        },
+        "30 g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-30g.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-30g.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-30g-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-30g-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-rice-water-spf-50-30g-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=45687389519932",
+          "licenseUrl": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=45687389519932",
+          "checked": "2026-10-10",
+          "alt": "Plum 2% Niacinamide & Rice Water SPF 50, 30 g, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 16,
+      "slug": "plum-sheer-tinted-spf-50",
+      "url": "https://glowwise.tech/products/plum-sheer-tinted-spf-50/",
+      "imageAssets": {
+        "50 g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-sheer-tinted-spf-50-50g.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-sheer-tinted-spf-50-50g.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-sheer-tinted-spf-50-50g-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-sheer-tinted-spf-50-50g-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-sheer-tinted-spf-50-50g-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g?variant=43525413929020",
+          "licenseUrl": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g?variant=43525413929020",
+          "checked": "2026-10-10",
+          "alt": "Plum 3% Niacinamide Sheer-Tinted SPF 50, 50 g, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 34,
+      "slug": "plum-anti-dandruff-shampoo",
+      "url": "https://glowwise.tech/products/plum-anti-dandruff-shampoo/",
+      "imageAssets": {
+        "500 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-500ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-500ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-500ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-500ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-500ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585269820",
+          "licenseUrl": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585269820",
+          "checked": "2026-10-10",
+          "alt": "Plum Anti-Dandruff Shampoo with 0.5% Salicylic Acid, 500 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        },
+        "250 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-250ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-250ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-250ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-250ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-250ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585302588",
+          "licenseUrl": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585302588",
+          "checked": "2026-10-10",
+          "alt": "Plum Anti-Dandruff Shampoo with 0.5% Salicylic Acid, 250 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        },
+        "100 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-100ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-100ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-100ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-100ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-anti-dandruff-shampoo-100ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585335356",
+          "licenseUrl": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585335356",
+          "checked": "2026-10-10",
+          "alt": "Plum Anti-Dandruff Shampoo with 0.5% Salicylic Acid, 100 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 32,
+      "slug": "plum-avocado-argan-shampoo",
+      "url": "https://glowwise.tech/products/plum-avocado-argan-shampoo/",
+      "imageAssets": {
+        "250 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-avocado-argan-shampoo-250ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-avocado-argan-shampoo-250ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-avocado-argan-shampoo-250ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-avocado-argan-shampoo-250ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-avocado-argan-shampoo-250ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy?variant=41623335829564",
+          "licenseUrl": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy?variant=41623335829564",
+          "checked": "2026-10-10",
+          "alt": "Plum Avocado & Argan Frizz Control Shampoo, 250 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 44,
+      "slug": "plum-hawaiian-rumba-lotion",
+      "url": "https://glowwise.tech/products/plum-hawaiian-rumba-lotion/",
+      "imageAssets": {
+        "400 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-hawaiian-rumba-lotion-400ml-1024x1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-hawaiian-rumba-lotion-400ml-1024x1024.webp 1024w, https://glowwise.tech/wp-content/uploads/2026/10/plum-hawaiian-rumba-lotion-400ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-hawaiian-rumba-lotion-400ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-hawaiian-rumba-lotion-400ml-768x768.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/plum-hawaiian-rumba-lotion-400ml.webp 1080w",
+          "source": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin?variant=45560998789180",
+          "licenseUrl": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin?variant=45560998789180",
+          "checked": "2026-10-10",
+          "alt": "Plum BodyLovin Hawaiian Rumba Lotion, 400 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 48,
+      "slug": "plum-hazelnut-lotion",
+      "url": "https://glowwise.tech/products/plum-hazelnut-lotion/",
+      "imageAssets": {
+        "400 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-hazelnut-lotion-400ml-1024x1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-hazelnut-lotion-400ml-1024x1024.webp 1024w, https://glowwise.tech/wp-content/uploads/2026/10/plum-hazelnut-lotion-400ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-hazelnut-lotion-400ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-hazelnut-lotion-400ml-768x768.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/plum-hazelnut-lotion-400ml.webp 1080w",
+          "source": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin?variant=43540180271164",
+          "licenseUrl": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin?variant=43540180271164",
+          "checked": "2026-10-10",
+          "alt": "Plum BodyLovin Hazelnut Eclair Lotion, 400 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 46,
+      "slug": "plum-tropic-lotion",
+      "url": "https://glowwise.tech/products/plum-tropic-lotion/",
+      "imageAssets": {
+        "400 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-tropic-lotion-400ml-1024x1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-tropic-lotion-400ml-1024x1024.webp 1024w, https://glowwise.tech/wp-content/uploads/2026/10/plum-tropic-lotion-400ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-tropic-lotion-400ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-tropic-lotion-400ml-768x768.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/plum-tropic-lotion-400ml.webp 1080w",
+          "source": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin?variant=44164693491772",
+          "licenseUrl": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin?variant=44164693491772",
+          "checked": "2026-10-10",
+          "alt": "Plum BodyLovin Tropic of Discussion Lotion, 400 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 40,
+      "slug": "plum-vanilla-caramello-lotion",
+      "url": "https://glowwise.tech/products/plum-vanilla-caramello-lotion/",
+      "imageAssets": {
+        "400 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-400ml-1024x1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-400ml-1024x1024.webp 1024w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-400ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-400ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-400ml-768x768.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-400ml.webp 1080w",
+          "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379177532",
+          "licenseUrl": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379177532",
+          "checked": "2026-10-10",
+          "alt": "Plum BodyLovin Vanilla Caramello Lotion, 400 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        },
+        "200 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-200ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-200ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-200ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-200ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-caramello-lotion-200ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379210300",
+          "licenseUrl": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379210300",
+          "checked": "2026-10-10",
+          "alt": "Plum BodyLovin Vanilla Caramello Lotion, 200 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 42,
+      "slug": "plum-vanilla-vibes-lotion",
+      "url": "https://glowwise.tech/products/plum-vanilla-vibes-lotion/",
+      "imageAssets": {
+        "400 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-vibes-lotion-400ml-1024x1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-vibes-lotion-400ml-1024x1024.webp 1024w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-vibes-lotion-400ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-vibes-lotion-400ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-vibes-lotion-400ml-768x768.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/plum-vanilla-vibes-lotion-400ml.webp 1080w",
+          "source": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin?variant=45560998821948",
+          "licenseUrl": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin?variant=45560998821948",
+          "checked": "2026-10-10",
+          "alt": "Plum BodyLovin Vanilla Vibes Lotion, 400 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 30,
+      "slug": "plum-coconut-peptides-shampoo",
+      "url": "https://glowwise.tech/products/plum-coconut-peptides-shampoo/",
+      "imageAssets": {
+        "250 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-250ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-250ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-250ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-250ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-250ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=42231068786748",
+          "licenseUrl": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=42231068786748",
+          "checked": "2026-10-10",
+          "alt": "Plum Coconut Milk & Peptides Shampoo, 250 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        },
+        "500 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-500ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-500ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-500ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-500ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-500ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45773539901500",
+          "licenseUrl": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45773539901500",
+          "checked": "2026-10-10",
+          "alt": "Plum Coconut Milk & Peptides Shampoo, 500 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        },
+        "750 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-750ml.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-750ml.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-750ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-750ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-coconut-peptides-shampoo-750ml-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45715828604988",
+          "licenseUrl": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45715828604988",
+          "checked": "2026-10-10",
+          "alt": "Plum Coconut Milk & Peptides Shampoo, 750 ml, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 12,
+      "slug": "plum-green-tea-zinc-spf-50",
+      "url": "https://glowwise.tech/products/plum-green-tea-zinc-spf-50/",
+      "imageAssets": {
+        "50 g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-50g.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-50g.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-50g-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-50g-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-50g-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805614140",
+          "licenseUrl": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805614140",
+          "checked": "2026-10-10",
+          "alt": "Plum Green Tea & Zinc SPF 50 Gel, 50 g, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        },
+        "30 g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-30g.webp",
+          "width": 1001,
+          "height": 1001,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-30g.webp 1001w, https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-30g-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-30g-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/plum-green-tea-zinc-spf-50-30g-768x768.webp 768w",
+          "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805646908",
+          "licenseUrl": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805646908",
+          "checked": "2026-10-10",
+          "alt": "Plum Green Tea & Zinc SPF 50 Gel, 30 g, official product photograph",
+          "credit": "Photo: Plum",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 60,
+      "slug": "skinn-celeste-20ml",
+      "url": "https://glowwise.tech/products/skinn-celeste-20ml/",
+      "imageAssets": {
+        "20 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-celeste-20ml-20ml.webp",
+          "width": 640,
+          "height": 640,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-celeste-20ml-20ml.webp 640w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-celeste-20ml-20ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-celeste-20ml-20ml-150x150.webp 150w",
+          "source": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
+          "licenseUrl": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
+          "checked": "2026-10-10",
+          "alt": "SKINN Celeste Eau de Parfum, 20 ml, official product photograph",
+          "credit": "Photo: SKINN",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 64,
+      "slug": "skinn-nude-20ml",
+      "url": "https://glowwise.tech/products/skinn-nude-20ml/",
+      "imageAssets": {
+        "20 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-nude-20ml-20ml.webp",
+          "width": 640,
+          "height": 640,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-nude-20ml-20ml.webp 640w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-nude-20ml-20ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-nude-20ml-20ml-150x150.webp 150w",
+          "source": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
+          "licenseUrl": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
+          "checked": "2026-10-10",
+          "alt": "SKINN Nude Eau de Parfum, 20 ml, official product photograph",
+          "credit": "Photo: SKINN",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 54,
+      "slug": "skinn-raw-20ml",
+      "url": "https://glowwise.tech/products/skinn-raw-20ml/",
+      "imageAssets": {
+        "20 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-raw-20ml-20ml.webp",
+          "width": 640,
+          "height": 640,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-raw-20ml-20ml.webp 640w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-raw-20ml-20ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-raw-20ml-20ml-150x150.webp 150w",
+          "source": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
+          "licenseUrl": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
+          "checked": "2026-10-10",
+          "alt": "SKINN Raw Eau de Parfum, 20 ml, official product photograph",
+          "credit": "Photo: SKINN",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 62,
+      "slug": "skinn-sheer-20ml",
+      "url": "https://glowwise.tech/products/skinn-sheer-20ml/",
+      "imageAssets": {
+        "20 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-sheer-20ml-20ml.webp",
+          "width": 640,
+          "height": 640,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-sheer-20ml-20ml.webp 640w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-sheer-20ml-20ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-sheer-20ml-20ml-150x150.webp 150w",
+          "source": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
+          "licenseUrl": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
+          "checked": "2026-10-10",
+          "alt": "SKINN Sheer Eau de Parfum, 20 ml, official product photograph",
+          "credit": "Photo: SKINN",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 56,
+      "slug": "skinn-steele-20ml",
+      "url": "https://glowwise.tech/products/skinn-steele-20ml/",
+      "imageAssets": {
+        "20 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-steele-20ml-20ml.webp",
+          "width": 640,
+          "height": 640,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-steele-20ml-20ml.webp 640w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-steele-20ml-20ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-steele-20ml-20ml-150x150.webp 150w",
+          "source": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
+          "licenseUrl": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
+          "checked": "2026-10-10",
+          "alt": "SKINN Steele Eau de Parfum, 20 ml, official product photograph",
+          "credit": "Photo: SKINN",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 58,
+      "slug": "skinn-verge-20ml",
+      "url": "https://glowwise.tech/products/skinn-verge-20ml/",
+      "imageAssets": {
+        "20 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-verge-20ml-20ml.webp",
+          "width": 640,
+          "height": 640,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/skinn-verge-20ml-20ml.webp 640w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-verge-20ml-20ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/skinn-verge-20ml-20ml-150x150.webp 150w",
+          "source": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-nfclm03pd.html",
+          "licenseUrl": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-nfclm03pd.html",
+          "checked": "2026-10-10",
+          "alt": "SKINN Verge Eau de Parfum, 20 ml, official product photograph",
+          "credit": "Photo: SKINN",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 339,
+      "slug": "man-company-beard-oil",
+      "url": "https://glowwise.tech/products/man-company-beard-oil/",
+      "imageAssets": {
+        "30 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/man-company-beard-oil-30ml-1024x1024.webp",
+          "width": 1024,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/man-company-beard-oil-30ml-1024x1024.webp 1024w, https://glowwise.tech/wp-content/uploads/2026/10/man-company-beard-oil-30ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/man-company-beard-oil-30ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/man-company-beard-oil-30ml-768x768.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/man-company-beard-oil-30ml.webp 1100w",
+          "source": "https://www.themancompany.com/products/beard-growth-oil-for-men-30ml?variant=46712235000004",
+          "licenseUrl": "https://www.themancompany.com/products/beard-growth-oil-for-men-30ml?variant=46712235000004",
+          "checked": "2026-10-10",
+          "alt": "The Man Company Beard Growth Oil, 30 ml, official product photograph",
+          "credit": "Photo: The Man Company",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 341,
+      "slug": "ustraa-woody-beard-oil",
+      "url": "https://glowwise.tech/products/ustraa-woody-beard-oil/",
+      "imageAssets": {
+        "35 ml": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/ustraa-woody-beard-oil-35ml.webp",
+          "width": 1000,
+          "height": 1000,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/ustraa-woody-beard-oil-35ml.webp 1000w, https://glowwise.tech/wp-content/uploads/2026/10/ustraa-woody-beard-oil-35ml-300x300.webp 300w, https://glowwise.tech/wp-content/uploads/2026/10/ustraa-woody-beard-oil-35ml-150x150.webp 150w, https://glowwise.tech/wp-content/uploads/2026/10/ustraa-woody-beard-oil-35ml-768x768.webp 768w",
+          "source": "https://www.tirabeauty.com/product/ustraa-woody-mooch--beard-oil-35ml-bvlak7ytzbm",
+          "licenseUrl": "https://www.tirabeauty.com/product/ustraa-woody-mooch--beard-oil-35ml-bvlak7ytzbm",
+          "checked": "2026-10-10",
+          "alt": "Ustraa Woody Mooch & Beard Oil, 35 ml, official product photograph",
+          "credit": "Photo: Ustraa / Tira",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 66,
+      "slug": "vega-power-lite",
+      "url": "https://glowwise.tech/products/vega-power-lite/",
+      "imageAssets": {
+        "VHTH-38": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/vega-power-lite-VHTH-38.webp",
+          "width": 265,
+          "height": 265,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/vega-power-lite-VHTH-38.webp 265w, https://glowwise.tech/wp-content/uploads/2026/10/vega-power-lite-VHTH-38-150x150.webp 150w",
+          "source": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
+          "licenseUrl": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
+          "checked": "2026-10-10",
+          "alt": "Vega Power Lite Beard Trimmer, VHTH-38, official product photograph",
+          "credit": "Photo: Vega",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 68,
+      "slug": "vega-power-p1",
+      "url": "https://glowwise.tech/products/vega-power-p1/",
+      "imageAssets": {
+        "VHTH-25": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/vega-power-p1-VHTH-25.webp",
+          "width": 265,
+          "height": 265,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/vega-power-p1-VHTH-25.webp 265w, https://glowwise.tech/wp-content/uploads/2026/10/vega-power-p1-VHTH-25-150x150.webp 150w",
+          "source": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
+          "licenseUrl": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
+          "checked": "2026-10-10",
+          "alt": "Vega Power Series P1 Beard Trimmer, VHTH-25, official product photograph",
+          "credit": "Photo: Vega",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 74,
+      "slug": "vega-smartone-s2",
+      "url": "https://glowwise.tech/products/vega-smartone-s2/",
+      "imageAssets": {
+        "VHTH-31": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/vega-smartone-s2-VHTH-31.webp",
+          "width": 265,
+          "height": 265,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/vega-smartone-s2-VHTH-31.webp 265w, https://glowwise.tech/wp-content/uploads/2026/10/vega-smartone-s2-VHTH-31-150x150.webp 150w",
+          "source": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
+          "licenseUrl": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
+          "checked": "2026-10-10",
+          "alt": "Vega Smartone S2 Beard Trimmer, VHTH-31, official product photograph",
+          "credit": "Photo: Vega",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 70,
+      "slug": "vega-smartone-s3",
+      "url": "https://glowwise.tech/products/vega-smartone-s3/",
+      "imageAssets": {
+        "VHTH-36": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/vega-smartone-s3-VHTH-36.webp",
+          "width": 265,
+          "height": 265,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/vega-smartone-s3-VHTH-36.webp 265w, https://glowwise.tech/wp-content/uploads/2026/10/vega-smartone-s3-VHTH-36-150x150.webp 150w",
+          "source": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
+          "licenseUrl": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
+          "checked": "2026-10-10",
+          "alt": "Vega Smartone S3 Beard Trimmer, VHTH-36, official product photograph",
+          "credit": "Photo: Vega",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 76,
+      "slug": "vega-turbolite",
+      "url": "https://glowwise.tech/products/vega-turbolite/",
+      "imageAssets": {
+        "VHTH-41": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/vega-turbolite-VHTH-41.webp",
+          "width": 265,
+          "height": 265,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/vega-turbolite-VHTH-41.webp 265w, https://glowwise.tech/wp-content/uploads/2026/10/vega-turbolite-VHTH-41-150x150.webp 150w",
+          "source": "https://www.vega.co.in/turbolite-beard-trimmer.html",
+          "licenseUrl": "https://www.vega.co.in/turbolite-beard-trimmer.html",
+          "checked": "2026-10-10",
+          "alt": "Vega Turbolite Beard Trimmer, VHTH-41, official product photograph",
+          "credit": "Photo: Vega",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    },
+    {
+      "id": 72,
+      "slug": "vega-turboone",
+      "url": "https://glowwise.tech/products/vega-turboone/",
+      "imageAssets": {
+        "VHTH-40": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/vega-turboone-VHTH-40.webp",
+          "width": 265,
+          "height": 265,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/vega-turboone-VHTH-40.webp 265w, https://glowwise.tech/wp-content/uploads/2026/10/vega-turboone-VHTH-40-150x150.webp 150w",
+          "source": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
+          "licenseUrl": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
+          "checked": "2026-10-10",
+          "alt": "Vega Turboone Beard Trimmer, VHTH-40, official product photograph",
+          "credit": "Photo: Vega",
+          "license": "Brand copyright · demo use"
+        }
+      },
+      "rights": "Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback."
+    }
+  ]
+}

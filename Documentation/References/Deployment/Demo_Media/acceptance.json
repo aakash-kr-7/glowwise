@@ -1,0 +1,334 @@
+{
+  "capturedUTC": "2026-10-10T10:04:38.478592+00:00",
+  "purpose": "Actual native photo, founder byline/schema and content acceptance",
+  "families": 40,
+  "photographedVariants": 54,
+  "variants": 55,
+  "checks": [
+    {
+      "test": "40 published families, all with at least one photograph",
+      "pass": true
+    },
+    {
+      "test": "54 of 55 exact variants pictured",
+      "pass": true
+    },
+    {
+      "test": "beardo-beard-hair-oil / 50 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "beardo-godfather-oil / 30ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "beardo-no-nonsense-shampoo / 200ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "bombay-beard-roll-on / 10 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "bombay-onion-beard-oil / 30 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-aquaporin-cleanser / 100 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-b12-oat-cleanser / 120ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-hydrating-factors-shampoo / 250 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-light-fluid-spf-50 / 30ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-light-fluid-spf-50 / 50ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-light-fluid-spf-50 / 100ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-maleic-shampoo / 250 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-niacinamide-body-lotion / 180 g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-salicylic-lha-cleanser / 100ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-salicylic-lha-cleanser / 250ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-50 / 50g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-50 / 100g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-50 / 30g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-60 / 50 g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-face-wash / 150 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-face-wash / 100 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-spf-50 / 50 g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-spf-50 / 80 g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-spf-50 / 30 g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-sheer-tinted-spf-50 / 50 g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-anti-dandruff-shampoo / 500 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-anti-dandruff-shampoo / 250 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-anti-dandruff-shampoo / 100 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-avocado-argan-shampoo / 250 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-hawaiian-rumba-lotion / 400 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-hazelnut-lotion / 400 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-tropic-lotion / 400 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-caramello-lotion / 400 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-caramello-lotion / 200 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-vibes-lotion / 400 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-coconut-peptides-shampoo / 250 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-coconut-peptides-shampoo / 500 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-coconut-peptides-shampoo / 750 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-green-tea-zinc-spf-50 / 50 g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "plum-green-tea-zinc-spf-50 / 30 g native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "skinn-celeste-20ml / 20 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "skinn-nude-20ml / 20 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "skinn-raw-20ml / 20 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "skinn-sheer-20ml / 20 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "skinn-steele-20ml / 20 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "skinn-verge-20ml / 20 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "man-company-beard-oil / 30 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "ustraa-woody-beard-oil / 35 ml native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "vega-power-lite / VHTH-38 native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "vega-power-p1 / VHTH-25 native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s2 / VHTH-31 native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s3 / VHTH-36 native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "vega-turbolite / VHTH-41 native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "vega-turboone / VHTH-40 native photograph, dimensions and alternative text",
+      "pass": true
+    },
+    {
+      "test": "shampoo-for-dry-frizzy-hair matching visible/schema founder author",
+      "pass": true
+    },
+    {
+      "test": "shampoo-for-dry-frizzy-hair complete recommendations and accurate disclosure",
+      "pass": true
+    },
+    {
+      "test": "shampoo-for-dry-frizzy-hair UTF-8, one canonical, private HTML cache",
+      "pass": true
+    },
+    {
+      "test": "sunscreen-for-oily-skin matching visible/schema founder author",
+      "pass": true
+    },
+    {
+      "test": "sunscreen-for-oily-skin complete recommendations and accurate disclosure",
+      "pass": true
+    },
+    {
+      "test": "sunscreen-for-oily-skin UTF-8, one canonical, private HTML cache",
+      "pass": true
+    },
+    {
+      "test": "body-lotion-for-dry-skin matching visible/schema founder author",
+      "pass": true
+    },
+    {
+      "test": "body-lotion-for-dry-skin complete recommendations and accurate disclosure",
+      "pass": true
+    },
+    {
+      "test": "body-lotion-for-dry-skin UTF-8, one canonical, private HTML cache",
+      "pass": true
+    },
+    {
+      "test": "perfumes-under-1000 matching visible/schema founder author",
+      "pass": true
+    },
+    {
+      "test": "perfumes-under-1000 complete recommendations and accurate disclosure",
+      "pass": true
+    },
+    {
+      "test": "perfumes-under-1000 UTF-8, one canonical, private HTML cache",
+      "pass": true
+    },
+    {
+      "test": "trimmers-under-1500 matching visible/schema founder author",
+      "pass": true
+    },
+    {
+      "test": "trimmers-under-1500 complete recommendations and accurate disclosure",
+      "pass": true
+    },
+    {
+      "test": "trimmers-under-1500 UTF-8, one canonical, private HTML cache",
+      "pass": true
+    },
+    {
+      "test": "beard-oil-benefits matching visible/schema founder author",
+      "pass": true
+    },
+    {
+      "test": "beard-oil-benefits complete recommendations and accurate disclosure",
+      "pass": true
+    },
+    {
+      "test": "beard-oil-benefits UTF-8, one canonical, private HTML cache",
+      "pass": true
+    },
+    {
+      "test": "face-wash-for-sensitive-skin matching visible/schema founder author",
+      "pass": true
+    },
+    {
+      "test": "face-wash-for-sensitive-skin complete recommendations and accurate disclosure",
+      "pass": true
+    },
+    {
+      "test": "face-wash-for-sensitive-skin UTF-8, one canonical, private HTML cache",
+      "pass": true
+    },
+    {
+      "test": "/explore/ correct current photograph wording",
+      "pass": true
+    },
+    {
+      "test": "/disclosures/ correct current photograph wording",
+      "pass": true
+    },
+    {
+      "test": "/how-we-select/ correct current photograph wording",
+      "pass": true
+    }
+  ],
+  "limitations": [
+    "Brand photographs have source attribution, not independently verified reuse permission",
+    "Maleic 100 ml photo unavailable; 250 ml photograph is not substituted",
+    "No new lab performance or hands-on product testing claimed"
+  ]
+}

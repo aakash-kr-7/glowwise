@@ -83,7 +83,30 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 6,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "30ml",
+          "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483115681",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Light_Fluid_SPF_50_-30ml.png?v=1783600237",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "50ml",
+          "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483082913",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Artboard_1_1.jpg?v=1783323907",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "100ml",
+          "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45880101503137",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Light_Fluid_SPF_50_-100ml.png?v=1783600219",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "minimalist-spf-50",
@@ -151,7 +174,30 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 8,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "50g",
+          "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368405665",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF50New.jpg?v=1756795782",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "100g",
+          "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368438433",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF50_ListingImage.png?v=1760691517",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "30g",
+          "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=46656572817569",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SPF_50-_30g.png?v=1783339186",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "minimalist-spf-60",
@@ -204,7 +250,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 10,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "50 g",
+          "source": "https://beminimalist.co/products/spf-60-silymarin?variant=40946129305761",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/SPF601200-2-min.png?v=1646571969",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-green-tea-zinc-spf-50",
@@ -265,7 +320,23 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 12,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "50 g",
+          "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805614140",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Listing_1st_Tile_GT_SPF_1001x1001_px.webp?v=1776770983",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "30 g",
+          "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805646908",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/01_Moodshot_Unit_GTSPF.jpg?v=1782209474",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-rice-water-spf-50",
@@ -333,7 +404,23 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 14,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "80 g",
+          "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989782076",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Listing_1st_Tile_Nia_SPF_80g_1001x1001_px.webp?v=1777964426",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "30 g",
+          "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=45687389519932",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Nykaa_NiaSPF30g_NewPack_Listing-03.jpg?v=1782200966",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-sheer-tinted-spf-50",
@@ -388,7 +475,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 16,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "50 g",
+          "source": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g?variant=43525413929020",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Listing1stTileNiaTintedSPF1001x1001px_7b958aa5-6b9b-4109-a25b-8b8f7b0a7f92.webp?v=1777968512",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "minimalist-b12-oat-cleanser",
@@ -441,7 +537,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 18,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "120ml",
+          "source": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser?variant=45220519280801",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/B12_Oat_Extract_6.5.jpg?v=1783083799",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "minimalist-aquaporin-cleanser",
@@ -494,7 +599,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 20,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "100 ml",
+          "source": "https://beminimalist.co/products/aquaporin-booster-05-cleanser?variant=41870498136225",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/AquaporinNew.png?v=1721398128",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "minimalist-salicylic-lha-cleanser",
@@ -554,7 +668,23 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 22,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "100ml",
+          "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351136929",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SalicylicCleanserNew.jpg?v=1756796206",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "250ml",
+          "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351169697",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/SaliCleanser_ListingImage.png?v=1760691517",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-rice-water-face-wash",
@@ -613,7 +743,23 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 24,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "150 ml",
+          "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248296508",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Listing_1st_Tile_Nia_FW_150ml_1001x1001_px.webp?v=1777960770",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "100 ml",
+          "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248329276",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Listing_1st_Tile_Nia_FW_100ml_1001x1001_px.webp?v=1777960778",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "minimalist-hydrating-factors-shampoo",
@@ -667,7 +813,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 26,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "250 ml",
+          "source": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo?variant=45928068317345",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/Artboard_1_copy_13_1.jpg?v=1776762556",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "minimalist-maleic-shampoo",
@@ -728,7 +883,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 28,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "250 ml",
+          "source": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo?variant=46445505708193",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/files/ShampooNew.png?v=1721632054",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-coconut-peptides-shampoo",
@@ -794,7 +958,30 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 30,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "250 ml",
+          "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=42231068786748",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Listing_1st_Tile_Coconut_Shampoo_250ml_1001x1001_px_1_b39cf652-3011-43c6-a18b-9e7a284f00db.webp?v=1789643142",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "500 ml",
+          "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45773539901500",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Coconut-Shampoo-500ml-Nykaa-Listing-01_696c5020-443a-46d8-b9a2-c9b8eb8f3c28.jpg?v=1789711397",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "750 ml",
+          "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45715828604988",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/01-Coconut-Shampoo-750ml-Moodshot_ed0c590e-9a50-437e-9fba-2032ce5d11e6.webp?v=1789711639",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-avocado-argan-shampoo",
@@ -848,7 +1035,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 32,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "250 ml",
+          "source": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy?variant=41623335829564",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/AvocadoShampoo250ml01.webp?v=1777572995",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-anti-dandruff-shampoo",
@@ -915,7 +1111,30 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 34,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "500 ml",
+          "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585269820",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/01VSAShampoo500mlMoodshot_Text.webp?v=1783000312",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "250 ml",
+          "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585302588",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Listing_1st_Tile_VSA_Shampoo_1001x1001_px_cb7b88c7-56ed-4b6d-b33a-5d90d9840882.webp?v=1784366969",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "100 ml",
+          "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585335356",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/01_VSA_Shampoo_100ml_Moodshot_Text_1cf05aa5-eb21-4a95-bfa8-2e59f3519615.webp?v=1783000397",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "beardo-no-nonsense-shampoo",
@@ -966,7 +1185,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 36,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "200ml",
+          "source": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml?variant=48678720536884",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0745/0201/3236/files/Beardo_No_Nonsense_A__Banner_2160_x_2160_02.png?v=1765193091",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "minimalist-niacinamide-body-lotion",
@@ -1018,7 +1246,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 38,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "180 g",
+          "source": "https://beminimalist.co/products/niacinamide-05-body-lotion?variant=41824805519521",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0410/9608/5665/products/Nia5BodyLotion1100-1-min.png?v=1649958609",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-vanilla-caramello-lotion",
@@ -1077,7 +1314,23 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 40,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "400 ml",
+          "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379177532",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/moodshot_copy.webp?v=1789646581",
+          "checked": "2026-10-10"
+        },
+        {
+          "variant": "200 ml",
+          "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379210300",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Website_Mood_Shots_VC_Body_Lotion_200ml_Website_0a78a838-6680-495a-9962-8a6140178838.webp?v=1790590387",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-vanilla-vibes-lotion",
@@ -1129,7 +1382,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 42,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "400 ml",
+          "source": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin?variant=45560998821948",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/Moodshots_copy.webp?v=1785742034",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-hawaiian-rumba-lotion",
@@ -1182,7 +1444,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 44,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "400 ml",
+          "source": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin?variant=45560998789180",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/HR_Lotion_08_eed34bf5-1fc5-4163-8d53-d20fe6d2364a.webp?v=1785741938",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-tropic-lotion",
@@ -1236,7 +1507,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 46,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "400 ml",
+          "source": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin?variant=44164693491772",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/TOD_Lotion.webp?v=1776505217",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "plum-hazelnut-lotion",
@@ -1289,7 +1569,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 48,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "400 ml",
+          "source": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin?variant=43540180271164",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0390/2985/files/01_f717efbf-5877-4d23-8e9e-7b98866b1b86.jpg?v=1760593607",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "beardo-godfather-oil",
@@ -1342,7 +1631,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 50,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "30ml",
+          "source": "https://beardo.in/products/beardo-godfather-beard-oil?variant=44872228438324",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0745/0201/3236/products/1_247e969d-a827-472c-bf67-36d1ef78c49b.jpg?v=1758444233",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "beardo-beard-hair-oil",
@@ -1396,7 +1694,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 52,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "50 ml",
+          "source": "https://beardo.in/products/beardo-beard-and-hair-growth-oil?variant=44769418707252",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0745/0201/3236/files/1_d6a6bc74-8c90-4291-aa64-ec37ac034fff.jpg?v=1704354743",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "skinn-raw-20ml",
@@ -1453,7 +1760,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 54,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "20 ml",
+          "source": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://www.skinn.in/dw/image/v2/BKMH_PRD/on/demandware.static/-/Sites-Skinn-product-catalog/default/dw001d5f9a/images/Skinn/hi-res/FM11PD1_1.jpg?sw=640",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "skinn-steele-20ml",
@@ -1510,7 +1826,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 56,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "20 ml",
+          "source": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://www.skinn.in/dw/image/v2/BKMH_PRD/on/demandware.static/-/Sites-Skinn-product-catalog/default/dw8bd450ef/images/Skinn/hi-res/FM12PD1_1.jpg?sw=640",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "skinn-verge-20ml",
@@ -1567,7 +1892,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 58,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "20 ml",
+          "source": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-nfclm03pd.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://www.skinn.in/dw/image/v2/BKMH_PRD/on/demandware.static/-/Sites-Skinn-product-catalog/default/dw4727cbd0/images/Skinn/hi-res/FM13PD1_1.jpg?sw=640",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "skinn-celeste-20ml",
@@ -1624,7 +1958,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 60,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "20 ml",
+          "source": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://www.skinn.in/dw/image/v2/BKMH_PRD/on/demandware.static/-/Sites-Skinn-product-catalog/default/dw6360799e/images/Skinn/hi-res/FW11PD1_1.jpg?sw=640",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "skinn-sheer-20ml",
@@ -1681,7 +2024,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 62,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "20 ml",
+          "source": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://www.skinn.in/dw/image/v2/BKMH_PRD/on/demandware.static/-/Sites-Skinn-product-catalog/default/dw2722de66/images/Skinn/hi-res/FW13PD1_1.jpg?sw=640",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "skinn-nude-20ml",
@@ -1738,7 +2090,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 64,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "20 ml",
+          "source": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://www.skinn.in/dw/image/v2/BKMH_PRD/on/demandware.static/-/Sites-Skinn-product-catalog/default/dw43556e46/images/Skinn/hi-res/FW12PD1_1.jpg?sw=640",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "vega-power-lite",
@@ -1799,7 +2160,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 66,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "VHTH-38",
+          "source": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://breeze-media.vega.co.in/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/t/h/th1_1.jpg",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "vega-power-p1",
@@ -1860,7 +2230,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 68,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "VHTH-25",
+          "source": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://breeze-media.vega.co.in/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/v/h/vhth-25_1500x1500_1_.jpg",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "vega-smartone-s3",
@@ -1921,7 +2300,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 70,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "VHTH-36",
+          "source": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://breeze-media.vega.co.in/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/s/m/smartone_s3_beard_trimmer-10-09-2025-_product_page_-1.jpg",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "vega-turboone",
@@ -1982,7 +2370,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 72,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "VHTH-40",
+          "source": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://breeze-media.vega.co.in/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/v/h/vhth-40_1500x1500-6.jpg",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "vega-smartone-s2",
@@ -2043,7 +2440,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 74,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "VHTH-31",
+          "source": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://breeze-media.vega.co.in/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/s/2/s2_beard_trimmer_product_image_-_vhth-31-11-09-2025-1.jpg",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "vega-turbolite",
@@ -2105,7 +2511,16 @@
       "change": "Retained identity; researched copy/facts/price/stock refreshed",
       "recordIdAfterRelease": 76,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "VHTH-41",
+          "source": "https://www.vega.co.in/turbolite-beard-trimmer.html",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://breeze-media.vega.co.in/media/catalog/product/cache/6517c62f5899ad6aa0ba23ceb3eeff97/v/h/vhth401.jpg",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "bombay-beard-roll-on",
@@ -2159,7 +2574,16 @@
       "change": "Added to complete the six-product beard category; no approved record deleted",
       "recordIdAfterRelease": 335,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "10 ml",
+          "source": "https://www.bombayshavingcompany.com/products/beard-growth-oil-roll-on-for-men?variant=35813327929498",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0459/6563/9834/files/beard_oil.webp?v=1766040478",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "bombay-onion-beard-oil",
@@ -2212,7 +2636,16 @@
       "change": "Added to complete the six-product beard category; no approved record deleted",
       "recordIdAfterRelease": 337,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "30 ml",
+          "source": "https://www.bombayshavingcompany.com/products/beard-growth-oil-onion?variant=35802777288858",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/0459/6563/9834/files/BEARDOIL.webp?v=1736515147",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "man-company-beard-oil",
@@ -2265,7 +2698,16 @@
       "change": "Added to complete the six-product beard category; no approved record deleted",
       "recordIdAfterRelease": 339,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "30 ml",
+          "source": "https://www.themancompany.com/products/beard-growth-oil-for-men-30ml?variant=46712235000004",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.shopify.com/s/files/1/1188/2592/files/2_036a8667-49a1-4e8f-9b32-f9a65253ae34.jpg?v=1781769742",
+          "checked": "2026-10-10"
+        }
+      ]
     },
     {
       "slug": "ustraa-woody-beard-oil",
@@ -2320,11 +2762,33 @@
       "change": "Added to complete the six-product beard category; no approved record deleted",
       "recordIdAfterRelease": 341,
       "publicationStatus": "Published; fresh public API readback",
-      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00"
+      "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
+      "demoPhotoVariants": [
+        {
+          "variant": "35 ml",
+          "source": "https://www.tirabeauty.com/product/ustraa-woody-mooch--beard-oil-35ml-bvlak7ytzbm",
+          "rights": "Copyright retained by source owner. Demonstration use requested by Glowwise owner on 10 October 2026; no open licence or separate permission verified.",
+          "sourceImage": "https://cdn.tirabeauty.com/v2/billowing-snowflake-434234/tira-p/wrkr/products/pictures/item/free/resize-w:1000/925412/ZkNAQxhQh-925412_1.jpg",
+          "checked": "2026-10-10"
+        }
+      ]
     }
   ],
   "publicationVerifiedUTC": "2026-10-10T05:23:32.190296+00:00",
   "verifiedExactDestinations": 40,
   "familiesWithListedStock": 36,
-  "variantsWithListedStock": 49
+  "variantsWithListedStock": 49,
+  "demoMediaRelease": {
+    "capturedUTC": "2026-10-10T10:09:17.775948+00:00",
+    "sourceManifest": "content/demo-media-manifest.json",
+    "families": 40,
+    "picturedVariants": 54,
+    "totalVariants": 55,
+    "newNativePhotos": 53,
+    "preservedCCPhoto": 1,
+    "rights": "Owner-requested demonstration use of source-attributed brand/listing photographs. No separate reuse permission or open licence inferred. The pre-existing CC BY-SA 50 g photo is preserved.",
+    "gap": "Minimalist Maleic Shampoo 100 ml remains a disclosed fallback.",
+    "filesInPublicGit": false,
+    "evidence": "Documentation/References/Deployment/Demo_Media/acceptance.json"
+  }
 }

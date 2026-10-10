@@ -1,3 +1,7 @@
+# Current demonstration-media update
+
+See [DEMO_MEDIA_RELEASE.md](DEMO_MEDIA_RELEASE.md): 40 photographed families, 54/55 variants and founder bylines. Earlier photo counts below are the dated licensed-only release; new brand photographs are demonstration use, not claimed to have verified reuse licences.
+
 # Editorial release handoff
 
 Published and verified 10 October 2026. The approved visual system, custom theme/core architecture, canonical slugs, keyword owners and native editing remain. Content/runtime revision: **b379f83ce4373cf07a6b67e06e3097b692c8342b** ([GitHub](https://github.com/aakash-kr-7/glowwise/commit/b379f83ce4373cf07a6b67e06e3097b692c8342b)). Final handoff publication changes documentation, exports and operator register tooling only; website runtime is unchanged; the ignored `editorial-final-deploy.json` records its exact deployed HEAD and every tracked blob, also supplied in the closing message.

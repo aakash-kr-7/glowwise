@@ -1,3 +1,7 @@
+# Current demonstration-media release — 10 October 2026
+
+[DEMO_MEDIA_RELEASE](DEMO_MEDIA_RELEASE.md) records the live photo/byline update: 40 photographed families, 54/55 variants, seven founder-credited researched guides; 80 new and 197 existing live checks pass. One Maleic 100 ml pack lacks a photo. Brand copyrights/permission gaps are disclosed; no open licence is invented. Existing design/tools, total US$10 ceiling and finite lease remain. Resume with the new handoff, refresh cost/access, and preserve the separate coursework edits below. Final revision/recovery verification is recorded in the handoff evidence and ignored operator manifest.
+
 # Glowwise build state
 
 

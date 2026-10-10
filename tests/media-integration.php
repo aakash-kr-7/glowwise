@@ -2,7 +2,7 @@
 if (!defined('WP_CLI') || !WP_CLI) { exit; }
 $GLOBALS['gw_media_checks']=[];function media_check($name,$pass) { $GLOBALS['gw_media_checks'][]=['test'=>$name,'pass'=>(bool)$pass];if (!$pass) { throw new RuntimeException($name); } }
 $post=get_page_by_path('plum-rice-water-spf-50',OBJECT,'gw_product');$p=gw_product($post->ID);$records=get_post_meta($post->ID,'_gw_variant_images',true);
-media_check('Licensed photo only matches 50 g; default 80 g has no photo',isset($p['imageAssets']['50 g'])&&!isset($p['imageAssets']['80 g'])&&!isset($p['imageAssets']['30 g']));
+media_check('CC photo stays on 50 g; brand demo photos have distinct pack records',isset($p['imageAssets']['50 g'],$p['imageAssets']['80 g'],$p['imageAssets']['30 g'])&&$p['imageAssets']['50 g']['src']!==$p['imageAssets']['80 g']['src']&&str_contains($p['imageAssets']['80 g']['license'],'demo use'));
 media_check('Photo has native responsive dimensions and attribution',$p['imageAssets']['50 g']['width']>0&&$p['imageAssets']['50 g']['height']>0&&str_contains($p['imageAssets']['50 g']['credit'],'abhi127')&&str_contains($p['imageAssets']['50 g']['license'],'CC BY-SA'));
 $wrong=['not a variant'=>$records['50 g']];media_check('Wrong pack rejected',is_wp_error(gw_validate_images($wrong,$p)));
 $bad=$records;$bad['50 g']['source']='javascript:alert(1)';media_check('Unsafe source rejected',is_wp_error(gw_validate_images($bad,$p)));

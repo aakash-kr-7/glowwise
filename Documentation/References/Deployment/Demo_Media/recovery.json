@@ -1,0 +1,9 @@
+{
+  "components": 6,
+  "bytes": 33012152,
+  "sha256": "df9e914d718e57f9d608a6a9ffe6c43aaeb995b459f502aa0dec4c9a9f26c0e0",
+  "capturedUTC": "2026-10-10T10:07:58.995735+00:00",
+  "purpose": "Verified private full Updraft backup copied off VM; owner/SYSTEM-only directory; raw backup excluded from Git",
+  "localPrivatePath": ".local\\deployment\\demo-recovery\\demo-media-recovery-2026-10-10.tar.gz",
+  "encryptionAtRest": "not independently verified"
+}

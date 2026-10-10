@@ -1,0 +1,56 @@
+{
+  "capturedUTC": "2026-10-10T10:06:21.291Z",
+  "purpose": "Actual mobile founder bylines and photographed product/save/compare observations",
+  "guideChecks": [
+    {
+      "articleWords": 2047,
+      "byline": "By Aakash Kumar · Cofounder, Imagine Utopia · Research checked 2026-10-10 · 9 min read",
+      "overflow": false,
+      "url": "https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/"
+    },
+    {
+      "articleWords": 2008,
+      "byline": "By Disa Bandhu · Cofounder, Imagine Utopia · Research checked 2026-10-10 · 9 min read",
+      "overflow": false,
+      "url": "https://glowwise.tech/guides/sunscreen-for-oily-skin/"
+    },
+    {
+      "articleWords": 2023,
+      "byline": "By Disa Bandhu · Cofounder, Imagine Utopia · Research checked 2026-10-10 · 9 min read",
+      "overflow": false,
+      "url": "https://glowwise.tech/guides/perfumes-under-1000/"
+    },
+    {
+      "articleWords": 1958,
+      "byline": "By Disa Bandhu · Cofounder, Imagine Utopia · Research checked 2026-10-10 · 9 min read",
+      "overflow": false,
+      "url": "https://glowwise.tech/guides/body-lotion-for-dry-skin/"
+    },
+    {
+      "articleWords": 1527,
+      "byline": "By Disa Bandhu · Cofounder, Imagine Utopia · Research checked 2026-10-10 · 7 min read",
+      "overflow": false,
+      "url": "https://glowwise.tech/guides/face-wash-for-sensitive-skin/"
+    },
+    {
+      "articleWords": 1996,
+      "byline": "By Aakash Kumar · Cofounder, Imagine Utopia · Research checked 2026-10-10 · 9 min read",
+      "overflow": false,
+      "url": "https://glowwise.tech/guides/beard-oil-benefits/"
+    },
+    {
+      "articleWords": 1980,
+      "byline": "By Aakash Kumar · Cofounder, Imagine Utopia · Research checked 2026-10-10 · 9 min read",
+      "overflow": false,
+      "url": "https://glowwise.tech/guides/trimmers-under-1500/"
+    }
+  ],
+  "journeys": {
+    "savePersisted": true,
+    "comparisonTwoSameTypePhotosLoaded": true,
+    "comparisonBodyOverflow": false,
+    "savedPhotoShown": true,
+    "testSaveRemoved": true,
+    "preexistingTwoSavesPreserved": true
+  }
+}

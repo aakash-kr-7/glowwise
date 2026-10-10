@@ -3,7 +3,7 @@
 Uses exact variant image associations from official Shopify listings. Unassociated
 gallery photographs must be manually reviewed before importing. No licence is inferred.
 """
-import concurrent.futures, datetime, hashlib, html, json, re, urllib.request
+import concurrent.futures, datetime, hashlib, html, json, re, sys, urllib.request
 from pathlib import Path
 from urllib.parse import urlsplit, parse_qs
 from PIL import Image, ImageOps, ImageDraw
@@ -73,10 +73,13 @@ def sheet(rows):
         canvas.save(OUT/f'review-{offset//20+1}.jpg')
 
 if __name__=='__main__':
-    with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:groups=list(pool.map(discover,PRODUCTS))
-    rows=[r for group in groups for r in group]
-    extra=OUT/'browser-sources.json'
-    if extra.exists():rows+=json.loads(extra.read_text(encoding='utf-8'))
+    if '--manifest' in sys.argv:
+        rows=json.loads((ROOT/'content/demo-media-manifest.json').read_text(encoding='utf-8'))
+    else:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:groups=list(pool.map(discover,PRODUCTS))
+        rows=[r for group in groups for r in group]
+        extra=OUT/'browser-sources.json'
+        if extra.exists():rows+=json.loads(extra.read_text(encoding='utf-8'))
     with concurrent.futures.ThreadPoolExecutor(max_workers=4) as pool:rows=list(pool.map(download,rows))
     (OUT/'manifest.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2),encoding='utf-8')
     sheet(rows)
