@@ -91,6 +91,8 @@ for g in guides:
     paragraphs.append('<h2>Supporting references</h2><ul>')
     if g.get('reference'):paragraphs.append(f'<li><a href="{g["reference"]}" rel="external noopener">{E(g["reference_label"])}</a> — educational guidance, separate from product marketing.</li>')
     for slug in g['items']:paragraphs.append(f'<li><a href="{E(products[slug]["data"]["source"],quote=True)}" rel="external noopener">{E(products[slug]["title"])}: identified product listing</a>, checked 10 October 2026.</li>')
+    extras=list(dict.fromkeys(u for slug in g['items'] for u in products[slug]['data'].get('sources',[])))
+    for u in extras:paragraphs.append(f'<li><a href="{E(u,quote=True)}" rel="external noopener">Additional primary reference for the identified product facts</a>, checked 10 October 2026.</li>')
     paragraphs.append('</ul>')
     (ROOT/'content/guides'/f'{g["slug"]}.html').write_bytes(('\n'.join(paragraphs)+'\n').encode('utf-8'))
     metadata.append({k:g[k] for k in ['slug','title','intro','category','items']}|{'checked':'2026-10-10'})

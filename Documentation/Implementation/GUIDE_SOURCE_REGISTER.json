@@ -75,7 +75,7 @@
     "slug": "perfumes-under-1000",
     "canonical": "https://glowwise.tech/guides/perfumes-under-1000/",
     "category": "fragrance",
-    "wordCountExcludingTemplate": 1973,
+    "wordCountExcludingTemplate": 1985,
     "checked": "2026-10-10",
     "sources": [
       "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
@@ -83,7 +83,8 @@
       "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
       "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
       "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
-      "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-nfclm03pd.html"
+      "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-nfclm03pd.html",
+      "https://www.skinn.in/shop/20ml-perfumes"
     ],
     "method": "Original desk research; manufacturer claims distinguished; no personal testing",
     "sourcePath": "content/guides/perfumes-under-1000.html"
@@ -92,7 +93,7 @@
     "slug": "trimmers-under-1500",
     "canonical": "https://glowwise.tech/guides/trimmers-under-1500/",
     "category": "grooming-tools",
-    "wordCountExcludingTemplate": 2019,
+    "wordCountExcludingTemplate": 2031,
     "checked": "2026-10-10",
     "sources": [
       "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
@@ -100,7 +101,8 @@
       "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
       "https://www.vega.co.in/turbolite-beard-trimmer.html",
       "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
-      "https://www.vega.co.in/vega-turboone-beard-trimmer.html"
+      "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
+      "https://www.vega.co.in/men-grooming/trimmers.html"
     ],
     "method": "Original desk research; manufacturer claims distinguished; no personal testing",
     "sourcePath": "content/guides/trimmers-under-1500.html"
@@ -109,7 +111,7 @@
     "slug": "beard-oil-benefits",
     "canonical": "https://glowwise.tech/guides/beard-oil-benefits/",
     "category": "beard-grooming",
-    "wordCountExcludingTemplate": 1994,
+    "wordCountExcludingTemplate": 2006,
     "checked": "2026-10-10",
     "sources": [
       "https://www.tirabeauty.com/product/ustraa-woody-mooch--beard-oil-35ml-bvlak7ytzbm",
@@ -123,7 +125,8 @@
       "https://www.themancompany.com/products/beard-growth-oil-for-men-30ml",
       "https://beardo.in/products/beardo-beard-and-hair-growth-oil",
       "https://www.bombayshavingcompany.com/products/beard-growth-oil-roll-on-for-men",
-      "https://www.bombayshavingcompany.com/products/beard-growth-oil-onion"
+      "https://www.bombayshavingcompany.com/products/beard-growth-oil-onion",
+      "https://www.ustraa.com/beard-oil-wash-woody/p"
     ],
     "method": "Original desk research; manufacturer claims distinguished; no personal testing",
     "sourcePath": "content/guides/beard-oil-benefits.html"
