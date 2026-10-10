@@ -12,7 +12,14 @@ foreach ($records as $r) {
     if (!$product || !in_array($r['variant'],array_column($product['variants'],'label'),true)) { WP_CLI::error('Exact product/variant missing: '.$r['slug']); }
     $existing=get_post_meta($post->ID,'_gw_variant_images',true);$existing=is_array($existing)?$existing:[];
     // Preserve licensed photographs and administrative edits rather than replace them.
-    if (isset($existing[$r['variant']])) { $count['preserved']++;continue; }
+    if (isset($existing[$r['variant']])) {
+        $saved=$existing[$r['variant']];
+        // Repair only the known importer encoding error, never replace edited media.
+        if (($saved['license']??'')==='Brand copyright Â· demo use' && get_post_meta($saved['attachmentId'],'_gw_demo_source',true)) {
+            $existing[$r['variant']]['license']=$r['license'];update_post_meta($post->ID,'_gw_variant_images',$existing);
+        }
+        $count['preserved']++;continue;
+    }
     $file='/srv/glowwise/content/demo-media/'.$r['file'];
     if (!is_file($file) || hash_file('sha256',$file)!==$r['sha256']) { WP_CLI::error('Reviewed photo hash mismatch: '.$r['file']); }
     $key='demo-2026-10-10-'.$r['slug'].'-'.$r['variant'].'-'.$r['sha256'];
