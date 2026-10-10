@@ -1,3 +1,9 @@
+# Editorial lifetime checkpoint - 10 October2026
+
+At2026-10-10T05:19:21.583750UTC, modelUSD0.5387; lagged reportedINR18.3200952155 conservatively normalizedUSD0.2617156459 (70INR/USD guard floor); hostTX663,010,962bytes, decisioncontinue. No new resources/services or lease extension. This is usage/model, not a remaining-credit balance. Existing USD10 lifetime allowance, US$6/15-minute guard, finite16October09:31:49IST lease and23October retained-resource decision remain. Disk/IP continue charging after deallocation; alerts are delayed notifications. See Editorial/cost.json and existing operations for shutdown/teardown.
+
+Earlier dated checkpoints follow unchanged.
+
 # Current lifetime cost checkpoint — 10 October 2026 IST
 
 Actual readback **2026-10-09T21:17:31.586799+00:00**: Azure for Students Enabled, spending protection **On**, same seven resources, VM running. Provider daily shutdown Disabled for the original finite lease only. Guard modeled **US$0.3677**, lagged reported **INR 10.56099557**, conservatively normalized **US$0.15087** using70INR/USD. Host TX **535,919,823bytes**, decision continue. Remaining student-credit balance is not independently verified.

@@ -1,0 +1,4119 @@
+{
+  "capturedUTC": "2026-10-10T05:15:21.075588+00:00",
+  "purpose": "Actual anonymous HTTP/HTML/canonical/robots/schema/sitemap/link/permissions checks",
+  "profile": "launched",
+  "routes": 73,
+  "sitemapLocations": 63,
+  "checks": [
+    {
+      "test": "/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/']"
+    },
+    {
+      "test": "/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/explore/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/explore/']"
+    },
+    {
+      "test": "/explore/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/2/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/2/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/2/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/explore/page/2/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/explore/page/2/']"
+    },
+    {
+      "test": "/explore/page/2/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/2/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/2/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/2/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/2/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/3/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/3/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/3/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/explore/page/3/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/explore/page/3/']"
+    },
+    {
+      "test": "/explore/page/3/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/3/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/3/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/3/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/3/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/guides/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/guides/']"
+    },
+    {
+      "test": "/guides/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/page/2/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/page/2/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/page/2/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/guides/page/2/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/guides/page/2/']"
+    },
+    {
+      "test": "/guides/page/2/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/page/2/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/page/2/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/page/2/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/page/2/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/minimalist-light-fluid-spf-50/']"
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-50/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-50/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-50/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/minimalist-spf-50/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/minimalist-spf-50/']"
+    },
+    {
+      "test": "/products/minimalist-spf-50/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-50/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-50/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-50/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-50/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-60/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-60/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-60/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/minimalist-spf-60/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/minimalist-spf-60/']"
+    },
+    {
+      "test": "/products/minimalist-spf-60/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-60/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-60/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-60/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-spf-60/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-green-tea-zinc-spf-50/']"
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-rice-water-spf-50/']"
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-sheer-tinted-spf-50/']"
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/minimalist-b12-oat-cleanser/']"
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/minimalist-aquaporin-cleanser/']"
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/minimalist-salicylic-lha-cleanser/']"
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-rice-water-face-wash/']"
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/minimalist-hydrating-factors-shampoo/']"
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/minimalist-maleic-shampoo/']"
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-coconut-peptides-shampoo/']"
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-avocado-argan-shampoo/']"
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-anti-dandruff-shampoo/']"
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/beardo-no-nonsense-shampoo/']"
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/minimalist-niacinamide-body-lotion/']"
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-vanilla-caramello-lotion/']"
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-vanilla-vibes-lotion/']"
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-hawaiian-rumba-lotion/']"
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-tropic-lotion/']"
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/plum-hazelnut-lotion/']"
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/beardo-godfather-oil/']"
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/beardo-beard-hair-oil/']"
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/skinn-raw-20ml/']"
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/skinn-steele-20ml/']"
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/skinn-verge-20ml/']"
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/skinn-celeste-20ml/']"
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/skinn-sheer-20ml/']"
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/skinn-nude-20ml/']"
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-lite/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-lite/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-lite/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/vega-power-lite/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/vega-power-lite/']"
+    },
+    {
+      "test": "/products/vega-power-lite/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-lite/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-lite/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-lite/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-lite/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-p1/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-p1/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-p1/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/vega-power-p1/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/vega-power-p1/']"
+    },
+    {
+      "test": "/products/vega-power-p1/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-p1/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-p1/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-p1/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-power-p1/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s3/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s3/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s3/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/vega-smartone-s3/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/vega-smartone-s3/']"
+    },
+    {
+      "test": "/products/vega-smartone-s3/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s3/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s3/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s3/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s3/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turboone/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turboone/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turboone/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/vega-turboone/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/vega-turboone/']"
+    },
+    {
+      "test": "/products/vega-turboone/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turboone/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turboone/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turboone/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turboone/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s2/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s2/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s2/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/vega-smartone-s2/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/vega-smartone-s2/']"
+    },
+    {
+      "test": "/products/vega-smartone-s2/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s2/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s2/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s2/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-smartone-s2/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turbolite/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turbolite/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turbolite/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/vega-turbolite/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/vega-turbolite/']"
+    },
+    {
+      "test": "/products/vega-turbolite/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turbolite/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turbolite/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turbolite/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/vega-turbolite/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-beard-roll-on/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-beard-roll-on/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-beard-roll-on/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/bombay-beard-roll-on/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/bombay-beard-roll-on/']"
+    },
+    {
+      "test": "/products/bombay-beard-roll-on/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-beard-roll-on/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-beard-roll-on/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-beard-roll-on/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-beard-roll-on/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-onion-beard-oil/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-onion-beard-oil/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-onion-beard-oil/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/bombay-onion-beard-oil/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/bombay-onion-beard-oil/']"
+    },
+    {
+      "test": "/products/bombay-onion-beard-oil/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-onion-beard-oil/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-onion-beard-oil/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-onion-beard-oil/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/bombay-onion-beard-oil/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/man-company-beard-oil/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/man-company-beard-oil/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/man-company-beard-oil/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/man-company-beard-oil/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/man-company-beard-oil/']"
+    },
+    {
+      "test": "/products/man-company-beard-oil/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/man-company-beard-oil/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/man-company-beard-oil/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/man-company-beard-oil/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/man-company-beard-oil/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/ustraa-woody-beard-oil/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/ustraa-woody-beard-oil/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/ustraa-woody-beard-oil/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/products/ustraa-woody-beard-oil/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/products/ustraa-woody-beard-oil/']"
+    },
+    {
+      "test": "/products/ustraa-woody-beard-oil/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/ustraa-woody-beard-oil/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/ustraa-woody-beard-oil/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/ustraa-woody-beard-oil/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/ustraa-woody-beard-oil/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/categories/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/categories/']"
+    },
+    {
+      "test": "/categories/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/finder/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/finder/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/finder/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['noindex, follow']"
+    },
+    {
+      "test": "/finder/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "[]"
+    },
+    {
+      "test": "/finder/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/finder/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/finder/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/finder/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/finder/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/compare/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/compare/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/compare/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['noindex, follow']"
+    },
+    {
+      "test": "/compare/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "[]"
+    },
+    {
+      "test": "/compare/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/compare/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/compare/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/compare/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/compare/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/saved/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/saved/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/saved/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['noindex, follow']"
+    },
+    {
+      "test": "/saved/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "[]"
+    },
+    {
+      "test": "/saved/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/saved/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/saved/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/saved/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/saved/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/about/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/about/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/about/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/about/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/about/']"
+    },
+    {
+      "test": "/about/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/about/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/about/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/about/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/about/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/how-we-select/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/how-we-select/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/how-we-select/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/how-we-select/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/how-we-select/']"
+    },
+    {
+      "test": "/how-we-select/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/how-we-select/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/how-we-select/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/how-we-select/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/how-we-select/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/contact/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/contact/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/contact/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/contact/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/contact/']"
+    },
+    {
+      "test": "/contact/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/contact/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/contact/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/contact/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/contact/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/corrections/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/corrections/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/corrections/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/corrections/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/corrections/']"
+    },
+    {
+      "test": "/corrections/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/corrections/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/corrections/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/corrections/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/corrections/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/privacy/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/privacy/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/privacy/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['noindex, follow']"
+    },
+    {
+      "test": "/privacy/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "[]"
+    },
+    {
+      "test": "/privacy/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/privacy/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/privacy/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/privacy/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/privacy/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/terms/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/terms/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/terms/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['noindex, follow']"
+    },
+    {
+      "test": "/terms/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "[]"
+    },
+    {
+      "test": "/terms/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/terms/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/terms/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/terms/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/terms/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/cookies-and-storage/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/cookies-and-storage/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/cookies-and-storage/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['noindex, follow']"
+    },
+    {
+      "test": "/cookies-and-storage/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "[]"
+    },
+    {
+      "test": "/cookies-and-storage/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/cookies-and-storage/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/cookies-and-storage/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/cookies-and-storage/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/cookies-and-storage/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/disclosures/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/disclosures/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/disclosures/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/disclosures/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/disclosures/']"
+    },
+    {
+      "test": "/disclosures/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/disclosures/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/disclosures/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/disclosures/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/disclosures/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/accessibility/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/accessibility/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/accessibility/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/accessibility/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/accessibility/']"
+    },
+    {
+      "test": "/accessibility/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/accessibility/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/accessibility/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/accessibility/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/accessibility/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/sitemap/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/sitemap/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/sitemap/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['noindex, follow']"
+    },
+    {
+      "test": "/sitemap/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "[]"
+    },
+    {
+      "test": "/sitemap/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/sitemap/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/sitemap/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/sitemap/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/sitemap/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/']"
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/guides/sunscreen-for-oily-skin/']"
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/guides/body-lotion-for-dry-skin/']"
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/guides/perfumes-under-1000/']"
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/guides/trimmers-under-1500/']"
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/guides/beard-oil-benefits/']"
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/guides/face-wash-for-sensitive-skin/']"
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/skincare/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/skincare/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/skincare/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/categories/skincare/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/categories/skincare/']"
+    },
+    {
+      "test": "/categories/skincare/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/skincare/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/skincare/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/skincare/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/skincare/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/haircare/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/haircare/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/haircare/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/categories/haircare/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/categories/haircare/']"
+    },
+    {
+      "test": "/categories/haircare/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/haircare/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/haircare/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/haircare/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/haircare/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/bodycare/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/bodycare/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/bodycare/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/categories/bodycare/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/categories/bodycare/']"
+    },
+    {
+      "test": "/categories/bodycare/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/bodycare/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/bodycare/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/bodycare/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/bodycare/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/fragrance/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/fragrance/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/fragrance/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/categories/fragrance/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/categories/fragrance/']"
+    },
+    {
+      "test": "/categories/fragrance/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/fragrance/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/fragrance/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/fragrance/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/fragrance/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/beard-grooming/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/beard-grooming/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/beard-grooming/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/categories/beard-grooming/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/categories/beard-grooming/']"
+    },
+    {
+      "test": "/categories/beard-grooming/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/beard-grooming/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/beard-grooming/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/beard-grooming/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/beard-grooming/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/grooming-tools/ real 200, one h1 and complete footer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/grooming-tools/ unique title/description",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/grooming-tools/ one robots directive with deliberate intent",
+      "pass": true,
+      "observation": "['index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1']"
+    },
+    {
+      "test": "/categories/grooming-tools/ canonical follows single Yoast presenter",
+      "pass": true,
+      "observation": "['https://glowwise.tech/categories/grooming-tools/']"
+    },
+    {
+      "test": "/categories/grooming-tools/ OpenGraph URL/title/description present",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/grooming-tools/ single JSON-LD graph and no mixed content",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/grooming-tools/ no fake reviews/offers or private publisher fields",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/grooming-tools/ HTML is not publicly cached",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/categories/grooming-tools/ no global development noindex header",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Empty budget renders an empty valid number input",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/gw-launch-missing/ genuine 404",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/products/gw-launch-missing/ genuine 404",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/explore/page/999/ genuine 404",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/wp-json/glowwise/v1/products/999999 genuine 404",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Public search does not reveal private test data /?s=STAGE4DISPOSABLECONTACTTEST",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Public search does not reveal private test data /wp-json/glowwise/v1/products?q=STAGE4DISPOSABLECONTACTTEST",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/wp-json/wp/v2/gw_message public retrieval absent",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "/wp-json/wp/v2/users public retrieval absent",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Bad catalog input rejected ?q%5B%5D=nested",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Bad catalog input rejected ?page=0",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Bad catalog input rejected ?type=invented",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Bad catalog input rejected ?per-page=1000",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Invalid comparison denied {'items': [18, 18]}",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Invalid comparison denied {'items': [18, 19, 20, 21]}",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Invalid comparison denied {'items': [999999]}",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Invalid comparison denied {'items': [True]}",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Invalid comparison denied {'items': [{'id': 18, 'variant': 'missing-pack'}]}",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Filtered utility noindex and honest empty result",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Real sitemap index available",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Sitemap child loads https://glowwise.tech/post-sitemap.xml",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Sitemap child loads https://glowwise.tech/page-sitemap.xml",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Sitemap child loads https://glowwise.tech/gw_product-sitemap.xml",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Sitemap child loads https://glowwise.tech/gw_category-sitemap.xml",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "All intended singular content/category hubs in XML",
+      "pass": true,
+      "observation": "[]"
+    },
+    {
+      "test": "Utility/inbox/author/query URLs excluded from XML",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Crawler permitted and actual sitemap declared",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=10",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=100",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=102",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=104",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=106",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=108",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=110",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=112",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=114",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=116",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=118",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=12",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=120",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=122",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=14",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=16",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=18",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=20",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=22",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=24",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=26",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=28",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=30",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=32",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=335",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=337",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=339",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=34",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=341",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=36",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=38",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=40",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=42",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=44",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=46",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=48",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=50",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=52",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=54",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=56",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=58",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=6",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=60",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=62",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=64",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=66",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=68",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=70",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=72",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=74",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=76",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=8",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=80",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=84",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=86",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=88",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=90",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=92",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=94",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=96",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /?p=98",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /categories/beard-grooming/feed/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /categories/bodycare/feed/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /categories/fragrance/feed/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /categories/grooming-tools/feed/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /categories/haircare/feed/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /categories/skincare/feed/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/guides/beard-oil-benefits/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/guides/body-lotion-for-dry-skin/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/guides/face-wash-for-sensitive-skin/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/guides/perfumes-under-1000/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/guides/trimmers-under-1500/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/beardo-beard-hair-oil/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/beardo-godfather-oil/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/beardo-no-nonsense-shampoo/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/bombay-beard-roll-on/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/bombay-onion-beard-oil/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/man-company-beard-oil/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/minimalist-aquaporin-cleanser/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/minimalist-b12-oat-cleanser/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/minimalist-hydrating-factors-shampoo/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/minimalist-light-fluid-spf-50/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/minimalist-maleic-shampoo/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/minimalist-niacinamide-body-lotion/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/minimalist-salicylic-lha-cleanser/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/minimalist-spf-50/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/minimalist-spf-60/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-anti-dandruff-shampoo/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-avocado-argan-shampoo/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-coconut-peptides-shampoo/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-green-tea-zinc-spf-50/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-hawaiian-rumba-lotion/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-hazelnut-lotion/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-rice-water-face-wash/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-rice-water-spf-50/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-sheer-tinted-spf-50/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-tropic-lotion/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-vanilla-caramello-lotion/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/plum-vanilla-vibes-lotion/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/skinn-celeste-20ml/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/skinn-nude-20ml/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/skinn-raw-20ml/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/skinn-sheer-20ml/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/skinn-steele-20ml/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/skinn-verge-20ml/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/ustraa-woody-beard-oil/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/vega-power-lite/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/vega-power-p1/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/vega-smartone-s2/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/vega-smartone-s3/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/vega-turbolite/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /corrections/?page-url=https://glowwise.tech/products/vega-turboone/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?category=beard-grooming",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?category=bodycare",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?category=fragrance",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?category=grooming-tools",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?category=haircare",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?category=skincare",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?type=beard-oil",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?type=beard-trimmer",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?type=body-lotion",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?type=eau-de-parfum",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?type=face-cleanser",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?type=shampoo",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/?type=sunscreen",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/feed/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /explore/page/4/",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /finder/?category=beard-grooming",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /finder/?category=bodycare",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /finder/?category=fragrance",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /finder/?category=grooming-tools",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /finder/?category=haircare",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /finder/?category=skincare",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /products/plum-rice-water-spf-50/?variant=50%20g",
+      "pass": true,
+      "observation": ""
+    },
+    {
+      "test": "Internal link loads /xmlrpc.php?rsd",
+      "pass": true,
+      "observation": ""
+    }
+  ],
+  "limitations": [
+    "Schema structure assertions are separate from official validator results",
+    "Yoast intentionally omits canonical on noindex pages",
+    "No field analytics or organic indexing claim"
+  ]
+}

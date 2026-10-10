@@ -1,0 +1,46 @@
+{
+  "capturedUTC": "2026-10-10T05:02:29+00:00",
+  "purpose": "Repeatable import, owner-edit preservation, portable export and canonical/noindex rules on actual WordPress; launch gate retained",
+  "checks": [
+    {
+      "test": "First import creates one fixture",
+      "pass": true
+    },
+    {
+      "test": "Repeat import creates no duplicate",
+      "pass": true
+    },
+    {
+      "test": "Changed seed preserves later WordPress edit",
+      "pass": true
+    },
+    {
+      "test": "Export contains only published content kinds",
+      "pass": true
+    },
+    {
+      "test": "Export categories round-trip with descriptions",
+      "pass": true
+    },
+    {
+      "test": "Export excludes accounts/private message bodies",
+      "pass": true
+    },
+    {
+      "test": "Clean archive pagination self-canonical rule",
+      "pass": true
+    },
+    {
+      "test": "Filtered catalog noindex rule",
+      "pass": true
+    },
+    {
+      "test": "Repeat import preserves the existing launch-indexing decision",
+      "pass": true
+    },
+    {
+      "test": "Disposable import fixture removed",
+      "pass": true
+    }
+  ]
+}

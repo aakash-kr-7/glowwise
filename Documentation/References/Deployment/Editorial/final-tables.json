@@ -1,0 +1,225 @@
+{
+  "purpose": "Actual final CSS across all seven guides at two breakpoints; no page overflow, bounded scrolling, fully clickable link boxes",
+  "observations": [
+    {
+      "slug": "shampoo-for-dry-frizzy-hair",
+      "capturedUTC": "2026-10-10T05:24:57.887Z",
+      "bodyWidth": 375,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 700,
+      "tableWidth": 335,
+      "viewport": 390
+    },
+    {
+      "slug": "sunscreen-for-oily-skin",
+      "capturedUTC": "2026-10-10T05:24:58.816Z",
+      "bodyWidth": 375,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 700,
+      "tableWidth": 335,
+      "viewport": 390
+    },
+    {
+      "slug": "body-lotion-for-dry-skin",
+      "capturedUTC": "2026-10-10T05:24:59.749Z",
+      "bodyWidth": 375,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 700,
+      "tableWidth": 335,
+      "viewport": 390
+    },
+    {
+      "slug": "perfumes-under-1000",
+      "capturedUTC": "2026-10-10T05:25:00.677Z",
+      "bodyWidth": 375,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 700,
+      "tableWidth": 335,
+      "viewport": 390
+    },
+    {
+      "slug": "trimmers-under-1500",
+      "capturedUTC": "2026-10-10T05:25:01.606Z",
+      "bodyWidth": 375,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 700,
+      "tableWidth": 335,
+      "viewport": 390
+    },
+    {
+      "slug": "beard-oil-benefits",
+      "capturedUTC": "2026-10-10T05:25:02.527Z",
+      "bodyWidth": 375,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 700,
+      "tableWidth": 335,
+      "viewport": 390
+    },
+    {
+      "slug": "face-wash-for-sensitive-skin",
+      "capturedUTC": "2026-10-10T05:25:03.441Z",
+      "bodyWidth": 375,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 700,
+      "tableWidth": 335,
+      "viewport": 390
+    },
+    {
+      "slug": "shampoo-for-dry-frizzy-hair",
+      "capturedUTC": "2026-10-10T05:25:04.404Z",
+      "bodyWidth": 1265,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 760,
+      "tableWidth": 760,
+      "viewport": 1280
+    },
+    {
+      "slug": "sunscreen-for-oily-skin",
+      "capturedUTC": "2026-10-10T05:25:05.327Z",
+      "bodyWidth": 1265,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 760,
+      "tableWidth": 760,
+      "viewport": 1280
+    },
+    {
+      "slug": "body-lotion-for-dry-skin",
+      "capturedUTC": "2026-10-10T05:25:06.254Z",
+      "bodyWidth": 1265,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 760,
+      "tableWidth": 760,
+      "viewport": 1280
+    },
+    {
+      "slug": "perfumes-under-1000",
+      "capturedUTC": "2026-10-10T05:25:07.190Z",
+      "bodyWidth": 1265,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 760,
+      "tableWidth": 760,
+      "viewport": 1280
+    },
+    {
+      "slug": "trimmers-under-1500",
+      "capturedUTC": "2026-10-10T05:25:08.118Z",
+      "bodyWidth": 1265,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 760,
+      "tableWidth": 760,
+      "viewport": 1280
+    },
+    {
+      "slug": "beard-oil-benefits",
+      "capturedUTC": "2026-10-10T05:25:09.088Z",
+      "bodyWidth": 1265,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 760,
+      "tableWidth": 760,
+      "viewport": 1280
+    },
+    {
+      "slug": "face-wash-for-sensitive-skin",
+      "capturedUTC": "2026-10-10T05:25:10.020Z",
+      "bodyWidth": 1265,
+      "linkDisplays": [
+        "inline-block",
+        "inline-block",
+        "inline-block",
+        "inline-block"
+      ],
+      "tableScrollWidth": 760,
+      "tableWidth": 760,
+      "viewport": 1280
+    }
+  ]
+}

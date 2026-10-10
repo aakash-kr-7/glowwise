@@ -1,0 +1,510 @@
+{
+  "purpose": "Actual all-seven desktop/mobile article readback, visible facts, reflow, headings, media and footer",
+  "privacy": "Owned public rendered content only; local storage/account data excluded",
+  "observations": [
+    {
+      "slug": "shampoo-for-dry-frizzy-hair",
+      "capturedUTC": "2026-10-10T05:10:14.047Z",
+      "bodyWidth": 375,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Minimalist Hydrating Factors 7.3% Shampoo — First choice to investigate for fragrance-free washing",
+        "2. Plum Coconut Milk & Peptides Shampoo — Budget pack for a conditioning-oriented wash",
+        "3. Plum Avocado & Argan Frizz Control Shampoo — For an oil-containing, frizz-focused formula",
+        "4. Minimalist Maleic Bond Repair Complex 3.5% Shampoo — For a damage-focused routine",
+        "5. Plum Anti-Dandruff Shampoo with 0.5% Salicylic Acid — Conditional option when scalp flakes matter too",
+        "6. Beardo No Nonsense Shampoo — Basic cleansing alternative",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 700,
+          "width": 335
+        }
+      ],
+      "title": "Shampoo for dry, frizzy hair: six formulas, different wash-day jobs",
+      "width": 390,
+      "device": "mobile",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "sunscreen-for-oily-skin",
+      "capturedUTC": "2026-10-10T05:10:15.020Z",
+      "bodyWidth": 375,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Plum Green Tea & Zinc SPF 50 Gel — First shortlist for a matte preference",
+        "2. Minimalist Light Fluid SPF 50 — For a fluid, natural finish",
+        "3. Minimalist SPF 50 Sunscreen — Lowest first-purchase cost in this edit",
+        "4. Plum 2% Niacinamide & Rice Water SPF 50 — For a dewy finish and pack value",
+        "5. Minimalist SPF 60 Sunscreen — For the SPF 60 preference",
+        "6. Plum 3% Niacinamide Sheer-Tinted SPF 50 — For sheer tint, after checking the shade",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 700,
+          "width": 335
+        }
+      ],
+      "title": "Sunscreen for oily skin: six choices by finish, pack and budget",
+      "width": 390,
+      "device": "mobile",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "body-lotion-for-dry-skin",
+      "capturedUTC": "2026-10-10T05:10:15.992Z",
+      "bodyWidth": 375,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Minimalist Niacinamide 5% Body Lotion — First investigation for fragrance-free body care",
+        "2. Plum BodyLovin Vanilla Caramello Lotion — Lowest checked cost per ml among the scented lotions",
+        "3. Plum BodyLovin Tropic of Discussion Lotion — For a tropical gel-cream preference",
+        "4. Plum BodyLovin Hazelnut Eclair Lotion — For a hazelnut-and-vanilla scent preference",
+        "5. Plum BodyLovin Hawaiian Rumba Lotion — For a fruit-and-floral scent profile",
+        "6. Plum BodyLovin Vanilla Vibes Lotion — For a straightforward sweet-vanilla preference",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 700,
+          "width": 335
+        }
+      ],
+      "title": "Body lotion for dry skin: six choices from fragrance-free to scented",
+      "width": 390,
+      "device": "mobile",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "perfumes-under-1000",
+      "capturedUTC": "2026-10-10T05:10:16.956Z",
+      "bodyWidth": 375,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. SKINN Raw Eau de Parfum — First investigation for a fresh citrus opening",
+        "2. SKINN Celeste Eau de Parfum — For citrus, ginger and floral notes",
+        "3. SKINN Sheer Eau de Parfum — For pear, florals and a vanilla-wood base",
+        "4. SKINN Nude Eau de Parfum — For fruit, rose and a soft-wood direction",
+        "5. SKINN Steele Eau de Parfum — For spice and a sweeter base",
+        "6. SKINN Verge Eau de Parfum — Herbal alternative; currently unavailable at the brand",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 700,
+          "width": 335
+        }
+      ],
+      "title": "Perfumes under ₹1,000: six SKINN 20 ml scents, with real differences",
+      "width": 390,
+      "device": "mobile",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "trimmers-under-1500",
+      "capturedUTC": "2026-10-10T05:10:17.942Z",
+      "bodyWidth": 375,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Vega Smartone S3 Beard Trimmer — First investigation for Type-C and whole-unit cleaning",
+        "2. Vega Power Series P1 Beard Trimmer — For long stated runtime at a lower price",
+        "3. Vega Power Lite Beard Trimmer — Lowest-priced in-stock model in this edit",
+        "4. Vega Turbolite Beard Trimmer — Lowest reference price; wait for verified stock",
+        "5. Vega Smartone S2 Beard Trimmer — S3-like specification; currently out of stock",
+        "6. Vega Turboone Beard Trimmer — Basic Micro-USB alternative; stock unavailable",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 700,
+          "width": 335
+        }
+      ],
+      "title": "Trimmers under ₹1,500: six Vega models, three current purchase options",
+      "width": 390,
+      "device": "mobile",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "beard-oil-benefits",
+      "capturedUTC": "2026-10-10T05:10:18.922Z",
+      "bodyWidth": 375,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Ustraa Woody Mooch & Beard Oil — Budget investigation for woody-scent conditioning",
+        "2. Beardo Godfather Beard Oil — For a fragrant conditioning routine",
+        "3. The Man Company Beard Growth Oil — For sunflower-and-coconut-oil formulation comparison",
+        "4. Beardo Beard & Hair Growth Oil — Larger bottle for an established routine",
+        "5. Bombay Shaving Company Beard Growth Roll-on — For a small roll-on format",
+        "6. Bombay Shaving Company Onion Beard Growth Oil — Onion-and-rosemary alternative, with claim limits",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 700,
+          "width": 335
+        }
+      ],
+      "title": "Beard-oil benefits: what conditioning can do, and six options to compare",
+      "width": 390,
+      "device": "mobile",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "face-wash-for-sensitive-skin",
+      "capturedUTC": "2026-10-10T05:10:19.876Z",
+      "bodyWidth": 375,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Minimalist B12 + Oat Extract 6.5% Cleanser — First investigation for low-foam cleansing",
+        "2. Minimalist Aquaporin Booster 5% Cleanser — For a mild foaming preference",
+        "3. Plum 2% Niacinamide & Rice Water Face Wash — Conditional niacinamide cleanser alternative",
+        "4. Minimalist Salicylic Acid + LHA 2% Cleanser — Conditional option for a separate exfoliation need",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 4,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 700,
+          "width": 335
+        }
+      ],
+      "title": "Face wash for sensitive skin: two starting points and two conditional alternatives",
+      "width": 390,
+      "device": "mobile",
+      "paragraphCount": 30,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "shampoo-for-dry-frizzy-hair",
+      "capturedUTC": "2026-10-10T05:11:07.240Z",
+      "bodyWidth": 1265,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Minimalist Hydrating Factors 7.3% Shampoo — First choice to investigate for fragrance-free washing",
+        "2. Plum Coconut Milk & Peptides Shampoo — Budget pack for a conditioning-oriented wash",
+        "3. Plum Avocado & Argan Frizz Control Shampoo — For an oil-containing, frizz-focused formula",
+        "4. Minimalist Maleic Bond Repair Complex 3.5% Shampoo — For a damage-focused routine",
+        "5. Plum Anti-Dandruff Shampoo with 0.5% Salicylic Acid — Conditional option when scalp flakes matter too",
+        "6. Beardo No Nonsense Shampoo — Basic cleansing alternative",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 760,
+          "width": 760
+        }
+      ],
+      "title": "Shampoo for dry, frizzy hair: six formulas, different wash-day jobs",
+      "width": 1280,
+      "device": "desktop",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "sunscreen-for-oily-skin",
+      "capturedUTC": "2026-10-10T05:11:08.216Z",
+      "bodyWidth": 1265,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Plum Green Tea & Zinc SPF 50 Gel — First shortlist for a matte preference",
+        "2. Minimalist Light Fluid SPF 50 — For a fluid, natural finish",
+        "3. Minimalist SPF 50 Sunscreen — Lowest first-purchase cost in this edit",
+        "4. Plum 2% Niacinamide & Rice Water SPF 50 — For a dewy finish and pack value",
+        "5. Minimalist SPF 60 Sunscreen — For the SPF 60 preference",
+        "6. Plum 3% Niacinamide Sheer-Tinted SPF 50 — For sheer tint, after checking the shade",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 760,
+          "width": 760
+        }
+      ],
+      "title": "Sunscreen for oily skin: six choices by finish, pack and budget",
+      "width": 1280,
+      "device": "desktop",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "body-lotion-for-dry-skin",
+      "capturedUTC": "2026-10-10T05:11:08.902Z",
+      "bodyWidth": 1265,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Minimalist Niacinamide 5% Body Lotion — First investigation for fragrance-free body care",
+        "2. Plum BodyLovin Vanilla Caramello Lotion — Lowest checked cost per ml among the scented lotions",
+        "3. Plum BodyLovin Tropic of Discussion Lotion — For a tropical gel-cream preference",
+        "4. Plum BodyLovin Hazelnut Eclair Lotion — For a hazelnut-and-vanilla scent preference",
+        "5. Plum BodyLovin Hawaiian Rumba Lotion — For a fruit-and-floral scent profile",
+        "6. Plum BodyLovin Vanilla Vibes Lotion — For a straightforward sweet-vanilla preference",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 760,
+          "width": 760
+        }
+      ],
+      "title": "Body lotion for dry skin: six choices from fragrance-free to scented",
+      "width": 1280,
+      "device": "desktop",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "perfumes-under-1000",
+      "capturedUTC": "2026-10-10T05:11:09.597Z",
+      "bodyWidth": 1265,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. SKINN Raw Eau de Parfum — First investigation for a fresh citrus opening",
+        "2. SKINN Celeste Eau de Parfum — For citrus, ginger and floral notes",
+        "3. SKINN Sheer Eau de Parfum — For pear, florals and a vanilla-wood base",
+        "4. SKINN Nude Eau de Parfum — For fruit, rose and a soft-wood direction",
+        "5. SKINN Steele Eau de Parfum — For spice and a sweeter base",
+        "6. SKINN Verge Eau de Parfum — Herbal alternative; currently unavailable at the brand",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 760,
+          "width": 760
+        }
+      ],
+      "title": "Perfumes under ₹1,000: six SKINN 20 ml scents, with real differences",
+      "width": 1280,
+      "device": "desktop",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "trimmers-under-1500",
+      "capturedUTC": "2026-10-10T05:11:10.298Z",
+      "bodyWidth": 1265,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Vega Smartone S3 Beard Trimmer — First investigation for Type-C and whole-unit cleaning",
+        "2. Vega Power Series P1 Beard Trimmer — For long stated runtime at a lower price",
+        "3. Vega Power Lite Beard Trimmer — Lowest-priced in-stock model in this edit",
+        "4. Vega Turbolite Beard Trimmer — Lowest reference price; wait for verified stock",
+        "5. Vega Smartone S2 Beard Trimmer — S3-like specification; currently out of stock",
+        "6. Vega Turboone Beard Trimmer — Basic Micro-USB alternative; stock unavailable",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 760,
+          "width": 760
+        }
+      ],
+      "title": "Trimmers under ₹1,500: six Vega models, three current purchase options",
+      "width": 1280,
+      "device": "desktop",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "beard-oil-benefits",
+      "capturedUTC": "2026-10-10T05:11:10.982Z",
+      "bodyWidth": 1265,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Ustraa Woody Mooch & Beard Oil — Budget investigation for woody-scent conditioning",
+        "2. Beardo Godfather Beard Oil — For a fragrant conditioning routine",
+        "3. The Man Company Beard Growth Oil — For sunflower-and-coconut-oil formulation comparison",
+        "4. Beardo Beard & Hair Growth Oil — Larger bottle for an established routine",
+        "5. Bombay Shaving Company Beard Growth Roll-on — For a small roll-on format",
+        "6. Bombay Shaving Company Onion Beard Growth Oil — Onion-and-rosemary alternative, with claim limits",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 6,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 760,
+          "width": 760
+        }
+      ],
+      "title": "Beard-oil benefits: what conditioning can do, and six options to compare",
+      "width": 1280,
+      "device": "desktop",
+      "paragraphCount": 38,
+      "completeArticleTextRetainedPrivately": true
+    },
+    {
+      "slug": "face-wash-for-sensitive-skin",
+      "capturedUTC": "2026-10-10T05:11:11.648Z",
+      "bodyWidth": 1265,
+      "brokenImages": [],
+      "footer": true,
+      "headings": [
+        "The decision this guide helps you make",
+        "How we selected and ordered the recommendations",
+        "The shortlist at a glance",
+        "1. Minimalist B12 + Oat Extract 6.5% Cleanser — First investigation for low-foam cleansing",
+        "2. Minimalist Aquaporin Booster 5% Cleanser — For a mild foaming preference",
+        "3. Plum 2% Niacinamide & Rice Water Face Wash — Conditional niacinamide cleanser alternative",
+        "4. Minimalist Salicylic Acid + LHA 2% Cleanser — Conditional option for a separate exfoliation need",
+        "Practical buying guidance",
+        "Common questions",
+        "Research limits and next steps",
+        "Supporting references",
+        "How this guide was researched"
+      ],
+      "rows": 4,
+      "tables": [
+        {
+          "focus": 0,
+          "scroll": 760,
+          "width": 760
+        }
+      ],
+      "title": "Face wash for sensitive skin: two starting points and two conditional alternatives",
+      "width": 1280,
+      "device": "desktop",
+      "paragraphCount": 30,
+      "completeArticleTextRetainedPrivately": true
+    }
+  ],
+  "limitations": [
+    "Viewport emulation is not a physical-device/full screen-reader audit",
+    "Earlier over-wide tables failed; final bounded table regions retested here"
+  ]
+}

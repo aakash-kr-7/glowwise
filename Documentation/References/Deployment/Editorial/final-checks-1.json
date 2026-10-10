@@ -1,0 +1,42 @@
+{
+  "capturedUTC": "2026-10-10T05:14:26+00:00",
+  "purpose": "Non-destructive native photo metadata/security integration checks",
+  "checks": [
+    {
+      "test": "Licensed photo only matches 50 g; default 80 g has no photo",
+      "pass": true
+    },
+    {
+      "test": "Photo has native responsive dimensions and attribution",
+      "pass": true
+    },
+    {
+      "test": "Wrong pack rejected",
+      "pass": true
+    },
+    {
+      "test": "Unsafe source rejected",
+      "pass": true
+    },
+    {
+      "test": "Future rights check rejected",
+      "pass": true
+    },
+    {
+      "test": "Product post cannot impersonate photo attachment",
+      "pass": true
+    },
+    {
+      "test": "Empty image record is an honest valid fallback",
+      "pass": true
+    },
+    {
+      "test": "Anonymous/invalid nonce cannot replace image metadata",
+      "pass": true
+    },
+    {
+      "test": "Catalogue counts and exact selected pack are unchanged",
+      "pass": true
+    }
+  ]
+}

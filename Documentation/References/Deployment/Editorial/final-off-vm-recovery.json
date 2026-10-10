@@ -1,0 +1,40 @@
+{
+  "capturedUTC": "2026-10-10T05:25:34.639592+00:00",
+  "purpose": "Final actual restricted off-VM archive hash match and six-component verification",
+  "sourceRevision": "b379f83ce4373cf07a6b67e06e3097b692c8342b",
+  "archiveBytes": 28100442,
+  "archiveSHA256": "58704c0e3ae062056142069d00863ab70100e752fbaa94a772c2cdf2c21e4012",
+  "components": 6,
+  "checks": [
+    {
+      "entity": "db.gz",
+      "bytes": 228893,
+      "integrity": true
+    },
+    {
+      "entity": "plugins.zip",
+      "bytes": 120,
+      "integrity": true
+    },
+    {
+      "entity": "others.zip",
+      "bytes": 2531,
+      "integrity": true
+    },
+    {
+      "entity": "plugins.zip",
+      "bytes": 14362153,
+      "integrity": true
+    },
+    {
+      "entity": "themes.zip",
+      "bytes": 14265981,
+      "integrity": true
+    },
+    {
+      "entity": "uploads.zip",
+      "bytes": 247184,
+      "integrity": true
+    }
+  ]
+}

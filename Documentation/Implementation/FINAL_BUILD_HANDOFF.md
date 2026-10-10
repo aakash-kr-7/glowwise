@@ -1,5 +1,15 @@
 # Glowwise final implementation handoff
 
+
+## Editorial release - 10 October 2026
+
+[Current editorial handoff](EDITORIAL_RELEASE_HANDOFF.md) supersedes older content/photograph counts below. Live: **40 researched families, 55 variants, seven complete mapped guides**; 36 core selections plus four retained cleansers; all 36 existing product IDs retained. **40 exact purchase destinations; 36 families currently listed; 1 licensed exact-pack photo, 39 permission gaps.** Source/runtime b379f83ce4373cf07a6b67e06e3097b692c8342b. [Research register](PRODUCT_RESEARCH_REGISTER.json), [evidence](EDITORIAL_EVIDENCE_INDEX.md), [current native export](exports/editorial-published-content.json).
+
+197 content and 821 broader HTTP checks pass; all seven guides inspected on desktop/mobile; import repeat 63 unchanged; new-product finder/compare/save/retailer and pointer/keyboard links pass. Latest full Updraft and restricted off-VM recovery verified; final archive/hash and limitations are in the handoff. Modeled USD 0.5387 at 05:19 UTC; original USD 10 controls/16 October 09:31:49 IST lease remain. No new resource, outreach or paid asset.
+
+Resume: documentation agent uses this editorial handoff plus existing visual/technical evidence and preserves historical keyword estimates. Refresh live cost/Git before later work. Remaining exact-photo permissions, owner hosting lifecycle, formal coursework/submission and content expansion are explicit dependencies. Read ignored `.local/deployment/editorial-final-deploy.json` for final documentation HEAD/all-blob relation; do not infer new lab/organic metrics from earlier dated results.
+
+
 ## Visual refinement — 10 October 2026
 
 This section supersedes the historical rendered-art and motion descriptions below. The approved identity, content, URLs, functions, indexing and consent remain. Tested visual runtime: **46eb550d4262adfb7db79676018d7ebee800644a**. Home uses licensed photography; six labelled line icons, seven typographic guide covers and shared product media replace glossy decoration. All nine page types were inspected on desktop/mobile; 291 HTTP assertions across 69 routes and nine native-media checks pass. [Refinement report](VISUAL_REFINEMENT.md) · [evidence index](VISUAL_EVIDENCE_INDEX.md).

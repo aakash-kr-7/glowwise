@@ -1,5 +1,8 @@
 # Evidence index for the documentation handoff
 
+
+Current editorial pass: [18-item evidence index](EDITORIAL_EVIDENCE_INDEX.md) and [release handoff](EDITORIAL_RELEASE_HANDOFF.md). Fresh content, browser, HTTP, recovery and cost checks remain separately dated; historical evidence below is preserved.
+
 10 October 2026 IST. **UTC timestamps below; IST = UTC+05:30.** This curated index links actual sources, never reconstructed screenshots. Fresh H01–H04/H09 readbacks are separate from earlier acceptance. No new paid report or external backlink publication. Supporting paths are relative to this file.
 
 | ID | Criterion | Claim supported | UTC timestamp | Actual path | Privacy treatment | Limitations |

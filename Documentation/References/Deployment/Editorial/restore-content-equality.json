@@ -1,0 +1,21 @@
+{
+  "capturedUTC": "2026-10-10T05:17:06.741922+00:00",
+  "purpose": "Additional isolated SQL restoration equality and restricted six-component off-VM transfer preparation; no private row values or filenames",
+  "sourceRevision": "37cc1f6fa54eb3f81e05d1d2b0c62a71d2822bbb",
+  "checks": [
+    {
+      "test": "All 63 published IDs, slugs, titles, article/product bodies and excerpts restored byte-identically",
+      "pass": true,
+      "aggregateSHA256": "f440ca3827b7f83a3c7128b0b330e06e2d9e452e886068facc102f901d81fe8f"
+    },
+    {
+      "test": "Product facts, guide dates/sources/relationships and licensed exact-variant photo metadata restored identically",
+      "pass": true,
+      "aggregateSHA256": "61f18ac96ffde533121880753e02cce817746daf971d776e17bbba19b5c1fca5"
+    }
+  ],
+  "temporaryDatabaseRemoved": true,
+  "archiveBytes": 28100203,
+  "archiveSHA256": "484a0f836c5f92ac8e73ab5eef53f892bbf406dd956b2a43ff658ef37179bf1d",
+  "components": 6
+}

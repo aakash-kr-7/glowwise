@@ -1,0 +1,801 @@
+{
+  "capturedUTC": "2026-10-10T05:11:17.178877+00:00",
+  "purpose": "Actual published editorial source/ID/variant/body/metadata consistency; no forms or private data",
+  "products": 40,
+  "guides": 7,
+  "checks": [
+    {
+      "test": "Exactly 40 unique published products",
+      "pass": true
+    },
+    {
+      "test": "All 36 existing product IDs and canonical URLs retained",
+      "pass": true
+    },
+    {
+      "test": "minimalist-light-fluid-spf-50 exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-light-fluid-spf-50 verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-light-fluid-spf-50 substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "minimalist-light-fluid-spf-50 exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-50 exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-50 verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-50 substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-50 exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-60 exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-60 verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-60 substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "minimalist-spf-60 exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-green-tea-zinc-spf-50 exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-green-tea-zinc-spf-50 verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-green-tea-zinc-spf-50 substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-green-tea-zinc-spf-50 exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-spf-50 exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-spf-50 verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-spf-50 substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-spf-50 exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-sheer-tinted-spf-50 exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-sheer-tinted-spf-50 verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-sheer-tinted-spf-50 substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-sheer-tinted-spf-50 exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "minimalist-b12-oat-cleanser exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-b12-oat-cleanser verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-b12-oat-cleanser substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "minimalist-b12-oat-cleanser exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "minimalist-aquaporin-cleanser exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-aquaporin-cleanser verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-aquaporin-cleanser substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "minimalist-aquaporin-cleanser exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "minimalist-salicylic-lha-cleanser exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-salicylic-lha-cleanser verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-salicylic-lha-cleanser substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "minimalist-salicylic-lha-cleanser exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-face-wash exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-face-wash verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-face-wash substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-rice-water-face-wash exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "minimalist-hydrating-factors-shampoo exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-hydrating-factors-shampoo verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-hydrating-factors-shampoo substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "minimalist-hydrating-factors-shampoo exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "minimalist-maleic-shampoo exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-maleic-shampoo verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-maleic-shampoo substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "minimalist-maleic-shampoo exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-coconut-peptides-shampoo exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-coconut-peptides-shampoo verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-coconut-peptides-shampoo substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-coconut-peptides-shampoo exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-avocado-argan-shampoo exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-avocado-argan-shampoo verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-avocado-argan-shampoo substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-avocado-argan-shampoo exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-anti-dandruff-shampoo exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-anti-dandruff-shampoo verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-anti-dandruff-shampoo substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-anti-dandruff-shampoo exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "beardo-no-nonsense-shampoo exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "beardo-no-nonsense-shampoo verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "beardo-no-nonsense-shampoo substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "beardo-no-nonsense-shampoo exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "minimalist-niacinamide-body-lotion exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-niacinamide-body-lotion verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "minimalist-niacinamide-body-lotion substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "minimalist-niacinamide-body-lotion exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-caramello-lotion exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-caramello-lotion verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-caramello-lotion substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-caramello-lotion exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-vibes-lotion exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-vibes-lotion verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-vibes-lotion substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-vanilla-vibes-lotion exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-hawaiian-rumba-lotion exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-hawaiian-rumba-lotion verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-hawaiian-rumba-lotion substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-hawaiian-rumba-lotion exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-tropic-lotion exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-tropic-lotion verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-tropic-lotion substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-tropic-lotion exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "plum-hazelnut-lotion exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "plum-hazelnut-lotion verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "plum-hazelnut-lotion substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "plum-hazelnut-lotion exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "beardo-godfather-oil exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "beardo-godfather-oil verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "beardo-godfather-oil substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "beardo-godfather-oil exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "beardo-beard-hair-oil exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "beardo-beard-hair-oil verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "beardo-beard-hair-oil substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "beardo-beard-hair-oil exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "skinn-raw-20ml exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "skinn-raw-20ml verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "skinn-raw-20ml substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "skinn-raw-20ml exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "skinn-steele-20ml exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "skinn-steele-20ml verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "skinn-steele-20ml substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "skinn-steele-20ml exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "skinn-verge-20ml exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "skinn-verge-20ml verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "skinn-verge-20ml substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "skinn-verge-20ml exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "skinn-celeste-20ml exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "skinn-celeste-20ml verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "skinn-celeste-20ml substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "skinn-celeste-20ml exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "skinn-sheer-20ml exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "skinn-sheer-20ml verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "skinn-sheer-20ml substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "skinn-sheer-20ml exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "skinn-nude-20ml exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "skinn-nude-20ml verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "skinn-nude-20ml substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "skinn-nude-20ml exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "vega-power-lite exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "vega-power-lite verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "vega-power-lite substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "vega-power-lite exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "vega-power-p1 exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "vega-power-p1 verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "vega-power-p1 substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "vega-power-p1 exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s3 exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s3 verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s3 substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s3 exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "vega-turboone exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "vega-turboone verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "vega-turboone substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "vega-turboone exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s2 exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s2 verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s2 substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "vega-smartone-s2 exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "vega-turbolite exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "vega-turbolite verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "vega-turbolite substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "vega-turbolite exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "bombay-beard-roll-on exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "bombay-beard-roll-on verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "bombay-beard-roll-on substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "bombay-beard-roll-on exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "bombay-onion-beard-oil exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "bombay-onion-beard-oil verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "bombay-onion-beard-oil substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "bombay-onion-beard-oil exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "man-company-beard-oil exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "man-company-beard-oil verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "man-company-beard-oil substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "man-company-beard-oil exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "ustraa-woody-beard-oil exact title, price/variant/source/date match",
+      "pass": true
+    },
+    {
+      "test": "ustraa-woody-beard-oil verified attributes and editorial distinctions match",
+      "pass": true
+    },
+    {
+      "test": "ustraa-woody-beard-oil substantive native body and truthful purchase label",
+      "pass": true
+    },
+    {
+      "test": "ustraa-woody-beard-oil exact variant CTA, no public HTML cache",
+      "pass": true
+    },
+    {
+      "test": "shampoo-for-dry-frizzy-hair real article, correct title, check date and one H1",
+      "pass": true
+    },
+    {
+      "test": "shampoo-for-dry-frizzy-hair every substantive product section published",
+      "pass": true
+    },
+    {
+      "test": "shampoo-for-dry-frizzy-hair complete recommendations and supporting references",
+      "pass": true
+    },
+    {
+      "test": "shampoo-for-dry-frizzy-hair single correct canonical and single schema graph",
+      "pass": true
+    },
+    {
+      "test": "shampoo-for-dry-frizzy-hair indexable article and private HTML cache policy",
+      "pass": true
+    },
+    {
+      "test": "sunscreen-for-oily-skin real article, correct title, check date and one H1",
+      "pass": true
+    },
+    {
+      "test": "sunscreen-for-oily-skin every substantive product section published",
+      "pass": true
+    },
+    {
+      "test": "sunscreen-for-oily-skin complete recommendations and supporting references",
+      "pass": true
+    },
+    {
+      "test": "sunscreen-for-oily-skin single correct canonical and single schema graph",
+      "pass": true
+    },
+    {
+      "test": "sunscreen-for-oily-skin indexable article and private HTML cache policy",
+      "pass": true
+    },
+    {
+      "test": "body-lotion-for-dry-skin real article, correct title, check date and one H1",
+      "pass": true
+    },
+    {
+      "test": "body-lotion-for-dry-skin every substantive product section published",
+      "pass": true
+    },
+    {
+      "test": "body-lotion-for-dry-skin complete recommendations and supporting references",
+      "pass": true
+    },
+    {
+      "test": "body-lotion-for-dry-skin single correct canonical and single schema graph",
+      "pass": true
+    },
+    {
+      "test": "body-lotion-for-dry-skin indexable article and private HTML cache policy",
+      "pass": true
+    },
+    {
+      "test": "perfumes-under-1000 real article, correct title, check date and one H1",
+      "pass": true
+    },
+    {
+      "test": "perfumes-under-1000 every substantive product section published",
+      "pass": true
+    },
+    {
+      "test": "perfumes-under-1000 complete recommendations and supporting references",
+      "pass": true
+    },
+    {
+      "test": "perfumes-under-1000 single correct canonical and single schema graph",
+      "pass": true
+    },
+    {
+      "test": "perfumes-under-1000 indexable article and private HTML cache policy",
+      "pass": true
+    },
+    {
+      "test": "trimmers-under-1500 real article, correct title, check date and one H1",
+      "pass": true
+    },
+    {
+      "test": "trimmers-under-1500 every substantive product section published",
+      "pass": true
+    },
+    {
+      "test": "trimmers-under-1500 complete recommendations and supporting references",
+      "pass": true
+    },
+    {
+      "test": "trimmers-under-1500 single correct canonical and single schema graph",
+      "pass": true
+    },
+    {
+      "test": "trimmers-under-1500 indexable article and private HTML cache policy",
+      "pass": true
+    },
+    {
+      "test": "beard-oil-benefits real article, correct title, check date and one H1",
+      "pass": true
+    },
+    {
+      "test": "beard-oil-benefits every substantive product section published",
+      "pass": true
+    },
+    {
+      "test": "beard-oil-benefits complete recommendations and supporting references",
+      "pass": true
+    },
+    {
+      "test": "beard-oil-benefits single correct canonical and single schema graph",
+      "pass": true
+    },
+    {
+      "test": "beard-oil-benefits indexable article and private HTML cache policy",
+      "pass": true
+    },
+    {
+      "test": "face-wash-for-sensitive-skin real article, correct title, check date and one H1",
+      "pass": true
+    },
+    {
+      "test": "face-wash-for-sensitive-skin every substantive product section published",
+      "pass": true
+    },
+    {
+      "test": "face-wash-for-sensitive-skin complete recommendations and supporting references",
+      "pass": true
+    },
+    {
+      "test": "face-wash-for-sensitive-skin single correct canonical and single schema graph",
+      "pass": true
+    },
+    {
+      "test": "face-wash-for-sensitive-skin indexable article and private HTML cache policy",
+      "pass": true
+    }
+  ],
+  "limitations": [
+    "No real purchase or delivery-postcode transaction",
+    "External source verification is recorded separately",
+    "Browser reading/reflow and image rights are separate observations"
+  ]
+}

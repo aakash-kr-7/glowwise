@@ -1,0 +1,194 @@
+{
+  "capturedUTC": "2026-10-10T05:14:23+00:00",
+  "purpose": "Real WordPress rule, REST, capability, CSRF, spam, retention and publication checks; disposable fixtures only",
+  "checks": [
+    {
+      "test": "40 published, validated product families",
+      "pass": true
+    },
+    {
+      "test": "All six categories represented",
+      "pass": true
+    },
+    {
+      "test": "Six coherent products in each core category; four additional cleansers retained",
+      "pass": true
+    },
+    {
+      "test": "Impossible date rejected",
+      "pass": true
+    },
+    {
+      "test": "Future date rejected",
+      "pass": true
+    },
+    {
+      "test": "Unknown product type rejected",
+      "pass": true
+    },
+    {
+      "test": "Non-HTTP retailer rejected",
+      "pass": true
+    },
+    {
+      "test": "Negative price rejected",
+      "pass": true
+    },
+    {
+      "test": "Duplicate variant rejected",
+      "pass": true
+    },
+    {
+      "test": "Nested filter rejected",
+      "pass": true
+    },
+    {
+      "test": "Unknown filter rejected",
+      "pass": true
+    },
+    {
+      "test": "Out-of-range page rejected",
+      "pass": true
+    },
+    {
+      "test": "Honest budget no-match",
+      "pass": true
+    },
+    {
+      "test": "Verified attribute filter contains only explicit yes",
+      "pass": true
+    },
+    {
+      "test": "Same-type comparison succeeds",
+      "pass": true
+    },
+    {
+      "test": "Mixed-type comparison rejected",
+      "pass": true
+    },
+    {
+      "test": "Fourth comparison item rejected",
+      "pass": true
+    },
+    {
+      "test": "Duplicate comparison rejected",
+      "pass": true
+    },
+    {
+      "test": "Stale variant rejected",
+      "pass": true
+    },
+    {
+      "test": "Nested comparison ID rejected",
+      "pass": true
+    },
+    {
+      "test": "Boolean comparison ID rejected",
+      "pass": true
+    },
+    {
+      "test": "Draft is absent from public model",
+      "pass": true
+    },
+    {
+      "test": "Draft REST record denied",
+      "pass": true
+    },
+    {
+      "test": "Private message REST type absent",
+      "pass": true
+    },
+    {
+      "test": "Anonymous account directory absent",
+      "pass": true
+    },
+    {
+      "test": "Anonymous private inbox capability denied",
+      "pass": true
+    },
+    {
+      "test": "Disposable subscriber created",
+      "pass": true
+    },
+    {
+      "test": "Subscriber cannot manage/read inbox",
+      "pass": true
+    },
+    {
+      "test": "Contact rejects absent CSRF",
+      "pass": true
+    },
+    {
+      "test": "Cross-origin contact rejected",
+      "pass": true
+    },
+    {
+      "test": "Token/cookie mismatch rejected",
+      "pass": true
+    },
+    {
+      "test": "Overlong contact rejected",
+      "pass": true
+    },
+    {
+      "test": "Honeypot rejected",
+      "pass": true
+    },
+    {
+      "test": "Correction needs supporting URL",
+      "pass": true
+    },
+    {
+      "test": "Valid contact gets private storage receipt",
+      "pass": true
+    },
+    {
+      "test": "Stored message remains private",
+      "pass": true
+    },
+    {
+      "test": "Subscriber cannot read/edit private message",
+      "pass": true
+    },
+    {
+      "test": "Message omitted from public search",
+      "pass": true
+    },
+    {
+      "test": "Sixth hourly message is rate limited",
+      "pass": true
+    },
+    {
+      "test": "Expired live fixture permanently removed",
+      "pass": true
+    },
+    {
+      "test": "Unexpired fixture retained",
+      "pass": true
+    },
+    {
+      "test": "Invalid product cannot publish",
+      "pass": true
+    },
+    {
+      "test": "Guide admin rejects a future check date",
+      "pass": true
+    },
+    {
+      "test": "Guide admin persists validated sources/date/related product",
+      "pass": true
+    },
+    {
+      "test": "Subscriber cannot change guide research metadata",
+      "pass": true
+    },
+    {
+      "test": "Daily inbox retention scheduled",
+      "pass": true
+    },
+    {
+      "test": "Disposable messages/products removed",
+      "pass": true
+    }
+  ]
+}

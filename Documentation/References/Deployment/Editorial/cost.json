@@ -1,0 +1,12 @@
+{
+  "purpose": "Fresh managed-identity lifetime cost guard; account identifiers omitted",
+  "privacy": "Allowlisted output only; no remaining credit balance asserted",
+  "checked": "2026-10-10T05:19:21.583750+00:00",
+  "modeledUSD": 0.5387,
+  "reportedUSD": 0.2617156459355486,
+  "reportedAmounts": {
+    "INR": 18.3200952154884
+  },
+  "totalTx": 663010962,
+  "decision": "continue"
+}

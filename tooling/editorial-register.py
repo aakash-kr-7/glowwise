@@ -24,7 +24,20 @@ for p in products:
  'limitation':'50 g does not depict 30 g or 80 g; source was individually licensed in prior verified pass' if photo else 'Official visibility is not a licence. Targeted Commons search found no additional correct licensed exact-pack candidate; Open Beauty Facts fresh web access was robots-blocked.'}
  records.append({'slug':slug,'recordIdBeforeRelease':ids.get(slug),'canonical':'https://glowwise.tech/products/'+slug+'/', 'title':p['title'],'brand':d['brand'],'category':d['category'],'type':d['type'],'checked':d['checked'],'attributes':d['attributes'],'variants':d['variants'],'officialOrPrimaryURL':d['source'],'supportingURLs':d.get('sources',[]),'verification':verification,'purchaseLinkStatus':'Exact product destination verified; unavailable watchlist' if slug=='skinn-verge-20ml' else 'Exact product destination verified; stock is variant-specific','guideOwners':[g['slug'] for g in guides if slug in g['items']],'editorialRationale':notes[slug],'image':image,'change':'Retained identity; researched copy/facts/price/stock refreshed' if slug in ids else 'Added to complete the six-product beard category; no approved record deleted'})
 out={'compiledUTC':datetime.datetime.now(datetime.timezone.utc).isoformat(),'purpose':'Reviewed public facts and original editorial rationale, not raw source reproduction or live price promises','method':'Desk research, no hands-on testing, no numerical scores, no affiliation','coreProducts':36,'retainedAdditionalCleansers':4,'totalProducts':len(records),'variants':sum(len(r['variants']) for r in records),'licensedPhotoFamilies':1,'licensedPhotoVariants':1,'limitations':['Availability is listing status, not a delivery-to-postcode test','No unverified marketplace listing marked verified','Verge price is a collection reference; current exact page says Coming Back Soon','Ustraa standalone official page remains unverified; official bundle verifies named component facts','Image permission gaps remain for 39 families'],'products':records}
-dest=ROOT/'Documentation/Implementation/PRODUCT_RESEARCH_REGISTER.json';dest.write_bytes((json.dumps(out,ensure_ascii=False,indent=2)+'\n').encode('utf-8'))
+dest=ROOT/'Documentation/Implementation/PRODUCT_RESEARCH_REGISTER.json'
+if dest.exists():
+ previous=json.loads(dest.read_text(encoding='utf-8'));old={p['slug']:p for p in previous.get('products',[])}
+ for record in records:
+  prior=old.get(record['slug'],{})
+  if 'recordIdAfterRelease' in prior:record['recordIdAfterRelease']=prior['recordIdAfterRelease']
+  same=all(record.get(k)==prior.get(k) for k in ['variants','attributes','title','checked','officialOrPrimaryURL'])
+  if same:
+   for key in ['publicationStatus','publicationVerifiedUTC']:
+    if key in prior:record[key]=prior[key]
+ if len(records)==len(old) and all('publicationVerifiedUTC' in r for r in records):
+  for key in ['publicationVerifiedUTC','verifiedExactDestinations','familiesWithListedStock','variantsWithListedStock']:
+   if key in previous:out[key]=previous[key]
+dest.write_bytes((json.dumps(out,ensure_ascii=False,indent=2)+'\n').encode('utf-8'))
 folder=ROOT/'Documentation/Implementation/exports';folder.mkdir(exist_ok=True)
 with (folder/'editorial-products.csv').open('w',encoding='utf-8',newline='') as f:
  w=csv.writer(f);w.writerow(['slug','canonical','brand','category','pack','INR','availability','checked','exactDestination','imageRights'])

@@ -1,0 +1,51 @@
+{
+  "capturedUTC": "2026-10-10T05:26:33.565765+00:00",
+  "purpose": "Actual mobile interaction observations recorded after completed actions",
+  "checks": [
+    {
+      "test": "Contents anchor reached comparison table",
+      "pass": true
+    },
+    {
+      "test": "Focused table ArrowRight moved its scrollLeft from 0 to 40, without page overflow",
+      "pass": true
+    },
+    {
+      "test": "Mobile menu opened; Escape closed it and returned focus to Menu",
+      "pass": true
+    },
+    {
+      "test": "Guide detailed recommendation opened native Ustraa product",
+      "pass": true
+    },
+    {
+      "test": "Exact 35 ml / INR217 / View at Tira destination matched retailer heading, pack and price; no transaction",
+      "pass": true
+    },
+    {
+      "test": "New product save persisted on Saved route and was removed without clearing two previous references",
+      "pass": true
+    },
+    {
+      "test": "Two same-type oils compared exact facts/prices/destinations and persisted through refresh; only test comparison cleared",
+      "pass": true
+    },
+    {
+      "test": "Beard-oil finder at INR300 returned four factual matches; verified-fragrance-free preference returned honest zero results",
+      "pass": true
+    },
+    {
+      "test": "Licensed 50g image loaded with attribution; 80g and30g are not substituted",
+      "pass": true
+    },
+    {
+      "test": "Final inline-block table link opened exact native product using mobile pointer input; keyboard Enter also verified",
+      "pass": true
+    }
+  ],
+  "limitations": [
+    "Initial wrapped-link pointer attempt failed; clickable-box fix was deployed and actual pointer/keyboard activation both passed.",
+    "No new blocked-storage/network-failure browser fixture; existing production unit recovery checks rerun",
+    "No purchase, delivery eligibility, email, outreach or user account created"
+  ]
+}

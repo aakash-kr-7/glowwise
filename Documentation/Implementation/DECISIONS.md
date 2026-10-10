@@ -86,3 +86,12 @@ No core implementation decision currently needs owner input. Later lifecycle bef
 | D43 | Preserve family-only saved behavior and product facts/default packs; link exact photographed pack where another variant is selected. Back up/import idempotently. | Existing contract plus exact-pack browser/security tests; verified private Updraft/recovery. |
 
 Routine authorized design choices need no new approval. Additional actual product photography requires owner-owned files or explicit rights; legal permission cannot be fabricated by another renderer.
+
+
+## Editorial release decisions - 10 October2026
+
+Preserve36 existing IDs andfour cleanser records; addfour beard oils to obtain36 core selections plusfour additional cleansers (40total), following the owner's six-per-category requirement and preservation instruction. This routine interpretation was communicated before deployment; no approved record was deleted. Keep the seventh guide as a four-cleanser explanatory comparison rather than manufacture six sensitive-skin recommendations.
+
+Rank by stated category preferences and published facts; unavailable products are watchlist entries, not active offers. Keep Verge collection reference price visibly limited; replace its404 URL using actual manufacturer navigation. Use exact Tira35ml Ustraa listing and separately cited official bundle-component facts; do not invent a standalone official URL. Permission-limited photos remain honest fallbacks.
+
+Only presentation adjustments: clear purchase/source labels and a contained, keyboard-scrollable comparison table with fully clickable wrapped links. Approved design and architecture remain. Acceptance and source/private-backup relation: EDITORIAL_RELEASE_HANDOFF.md and EDITORIAL_EVIDENCE_INDEX.md.
