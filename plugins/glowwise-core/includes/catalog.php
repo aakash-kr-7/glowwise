@@ -28,7 +28,7 @@ function gw_match_product($p,$f) {
     if ($f['fragrance-free']==='yes' && ($p['attributes']['fragrance-free']??'unknown')!=='yes') { return null; }
     if ($f['finish'] && ($p['attributes']['finish']??'unknown')!==$f['finish']) { return null; }
     $p['selectedVariant']=$eligible[0];$reasons=['Published, source-checked '.$p['type'].' record'];
-    if ($f['max-price']) { $reasons[]='Checked '.$eligible[0]['label'].' price â‚¹'.number_format($eligible[0]['price']).' fits your â‚¹'.number_format($f['max-price']).' item budget'; }
+    if ($f['max-price']) { $reasons[]='Checked '.$eligible[0]['label'].' price ₹'.number_format($eligible[0]['price']).' fits your ₹'.number_format($f['max-price']).' item budget'; }
     if ($f['fragrance-free']) { $reasons[]='The source labels this formulation fragrance free'; }
     if ($f['finish']) { $reasons[]='Source-described '.$f['finish'].' finish'; }
     $p['matchReasons']=$reasons;return $p;

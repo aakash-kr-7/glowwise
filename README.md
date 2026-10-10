@@ -7,7 +7,7 @@ The researched editorial release is live at **https://glowwise.tech** with 40 pr
 ## Architecture
 
 - `plugins/glowwise-core`: persistent product data, taxonomies, validation, rules-based matching, published-only REST endpoints, private contact/correction inbox, retention and repeatable content import/export.
-- `theme/glowwise`: server-rendered presentation, editorial layouts, design tokens, responsive tools, browser-local shortlists and progressive JavaScript. Homepage copy is editable through Appearance â†’ Customize; Posts, pages and product fact fields use native WordPress editing.
+- `theme/glowwise`: server-rendered presentation, editorial layouts, design tokens, responsive tools, browser-local shortlists and progressive JavaScript. Homepage copy is editable through Appearance → Customize; Posts, pages and product fact fields use native WordPress editing.
 - `content`: reviewed product facts, seven original guide HTML sources, support-page sources and the repeatable seed. Sources/check dates are part of every record. Product media uses separately stored, source-attributed exact-variant photographs where available and disclosed typographic fallbacks otherwise.
 - `deploy`: supported digest-pinned WordPress Apache/PHP, MariaDB and Caddy, Compose, private recovery/cost/cron scripts. Database, WordPress uploads and Caddy certificates persist in separate volumes. No database or development-server port is public.
 - `tooling`: deterministic artwork/content compilation and VM-only asset build. DM Serif Display and Manrope are self-hosted with SIL OFL notices. GSAP/ScrollTrigger decorates the homepage with normal scrolling, pause and reduced-motion support.
@@ -16,7 +16,7 @@ Exact runtime and selected plugin versions are in `deploy/stack/images.lock.json
 
 ## Develop on the VM
 
-Use the ownerâ€™s restricted SSH handoff described in the runbook. Do not commit keys, credentials or `.local`. The working source is `/srv/glowwise/source`, with secrets in `/srv/glowwise/secrets` and private operational state/backups outside the checkout.
+Use the owner’s restricted SSH handoff described in the runbook. Do not commit keys, credentials or `.local`. The working source is `/srv/glowwise/source`, with secrets in `/srv/glowwise/secrets` and private operational state/backups outside the checkout.
 
 ```bash
 cd /srv/glowwise/source
@@ -63,13 +63,13 @@ Back up before updates. Change a reviewed tag **and digest**, review plugin rele
 
 The owner authorizes **US$10 total lifetime Azure consumption**, including student credit. Spending protection and conservative US$6/model/normalized-actual, traffic and finite-lease guards remain active. Daily midnight deallocation is disabled for the original lease ending 16 October 09:31:49 IST; no automatic start or extension. Disk/IP charges continue after compute deallocation. Budget alerts are delayed notifications, not a hard custom cap. Refresh `Documentation/Deployment/COST_LEDGER.md` before any restart or lease extension; no new allowance is implied by a budget reset.
 
-Keep secrets, uploads, caches, databases, contact data, private logs/keys and raw backups out of Git. Original supplied references remain preserved locally under their publication-review exclusions. Asset/source registers identify rights and limitations. Original WordPress code declares GPL-2.0-or-later; supplied identity, editorial content, fonts and third-party dependencies retain their respective rightsâ€”this is not a blanket license to third-party material.
+Keep secrets, uploads, caches, databases, contact data, private logs/keys and raw backups out of Git. Original supplied references remain preserved locally under their publication-review exclusions. Asset/source registers identify rights and limitations. Original WordPress code declares GPL-2.0-or-later; supplied identity, editorial content, fonts and third-party dependencies retain their respective rights—this is not a blanket license to third-party material.
 
 Current launch checks: `GW_LAUNCHED=1 python tests/launch-http.py`, `python tests/cache-redirects.py` (operator HTTP clients, no local server). VM `sudo bash deploy/scripts/test-assets.sh` verifies analytics/motion/currency behavior. Run isolated recovered runtime with `sudo python3 deploy/scripts/verify-restored-runtime.py` after verify-restore. Actual observations and limits are in the acceptance report; no organic/field-INP or certification claim.
 
-## Visual refinement â€” 10 October 2026
+## Visual refinement — 10 October 2026
 
-Use Products â†’ Verified variant photographs for exact variant-keyed native Media attachments and public source/licence/credit/alt/check date. Empty records produce disclosed text fallback, never invented packaging. Licensed source notices are adjacent to theme/assets/editorial and content/licensed-media. `sudo docker compose run --rm -T wpcli eval-file /srv/glowwise/scripts/import-visual-media.php` imports the reviewed exact50g image once, preserves edited captions/metadata. Never substitute it for80g/30g. Native files/database belong in private backups; companion exports/product-image-coverage.csv/json are public attribution, not a restore database. See VISUAL_REFINEMENT.md and VISUAL_EVIDENCE_INDEX.md for actual scope/rights gaps/tests.
+Use Products → Verified variant photographs for exact variant-keyed native Media attachments and public source/licence/credit/alt/check date. Empty records produce disclosed text fallback, never invented packaging. Licensed source notices are adjacent to theme/assets/editorial and content/licensed-media. `sudo docker compose run --rm -T wpcli eval-file /srv/glowwise/scripts/import-visual-media.php` imports the reviewed exact50g image once, preserves edited captions/metadata. Never substitute it for80g/30g. Native files/database belong in private backups; companion exports/product-image-coverage.csv/json are public attribution, not a restore database. See VISUAL_REFINEMENT.md and VISUAL_EVIDENCE_INDEX.md for actual scope/rights gaps/tests.
 
 ### Demonstration media (10 October 2026)
 

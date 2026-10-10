@@ -15,12 +15,12 @@ function gw_product_media($p,$v,$detail=false) {
     $image=$p['imageAssets'][$v['label']]??null;$label=gw_types()[$p['type']]??$p['type'];
     echo '<figure class="product-media '.($image?'has-photo':'').'" data-product-media>';
     echo '<div class="product-identity" '.($image?'hidden':'').'><span class="identity-brand">'.esc_html($p['brand']).'</span><span class="identity-name">'.esc_html($p['name']).'</span><span class="identity-variant">'.esc_html($label.' / '.$v['label']).'</span><span class="photo-status">Product photo unavailable</span>';
-    foreach (array_keys($p['imageAssets']??[]) as $photoVariant) { if ($photoVariant!==$v['label']) { echo '<a class="media-variant-link" href="'.esc_url(add_query_arg('variant',$photoVariant,$p['url'])).'">See '.esc_html($photoVariant).' photo â†—</a>'; } }
+    foreach (array_keys($p['imageAssets']??[]) as $photoVariant) { if ($photoVariant!==$v['label']) { echo '<a class="media-variant-link" href="'.esc_url(add_query_arg('variant',$photoVariant,$p['url'])).'">See '.esc_html($photoVariant).' photo ↗</a>'; } }
     echo '</div>';
     if ($image) {
-        echo '<span class="photo-loading js-only" aria-hidden="true">Loading photographâ€¦</span>';
+        echo '<span class="photo-loading js-only" aria-hidden="true">Loading photograph…</span>';
         echo '<img data-product-photo src="'.esc_url($image['src']).'" srcset="'.esc_attr($image['srcset']).'" sizes="'.($detail?'(min-width: 900px) 45vw, 90vw':'(min-width: 900px) 30vw, (min-width: 600px) 45vw, 90vw').'" width="'.(int)$image['width'].'" height="'.(int)$image['height'].'" alt="'.esc_attr($image['alt']).'" loading="'.($detail?'eager':'lazy').'" decoding="async">';
-        echo '<figcaption class="photo-credit"><a href="'.esc_url($image['source']).'" rel="external noopener">'.esc_html($image['credit']).'</a> Â· <a href="'.esc_url($image['licenseUrl']).'" rel="external noopener">'.esc_html($image['license']).'</a></figcaption>';
+        echo '<figcaption class="photo-credit"><a href="'.esc_url($image['source']).'" rel="external noopener">'.esc_html($image['credit']).'</a> · <a href="'.esc_url($image['licenseUrl']).'" rel="external noopener">'.esc_html($image['license']).'</a></figcaption>';
     }
     echo '</figure>';
 }
