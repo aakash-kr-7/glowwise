@@ -1,0 +1,62 @@
+{
+  "capturedUTC": "2026-10-10T04:07:02.425679+00:00",
+  "purpose": "Actual private full UpdraftPlus archive verification and isolated SQL restore; live DB unchanged; no raw backup content/filename/credentials",
+  "checks": [
+    {
+      "entity": "uploads",
+      "bytes": 247184,
+      "sha256": "0de12745496f5ad00917365e95a241b3074f27aad778a23a05c6a99977abdc79",
+      "integrity": true
+    },
+    {
+      "entity": "plugins",
+      "bytes": 14362153,
+      "sha256": "cc4f002074159fc6b5e127b23bed1e7e4e1cbcabd526cb965027c4603cbabe22",
+      "integrity": true
+    },
+    {
+      "entity": "mu-plugins",
+      "bytes": 120,
+      "sha256": "369ed29e6a95bcac7b6ba07c17a0d6831e0dd468e074d352ee315188cda464a2",
+      "integrity": true
+    },
+    {
+      "entity": "others",
+      "bytes": 2531,
+      "sha256": "7e7ca2bbfd570263302e235fd3b57a273ae92b864d8f3f8341ba50f155de1bfd",
+      "integrity": true
+    },
+    {
+      "entity": "themes",
+      "bytes": 14235576,
+      "sha256": "295eed441a4fcdf646bb5391947d75c3da72910a1d23a40f11ecee0b755e523f",
+      "integrity": true
+    },
+    {
+      "entity": "database",
+      "bytes": 88697,
+      "sha256": "99626c00d551c7bb3165515892a95808f84564e27f7b0d14d8b982172cc8aa18",
+      "integrity": true
+    },
+    {
+      "contentKind": "gw_product",
+      "restoredPublishedCount": 36,
+      "expected": 36,
+      "pass": true
+    },
+    {
+      "contentKind": "post",
+      "restoredPublishedCount": 7,
+      "expected": 7,
+      "pass": true
+    },
+    {
+      "contentKind": "page",
+      "restoredPublishedCount": 16,
+      "expected": 16,
+      "pass": true
+    }
+  ],
+  "indexingDecisionMatchesLive": true,
+  "disposableDatabaseRemoved": true
+}

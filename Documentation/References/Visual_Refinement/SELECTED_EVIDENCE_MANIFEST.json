@@ -1,0 +1,225 @@
+{
+  "preparedUTC": "2026-10-10T04:13:57.972939+00:00",
+  "purpose": "Reviewed public-safe strong evidence selection; original screenshots, not reconstructions",
+  "timestampMeaning": "savedUTC is filesystem save time; actual observation/report time inside linked records takes precedence. UTC; IST=UTC+05:30",
+  "files": [
+    {
+      "id": "V01",
+      "path": "2026-10-10_Cost_Before.json",
+      "savedUTC": "2026-10-10T03:10:37.683163+00:00",
+      "sha256": "8170f46d8d9dd650e574150bfc1fcf364d3e94bb107144900ad0161f1c4bc4e6",
+      "bytes": 1565
+    },
+    {
+      "id": "V02",
+      "path": "2026-10-10_Cost_Final.json",
+      "savedUTC": "2026-10-10T04:08:45.078666+00:00",
+      "sha256": "17104e3cfc4261d2cb499d772804ed1344da18d6de3a4a5f9a6644c2e3575235",
+      "bytes": 1566
+    },
+    {
+      "id": "V03",
+      "path": "2026-10-10_DNS_TLS_Final.json",
+      "savedUTC": "2026-10-10T04:08:54.292325+00:00",
+      "sha256": "4f26994b4a0dc4e60cae5c838b6bdf5a6f7e87a5451f8fbac2a9e2584a5e4a1d",
+      "bytes": 9876
+    },
+    {
+      "id": "V04",
+      "path": "2026-10-10_Regression_Tests.txt",
+      "savedUTC": "2026-10-10T03:34:08.625400+00:00",
+      "sha256": "1ae1a2ddc2c24d2189748aa3607c23945aa6bb52130c67c8e309e546692af08e",
+      "bytes": 6199
+    },
+    {
+      "id": "V05",
+      "path": "2026-10-10_Final_Verification.txt",
+      "savedUTC": "2026-10-10T04:04:37.980439+00:00",
+      "sha256": "a3eb3c7ad4d7b67f4a78b8360abb4baed414482ff8c5f215beb7d543fa9b677d",
+      "bytes": 1906
+    },
+    {
+      "id": "V06",
+      "path": "2026-10-10_Final_Media_Health.txt",
+      "savedUTC": "2026-10-10T04:04:48.113856+00:00",
+      "sha256": "4d133f9f2d63335603132cd32bddca7bb27b50edba39b3e17d6e7af87b8ec6fa",
+      "bytes": 2114
+    },
+    {
+      "id": "V07",
+      "path": "2026-10-10_Visual_HTTP_Final.json",
+      "savedUTC": "2026-10-10T04:11:04.844764+00:00",
+      "sha256": "da40e1ae928d82ce960acc6b61f889f7e38406bee0be31da7f4ab40ef090b22d",
+      "bytes": 63910
+    },
+    {
+      "id": "V08",
+      "path": "2026-10-10_Static_Delivery.json",
+      "savedUTC": "2026-10-10T04:13:57.958832+00:00",
+      "sha256": "0346c6cc75e0db13976fe5c567f2e444956033c8ebb793df34f64b13aad7568f",
+      "bytes": 2467
+    },
+    {
+      "id": "V09",
+      "path": "2026-10-10_Performance_First_Pass.json",
+      "savedUTC": "2026-10-10T03:36:13.051351+00:00",
+      "sha256": "3e217020a11f11470ef13b6259b763e2740e1fbac971e77763083a28d1b545a2",
+      "bytes": 1936
+    },
+    {
+      "id": "V10",
+      "path": "2026-10-10_Performance_After.json",
+      "savedUTC": "2026-10-10T03:48:26.510154+00:00",
+      "sha256": "3fb44170f373196233b60b5047a959c615b6701fb3f8b7c7d19d1125c8377119",
+      "bytes": 1950
+    },
+    {
+      "id": "V11",
+      "path": "2026-10-10_PSI_First_Pass_Mobile.txt",
+      "savedUTC": "2026-10-10T03:38:24.166302+00:00",
+      "sha256": "1168916e39f9b94ae24b7c690aaeb0582a7ccedab7824293121218df206ead30",
+      "bytes": 11067
+    },
+    {
+      "id": "V12",
+      "path": "2026-10-10_PSI_First_Pass_Desktop.txt",
+      "savedUTC": "2026-10-10T03:40:31.060962+00:00",
+      "sha256": "7e5e519f7f0afde242d6bef89879c48d0de34438feb3d88273a9c26285e42351",
+      "bytes": 10810
+    },
+    {
+      "id": "V13",
+      "path": "2026-10-10_Backup_Verified.json",
+      "savedUTC": "2026-10-10T04:07:02.476162+00:00",
+      "sha256": "23e72e5b56f7e2da46fb02fd42500fad8b9da2fedf320c34ac50872955eb7f06",
+      "bytes": 1694
+    },
+    {
+      "id": "V14",
+      "path": "2026-10-10_Backup_Source.json",
+      "savedUTC": "2026-10-10T04:07:04.886369+00:00",
+      "sha256": "fb363b0b348f0deba6310ce7d2de287151c4f3e33f004ffc0781f38e34f566cf",
+      "bytes": 18803
+    },
+    {
+      "id": "V15",
+      "path": "2026-10-10_Off_VM_Recovery.json",
+      "savedUTC": "2026-10-10T04:08:01.603375+00:00",
+      "sha256": "1658b8b5263594762f3896d8fb940e9b351e94963c62344f591e3e35f00c6b03",
+      "bytes": 679
+    },
+    {
+      "id": "V16",
+      "path": "before-browser-observations.json",
+      "savedUTC": "2026-10-10T03:13:02.104695+00:00",
+      "sha256": "592f459ce6a468f38358a9f961eba3219771d8891775d64433d8231a81591942",
+      "bytes": 22834
+    },
+    {
+      "id": "V17",
+      "path": "after-browser-observations.json",
+      "savedUTC": "2026-10-10T03:45:05.057964+00:00",
+      "sha256": "3bea72ea72d84cb29b7a614175f66f932c925715d209ff1ec1a0802e57c326ca",
+      "bytes": 8773
+    },
+    {
+      "id": "V18",
+      "path": "browser-journeys.json",
+      "savedUTC": "2026-10-10T04:09:21.890950+00:00",
+      "sha256": "c2a001d66cdf3ec10196ccf8cf124ce4cfda93bf32986d3fdd947f902caa5f08",
+      "bytes": 5364
+    },
+    {
+      "id": "V19",
+      "path": "before-desktop-home.jpg",
+      "savedUTC": "2026-10-10T03:12:17.985538+00:00",
+      "sha256": "d1a63ffc381a738a884ca0329f92e34836ea4bbedf282e7b374cf3482ec47d4a",
+      "bytes": 466447
+    },
+    {
+      "id": "V20",
+      "path": "before-mobile-explore.jpg",
+      "savedUTC": "2026-10-10T03:12:50.741296+00:00",
+      "sha256": "ab24df68e09018858cf49b33c4a93f76ddf2f6aa6ae1292093950974e2e6cf4f",
+      "bytes": 361108
+    },
+    {
+      "id": "V21",
+      "path": "before-mobile-compare-filled.jpg",
+      "savedUTC": "2026-10-10T03:24:54.672743+00:00",
+      "sha256": "9ebe5685a49f6ff23824ae4df416ee9fce60bfd17f5e555277396ba35e77133b",
+      "bytes": 124253
+    },
+    {
+      "id": "V22",
+      "path": "after-desktop-home-viewport.jpg",
+      "savedUTC": "2026-10-10T04:08:19.633952+00:00",
+      "sha256": "9cc1e8ad1c38ac546d3aec19ec8cd815628b7203012e7c7ca1a6194f92824bef",
+      "bytes": 93245
+    },
+    {
+      "id": "V23",
+      "path": "after-desktop-categories-viewport.jpg",
+      "savedUTC": "2026-10-10T04:08:56.396674+00:00",
+      "sha256": "ff8f6691a3dfb3c2f15e9ad2290c6c63a6ad7ef3d2c9709b41a7a91816f36c22",
+      "bytes": 66212
+    },
+    {
+      "id": "V24",
+      "path": "after-desktop-product-licensed.jpg",
+      "savedUTC": "2026-10-10T04:09:18.040248+00:00",
+      "sha256": "89bc2f2a531fea90c67110e8cb1f6c63c1e410e986431695f72653de1563fcaf",
+      "bytes": 83388
+    },
+    {
+      "id": "V25",
+      "path": "after-mobile-home.jpg",
+      "savedUTC": "2026-10-10T03:44:48.460107+00:00",
+      "sha256": "8bbe3d960eb3c97b2987b40e338074a783d057374b5898736d4544334083ce55",
+      "bytes": 391803
+    },
+    {
+      "id": "V26",
+      "path": "after-mobile-finder-photo.jpg",
+      "savedUTC": "2026-10-10T04:06:29.869572+00:00",
+      "sha256": "f91221c11ce934e053e08f5c3119d31ac259dde6d2340149e8187116c57f4536",
+      "bytes": 35562
+    },
+    {
+      "id": "V27",
+      "path": "after-mobile-compare-viewport.jpg",
+      "savedUTC": "2026-10-10T03:55:47.310320+00:00",
+      "sha256": "3449460f423c4efe1a1c3e82b592035f1ef0e24f1f2cbce59ef1f3c0788288be",
+      "bytes": 29556
+    },
+    {
+      "id": "V28",
+      "path": "after-mobile-guides.jpg",
+      "savedUTC": "2026-10-10T03:44:56.766336+00:00",
+      "sha256": "69e7717f896a750f0636efb8ee2a9ebd47630f29d296bea6ff82a1f8436e7da8",
+      "bytes": 209037
+    },
+    {
+      "id": "V29",
+      "path": "2026-10-10_PSI_First_Pass_Mobile.jpg",
+      "savedUTC": "2026-10-10T03:38:25.576988+00:00",
+      "sha256": "5ad50323bc992198e17ad5a1c3dcc1e41a540a6f4afc13b4c623836b47f54777",
+      "bytes": 322610
+    },
+    {
+      "id": "V30",
+      "path": "2026-10-10_PSI_First_Pass_Desktop.jpg",
+      "savedUTC": "2026-10-10T03:40:32.497124+00:00",
+      "sha256": "b0058dcbd5dbd94ac9fafd81d947ccd60bf71d0cfa0b84d221d409e705a4b4d3",
+      "bytes": 349080
+    },
+    {
+      "id": "V31",
+      "path": "2026-10-10_Off_VM_Components.json",
+      "savedUTC": "2026-10-10T04:15:22.778936+00:00",
+      "sha256": "6d420680e4ae053fdddf0339aea9eea26b74b77bdc2794a1bcabdc36a0864ce3",
+      "bytes": 969
+    }
+  ],
+  "hashBasis": "Actual selected file bytes; text normalized to LF and terminal trailing whitespace trimmed for Git portability, no factual redaction; images original capture bytes."
+}

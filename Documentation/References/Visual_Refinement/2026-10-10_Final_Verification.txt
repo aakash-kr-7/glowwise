@@ -1,0 +1,33 @@
+2026-10-10T04:04:37.980007+00:00
+Purpose: final reviewed source build, media/finite-motion/consent units, repeat import and native image integration; no secrets.
+
+> glowwise@0.1.0 build:assets
+> node tooling/build-assets.mjs
+
+Built 6 entries with esbuild 0.28.2; manifest 0b5defc79f8a8c285646af16c53f6640a9b00fd12c612397fe485875884b6bb5
+
+> glowwise@0.1.0 verify:minify
+> node tooling/build-assets.mjs --verify
+
+js: 46 -> 43 bytes; esbuild 0.28.2
+css: 55 -> 31 bytes; esbuild 0.28.2
+PASS: exact-variant rendering, attribution, wrong-pack fallback, HTML/URL escaping and image-error recovery.
+PASS: finite reveals, initially reduced motion, preference changes restore layout, no hidden content and empty-page safety. Unit doubles; no OS emulation claim.
+PASS No request or dataLayer before explicit enable
+PASS Denied cookies do not throw or activate analytics
+PASS Contact, corrections, 404 routes and search never load SDK
+PASS Catalog query is stripped from all supplied event URLs
+PASS Repeated enable cannot double-load SDK
+PASS Withdrawal disables stream, clears accessible cookies, requests unload
+PASS Fixed tool events require consent and exclude all supplied arbitrary data
+{"checks":7,"pass":true,"scope":"isolated unit rules, not browser telemetry"}
+Success: Existing variant image and edited caption preserved; missing native attribution filled; no duplicate attachment.
+npm notice
+npm notice New major version of npm available! 11.19.0 -> 12.2.0
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.0
+npm notice To update run: npm install -g npm@12.2.0
+npm notice
+ Container glowwise-wpcli-run-37739cda1a99 Creating
+ Container glowwise-wpcli-run-37739cda1a99 Created
+
+Scope clarification: this log contains build, unit rules and repeat import. Native media9 and service health are in 2026-10-10_Final_Media_Health.txt; SSH piped-input consumption prevented their inclusion here.

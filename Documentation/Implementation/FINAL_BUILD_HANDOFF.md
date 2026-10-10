@@ -1,5 +1,19 @@
 # Glowwise final implementation handoff
 
+## Visual refinement — 10 October 2026
+
+This section supersedes the historical rendered-art and motion descriptions below. The approved identity, content, URLs, functions, indexing and consent remain. Tested visual runtime: **46eb550d4262adfb7db79676018d7ebee800644a**. Home uses licensed photography; six labelled line icons, seven typographic guide covers and shared product media replace glossy decoration. All nine page types were inspected on desktop/mobile; 291 HTTP assertions across 69 routes and nine native-media checks pass. [Refinement report](VISUAL_REFINEMENT.md) · [evidence index](VISUAL_EVIDENCE_INDEX.md).
+
+**Photo coverage: 1 of 36 product families, 1 of 51 variants.** Plum 2% Rice Water SPF 50, **50 g outer carton**, is individually licensed CC BY-SA 3.0 with attribution. Default 80 g, 30 g and the other 35 families retain disclosed fallbacks. [Coverage export](exports/product-image-coverage.csv) · [asset register](ASSET_REGISTER.json). Native Products → Verified variant photographs stores exact-pack Media attachment, source, licence, credit, alt and check date in core metadata. Import preserves edits and avoids duplicates. Saved keeps family IDs with an exact-photo link; comparison follows the selected pack. Product facts retain their 9 October check dates.
+
+Latest comparable provider lab: mobile LCP **2.3 s**, CLS **0.075**, TBT **0 ms**; desktop **591 ms / 0 / 0 ms**. First-pass official PSI scored 95/100 mobile/desktop. No field INP or CrUX. [PERFORMANCE](../Deployment/PERFORMANCE.md) records revisions, conditions and variability; later photo-loading patches were browser/unit checked, not reported as new lab measurements.
+
+Full Updraft verified **04:07 UTC**: isolated SQL restore retained 36 products, seven guides, 16 Pages and indexing; all custom files match 46eb550. Six-component off-VM recovery: `.local/deployment/visual-refinement-recovery/visual-recovery-2026-10-10.tar.gz`, 27,943,637 bytes, SHA256 `b6d15c70380320a1c6580bfc57e48eec119fd54c2164d639d6045830e46fc09b`. Owner/SYSTEM access only; encryption at rest not independently verified. Prior infrastructure recovery remains. New-VM rebuild/restored administrator login was not rerun.
+
+Fresh **04:08 UTC**: same seven resources, spending protection On, DNS and trusted edge/origin TLS valid. Modeled lifetime consumption **US$0.5137**; current Azure billing unavailable. No new resources or paid assets. Original US$10 safeguards/lease remain: **16 October 09:31:49 IST**, retained disk/IP decision by 23 October. Charges continue after compute deallocation. Final documentation-only HEAD and all-blob deployment relation are recorded in the ignored final operator manifest and final reply, avoiding self-reference.
+
+Resume: documentation agent uses current visual evidence alongside preserved historical research. Remaining photographs need owner-owned exact-variant files or explicit reuse permission; no outreach/purchase is authorized by this handoff. Do not replace permission gaps with fabricated images or claim every product is photographed.
+
 Prepared 10 October 2026 IST for the documentation agent. Product authority: [approved Source of Truth](../../GLOWWISE_SOURCE_OF_TRUTH.md); assessment authority: original `Reference/Mini-Project Handbook.docx`, especially Table 78. This is an implementation record, not the remaining formal criterion submissions or a marks claim.
 
 ## Delivered scope and source

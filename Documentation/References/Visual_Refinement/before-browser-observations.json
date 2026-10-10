@@ -1,0 +1,651 @@
+[
+  {
+    "page": "home",
+    "url": "https://glowwise.tech/",
+    "device": "desktop",
+    "capturedUTC": "2026-10-10T03:12:17.985Z",
+    "screenshot": "before-desktop-home.jpg",
+    "headings": [
+      "  - heading \"Find your kind of good.\" [level=1]:",
+      "  - heading \"The right choice starts with the right questions.\" [level=2]",
+      "  - heading \"A world of everyday care.\" [level=2]",
+      "  - heading \"Less searching. More finding.\" [level=2]:",
+      "  - heading \"Facts first. Possibilities next.\" [level=2]",
+      "    - heading \"Minimalist Aquaporin Booster 5% Cleanser\" [level=3]:",
+      "    - heading \"Beardo No Nonsense Shampoo\" [level=3]:",
+      "    - heading \"SKINN Celeste Eau de Parfum\" [level=3]:"
+    ],
+    "images": [
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/compass-world.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/haircare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/bodycare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/fragrance.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/beard-grooming.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/grooming-tools.svg",
+        "width": 150
+      },
+      {
+        "alt": null,
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/finder-compass.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/haircare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/fragrance.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/beard-grooming.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/bodycare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      }
+    ]
+  },
+  {
+    "page": "hub",
+    "url": "https://glowwise.tech/categories/skincare/",
+    "device": "desktop",
+    "capturedUTC": "2026-10-10T03:12:18.996Z",
+    "screenshot": "before-desktop-hub.jpg",
+    "headings": [
+      "  - heading \"Skincare\" [level=1]",
+      "  - heading \"Your routine. Your starting point.\" [level=2]:",
+      "  - heading \"A little reading, before choosing.\" [level=2]",
+      "    - 'heading \"Sunscreen for oily skin: protection, finish and a useful shortlist\" [level=3]':",
+      "    - 'heading \"Face wash for sensitive skin: a simpler, source-checked shortlist\" [level=3]':",
+      "  - heading \"In this edit.\" [level=2]",
+      "    - heading \"Minimalist Aquaporin Booster 5% Cleanser\" [level=3]:",
+      "    - heading \"Minimalist B12 + Oat Extract 6.5% Cleanser\" [level=3]:"
+    ],
+    "images": [
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      }
+    ]
+  },
+  {
+    "page": "explore",
+    "url": "https://glowwise.tech/explore/",
+    "device": "desktop",
+    "capturedUTC": "2026-10-10T03:12:20.007Z",
+    "screenshot": "before-desktop-explore.jpg",
+    "headings": [
+      "  - heading \"Explore your possibilities.\" [level=1]",
+      "  - heading \"36 researched products\" [level=2]",
+      "    - heading \"Beardo Beard & Hair Growth Oil\" [level=3]:",
+      "    - heading \"Beardo Godfather Beard Oil\" [level=3]:",
+      "    - heading \"Beardo No Nonsense Shampoo\" [level=3]:",
+      "    - heading \"Minimalist Aquaporin Booster 5% Cleanser\" [level=3]:",
+      "    - heading \"Minimalist B12 + Oat Extract 6.5% Cleanser\" [level=3]:",
+      "    - heading \"Minimalist Hydrating Factors 7.3% Shampoo\" [level=3]:"
+    ],
+    "images": [
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/beard-grooming.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/beard-grooming.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/haircare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/haircare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/haircare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/bodycare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      }
+    ]
+  },
+  {
+    "page": "product",
+    "url": "https://glowwise.tech/products/minimalist-light-fluid-spf-50/",
+    "device": "desktop",
+    "capturedUTC": "2026-10-10T03:12:20.928Z",
+    "screenshot": "before-desktop-product.jpg",
+    "headings": [
+      "    - heading \"Minimalist Light Fluid SPF 50\" [level=1]",
+      "    - heading \"Why it’s in the edit.\" [level=2]",
+      "    - heading \"Before you choose.\" [level=2]",
+      "    - heading \"What the source says.\" [level=2]",
+      "    - heading \"Follow the research.\" [level=3]",
+      "  - heading \"A useful comparison.\" [level=2]",
+      "    - heading \"Minimalist SPF 50 Sunscreen\" [level=3]:",
+      "    - heading \"Minimalist SPF 60 Sunscreen\" [level=3]:"
+    ],
+    "images": [
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      }
+    ]
+  },
+  {
+    "page": "guides",
+    "url": "https://glowwise.tech/guides/",
+    "device": "desktop",
+    "capturedUTC": "2026-10-10T03:12:21.738Z",
+    "screenshot": "before-desktop-guides.jpg",
+    "headings": [
+      "  - heading \"Care, with a little clarity.\" [level=1]",
+      "    - 'heading \"Trimmers under ₹1,500: six identified models, useful differences\" [level=3]':",
+      "    - 'heading \"Beard-oil benefits: conditioning without growth promises\" [level=3]':",
+      "    - 'heading \"Face wash for sensitive skin: a simpler, source-checked shortlist\" [level=3]':",
+      "    - 'heading \"Body lotion for dry skin: comfort, scent and clear choices\" [level=3]':",
+      "    - 'heading \"Perfumes under ₹1,000: the checked 20 ml edit\" [level=3]':",
+      "    - 'heading \"Sunscreen for oily skin: protection, finish and a useful shortlist\" [level=3]':",
+      "    - heading \"Discover\" [level=2]"
+    ],
+    "images": [
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/grooming-tools.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/beard-grooming.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/bodycare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/fragrance.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      }
+    ]
+  },
+  {
+    "page": "guide",
+    "url": "https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+    "device": "desktop",
+    "capturedUTC": "2026-10-10T03:12:22.786Z",
+    "screenshot": "before-desktop-guide.jpg",
+    "headings": [
+      "    - 'heading \"Sunscreen for oily skin: protection, finish and a useful shortlist\" [level=1]'",
+      "    - heading \"Texture matters, but protection comes first\" [level=2]",
+      "    - heading \"Four different starting points\" [level=2]",
+      "    - heading \"Unknown is useful information\" [level=2]",
+      "    - heading \"Make the shortlist practical\" [level=2]",
+      "    - heading \"Use the tools without a hidden score\" [level=2]",
+      "    - heading \"How this guide was researched\" [level=2]",
+      "    - heading \"The checked shortlist.\" [level=2]"
+    ],
+    "images": [
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/grooming-tools.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/beard-grooming.svg",
+        "width": 150
+      },
+      {
+        "alt": "",
+        "height": 150,
+        "src": "https://glowwise.tech/wp-content/themes/glowwise/assets/art/skincare.svg",
+        "width": 150
+      }
+    ]
+  },
+  {
+    "page": "finder",
+    "url": "https://glowwise.tech/finder/",
+    "device": "desktop",
+    "capturedUTC": "2026-10-10T03:12:23.597Z",
+    "screenshot": "before-desktop-finder.jpg",
+    "headings": [
+      "  - heading \"Find your fit.\" [level=1]",
+      "    - heading \"A shortlist. With reasons.\" [level=2]:",
+      "    - heading \"Discover\" [level=2]",
+      "    - heading \"Everyday care\" [level=2]",
+      "    - heading \"Glowwise\" [level=2]",
+      "    - heading \"Your choices\" [level=2]"
+    ],
+    "images": []
+  },
+  {
+    "page": "compare",
+    "url": "https://glowwise.tech/compare/",
+    "device": "desktop",
+    "capturedUTC": "2026-10-10T03:12:24.402Z",
+    "screenshot": "before-desktop-compare.jpg",
+    "headings": [
+      "  - heading \"Make the differences clear.\" [level=1]",
+      "  - heading \"Start with a useful pair.\" [level=2]",
+      "    - heading \"Discover\" [level=2]",
+      "    - heading \"Everyday care\" [level=2]",
+      "    - heading \"Glowwise\" [level=2]",
+      "    - heading \"Your choices\" [level=2]"
+    ],
+    "images": []
+  },
+  {
+    "page": "saved",
+    "url": "https://glowwise.tech/saved/",
+    "device": "desktop",
+    "capturedUTC": "2026-10-10T03:12:25.202Z",
+    "screenshot": "before-desktop-saved.jpg",
+    "headings": [
+      "  - heading \"A little space for your good finds.\" [level=1]",
+      "  - heading \"Your next good find belongs here.\" [level=2]",
+      "    - heading \"Discover\" [level=2]",
+      "    - heading \"Everyday care\" [level=2]",
+      "    - heading \"Glowwise\" [level=2]",
+      "    - heading \"Your choices\" [level=2]"
+    ],
+    "images": []
+  },
+  {
+    "page": "home",
+    "url": "https://glowwise.tech/",
+    "device": "mobile390",
+    "capturedUTC": "2026-10-10T03:12:46.510Z",
+    "screenshot": "before-mobile-home.jpg",
+    "headings": [
+      "  - heading \"Find your kind of good.\" [level=1]:",
+      "  - heading \"The right choice starts with the right questions.\" [level=2]",
+      "  - heading \"A world of everyday care.\" [level=2]",
+      "  - heading \"Less searching. More finding.\" [level=2]:",
+      "  - heading \"Facts first. Possibilities next.\" [level=2]",
+      "    - heading \"Minimalist Aquaporin Booster 5% Cleanser\" [level=3]:",
+      "    - heading \"Beardo No Nonsense Shampoo\" [level=3]:",
+      "    - heading \"SKINN Celeste Eau de Parfum\" [level=3]:"
+    ]
+  },
+  {
+    "page": "hub",
+    "url": "https://glowwise.tech/categories/skincare/",
+    "device": "mobile390",
+    "capturedUTC": "2026-10-10T03:12:48.648Z",
+    "screenshot": "before-mobile-hub.jpg",
+    "headings": [
+      "  - heading \"Skincare\" [level=1]",
+      "  - heading \"Your routine. Your starting point.\" [level=2]:",
+      "  - heading \"A little reading, before choosing.\" [level=2]",
+      "    - 'heading \"Sunscreen for oily skin: protection, finish and a useful shortlist\" [level=3]':",
+      "    - 'heading \"Face wash for sensitive skin: a simpler, source-checked shortlist\" [level=3]':",
+      "  - heading \"In this edit.\" [level=2]",
+      "    - heading \"Minimalist Aquaporin Booster 5% Cleanser\" [level=3]:",
+      "    - heading \"Minimalist B12 + Oat Extract 6.5% Cleanser\" [level=3]:"
+    ]
+  },
+  {
+    "page": "explore",
+    "url": "https://glowwise.tech/explore/",
+    "device": "mobile390",
+    "capturedUTC": "2026-10-10T03:12:50.741Z",
+    "screenshot": "before-mobile-explore.jpg",
+    "headings": [
+      "  - heading \"Explore your possibilities.\" [level=1]",
+      "  - heading \"36 researched products\" [level=2]",
+      "    - heading \"Beardo Beard & Hair Growth Oil\" [level=3]:",
+      "    - heading \"Beardo Godfather Beard Oil\" [level=3]:",
+      "    - heading \"Beardo No Nonsense Shampoo\" [level=3]:",
+      "    - heading \"Minimalist Aquaporin Booster 5% Cleanser\" [level=3]:",
+      "    - heading \"Minimalist B12 + Oat Extract 6.5% Cleanser\" [level=3]:",
+      "    - heading \"Minimalist Hydrating Factors 7.3% Shampoo\" [level=3]:"
+    ]
+  },
+  {
+    "page": "product",
+    "url": "https://glowwise.tech/products/minimalist-light-fluid-spf-50/",
+    "device": "mobile390",
+    "capturedUTC": "2026-10-10T03:12:52.709Z",
+    "screenshot": "before-mobile-product.jpg",
+    "headings": [
+      "    - heading \"Minimalist Light Fluid SPF 50\" [level=1]",
+      "    - heading \"Why it’s in the edit.\" [level=2]",
+      "    - heading \"Before you choose.\" [level=2]",
+      "    - heading \"What the source says.\" [level=2]",
+      "    - heading \"Follow the research.\" [level=3]",
+      "  - heading \"A useful comparison.\" [level=2]",
+      "    - heading \"Minimalist SPF 50 Sunscreen\" [level=3]:",
+      "    - heading \"Minimalist SPF 60 Sunscreen\" [level=3]:"
+    ]
+  },
+  {
+    "page": "guides",
+    "url": "https://glowwise.tech/guides/",
+    "device": "mobile390",
+    "capturedUTC": "2026-10-10T03:12:54.613Z",
+    "screenshot": "before-mobile-guides.jpg",
+    "headings": [
+      "  - heading \"Care, with a little clarity.\" [level=1]",
+      "    - 'heading \"Trimmers under ₹1,500: six identified models, useful differences\" [level=3]':",
+      "    - 'heading \"Beard-oil benefits: conditioning without growth promises\" [level=3]':",
+      "    - 'heading \"Face wash for sensitive skin: a simpler, source-checked shortlist\" [level=3]':",
+      "    - 'heading \"Body lotion for dry skin: comfort, scent and clear choices\" [level=3]':",
+      "    - 'heading \"Perfumes under ₹1,000: the checked 20 ml edit\" [level=3]':",
+      "    - 'heading \"Sunscreen for oily skin: protection, finish and a useful shortlist\" [level=3]':",
+      "    - heading \"Discover\" [level=2]"
+    ]
+  },
+  {
+    "page": "guide",
+    "url": "https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+    "device": "mobile390",
+    "capturedUTC": "2026-10-10T03:12:56.783Z",
+    "screenshot": "before-mobile-guide.jpg",
+    "headings": [
+      "    - 'heading \"Sunscreen for oily skin: protection, finish and a useful shortlist\" [level=1]'",
+      "    - heading \"Texture matters, but protection comes first\" [level=2]",
+      "    - heading \"Four different starting points\" [level=2]",
+      "    - heading \"Unknown is useful information\" [level=2]",
+      "    - heading \"Make the shortlist practical\" [level=2]",
+      "    - heading \"Use the tools without a hidden score\" [level=2]",
+      "    - heading \"How this guide was researched\" [level=2]",
+      "    - heading \"The checked shortlist.\" [level=2]"
+    ]
+  },
+  {
+    "page": "finder",
+    "url": "https://glowwise.tech/finder/",
+    "device": "mobile390",
+    "capturedUTC": "2026-10-10T03:12:58.602Z",
+    "screenshot": "before-mobile-finder.jpg",
+    "headings": [
+      "  - heading \"Find your fit.\" [level=1]",
+      "    - heading \"A shortlist. With reasons.\" [level=2]:",
+      "    - heading \"Discover\" [level=2]",
+      "    - heading \"Everyday care\" [level=2]",
+      "    - heading \"Glowwise\" [level=2]",
+      "    - heading \"Your choices\" [level=2]"
+    ]
+  },
+  {
+    "page": "compare",
+    "url": "https://glowwise.tech/compare/",
+    "device": "mobile390",
+    "capturedUTC": "2026-10-10T03:13:00.354Z",
+    "screenshot": "before-mobile-compare.jpg",
+    "headings": [
+      "  - heading \"Make the differences clear.\" [level=1]",
+      "    - heading \"Discover\" [level=2]",
+      "    - heading \"Everyday care\" [level=2]",
+      "    - heading \"Glowwise\" [level=2]",
+      "    - heading \"Your choices\" [level=2]"
+    ]
+  },
+  {
+    "page": "saved",
+    "url": "https://glowwise.tech/saved/",
+    "device": "mobile390",
+    "capturedUTC": "2026-10-10T03:13:02.104Z",
+    "screenshot": "before-mobile-saved.jpg",
+    "headings": [
+      "  - heading \"A little space for your good finds.\" [level=1]",
+      "    - heading \"Discover\" [level=2]",
+      "    - heading \"Everyday care\" [level=2]",
+      "    - heading \"Glowwise\" [level=2]",
+      "    - heading \"Your choices\" [level=2]"
+    ]
+  }
+]

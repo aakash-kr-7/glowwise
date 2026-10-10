@@ -1,0 +1,63 @@
+{
+  "retrievedUTC": "2026-10-10 03:48:26 UTC",
+  "sourceRevision": "ecbbdc7c755e64e39769eb11fdce8d2ad27e7701",
+  "purpose": "Comparable forced Ubersuggest homepage lab rerun after font preload and initial header-space reservation",
+  "testURL": "glowwise.tech",
+  "conditions": "DESKTOP,MOBILE, forceUpdate=true; exact throttle/version/provider run time unavailable",
+  "report": {
+    "done": true,
+    "report": {
+      "DESKTOP": {
+        "status": "ok",
+        "lab_metrics": {
+          "Largest Contentful Paint": "591 ms",
+          "Cumulative Layout Shift": "0",
+          "Time to Interactive": "591 ms",
+          "First Contentful Paint": "528 ms",
+          "Total Blocking Time": "0 ms",
+          "Speed Index": "1.5 s"
+        },
+        "opportunities": [
+          {
+            "opportunity": "Redirects",
+            "estimated_savings": "190 ms",
+            "size_reduction_kb": null
+          },
+          {
+            "opportunity": "Unused Javascript",
+            "estimated_savings": "0 ms",
+            "size_reduction_kb": 21
+          }
+        ]
+      },
+      "MOBILE": {
+        "status": "ok",
+        "lab_metrics": {
+          "Cumulative Layout Shift": "0.075",
+          "Largest Contentful Paint": "2.3 s",
+          "Time to Interactive": "2.3 s",
+          "First Contentful Paint": "1.8 s",
+          "Speed Index": "3.7 s",
+          "Total Blocking Time": "0 ms"
+        },
+        "opportunities": [
+          {
+            "opportunity": "Redirects",
+            "estimated_savings": "630 ms",
+            "size_reduction_kb": null
+          },
+          {
+            "opportunity": "Unused Javascript",
+            "estimated_savings": "0 ms",
+            "size_reduction_kb": 21
+          }
+        ]
+      }
+    }
+  },
+  "limitations": [
+    "No field INP or CrUX available",
+    "TBT is not INP",
+    "Single comparable samples; variability prevents proving changes caused all differences"
+  ]
+}

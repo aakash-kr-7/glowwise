@@ -75,3 +75,14 @@ These supersede earlier operational status statements, preserving them as histor
 | D39 | Normal reviewed Git push using correct owner credentials; verify deployed tracked blobs/HEAD and generatedmanifest, with no paidCI/automaticbranch deploy. | Exact final publication artifact/runbook records hashes and revision; owner WordPressedits preserved. |
 
 No core implementation decision currently needs owner input. Later lifecycle before16October, designated backlink domains, submission identity/calendar and exact sanitized public backup sharing remain outside completed launch scope. NativeOSmotion/zoom and fieldINP remain limitations, not fabricated tests.
+
+## Visual refinement — 10 October 2026
+
+| ID | Decision / reason | Authority and evidence |
+|---|---|---|
+| D40 | Replace rendered glossy art/orbit with calm editorial composition, labelled1.5stroke icons, type covers and one licensed contextual photo; retain original files and approved identity. Finite motion only. | Owner visual-refinement request; actual nine-page-type desktop/mobile review. Supersedes D35's rendered art choice. |
+| D41 | Use individually licensed exact50g Plum2% carton photo; no other pack substitution. Disclose35 family rights gaps; no outreach/purchase. Keep durable native attachment/variant rights metadata in core and caption credit. | Actual OpenBeautyFacts individual file CC BY-SA3.0; official brand restrictions and all36 research records. |
+| D42 | Self-host responsive WebP, exact generated-font preload and reserved header row. Extend origin safe-static image MIME extensions only; uploads/dynamic HTML/API no-store, Cloudflare scope unchanged. | Minified build, HTTP/private cache observations and actual lab variability. No retired Auto Minify claim. |
+| D43 | Preserve family-only saved behavior and product facts/default packs; link exact photographed pack where another variant is selected. Back up/import idempotently. | Existing contract plus exact-pack browser/security tests; verified private Updraft/recovery. |
+
+Routine authorized design choices need no new approval. Additional actual product photography requires owner-owned files or explicit rights; legal permission cannot be fabricated by another renderer.

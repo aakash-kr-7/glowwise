@@ -1,0 +1,76 @@
+{
+  "capturedUTC": "2026-10-10T04:13:57.957951+00:00",
+  "purpose": "Actual live WebP/minified-CSS caching and compression headers; no blanket cache or private-data request",
+  "checks": [
+    {
+      "path": "/wp-content/themes/glowwise/assets/editorial/hands-water-480.webp",
+      "status": 200,
+      "bytesTransferred": 21472,
+      "headers": {
+        "Content-Type": "image/webp",
+        "Cache-Control": "public, max-age=86400",
+        "CF-Cache-Status": "MISS",
+        "Age": null,
+        "Content-Encoding": null,
+        "ETag": "\"53e0-65d747a237ec0\""
+      }
+    },
+    {
+      "path": "/wp-content/themes/glowwise/assets/editorial/hands-water-1600.webp",
+      "status": 200,
+      "bytesTransferred": 125556,
+      "headers": {
+        "Content-Type": "image/webp",
+        "Cache-Control": "public, max-age=86400",
+        "CF-Cache-Status": "MISS",
+        "Age": null,
+        "Content-Encoding": null,
+        "ETag": "\"1ea74-65d747a237ec0\""
+      }
+    },
+    {
+      "path": "/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-768x1024.webp",
+      "status": 200,
+      "bytesTransferred": 46544,
+      "headers": {
+        "Content-Type": "image/webp",
+        "Cache-Control": "private, no-store",
+        "CF-Cache-Status": "BYPASS",
+        "Age": null,
+        "Content-Encoding": null,
+        "ETag": "\"b5d0-65d7420565c5f\""
+      }
+    },
+    {
+      "path": "/wp-content/themes/glowwise/assets/dist/site.VPIOOUFF.css",
+      "status": 200,
+      "bytesTransferred": 7094,
+      "headers": {
+        "Content-Type": "text/css",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "CF-Cache-Status": "MISS",
+        "Age": null,
+        "Content-Encoding": "gzip",
+        "ETag": "\"7a3e-65d748ff735e1-gzip\""
+      }
+    },
+    {
+      "path": "/wp-content/themes/glowwise/assets/dist/visuals.VDNVUM7X.css",
+      "status": 200,
+      "bytesTransferred": 2284,
+      "headers": {
+        "Content-Type": "text/css",
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "CF-Cache-Status": "MISS",
+        "Age": null,
+        "Content-Encoding": "gzip",
+        "ETag": "\"22e8-65d748ff731f9-gzip\""
+      }
+    }
+  ],
+  "limitations": [
+    "Static origin-image whitelist expanded; Cloudflare cache-rule scope unchanged",
+    "An edge BYPASS is not misreported as HIT; browser caching remains as observed",
+    "Uploads remain private/no-store by conservative existing policy"
+  ]
+}

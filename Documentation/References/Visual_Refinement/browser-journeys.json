@@ -1,0 +1,209 @@
+[
+  {
+    "test": "Mobile menu opens with keyboard, Escape closes and returns focus",
+    "observed": {
+      "expanded": "false",
+      "focused": "menu-toggle js-only"
+    },
+    "capturedUTC": "2026-10-10T03:49:44.172Z"
+  },
+  {
+    "test": "Changing comparison to 80 g removes the 50 g photograph",
+    "capturedUTC": "2026-10-10T03:50:59.943Z",
+    "observed": {
+      "photos": 0,
+      "variant": "80 g"
+    }
+  },
+  {
+    "test": "Comparison restores exact photo and permits keyboard horizontal scroll",
+    "capturedUTC": "2026-10-10T03:51:00.543Z",
+    "observed": {
+      "focused": "compare-scroll",
+      "photos": 1,
+      "scrollLeft": 0
+    }
+  },
+  {
+    "test": "Mobile comparison keyboard scroll completed",
+    "capturedUTC": "2026-10-10T03:51:31.915Z",
+    "observed": {
+      "pageOverflow": false,
+      "scrollLeft": 40
+    }
+  },
+  {
+    "test": "Saved families persist on refresh with default 80 g and exact 50 g photo link",
+    "capturedUTC": "2026-10-10T03:51:34.507Z",
+    "observed": {
+      "cards": 2,
+      "photoLink": "See 50 g photo ↗",
+      "wrongPackImages": 0
+    }
+  },
+  {
+    "test": "Saved families persist on refresh with default 80 g and exact 50 g photo link",
+    "capturedUTC": "2026-10-10T03:52:28.376Z",
+    "observed": {
+      "cards": 2,
+      "photoLink": "See 50 g photo ↗",
+      "wrongPackImages": 0
+    }
+  },
+  {
+    "test": "Mobile category → guide → product → exact licensed variant",
+    "capturedUTC": "2026-10-10T03:59:47.876Z",
+    "observed": {
+      "photoAlt": "Plum Rice Water & Niacinamide 2% Hybrid Sunscreen SPF 50 PA++++ outer carton, 50 g, held in a shop",
+      "retailer": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989749308",
+      "selected": "50 g",
+      "url": "https://glowwise.tech/products/plum-rice-water-spf-50/?variant=50%20g"
+    }
+  },
+  {
+    "timeUTC": "2026-10-10T04:05:16.801Z",
+    "test": "Mobile finder category/type/budget400 → four exact matches; Plum50g realphoto/credit and reasons",
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:07:11.404Z",
+    "test": "Mobile Explore empty search then browser back restores four budget matches; forward restores empty query",
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:08:15.630Z",
+    "test": "Mobile clear filters → clean page2→refresh36 total; cookie dialog keyboard Escape returns to page",
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:08:52.593Z",
+    "test": "Desktop skincare hub",
+    "observed": {
+      "heading": "Skincare",
+      "icons": 3,
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:08:53.242Z",
+    "test": "Desktop haircare hub",
+    "observed": {
+      "heading": "Haircare",
+      "icons": 2,
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:08:53.876Z",
+    "test": "Desktop bodycare hub",
+    "observed": {
+      "heading": "Bodycare",
+      "icons": 2,
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:08:54.500Z",
+    "test": "Desktop fragrance hub",
+    "observed": {
+      "heading": "Fragrance",
+      "icons": 2,
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:08:55.126Z",
+    "test": "Desktop beard-grooming hub",
+    "observed": {
+      "heading": "Beard & grooming",
+      "icons": 2,
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:08:55.771Z",
+    "test": "Desktop grooming-tools hub",
+    "observed": {
+      "heading": "Grooming tools",
+      "icons": 2,
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:09:18.089Z",
+    "test": "Final desktop exact50g photo loaded; correct alt, responsive768x1024source, loading indicatorhidden",
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:09:18.750Z",
+    "test": "Mobile skincare hub",
+    "observed": {
+      "heading": "Skincare",
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:09:19.380Z",
+    "test": "Mobile haircare hub",
+    "observed": {
+      "heading": "Haircare",
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:09:20.007Z",
+    "test": "Mobile bodycare hub",
+    "observed": {
+      "heading": "Bodycare",
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:09:20.633Z",
+    "test": "Mobile fragrance hub",
+    "observed": {
+      "heading": "Fragrance",
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:09:21.258Z",
+    "test": "Mobile beard-grooming hub",
+    "observed": {
+      "heading": "Beard & grooming",
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  },
+  {
+    "timeUTC": "2026-10-10T04:09:21.890Z",
+    "test": "Mobile grooming-tools hub",
+    "observed": {
+      "heading": "Grooming tools",
+      "oldArt": false,
+      "overflow": false
+    },
+    "pass": true
+  }
+]

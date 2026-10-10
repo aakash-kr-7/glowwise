@@ -1,0 +1,11 @@
+{
+  "componentCount": 6,
+  "bytes": 27943637,
+  "capturedUTC": "2026-10-10T04:08:01.588564+00:00",
+  "purpose": "Actual separate restricted off-VM copy of latest verified full Updraft backup; raw production data excluded from public repository",
+  "sha256": "b6d15c70380320a1c6580bfc57e48eec119fd54c2164d639d6045830e46fc09b",
+  "localPrivatePath": ".local/deployment/visual-refinement-recovery/visual-recovery-2026-10-10.tar.gz",
+  "permissions": "Inherited access removed; owner and SYSTEM only",
+  "encryptionAtRest": "not independently verified",
+  "restoration": "Isolated SQL restoration and archive/source integrity verified separately; no new VM or restored login test"
+}

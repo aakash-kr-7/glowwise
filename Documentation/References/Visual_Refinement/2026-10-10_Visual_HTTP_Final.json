@@ -1,0 +1,2288 @@
+{
+  "capturedUTC": "2026-10-10T04:11:04.844388+00:00",
+  "purpose": "Public visual/HTML/variant-photo/cache regression, read-only; no credentials/contact content",
+  "routes": 69,
+  "checks": [
+    {
+      "test": "/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/about/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/about/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/about/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/about/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/accessibility/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/accessibility/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/accessibility/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/accessibility/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/categories/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/beard-grooming/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/categories/beard-grooming/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/beard-grooming/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/beard-grooming/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/bodycare/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/categories/bodycare/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/bodycare/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/bodycare/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/fragrance/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/categories/fragrance/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/fragrance/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/fragrance/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/grooming-tools/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/categories/grooming-tools/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/grooming-tools/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/grooming-tools/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/haircare/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/categories/haircare/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/haircare/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/haircare/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/skincare/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/categories/skincare/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/skincare/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/categories/skincare/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/compare/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/compare/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/compare/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/compare/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/contact/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/contact/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/contact/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/contact/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/cookies-and-storage/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/cookies-and-storage/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/cookies-and-storage/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/cookies-and-storage/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/corrections/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/corrections/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/corrections/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/corrections/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/disclosures/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/disclosures/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/disclosures/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/disclosures/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/explore/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/explore/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/explore/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/explore/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/explore/page/2/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/explore/page/2/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/explore/page/2/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/explore/page/2/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/explore/page/3/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/explore/page/3/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/explore/page/3/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/explore/page/3/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/finder/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/finder/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/finder/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/finder/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/guides/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/beard-oil-benefits/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/body-lotion-for-dry-skin/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/face-wash-for-sensitive-skin/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/page/2/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/guides/page/2/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/page/2/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/page/2/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/perfumes-under-1000/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/shampoo-for-dry-frizzy-hair/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/sunscreen-for-oily-skin/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/guides/trimmers-under-1500/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/how-we-select/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/how-we-select/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/how-we-select/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/how-we-select/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/privacy/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/privacy/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/privacy/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/privacy/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/beardo-beard-hair-oil/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/beardo-godfather-oil/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/beardo-no-nonsense-shampoo/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-aquaporin-cleanser/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-b12-oat-cleanser/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-hydrating-factors-shampoo/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-light-fluid-spf-50/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-maleic-shampoo/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-niacinamide-body-lotion/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-salicylic-lha-cleanser/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-spf-50/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/minimalist-spf-50/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-spf-50/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-spf-50/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-spf-60/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/minimalist-spf-60/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-spf-60/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/minimalist-spf-60/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-anti-dandruff-shampoo/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-avocado-argan-shampoo/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-coconut-peptides-shampoo/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-green-tea-zinc-spf-50/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-hawaiian-rumba-lotion/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-hazelnut-lotion/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-rice-water-face-wash/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-rice-water-spf-50/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-sheer-tinted-spf-50/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-tropic-lotion/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-vanilla-caramello-lotion/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/plum-vanilla-vibes-lotion/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-celeste-20ml/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-nude-20ml/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-raw-20ml/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-sheer-20ml/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-steele-20ml/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/skinn-verge-20ml/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-power-lite/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/vega-power-lite/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-power-lite/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-power-lite/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-power-p1/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/vega-power-p1/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-power-p1/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-power-p1/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-smartone-s2/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/vega-smartone-s2/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-smartone-s2/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-smartone-s2/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-smartone-s3/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/vega-smartone-s3/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-smartone-s3/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-smartone-s3/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-turbolite/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/vega-turbolite/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-turbolite/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-turbolite/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-turboone/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/products/vega-turboone/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-turboone/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/products/vega-turboone/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/saved/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/saved/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/saved/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/saved/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/sitemap/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/sitemap/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/sitemap/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/sitemap/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/terms/ renders with private HTML caching",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "cacheControl": "private, no-store",
+        "edgeCache": null
+      }
+    },
+    {
+      "test": "/terms/ no retired artwork and exactly one main heading",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/terms/ has at most one canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/terms/ keeps cookie control and complete footer",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "Exactly 36 published products",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "plum-rice-water-spf-50 exact variant image, safe origin, dimensions and credit",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "plum-rice-water-spf-50 photograph returns an actual WebP",
+      "pass": true,
+      "observation": {
+        "status": 200,
+        "contentType": "image/webp",
+        "bytes": 46544
+      }
+    },
+    {
+      "test": "Plum 50%20g cannot display the wrong pack",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "Plum 50%20g remains base self-canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "Plum 80%20g cannot display the wrong pack",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "Plum 80%20g remains base self-canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "Plum 30%20g cannot display the wrong pack",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "Plum 30%20g remains base self-canonical",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/contact/ stays non-publicly cached",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/corrections/ stays non-publicly cached",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/wp-login.php stays non-publicly cached",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/saved/ stays non-publicly cached",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/compare/ stays non-publicly cached",
+      "pass": true,
+      "observation": null
+    },
+    {
+      "test": "/wp-json/glowwise/v1/products stays non-publicly cached",
+      "pass": true,
+      "observation": null
+    }
+  ],
+  "products": [
+    {
+      "slug": "beardo-beard-hair-oil",
+      "url": "https://glowwise.tech/products/beardo-beard-hair-oil/",
+      "brand": "Beardo",
+      "category": "beard-grooming",
+      "defaultVariant": "50 ml",
+      "variants": [
+        "50 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "beardo-godfather-oil",
+      "url": "https://glowwise.tech/products/beardo-godfather-oil/",
+      "brand": "Beardo",
+      "category": "beard-grooming",
+      "defaultVariant": "30ml",
+      "variants": [
+        "30ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "beardo-no-nonsense-shampoo",
+      "url": "https://glowwise.tech/products/beardo-no-nonsense-shampoo/",
+      "brand": "Beardo",
+      "category": "haircare",
+      "defaultVariant": "200ml",
+      "variants": [
+        "200ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-aquaporin-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-aquaporin-cleanser/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "100 ml",
+      "variants": [
+        "100 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-b12-oat-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-b12-oat-cleanser/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "120ml",
+      "variants": [
+        "120ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-hydrating-factors-shampoo",
+      "url": "https://glowwise.tech/products/minimalist-hydrating-factors-shampoo/",
+      "brand": "Minimalist",
+      "category": "haircare",
+      "defaultVariant": "250 ml",
+      "variants": [
+        "250 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-light-fluid-spf-50",
+      "url": "https://glowwise.tech/products/minimalist-light-fluid-spf-50/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "30ml",
+      "variants": [
+        "30ml",
+        "50ml",
+        "100ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-maleic-shampoo",
+      "url": "https://glowwise.tech/products/minimalist-maleic-shampoo/",
+      "brand": "Minimalist",
+      "category": "haircare",
+      "defaultVariant": "100 ml",
+      "variants": [
+        "100 ml",
+        "250 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-niacinamide-body-lotion",
+      "url": "https://glowwise.tech/products/minimalist-niacinamide-body-lotion/",
+      "brand": "Minimalist",
+      "category": "bodycare",
+      "defaultVariant": "180 g",
+      "variants": [
+        "180 g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-salicylic-lha-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-salicylic-lha-cleanser/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "100ml",
+      "variants": [
+        "100ml",
+        "250ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-spf-50",
+      "url": "https://glowwise.tech/products/minimalist-spf-50/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "50g",
+      "variants": [
+        "50g",
+        "100g",
+        "30g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-spf-60",
+      "url": "https://glowwise.tech/products/minimalist-spf-60/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "50 g",
+      "variants": [
+        "50 g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-rice-water-face-wash",
+      "url": "https://glowwise.tech/products/plum-rice-water-face-wash/",
+      "brand": "Plum",
+      "category": "skincare",
+      "defaultVariant": "150 ml",
+      "variants": [
+        "150 ml",
+        "100 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-rice-water-spf-50",
+      "url": "https://glowwise.tech/products/plum-rice-water-spf-50/",
+      "brand": "Plum",
+      "category": "skincare",
+      "defaultVariant": "80 g",
+      "variants": [
+        "80 g",
+        "50 g",
+        "30 g"
+      ],
+      "licensedImages": [
+        {
+          "label": "50 g",
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-768x1024.webp",
+          "width": 768,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-768x1024.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-225x300.webp 225w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-1152x1536.webp 1152w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g.webp 1200w",
+          "source": "https://world.openbeautyfacts.org/cgi/product_image.pl?code=8904430201070&id=front_en",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "checked": "2026-10-10",
+          "alt": "Plum Rice Water & Niacinamide 2% Hybrid Sunscreen SPF 50 PA++++ outer carton, 50 g, held in a shop",
+          "credit": "Photo: abhi127 / Open Beauty Facts",
+          "license": "CC BY-SA 3.0 · resized"
+        }
+      ],
+      "rightsStatus": "licensed_exact_variant",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-sheer-tinted-spf-50",
+      "url": "https://glowwise.tech/products/plum-sheer-tinted-spf-50/",
+      "brand": "Plum",
+      "category": "skincare",
+      "defaultVariant": "50 g",
+      "variants": [
+        "50 g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-anti-dandruff-shampoo",
+      "url": "https://glowwise.tech/products/plum-anti-dandruff-shampoo/",
+      "brand": "Plum",
+      "category": "haircare",
+      "defaultVariant": "500 ml",
+      "variants": [
+        "500 ml",
+        "250 ml",
+        "100 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-avocado-argan-shampoo",
+      "url": "https://glowwise.tech/products/plum-avocado-argan-shampoo/",
+      "brand": "Plum",
+      "category": "haircare",
+      "defaultVariant": "250 ml",
+      "variants": [
+        "250 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-hawaiian-rumba-lotion",
+      "url": "https://glowwise.tech/products/plum-hawaiian-rumba-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-hazelnut-lotion",
+      "url": "https://glowwise.tech/products/plum-hazelnut-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-tropic-lotion",
+      "url": "https://glowwise.tech/products/plum-tropic-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-vanilla-caramello-lotion",
+      "url": "https://glowwise.tech/products/plum-vanilla-caramello-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml",
+        "200 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-vanilla-vibes-lotion",
+      "url": "https://glowwise.tech/products/plum-vanilla-vibes-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-coconut-peptides-shampoo",
+      "url": "https://glowwise.tech/products/plum-coconut-peptides-shampoo/",
+      "brand": "Plum",
+      "category": "haircare",
+      "defaultVariant": "250 ml",
+      "variants": [
+        "250 ml",
+        "500 ml",
+        "750 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-green-tea-zinc-spf-50",
+      "url": "https://glowwise.tech/products/plum-green-tea-zinc-spf-50/",
+      "brand": "Plum",
+      "category": "skincare",
+      "defaultVariant": "50 g",
+      "variants": [
+        "50 g",
+        "30 g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-celeste-20ml",
+      "url": "https://glowwise.tech/products/skinn-celeste-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-nude-20ml",
+      "url": "https://glowwise.tech/products/skinn-nude-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-raw-20ml",
+      "url": "https://glowwise.tech/products/skinn-raw-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-sheer-20ml",
+      "url": "https://glowwise.tech/products/skinn-sheer-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-steele-20ml",
+      "url": "https://glowwise.tech/products/skinn-steele-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-verge-20ml",
+      "url": "https://glowwise.tech/products/skinn-verge-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-power-lite",
+      "url": "https://glowwise.tech/products/vega-power-lite/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-38",
+      "variants": [
+        "VHTH-38"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-power-p1",
+      "url": "https://glowwise.tech/products/vega-power-p1/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-25",
+      "variants": [
+        "VHTH-25"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-smartone-s2",
+      "url": "https://glowwise.tech/products/vega-smartone-s2/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-31",
+      "variants": [
+        "VHTH-31"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-smartone-s3",
+      "url": "https://glowwise.tech/products/vega-smartone-s3/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-36",
+      "variants": [
+        "VHTH-36"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-turbolite",
+      "url": "https://glowwise.tech/products/vega-turbolite/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-41",
+      "variants": [
+        "VHTH-41"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-turboone",
+      "url": "https://glowwise.tech/products/vega-turboone/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-40",
+      "variants": [
+        "VHTH-40"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    }
+  ],
+  "counts": {
+    "publishedProducts": 36,
+    "catalogVariants": 51,
+    "familiesWithLicensedPhotos": 1,
+    "licensedVariants": 1
+  },
+  "limitations": [
+    "Browser/rendering/keyboard observations are recorded separately",
+    "No manufacturer photograph permission was inferred from visibility",
+    "No lab or field performance claimed by HTTP checks"
+  ]
+}

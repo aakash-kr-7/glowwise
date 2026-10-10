@@ -61,3 +61,7 @@ Stage 3 refresh: 9 October 2026 13:23:32 UTC guard modeled **US$0.1994**, delaye
 Final Stage 3 refresh: **2026-10-09T13:51:58.321332+00:00**, modeled cumulative **US$0.2095**, delayed reported **US$0**, transmitted **277,096,560 bytes** including the final 107 MB private recovery export. Guard decision continue; no additional resource/subscription/lease change. Remaining allowance is conservatively US$9.7905 against the model, not a guaranteed bill balance. The original US$8.39 fallback finite plan remains the planning ceiling; existing shutdown/guard/retained-cost lifecycle requirements still apply.
 
 Preview-access change 2026-10-09T15:43:51.978950+00:00: existing VM/proxy only, no new resource or lease change. Latest guard snapshot 15:24:51 UTC modeled US$0.2425, reported value unavailable (null), decision continue. No zero-actual-consumption claim; existing lifetime allowance and shutdown/retained-cost controls remain.
+
+## Visual refinement checkpoint — 10 October 2026
+
+04:08:43 UTC: modeled lifetime **US$0.5137**; Azure actual billing unavailable in fresh readback, not zero. Same seven existing resources, spending protection On, guard continue, VM running. No new resources/paid assets. Original US$6 conservative shutdown/model/normalized-actual and traffic/lease controls remain; finite lease ends16October09:31:49IST and retained disk/IP still charge after deallocation. Source: ../References/Visual_Refinement/2026-10-10_Cost_Final.json. This is a cumulative observation, not a reset or new allowance.

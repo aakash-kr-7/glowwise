@@ -1,0 +1,63 @@
+{
+  "retrievedUTC": "2026-10-10 03:36:13 UTC",
+  "sourceRevision": "b58a3ce0481c3d0decfc6fdbfd28a81dcc90bdfa",
+  "purpose": "Fresh Ubersuggest forced homepage lab audit after visual first pass, before layout stability correction",
+  "testURL": "glowwise.tech",
+  "conditions": "DESKTOP,MOBILE, forceUpdate=true; provider does not expose exact throttle/version/run timestamp",
+  "report": {
+    "done": true,
+    "report": {
+      "DESKTOP": {
+        "status": "ok",
+        "lab_metrics": {
+          "Time to Interactive": "611 ms",
+          "Speed Index": "1.6 s",
+          "First Contentful Paint": "611 ms",
+          "Total Blocking Time": "0 ms",
+          "Largest Contentful Paint": "611 ms",
+          "Cumulative Layout Shift": "0.006"
+        },
+        "opportunities": [
+          {
+            "opportunity": "Redirects",
+            "estimated_savings": "190 ms",
+            "size_reduction_kb": null
+          },
+          {
+            "opportunity": "Unused Javascript",
+            "estimated_savings": "0 ms",
+            "size_reduction_kb": 21
+          }
+        ]
+      },
+      "MOBILE": {
+        "status": "ok",
+        "lab_metrics": {
+          "Cumulative Layout Shift": "0.124",
+          "First Contentful Paint": "1.9 s",
+          "Time to Interactive": "2.4 s",
+          "Total Blocking Time": "0 ms",
+          "Largest Contentful Paint": "2.4 s",
+          "Speed Index": "4.1 s"
+        },
+        "opportunities": [
+          {
+            "opportunity": "Unused Javascript",
+            "estimated_savings": "0 ms",
+            "size_reduction_kb": 21
+          },
+          {
+            "opportunity": "Redirects",
+            "estimated_savings": "630 ms",
+            "size_reduction_kb": null
+          }
+        ]
+      }
+    }
+  },
+  "limitations": [
+    "No field INP or CrUX available",
+    "TBT is not INP",
+    "Mobile CLS 0.124 exceeds 0.1 target; must diagnose and rerun"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "capturedUTC": "2026-10-10T04:15:22.778545+00:00",
+  "purpose": "Actual received restricted archive matches all six verified VM components; exact image/rights metadata included; no extraction/private data printed",
+  "checks": [
+    {
+      "entity": "uploads",
+      "matchesVerifiedVMComponent": true
+    },
+    {
+      "test": "Exact licensed original derivative present in off-VM uploads",
+      "pass": true
+    },
+    {
+      "entity": "plugins",
+      "matchesVerifiedVMComponent": true
+    },
+    {
+      "entity": "mu-plugins",
+      "matchesVerifiedVMComponent": true
+    },
+    {
+      "entity": "others",
+      "matchesVerifiedVMComponent": true
+    },
+    {
+      "entity": "themes",
+      "matchesVerifiedVMComponent": true
+    },
+    {
+      "entity": "database",
+      "matchesVerifiedVMComponent": true
+    },
+    {
+      "test": "Full backup contains variant media metadata, stable source identity and attribution",
+      "pass": true
+    }
+  ]
+}

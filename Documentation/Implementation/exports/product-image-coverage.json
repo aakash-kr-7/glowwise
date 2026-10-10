@@ -1,0 +1,547 @@
+{
+  "capturedUTC": "2026-10-10T04:11:04.844388+00:00",
+  "purpose": "Actual public published-only photo/variant export; public attribution only; no users/options/inbox/private permission letters",
+  "counts": {
+    "publishedProducts": 36,
+    "catalogVariants": 51,
+    "familiesWithLicensedPhotos": 1,
+    "licensedVariants": 1
+  },
+  "products": [
+    {
+      "slug": "beardo-beard-hair-oil",
+      "url": "https://glowwise.tech/products/beardo-beard-hair-oil/",
+      "brand": "Beardo",
+      "category": "beard-grooming",
+      "defaultVariant": "50 ml",
+      "variants": [
+        "50 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "beardo-godfather-oil",
+      "url": "https://glowwise.tech/products/beardo-godfather-oil/",
+      "brand": "Beardo",
+      "category": "beard-grooming",
+      "defaultVariant": "30ml",
+      "variants": [
+        "30ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "beardo-no-nonsense-shampoo",
+      "url": "https://glowwise.tech/products/beardo-no-nonsense-shampoo/",
+      "brand": "Beardo",
+      "category": "haircare",
+      "defaultVariant": "200ml",
+      "variants": [
+        "200ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-aquaporin-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-aquaporin-cleanser/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "100 ml",
+      "variants": [
+        "100 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-b12-oat-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-b12-oat-cleanser/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "120ml",
+      "variants": [
+        "120ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-hydrating-factors-shampoo",
+      "url": "https://glowwise.tech/products/minimalist-hydrating-factors-shampoo/",
+      "brand": "Minimalist",
+      "category": "haircare",
+      "defaultVariant": "250 ml",
+      "variants": [
+        "250 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-light-fluid-spf-50",
+      "url": "https://glowwise.tech/products/minimalist-light-fluid-spf-50/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "30ml",
+      "variants": [
+        "30ml",
+        "50ml",
+        "100ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-maleic-shampoo",
+      "url": "https://glowwise.tech/products/minimalist-maleic-shampoo/",
+      "brand": "Minimalist",
+      "category": "haircare",
+      "defaultVariant": "100 ml",
+      "variants": [
+        "100 ml",
+        "250 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-niacinamide-body-lotion",
+      "url": "https://glowwise.tech/products/minimalist-niacinamide-body-lotion/",
+      "brand": "Minimalist",
+      "category": "bodycare",
+      "defaultVariant": "180 g",
+      "variants": [
+        "180 g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-salicylic-lha-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-salicylic-lha-cleanser/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "100ml",
+      "variants": [
+        "100ml",
+        "250ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-spf-50",
+      "url": "https://glowwise.tech/products/minimalist-spf-50/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "50g",
+      "variants": [
+        "50g",
+        "100g",
+        "30g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "minimalist-spf-60",
+      "url": "https://glowwise.tech/products/minimalist-spf-60/",
+      "brand": "Minimalist",
+      "category": "skincare",
+      "defaultVariant": "50 g",
+      "variants": [
+        "50 g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-rice-water-face-wash",
+      "url": "https://glowwise.tech/products/plum-rice-water-face-wash/",
+      "brand": "Plum",
+      "category": "skincare",
+      "defaultVariant": "150 ml",
+      "variants": [
+        "150 ml",
+        "100 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-rice-water-spf-50",
+      "url": "https://glowwise.tech/products/plum-rice-water-spf-50/",
+      "brand": "Plum",
+      "category": "skincare",
+      "defaultVariant": "80 g",
+      "variants": [
+        "80 g",
+        "50 g",
+        "30 g"
+      ],
+      "licensedImages": [
+        {
+          "label": "50 g",
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-768x1024.webp",
+          "width": 768,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-768x1024.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-225x300.webp 225w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-1152x1536.webp 1152w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g.webp 1200w",
+          "source": "https://world.openbeautyfacts.org/cgi/product_image.pl?code=8904430201070&id=front_en",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "checked": "2026-10-10",
+          "alt": "Plum Rice Water & Niacinamide 2% Hybrid Sunscreen SPF 50 PA++++ outer carton, 50 g, held in a shop",
+          "credit": "Photo: abhi127 / Open Beauty Facts",
+          "license": "CC BY-SA 3.0 · resized"
+        }
+      ],
+      "rightsStatus": "licensed_exact_variant",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-sheer-tinted-spf-50",
+      "url": "https://glowwise.tech/products/plum-sheer-tinted-spf-50/",
+      "brand": "Plum",
+      "category": "skincare",
+      "defaultVariant": "50 g",
+      "variants": [
+        "50 g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-anti-dandruff-shampoo",
+      "url": "https://glowwise.tech/products/plum-anti-dandruff-shampoo/",
+      "brand": "Plum",
+      "category": "haircare",
+      "defaultVariant": "500 ml",
+      "variants": [
+        "500 ml",
+        "250 ml",
+        "100 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-avocado-argan-shampoo",
+      "url": "https://glowwise.tech/products/plum-avocado-argan-shampoo/",
+      "brand": "Plum",
+      "category": "haircare",
+      "defaultVariant": "250 ml",
+      "variants": [
+        "250 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-hawaiian-rumba-lotion",
+      "url": "https://glowwise.tech/products/plum-hawaiian-rumba-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-hazelnut-lotion",
+      "url": "https://glowwise.tech/products/plum-hazelnut-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-tropic-lotion",
+      "url": "https://glowwise.tech/products/plum-tropic-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-vanilla-caramello-lotion",
+      "url": "https://glowwise.tech/products/plum-vanilla-caramello-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml",
+        "200 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-vanilla-vibes-lotion",
+      "url": "https://glowwise.tech/products/plum-vanilla-vibes-lotion/",
+      "brand": "Plum",
+      "category": "bodycare",
+      "defaultVariant": "400 ml",
+      "variants": [
+        "400 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-coconut-peptides-shampoo",
+      "url": "https://glowwise.tech/products/plum-coconut-peptides-shampoo/",
+      "brand": "Plum",
+      "category": "haircare",
+      "defaultVariant": "250 ml",
+      "variants": [
+        "250 ml",
+        "500 ml",
+        "750 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "plum-green-tea-zinc-spf-50",
+      "url": "https://glowwise.tech/products/plum-green-tea-zinc-spf-50/",
+      "brand": "Plum",
+      "category": "skincare",
+      "defaultVariant": "50 g",
+      "variants": [
+        "50 g",
+        "30 g"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-celeste-20ml",
+      "url": "https://glowwise.tech/products/skinn-celeste-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-nude-20ml",
+      "url": "https://glowwise.tech/products/skinn-nude-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-raw-20ml",
+      "url": "https://glowwise.tech/products/skinn-raw-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-sheer-20ml",
+      "url": "https://glowwise.tech/products/skinn-sheer-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-steele-20ml",
+      "url": "https://glowwise.tech/products/skinn-steele-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "skinn-verge-20ml",
+      "url": "https://glowwise.tech/products/skinn-verge-20ml/",
+      "brand": "SKINN by Titan",
+      "category": "fragrance",
+      "defaultVariant": "20 ml",
+      "variants": [
+        "20 ml"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-power-lite",
+      "url": "https://glowwise.tech/products/vega-power-lite/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-38",
+      "variants": [
+        "VHTH-38"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-power-p1",
+      "url": "https://glowwise.tech/products/vega-power-p1/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-25",
+      "variants": [
+        "VHTH-25"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-smartone-s2",
+      "url": "https://glowwise.tech/products/vega-smartone-s2/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-31",
+      "variants": [
+        "VHTH-31"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-smartone-s3",
+      "url": "https://glowwise.tech/products/vega-smartone-s3/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-36",
+      "variants": [
+        "VHTH-36"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-turbolite",
+      "url": "https://glowwise.tech/products/vega-turbolite/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-41",
+      "variants": [
+        "VHTH-41"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    },
+    {
+      "slug": "vega-turboone",
+      "url": "https://glowwise.tech/products/vega-turboone/",
+      "brand": "Vega",
+      "category": "grooming-tools",
+      "defaultVariant": "VHTH-40",
+      "variants": [
+        "VHTH-40"
+      ],
+      "licensedImages": [],
+      "rightsStatus": "permission_gap",
+      "rightsChecked": "2026-10-10",
+      "productFactsChecked": "2026-10-09"
+    }
+  ],
+  "provenance": "2026-10-10_Visual_HTTP_Final.json; product facts retain their original 9 October check date; rights checked 10 October",
+  "import": "Use reviewed licensed-media asset and import-visual-media.php for this exact photo; URLs/attachment IDs are environment-specific. Preserve later native Media captions/variant metadata."
+}
