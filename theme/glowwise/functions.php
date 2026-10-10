@@ -14,6 +14,13 @@ function gw_asset($name) {
     $key='theme/glowwise/assets/src/'.$name;$file=$manifest[$key]??'theme/glowwise/assets/src/'.$name;
     return get_template_directory_uri().'/'.substr($file,strlen('theme/glowwise/'));
 }
+add_action('wp_head',function() {
+    $path=get_template_directory().'/assets/dist/manifest.json';$manifest=is_file($path)?json_decode(file_get_contents($path),true):[];
+    foreach (['dm-serif-display-latin.woff2','manrope-latin.woff2'] as $name) {
+        $source='theme/glowwise/assets/fonts/'.$name;$file=$manifest[$source]??$source;
+        echo '<link rel="preload" as="font" type="font/woff2" crossorigin href="'.esc_url(get_template_directory_uri().'/'.substr($file,strlen('theme/glowwise/'))).'">'."\n";
+    }
+},1);
 add_action('wp_enqueue_scripts',function() {
     wp_enqueue_style('glowwise',gw_asset('site.css'),[],'1.0.0');wp_enqueue_script('glowwise',gw_asset('site.js'),[], '1.0.0', ['strategy'=>'defer','in_footer'=>true]);
     wp_enqueue_style('glowwise-visuals',gw_asset('visuals.css'),['glowwise'],'1.1.0');

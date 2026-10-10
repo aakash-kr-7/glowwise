@@ -32,6 +32,13 @@ if (process.argv.includes('--verify')) {
   const manifest = Object.fromEntries(Object.entries(result.metafile.outputs)
     .filter(([, info]) => info.entryPoint)
     .map(([file, info]) => [info.entryPoint, file]));
+  // Preload exactly the files referenced by compiled CSS, avoiding duplicate fonts.
+  for (const [file, info] of Object.entries(result.metafile.outputs)) {
+    if (extname(file) === '.woff2') {
+      const source = Object.keys(info.inputs)[0];
+      if (source) manifest[source] = file;
+    }
+  }
   await writeFile(join(output, 'manifest.json'), JSON.stringify(manifest, null, 2) + '\n');
   console.log(`Built ${entries.length} entries with esbuild ${version}; manifest ` +
     createHash('sha256').update(JSON.stringify(manifest)).digest('hex'));
