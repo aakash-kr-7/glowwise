@@ -28,7 +28,7 @@ target='glowwise_updraft_disposable_restore'
 sql(('CREATE DATABASE '+target+';').encode())
 try:
     sql(dump,target)
-    for kind,expected in [('gw_product',36),('post',7),('page',16)]:
+    for kind,expected in [('gw_product',40),('post',7),('page',16)]:
         count=int(sql(("SELECT COUNT(*) FROM wp_posts WHERE post_status='publish' AND post_type='"+kind+"';").encode(),target))
         assert count==expected,(kind,count)
         checks.append({'contentKind':kind,'restoredPublishedCount':count,'expected':expected,'pass':True})

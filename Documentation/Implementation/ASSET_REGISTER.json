@@ -267,5 +267,21 @@
       "date": "2026-10-10",
       "change": "Retired glossy decorative artwork without deleting originals; licensed editorial photo and one exact product photograph added. Brand photo permissions unavailable for 35 other families."
     }
-  ]
+  ],
+  "editorialRelease": {
+    "checkedUTC": "2026-10-10T05:01:02.441709+00:00",
+    "products": 40,
+    "variants": 55,
+    "photographedFamilies": 1,
+    "photographedVariants": 1,
+    "newImagesAdded": 0,
+    "rightsRegister": "Documentation/Implementation/PRODUCT_RESEARCH_REGISTER.json",
+    "newBrandPrimaryRightsSources": [
+      "https://www.bombayshavingcompany.com/policies/terms-of-service",
+      "https://www.themancompany.com/pages/terms-conditions",
+      "https://www.ustraa.com/content/cms/terms-of-use",
+      "https://www.tirabeauty.com/terms-and-conditions/"
+    ],
+    "observation": "No new exact-product image reuse licence established. The Man Company reserves images and restricts copying; Tira reserves its content. Other terms do not establish permission for these packaging photographs. Targeted Commons search found no matching licensed candidate; fresh OBF web access robots-blocked. No paid asset, hotlink or brand outreach."
+  }
 }

@@ -1,0 +1,17 @@
+# Editorial release — 10 October 2026
+
+Status: researched source prepared; deployment and acceptance pending. This record will be updated with actual results before closing the stage.
+
+The approved design, canonical slugs, keyword owners and native WordPress architecture remain. Six core guides now each explain six products; the seventh sensitive-skin guide retains four approved cleansers. Four beard oils were added to fill the previously two-product category. No approved product was deleted: **36 core selections + four additional cleansers = 40 families, 55 identified variants**. Existing native IDs must be checked after import.
+
+Sources and exact pack prices: [PRODUCT_RESEARCH_REGISTER.json](PRODUCT_RESEARCH_REGISTER.json), [CSV](exports/editorial-products.csv). Original recommendation copy is in `content/editorial-product-notes.json`; seven full bodies in `content/guides/`; metadata and relationships in `content/guide-metadata.json`. `tooling/editorial-guides.py`, `build-guide-manifest.py` and `compile-content.py` reproduce the reviewed portable seed. Native Products/Posts remain editable. Imports preserve later edits and photo metadata; never routinely force an import.
+
+Ordering is explained per category: sunscreen finish and initial cost; shampoo routine relevance; lotion fragrance/pack cost; perfume scent preference; trimmer verified specifications and stock; beard oils format/quantity rather than growth efficacy. Published manufacturer claims are attributed. No hands-on tests, scores, customer reviews, affiliate arrangement or live prices are invented.
+
+Current stock matters: three trimmers and Verge 20 ml are unavailable. Verge's old destination returned 404; manufacturer size navigation supplied the current exact page. Its collection price is a reference, not an active offer. Ustraa Woody 35 ml has an exact Tira destination and official bundle component facts; an official standalone page remains unverified. Unverified Myntra/Flipkart attempts are excluded.
+
+**Photography remains 1/40 families and 1/55 variants**: the licensed Plum Rice Water SPF 50 **50 g outer carton**, CC BY-SA 3.0, abhi127. It does not depict 30 g or 80 g. The other 39 families retain disclosed typographic fallbacks; no retailer photograph was copied or hotlinked without rights. Prior rights research and the asset register remain; fresh new-brand terms/free-image checks did not establish another correct licensed photo. Owner-owned exact-pack photos or explicit permission remain the actionable dependency, with no outreach or purchase performed.
+
+Private pre-update Updraft archive integrity and isolated SQL restoration were verified at **04:57:26 UTC**: 36 products, seven guides, 16 Pages, indexing retained, temporary database removed. Raw research and recovery files remain ignored/restricted. Existing Azure resources, lifetime US$10 ceiling, US$6 guard and finite lease remain; latest cost guard at **04:59:43 UTC** modeled **US$0.5318**, reported normalized **US$0.2617**, continue. Lease ends **16 October 09:31:49 IST**; disk/IP charges continue after deallocation.
+
+Acceptance to record: exact live source/variant/date/ID checks; all seven desktop/mobile article reads and table reflow; product → finder → compare → save → destination; schema/canonical/indexing and cache regression; idempotent import; final full recovery and Git/deployment linkage. Existing historical tests remain dated evidence, not assertions that this content pass has already passed.

@@ -4,8 +4,8 @@ if (!defined('WP_CLI') || !WP_CLI) { exit; }
 $GLOBALS['gw_test_checks']=[];$created=[];
 function check($name,$condition) { $GLOBALS['gw_test_checks'][]=['test'=>$name,'pass'=>(bool)$condition];if (!$condition) { throw new RuntimeException($name); } }
 try {
-    $catalog=gw_catalog();check('36 published, validated product families',count($catalog)>=36);
-    $categories=array_count_values(array_column($catalog,'category'));check('All six categories represented',count($categories)===6);
+    $catalog=gw_catalog();check('40 published, validated product families',count($catalog)===40);
+    $categories=array_count_values(array_column($catalog,'category'));check('All six categories represented',count($categories)===6);check('Six coherent products in each core category; four additional cleansers retained',$categories['skincare']===10&&count(array_filter($categories,fn($n)=>$n===6))===5);
     $data=$catalog[0];foreach (['id','slug','name','url','selectedVariant','matchReasons'] as $k) { unset($data[$k]); }
     check('Impossible date rejected',is_wp_error(gw_validate_product(array_replace($data,['checked'=>'2026-02-31']))));
     check('Future date rejected',is_wp_error(gw_validate_product(array_replace($data,['checked'=>'2099-01-01']))));

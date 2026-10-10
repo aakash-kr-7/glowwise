@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "shampoo-for-dry-frizzy-hair",
+    "title": "Shampoo for dry, frizzy hair: six formulas, different wash-day jobs",
+    "intro": "Compare six checked shampoos by formula, exact pack price and practical trade-offs, with a clear distinction between dry lengths and scalp concerns.",
+    "category": "haircare",
+    "items": [
+      "minimalist-hydrating-factors-shampoo",
+      "plum-coconut-peptides-shampoo",
+      "plum-avocado-argan-shampoo",
+      "minimalist-maleic-shampoo",
+      "plum-anti-dandruff-shampoo",
+      "beardo-no-nonsense-shampoo"
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "slug": "sunscreen-for-oily-skin",
+    "title": "Sunscreen for oily skin: six choices by finish, pack and budget",
+    "intro": "A researched sunscreen shortlist for matte, fluid, dewy and tinted preferences, with exact SPF labels, checked pack prices and honest limitations.",
+    "category": "skincare",
+    "items": [
+      "plum-green-tea-zinc-spf-50",
+      "minimalist-light-fluid-spf-50",
+      "minimalist-spf-50",
+      "plum-rice-water-spf-50",
+      "minimalist-spf-60",
+      "plum-sheer-tinted-spf-50"
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "slug": "body-lotion-for-dry-skin",
+    "title": "Body lotion for dry skin: six choices from fragrance-free to scented",
+    "intro": "Compare one verified fragrance-free lotion and five distinct scented formulas, with exact packs, checked INR prices and practical buying guidance.",
+    "category": "bodycare",
+    "items": [
+      "minimalist-niacinamide-body-lotion",
+      "plum-vanilla-caramello-lotion",
+      "plum-tropic-lotion",
+      "plum-hazelnut-lotion",
+      "plum-hawaiian-rumba-lotion",
+      "plum-vanilla-vibes-lotion"
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "slug": "perfumes-under-1000",
+    "title": "Perfumes under ₹1,000: six SKINN 20 ml scents, with real differences",
+    "intro": "Six identified 20 ml eau de parfum variants compared by published note pyramids, checked price and current stock, without invented longevity claims.",
+    "category": "fragrance",
+    "items": [
+      "skinn-raw-20ml",
+      "skinn-celeste-20ml",
+      "skinn-sheer-20ml",
+      "skinn-nude-20ml",
+      "skinn-steele-20ml",
+      "skinn-verge-20ml"
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "slug": "trimmers-under-1500",
+    "title": "Trimmers under ₹1,500: six Vega models, three current purchase options",
+    "intro": "A model-specific comparison of Vega trimmers, checked prices, charging, runtime and cleaning limits, with unavailable models clearly separated.",
+    "category": "grooming-tools",
+    "items": [
+      "vega-smartone-s3",
+      "vega-power-p1",
+      "vega-power-lite",
+      "vega-turbolite",
+      "vega-smartone-s2",
+      "vega-turboone"
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "slug": "beard-oil-benefits",
+    "title": "Beard-oil benefits: what conditioning can do, and six options to compare",
+    "intro": "Understand beard conditioning without growth promises, then compare six real oils by format, named ingredients, exact pack and checked price.",
+    "category": "beard-grooming",
+    "items": [
+      "ustraa-woody-beard-oil",
+      "beardo-godfather-oil",
+      "man-company-beard-oil",
+      "beardo-beard-hair-oil",
+      "bombay-beard-roll-on",
+      "bombay-onion-beard-oil"
+    ],
+    "checked": "2026-10-10"
+  },
+  {
+    "slug": "face-wash-for-sensitive-skin",
+    "title": "Face wash for sensitive skin: two starting points and two conditional alternatives",
+    "intro": "Four retained cleanser records compared honestly: fragrance-free starting points, an uncertain alternative and an active formula that is not the default.",
+    "category": "skincare",
+    "items": [
+      "minimalist-b12-oat-cleanser",
+      "minimalist-aquaporin-cleanser",
+      "plum-rice-water-face-wash",
+      "minimalist-salicylic-lha-cleanser"
+    ],
+    "checked": "2026-10-10"
+  }
+]

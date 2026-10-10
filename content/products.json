@@ -3,13 +3,13 @@
     "kind": "gw_product",
     "slug": "minimalist-light-fluid-spf-50",
     "title": "Minimalist Light Fluid SPF 50",
-    "excerpt": "A fragrance-free fluid sunscreen with a source-described natural finish.",
-    "description": "A fragrance-free fluid sunscreen with a source-described natural finish.",
+    "excerpt": "For a fluid, natural finish. Natural-finish and sweatproof language comes from Minimalist. Glowwise has not measured oil control, white cast or resistance during exercise.",
+    "description": "For a fluid, natural finish. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Minimalist",
       "category": "skincare",
       "type": "sunscreen",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen",
       "retailer": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen",
       "variants": [
@@ -17,21 +17,21 @@
           "label": "30ml",
           "price": 314.0,
           "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483115681",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "50ml",
           "price": 449.0,
           "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483082913",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "100ml",
           "price": 809.0,
           "source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45880101503137",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Out of stock at the source on 10 October 2026; displayed price is a reference",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -42,24 +42,24 @@
         "finish": "natural",
         "water-resistance": "Manufacturer labels water resistant; follow the pack directions"
       },
-      "summary": "A fragrance-free fluid sunscreen with a source-described natural finish.",
-      "strength": "Three checked sizes let you compare a smaller first purchase against the larger pack.",
-      "limitation": "A natural finish is a manufacturer description, not a wear test. Water resistance does not remove the need to reapply.",
+      "summary": "For a fluid, natural finish.",
+      "strength": "A useful second choice after a specifically matte gel: the manufacturer labels this fragrance-free fluid SPF 50 PA++++ and describes a natural finish. Its named filters include Tinosorb M, Uvinul A Plus and OMC. Those facts explain the format and protection label; they do not establish how it will wear on every face.",
+      "limitation": "Natural-finish and sweatproof language comes from Minimalist. Glowwise has not measured oil control, white cast or resistance during exercise.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>A useful second choice after a specifically matte gel: the manufacturer labels this fragrance-free fluid SPF 50 PA++++ and describes a natural finish. Its named filters include Tinosorb M, Uvinul A Plus and OMC. Those facts explain the format and protection label; they do not establish how it will wear on every face.</p><p>Start with 30 ml if your immediate priority is a lower first purchase, or compare the 50 ml pack for repeat use. The 100 ml listing was sold out at this check. A fluid texture is worth considering if you dislike a thick application, but it is not a promise of shine control. Follow the current pack&#x27;s water-resistance and reapplication directions.</p><h2>The trade-off</h2><p>Natural-finish and sweatproof language comes from Minimalist. Glowwise has not measured oil control, white cast or resistance during exercise.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beminimalist.co/products/light-fluid-spf-50-sunscreen\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "minimalist-spf-50",
     "title": "Minimalist SPF 50 Sunscreen",
-    "excerpt": "An SPF 50 option with clearly identified 30 g, 50 g and 100 g packs.",
-    "description": "An SPF 50 option with clearly identified 30 g, 50 g and 100 g packs.",
+    "excerpt": "Lowest first-purchase cost in this edit. The natural-finish description is now verified manufacturer wording, not a Glowwise wear test. A cheaper small pack is not the best unit value.",
+    "description": "Lowest first-purchase cost in this edit. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Minimalist",
       "category": "skincare",
       "type": "sunscreen",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beminimalist.co/products/multi-vitamin-spf-50",
       "retailer": "https://beminimalist.co/products/multi-vitamin-spf-50",
       "variants": [
@@ -67,47 +67,48 @@
           "label": "50g",
           "price": 359.0,
           "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368405665",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "100g",
           "price": 629.0,
           "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368438433",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "30g",
           "price": 224.0,
           "source": "https://beminimalist.co/products/multi-vitamin-spf-50?variant=46656572817569",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
       "attributes": {
         "fragrance-free": "yes",
         "spf": "50",
-        "uva-rating": "PA++++"
+        "uva-rating": "PA++++",
+        "finish": "natural"
       },
-      "summary": "An SPF 50 option with clearly identified 30 g, 50 g and 100 g packs.",
-      "strength": "Several pack sizes make item-budget comparisons easier without assuming all variants cost the same.",
-      "limitation": "Do not infer finish or water resistance from SPF alone. Check the current formulation label.",
+      "summary": "Lowest first-purchase cost in this edit.",
+      "strength": "The 30 g pack is the least expensive single sunscreen pack among these six families. Minimalist describes the SPF 50 PA++++ formula as moisturiser-like, with a natural, non-shiny finish, and names Uvinul T 150, avobenzone, octocrylene and titanium dioxide as its filters. It is labelled fragrance-free.",
+      "limitation": "The natural-finish description is now verified manufacturer wording, not a Glowwise wear test. A cheaper small pack is not the best unit value.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>The 30 g pack is the least expensive single sunscreen pack among these six families. Minimalist describes the SPF 50 PA++++ formula as moisturiser-like, with a natural, non-shiny finish, and names Uvinul T 150, avobenzone, octocrylene and titanium dioxide as its filters. It is labelled fragrance-free.</p><p>This is the practical budget alternative when you want to try a small pack without buying a larger bottle. The 50 g and 100 g options reduce the checked cost per gram, but require more money upfront. Choose by the pack you will actually buy. A richer moisturiser-like description may appeal more than a super-matte gel if your oily skin also feels tight after washing.</p><h2>The trade-off</h2><p>The natural-finish description is now verified manufacturer wording, not a Glowwise wear test. A cheaper small pack is not the best unit value.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beminimalist.co/products/multi-vitamin-spf-50\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "minimalist-spf-60",
     "title": "Minimalist SPF 60 Sunscreen",
-    "excerpt": "A 50 g sunscreen option for comparing labeled protection and item cost.",
-    "description": "A 50 g sunscreen option for comparing labeled protection and item cost.",
+    "excerpt": "For the SPF 60 preference. No matte finish or superior real-world protection over the other correctly used products was established by this research.",
+    "description": "For the SPF 60 preference. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Minimalist",
       "category": "skincare",
       "type": "sunscreen",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beminimalist.co/products/spf-60-silymarin",
       "retailer": "https://beminimalist.co/products/spf-60-silymarin",
       "variants": [
@@ -115,7 +116,7 @@
           "label": "50 g",
           "price": 539.0,
           "source": "https://beminimalist.co/products/spf-60-silymarin?variant=40946129305761",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -124,24 +125,24 @@
         "spf": "60",
         "uva-rating": "unknown"
       },
-      "summary": "A 50 g sunscreen option for comparing labeled protection and item cost.",
-      "strength": "Its identified 50 g pack can be compared directly with other sunscreen packs.",
-      "limitation": "Higher labeled SPF is not proof of a better personal fit. No independent texture or white-cast testing was performed.",
+      "summary": "For the SPF 60 preference.",
+      "strength": "This 50 g sunscreen carries SPF 60 and PA++++ labels and is fragrance-free. The brand lists Tinosorb S, Uvinul A Plus, Uvinul T 150 and titanium dioxide, with silymarin as a named additional ingredient. It costs more than the comparable 50 g SPF 50 choices in this edit.",
+      "limitation": "No matte finish or superior real-world protection over the other correctly used products was established by this research.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>This 50 g sunscreen carries SPF 60 and PA++++ labels and is fragrance-free. The brand lists Tinosorb S, Uvinul A Plus, Uvinul T 150 and titanium dioxide, with silymarin as a named additional ingredient. It costs more than the comparable 50 g SPF 50 choices in this edit.</p><p>Consider it if you specifically want this protection label and formulation rather than the lowest price or a verified matte finish. Do not pay extra expecting silymarin to treat a skin problem: the product is a sunscreen and the brand&#x27;s antioxidant story does not establish an individual result. Correct application still matters; the number 60 is not permission to apply less or reapply less often.</p><h2>The trade-off</h2><p>No matte finish or superior real-world protection over the other correctly used products was established by this research.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beminimalist.co/products/spf-60-silymarin\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-green-tea-zinc-spf-50",
     "title": "Plum Green Tea & Zinc SPF 50 Gel",
-    "excerpt": "A source-labeled fragrance-free sunscreen gel with a matte finish.",
-    "description": "A source-labeled fragrance-free sunscreen gel with a matte finish.",
+    "excerpt": "First shortlist for a matte preference. The matte and non-comedogenic claims are manufacturer claims, not an independent test or a guarantee against breakouts.",
+    "description": "First shortlist for a matte preference. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "skincare",
       "type": "sunscreen",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy",
       "retailer": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy",
       "variants": [
@@ -149,14 +150,14 @@
           "label": "50 g",
           "price": 359.0,
           "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805614140",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "30 g",
           "price": 239.0,
           "source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805646908",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -166,24 +167,24 @@
         "uva-rating": "PA++++",
         "finish": "matte"
       },
-      "summary": "A source-labeled fragrance-free sunscreen gel with a matte finish.",
-      "strength": "The brand identifies a matte finish and SPF 50 PA++++, useful facts when building an oily-skin shortlist.",
-      "limitation": "Matte and non-comedogenic claims do not guarantee comfort or prevent every breakout. We have not tested the finish.",
+      "summary": "First shortlist for a matte preference.",
+      "strength": "The strongest match to this guide's oily-skin finish criterion is the brand-labelled super-matte gel. Plum identifies SPF 50 PA++++, fragrance-free status, green tea and zinc. The 50 g price matches Minimalist SPF 50's 50 g price at this check, making finish preference a more useful distinction than the ingredient story alone.",
+      "limitation": "The matte and non-comedogenic claims are manufacturer claims, not an independent test or a guarantee against breakouts.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>The strongest match to this guide&#x27;s oily-skin finish criterion is the brand-labelled super-matte gel. Plum identifies SPF 50 PA++++, fragrance-free status, green tea and zinc. The 50 g price matches Minimalist SPF 50&#x27;s 50 g price at this check, making finish preference a more useful distinction than the ingredient story alone.</p><p>Choose this first for investigation if shine is what makes you abandon sunscreen. A 30 g option lowers the initial spend. The brand describes non-sticky application and no white cast; check its current ingredient list and try the texture yourself before buying a large supply. Neither green tea nor zinc in this sunscreen is a reason to replace an acne treatment.</p><h2>The trade-off</h2><p>The matte and non-comedogenic claims are manufacturer claims, not an independent test or a guarantee against breakouts.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-rice-water-spf-50",
     "title": "Plum 2% Niacinamide & Rice Water SPF 50",
-    "excerpt": "A hybrid sunscreen with 30 g, 50 g and 80 g variants to compare.",
-    "description": "A hybrid sunscreen with 30 g, 50 g and 80 g variants to compare.",
+    "excerpt": "For a dewy finish and pack value. Dewy finish may conflict with shine control. A brand water-resistance claim does not change the need to reapply after swimming or sweating.",
+    "description": "For a dewy finish and pack value. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "skincare",
       "type": "sunscreen",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan",
       "retailer": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan",
       "variants": [
@@ -191,21 +192,21 @@
           "label": "80 g",
           "price": 504.0,
           "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989782076",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "50 g",
           "price": 336.0,
           "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989749308",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "30 g",
           "price": 239.0,
           "source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=45687389519932",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -214,24 +215,24 @@
         "spf": "50",
         "uva-rating": "PA++++"
       },
-      "summary": "A hybrid sunscreen with 30 g, 50 g and 80 g variants to compare.",
-      "strength": "The manufacturer identifies SPF 50 PA++++ and fragrance-free formulation.",
-      "limitation": "Niacinamide in the name is not a promise of results. Finish and suitability remain individual.",
+      "summary": "For a dewy finish and pack value.",
+      "strength": "Plum describes this 2% niacinamide and rice-water SPF 50 PA++++ sunscreen as dewy rather than matte. It lists fragrance-free status and a four-hour water-resistance claim. The three checked sizes let you distinguish a small trial pack from the lower per-gram cost of the 80 g pack.",
+      "limitation": "Dewy finish may conflict with shine control. A brand water-resistance claim does not change the need to reapply after swimming or sweating.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Plum describes this 2% niacinamide and rice-water SPF 50 PA++++ sunscreen as dewy rather than matte. It lists fragrance-free status and a four-hour water-resistance claim. The three checked sizes let you distinguish a small trial pack from the lower per-gram cost of the 80 g pack.</p><p>This is a preference alternative, not our first pick for someone asking specifically for a matte appearance. Keep the untinted 2% product separate from Plum&#x27;s 3% tinted sunscreen. The legitimately reusable photograph on Glowwise shows the 50 g outer carton only; it is not a photograph of the 30 g or 80 g pack. Use the variant selector to see the exact pictured pack.</p><h2>The trade-off</h2><p>Dewy finish may conflict with shine control. A brand water-resistance claim does not change the need to reapply after swimming or sweating.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-sheer-tinted-spf-50",
     "title": "Plum 3% Niacinamide Sheer-Tinted SPF 50",
-    "excerpt": "A 50 g tinted sunscreen option, with tint suitability to check in person.",
-    "description": "A 50 g tinted sunscreen option, with tint suitability to check in person.",
+    "excerpt": "For sheer tint, after checking the shade. Tint suitability and finish were not personally tested. The 3% label does not establish better sunscreen protection than the 2% untinted product.",
+    "description": "For sheer tint, after checking the shade. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "skincare",
       "type": "sunscreen",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g",
       "retailer": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g",
       "variants": [
@@ -239,7 +240,7 @@
           "label": "50 g",
           "price": 499.0,
           "source": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g?variant=43525413929020",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -248,24 +249,24 @@
         "spf": "50",
         "tint": "Manufacturer describes sheer tint"
       },
-      "summary": "A 50 g tinted sunscreen option, with tint suitability to check in person.",
-      "strength": "Tint is a practical difference from untinted sunscreen when comparing preferences.",
-      "limitation": "A single tint may not suit every skin tone. Glowwise has not tested coverage or color matching.",
+      "summary": "For sheer tint, after checking the shade.",
+      "strength": "This is the separate 3% niacinamide and rice-water sheer-tinted SPF 50 PA++++ formulation in a 50 g pack. Its useful distinction is a light tint and sheer coverage, not simply a higher niacinamide number. Plum describes the tint as fitting many Indian skin tones; that is a brand description rather than a universal shade match.",
+      "limitation": "Tint suitability and finish were not personally tested. The 3% label does not establish better sunscreen protection than the 2% untinted product.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>This is the separate 3% niacinamide and rice-water sheer-tinted SPF 50 PA++++ formulation in a 50 g pack. Its useful distinction is a light tint and sheer coverage, not simply a higher niacinamide number. Plum describes the tint as fitting many Indian skin tones; that is a brand description rather than a universal shade match.</p><p>Investigate it when you want some visible tone coverage alongside a protection label. It sits below untinted choices for a general oily-skin shortlist because shade fit adds another decision. A photograph or a brand&#x27;s shade claim cannot predict your match; inspect the current swatches and try a sample if one is legitimately available. Do not reduce the amount applied to make the tint subtler.</p><h2>The trade-off</h2><p>Tint suitability and finish were not personally tested. The 3% label does not establish better sunscreen protection than the 2% untinted product.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "minimalist-b12-oat-cleanser",
     "title": "Minimalist B12 + Oat Extract 6.5% Cleanser",
-    "excerpt": "A fragrance-free, low-foaming cleanser in a checked 120 ml pack.",
-    "description": "A fragrance-free, low-foaming cleanser in a checked 120 ml pack.",
+    "excerpt": "First investigation for low-foam cleansing. Fragrance-free and gentle labels cannot guarantee tolerance or establish treatment for an impaired skin barrier.",
+    "description": "First investigation for low-foam cleansing. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Minimalist",
       "category": "skincare",
       "type": "face-cleanser",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser",
       "retailer": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser",
       "variants": [
@@ -273,7 +274,7 @@
           "label": "120ml",
           "price": 269.0,
           "source": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser?variant=45220519280801",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -282,24 +283,24 @@
         "texture": "Low-foaming gel cream, manufacturer description",
         "ph": "5.5–6.5"
       },
-      "summary": "A fragrance-free, low-foaming cleanser in a checked 120 ml pack.",
-      "strength": "The manufacturer explicitly describes a low-foaming format and fragrance-free formulation.",
-      "limitation": "Sensitive skin can still react to a fragrance-free formula. The old URL says 6%; the current product name says 6.5%.",
+      "summary": "First investigation for low-foam cleansing.",
+      "strength": "Minimalist's B12 + Oat Extract 6.5% Gentle Cleanser is a creamy gel with a low-lather description, fragrance-free label and published pH range of 5.5–6.5. Its oat-based cleansing description is more directly relevant to a simple sensitive-skin routine than an exfoliating-acid promise.",
+      "limitation": "Fragrance-free and gentle labels cannot guarantee tolerance or establish treatment for an impaired skin barrier.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Minimalist&#x27;s B12 + Oat Extract 6.5% Gentle Cleanser is a creamy gel with a low-lather description, fragrance-free label and published pH range of 5.5–6.5. Its oat-based cleansing description is more directly relevant to a simple sensitive-skin routine than an exfoliating-acid promise.</p><p>At the same checked item price as Aquaporin, this gives 120 ml rather than 100 ml, although volume alone cannot establish how long either bottle lasts. Choose it for a low-foam preference and inspect the complete ingredient list for your known sensitivities. The legacy source URL says oat-extract-06, while the current page names 6.5%; Glowwise follows the current label without creating a duplicate record.</p><h2>The trade-off</h2><p>Fragrance-free and gentle labels cannot guarantee tolerance or establish treatment for an impaired skin barrier.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beminimalist.co/products/oat-extract-06-gentle-cleanser\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "minimalist-aquaporin-cleanser",
     "title": "Minimalist Aquaporin Booster 5% Cleanser",
-    "excerpt": "A source-labeled fragrance-free daily cleanser in a 100 ml pack.",
-    "description": "A source-labeled fragrance-free daily cleanser in a 100 ml pack.",
+    "excerpt": "For a mild foaming preference. A foaming format is a preference, not evidence of deeper cleaning or better tolerance. No comparative sensitive-skin trial was reviewed.",
+    "description": "For a mild foaming preference. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Minimalist",
       "category": "skincare",
       "type": "face-cleanser",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beminimalist.co/products/aquaporin-booster-05-cleanser",
       "retailer": "https://beminimalist.co/products/aquaporin-booster-05-cleanser",
       "variants": [
@@ -307,7 +308,7 @@
           "label": "100 ml",
           "price": 269.0,
           "source": "https://beminimalist.co/products/aquaporin-booster-05-cleanser?variant=41870498136225",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -315,24 +316,24 @@
         "fragrance-free": "yes",
         "ph": "5.5"
       },
-      "summary": "A source-labeled fragrance-free daily cleanser in a 100 ml pack.",
-      "strength": "The labeled pH of 5.5 and fragrance-free claim are useful for comparing the same product type.",
-      "limitation": "Hydration language is the manufacturer’s claim. Personal tolerance and makeup removal have not been tested.",
+      "summary": "For a mild foaming preference.",
+      "strength": "Aquaporin Booster 5% is the alternative for someone who prefers a mild foaming cleanser. Minimalist lists a pH of 5.5, fragrance-free status and a hydration-focused formula with glyceryl glucoside and glycerin. The word aquaporin describes the manufacturer's formulation story; Glowwise has not measured moisture transport in skin.",
+      "limitation": "A foaming format is a preference, not evidence of deeper cleaning or better tolerance. No comparative sensitive-skin trial was reviewed.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Aquaporin Booster 5% is the alternative for someone who prefers a mild foaming cleanser. Minimalist lists a pH of 5.5, fragrance-free status and a hydration-focused formula with glyceryl glucoside and glycerin. The word aquaporin describes the manufacturer&#x27;s formulation story; Glowwise has not measured moisture transport in skin.</p><p>The 100 ml bottle costs the same as the oat cleanser&#x27;s 120 ml bottle at this check, so the reason to prefer it is the cleansing format rather than pack value. Use your existing experience with foam, rinsing and post-wash tightness as a practical decision aid. Keep the rest of your routine stable when evaluating a new cleanser so you are not changing several products at once.</p><h2>The trade-off</h2><p>A foaming format is a preference, not evidence of deeper cleaning or better tolerance. No comparative sensitive-skin trial was reviewed.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beminimalist.co/products/aquaporin-booster-05-cleanser\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "minimalist-salicylic-lha-cleanser",
     "title": "Minimalist Salicylic Acid + LHA 2% Cleanser",
-    "excerpt": "An active cleanser with salicylic acid and LHA identified in the product name.",
-    "description": "An active cleanser with salicylic acid and LHA identified in the product name.",
+    "excerpt": "Conditional option for a separate exfoliation need. An exfoliating formula adds an active ingredient decision. It is not interchangeable with the low-foam oat cleanser.",
+    "description": "Conditional option for a separate exfoliation need. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Minimalist",
       "category": "skincare",
       "type": "face-cleanser",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser",
       "retailer": "https://beminimalist.co/products/salicylic-lha-2-cleanser",
       "variants": [
@@ -340,14 +341,14 @@
           "label": "100ml",
           "price": 269.0,
           "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351136929",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "250ml",
           "price": 539.0,
           "source": "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351169697",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -355,24 +356,24 @@
         "fragrance-free": "unknown",
         "active-description": "Salicylic acid + LHA 2%, as named by the manufacturer"
       },
-      "summary": "An active cleanser with salicylic acid and LHA identified in the product name.",
-      "strength": "The active-cleanser format distinguishes it from the simple-cleansing shortlist.",
-      "limitation": "An exfoliating cleanser is not our default suggestion for sensitive or already irritated skin. Consult a qualified clinician for treatment questions.",
+      "summary": "Conditional option for a separate exfoliation need.",
+      "strength": "This fragrance-free cleanser combines salicylic acid and LHA under a 2% product label, with a published pH range of 4.5–5.5. It belongs in the comparison to show why a familiar brand and a low price do not make every cleanser the same kind of choice.",
+      "limitation": "An exfoliating formula adds an active ingredient decision. It is not interchangeable with the low-foam oat cleanser.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>This fragrance-free cleanser combines salicylic acid and LHA under a 2% product label, with a published pH range of 4.5–5.5. It belongs in the comparison to show why a familiar brand and a low price do not make every cleanser the same kind of choice.</p><p>It is not our default recommendation for a reader whose main concern is sensitivity or stinging. Consider an exfoliating cleanser only for a distinct reason, taking account of products you already use and advice for any diagnosed condition. The 100 ml and 250 ml variants have different upfront costs. Do not treat the combined 2% label as a verified 2% concentration for each individual acid.</p><h2>The trade-off</h2><p>An exfoliating formula adds an active ingredient decision. It is not interchangeable with the low-foam oat cleanser.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beminimalist.co/products/salicylic-lha-2-cleanser\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-rice-water-face-wash",
     "title": "Plum 2% Niacinamide & Rice Water Face Wash",
-    "excerpt": "A face-wash option with checked 100 ml and 150 ml packs.",
-    "description": "A face-wash option with checked 100 ml and 150 ml packs.",
+    "excerpt": "Conditional niacinamide cleanser alternative. The brand's user-study and brightening claims do not establish individual tolerance or a leave-on treatment result.",
+    "description": "Conditional niacinamide cleanser alternative. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "skincare",
       "type": "face-cleanser",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash",
       "retailer": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash",
       "variants": [
@@ -380,14 +381,14 @@
           "label": "150 ml",
           "price": 316.0,
           "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248296508",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "100 ml",
           "price": 252.0,
           "source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248329276",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -395,24 +396,24 @@
         "fragrance-free": "unknown",
         "named-ingredient": "Niacinamide 2%, manufacturer product name"
       },
-      "summary": "A face-wash option with checked 100 ml and 150 ml packs.",
-      "strength": "Explicit pack variants support a useful price comparison without treating the larger bottle as the entry price.",
-      "limitation": "Brightening language is a manufacturer claim. Fragrance-free status was not verified for this record.",
+      "summary": "Conditional niacinamide cleanser alternative.",
+      "strength": "Plum's 2% niacinamide and rice-water face wash uses a sulphate-free label and is sold in identified 100 ml and 150 ml packs. Its published ingredient information also names cleansing agents and humectants. That gives a real formulation to investigate, rather than relying only on brightening language.",
+      "limitation": "The brand's user-study and brightening claims do not establish individual tolerance or a leave-on treatment result.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Plum&#x27;s 2% niacinamide and rice-water face wash uses a sulphate-free label and is sold in identified 100 ml and 150 ml packs. Its published ingredient information also names cleansing agents and humectants. That gives a real formulation to investigate, rather than relying only on brightening language.</p><p>We keep it as a comparison alternative, below the two explicitly fragrance-free Minimalist choices for this particular guide. Fragrance-free status was not established by our check, so it does not pass that filter. The product is rinsed off: a named niacinamide concentration is not proof that the cleanser will reproduce results from a leave-on product. Review the current full label rather than assuming every rice-water formula is identical.</p><h2>The trade-off</h2><p>The brand&#x27;s user-study and brightening claims do not establish individual tolerance or a leave-on treatment result.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "minimalist-hydrating-factors-shampoo",
     "title": "Minimalist Hydrating Factors 7.3% Shampoo",
-    "excerpt": "A 250 ml shampoo positioned by the manufacturer for dry and frizzy hair.",
-    "description": "A 250 ml shampoo positioned by the manufacturer for dry and frizzy hair.",
+    "excerpt": "First choice to investigate for fragrance-free washing. We have not measured frizz reduction or compared combing performance. The 7.3% name is not a percentage improvement in hair condition.",
+    "description": "First choice to investigate for fragrance-free washing. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Minimalist",
       "category": "haircare",
       "type": "shampoo",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo",
       "retailer": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo",
       "variants": [
@@ -420,32 +421,34 @@
           "label": "250 ml",
           "price": 449.0,
           "source": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo?variant=45928068317345",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
       "attributes": {
-        "fragrance-free": "unknown",
-        "named-ingredients": "Glycerin, betaine and sodium hyaluronate in manufacturer description"
+        "fragrance-free": "yes",
+        "named-ingredients": "Glycerin, betaine, sodium hyaluronate and tamarind extract",
+        "sulphate-free": "yes",
+        "ph": "5.0–6.0 (manufacturer)"
       },
-      "summary": "A 250 ml shampoo positioned by the manufacturer for dry and frizzy hair.",
-      "strength": "The source names humectants including glycerin and betaine, rather than relying only on a smoothing slogan.",
-      "limitation": "A rinse-off shampoo does not replace conditioning. We have not measured frizz reduction or compared hair types.",
+      "summary": "First choice to investigate for fragrance-free washing.",
+      "strength": "Hydrating Factors 7.3% directly targets dry and frizzy hair in the manufacturer's description. The 250 ml shampoo names glycerin, betaine, sodium hyaluronate and tamarind extract, and carries fragrance-free and sulphate-free labels with pH 5.0–6.0. Those are more relevant here than an unverified promise of new hair growth.",
+      "limitation": "We have not measured frizz reduction or compared combing performance. The 7.3% name is not a percentage improvement in hair condition.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Hydrating Factors 7.3% directly targets dry and frizzy hair in the manufacturer&#x27;s description. The 250 ml shampoo names glycerin, betaine, sodium hyaluronate and tamarind extract, and carries fragrance-free and sulphate-free labels with pH 5.0–6.0. Those are more relevant here than an unverified promise of new hair growth.</p><p>It leads our shortlist for its clear fit to the guide and documented fragrance-free status, despite costing more per 100 ml than the two Plum conditioning-oriented options. Choose it when avoiding added fragrance is worth that premium. A rinse-off shampoo cannot do the whole job of a conditioner; judge your complete wash routine, not just whether the shampoo label uses the word hydration.</p><h2>The trade-off</h2><p>We have not measured frizz reduction or compared combing performance. The 7.3% name is not a percentage improvement in hair condition.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "minimalist-maleic-shampoo",
     "title": "Minimalist Maleic Bond Repair Complex 3.5% Shampoo",
-    "excerpt": "A shampoo with 100 ml and 250 ml packs, marketed for damaged hair.",
-    "description": "A shampoo with 100 ml and 250 ml packs, marketed for damaged hair.",
+    "excerpt": "For a damage-focused routine. Bond-repair and reduced-breakage claims are attributed to Minimalist. No independent head-to-head trial or personal wash test supports a stronger ranking.",
+    "description": "For a damage-focused routine. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Minimalist",
       "category": "haircare",
       "type": "shampoo",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo",
       "retailer": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo",
       "variants": [
@@ -453,14 +456,14 @@
           "label": "100 ml",
           "price": 198.0,
           "source": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo?variant=46445505675425",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "250 ml",
           "price": 473.0,
           "source": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo?variant=46445505708193",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -468,24 +471,24 @@
         "fragrance-free": "unknown",
         "formula-positioning": "Maleic Bond Repair Complex 3.5%, manufacturer naming"
       },
-      "summary": "A shampoo with 100 ml and 250 ml packs, marketed for damaged hair.",
-      "strength": "A smaller checked pack provides a lower-cost way to consider the format before buying more.",
-      "limitation": "Bond-repair wording is a manufacturer claim, not a structural repair result verified by Glowwise.",
+      "summary": "For a damage-focused routine.",
+      "strength": "Maleic Bond Repair Complex 3.5% is a different brief from simply cleansing a dry scalp. The brand names maleic acid, transglutaminase and amino acids, alongside ceramide and vitamins B5 and E, and describes a sulphate-free bond-repair shampoo. Both 100 ml and 250 ml packs were listed for purchase.",
+      "limitation": "Bond-repair and reduced-breakage claims are attributed to Minimalist. No independent head-to-head trial or personal wash test supports a stronger ranking.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Maleic Bond Repair Complex 3.5% is a different brief from simply cleansing a dry scalp. The brand names maleic acid, transglutaminase and amino acids, alongside ceramide and vitamins B5 and E, and describes a sulphate-free bond-repair shampoo. Both 100 ml and 250 ml packs were listed for purchase.</p><p>Investigate it if your concern is damage from an existing styling or colouring routine and you want to compare the brand&#x27;s repair system. The 100 ml pack lowers the first purchase; the 250 ml pack has a lower checked cost per 100 ml. Read the instructions for the specific shampoo, rather than treating it as interchangeable with other products in the same Maleic range.</p><h2>The trade-off</h2><p>Bond-repair and reduced-breakage claims are attributed to Minimalist. No independent head-to-head trial or personal wash test supports a stronger ranking.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-coconut-peptides-shampoo",
     "title": "Plum Coconut Milk & Peptides Shampoo",
-    "excerpt": "A shampoo offered in clearly identified 250 ml, 500 ml and 750 ml packs.",
-    "description": "A shampoo offered in clearly identified 250 ml, 500 ml and 750 ml packs.",
+    "excerpt": "Budget pack for a conditioning-oriented wash. Softness, shine and peptide benefits are brand claims. A bigger discounted bottle is not evidence of better results.",
+    "description": "Budget pack for a conditioning-oriented wash. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "haircare",
       "type": "shampoo",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo",
       "retailer": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo",
       "variants": [
@@ -493,21 +496,21 @@
           "label": "250 ml",
           "price": 276.0,
           "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=42231068786748",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "500 ml",
           "price": 464.0,
           "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45773539901500",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "750 ml",
           "price": 645.0,
           "source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45715828604988",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -515,24 +518,24 @@
         "fragrance-free": "unknown",
         "named-ingredients": "Coconut milk and peptides, manufacturer naming"
       },
-      "summary": "A shampoo offered in clearly identified 250 ml, 500 ml and 750 ml packs.",
-      "strength": "Multiple single-bottle sizes make both total cost and cost per volume visible.",
-      "limitation": "Softness and shine are manufacturer positioning. Do not infer hair-growth effects from the word peptides.",
+      "summary": "Budget pack for a conditioning-oriented wash.",
+      "strength": "Coconut Milk & Peptides Strength & Shine is the lowest checked price per 100 ml among the 250 ml packs in this shortlist. Plum positions it around softness, strength and shine. Its practical distinction is the range of 250, 500 and 750 ml packs, not proof that peptides in this rinse-off formula repair every type of damage.",
+      "limitation": "Softness, shine and peptide benefits are brand claims. A bigger discounted bottle is not evidence of better results.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Coconut Milk &amp; Peptides Strength &amp; Shine is the lowest checked price per 100 ml among the 250 ml packs in this shortlist. Plum positions it around softness, strength and shine. Its practical distinction is the range of 250, 500 and 750 ml packs, not proof that peptides in this rinse-off formula repair every type of damage.</p><p>The 250 ml pack is the sensible entry point if you have not used the formula. Larger bottles reduce unit cost but only save money if you will use them. This is ranked ahead of Avocado &amp; Argan on checked value; choose the latter instead if its published frizz-control formulation is your closer preference. Fragrance-free status was not verified for Coconut &amp; Peptides in this pass.</p><h2>The trade-off</h2><p>Softness, shine and peptide benefits are brand claims. A bigger discounted bottle is not evidence of better results.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-avocado-argan-shampoo",
     "title": "Plum Avocado & Argan Frizz Control Shampoo",
-    "excerpt": "A 250 ml shampoo marketed around frizz control and conditioning ingredients.",
-    "description": "A 250 ml shampoo marketed around frizz control and conditioning ingredients.",
+    "excerpt": "For an oil-containing, frizz-focused formula. Fragrance is present. Curl-friendly and frizz-control wording does not establish results for every curl pattern or hair condition.",
+    "description": "For an oil-containing, frizz-focused formula. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "haircare",
       "type": "shampoo",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy",
       "retailer": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy",
       "variants": [
@@ -540,32 +543,34 @@
           "label": "250 ml",
           "price": 356.0,
           "source": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy?variant=41623335829564",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
       "attributes": {
-        "fragrance-free": "unknown",
-        "formula-positioning": "Avocado & argan, manufacturer naming"
+        "fragrance-free": "no",
+        "formula-positioning": "Avocado & argan, manufacturer naming",
+        "sulphate-free": "yes",
+        "named-ingredients": "Avocado oil, argan oil, aloe vera, glycerin; published list includes fragrance"
       },
-      "summary": "A 250 ml shampoo marketed around frizz control and conditioning ingredients.",
-      "strength": "The named avocado-and-argan positioning gives you a distinct formula family to investigate.",
-      "limitation": "The manufacturer’s frizz-control claim is not an independent result. Conditioning and handling still matter.",
+      "summary": "For an oil-containing, frizz-focused formula.",
+      "strength": "Plum's Avocado & Argan Frizz Control shampoo names avocado oil, argan oil and aloe vera, with glycerin and conditioning polymers in its published ingredient list. It is labelled sulphate-free and the list includes fragrance. The checked 250 ml pack costs more than Coconut & Peptides but less than Minimalist Hydrating Factors.",
+      "limitation": "Fragrance is present. Curl-friendly and frizz-control wording does not establish results for every curl pattern or hair condition.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Plum&#x27;s Avocado &amp; Argan Frizz Control shampoo names avocado oil, argan oil and aloe vera, with glycerin and conditioning polymers in its published ingredient list. It is labelled sulphate-free and the list includes fragrance. The checked 250 ml pack costs more than Coconut &amp; Peptides but less than Minimalist Hydrating Factors.</p><p>This is the preference-led alternative when the published oil and conditioning formula is more useful to you than the cheapest pack. It is not our fragrance-free recommendation. Do not read the presence of argan oil as proof that the finished shampoo behaves like a leave-in oil. Consider the conditioner you pair it with and the amount of heat styling in your routine before expecting one wash product to resolve frizz.</p><h2>The trade-off</h2><p>Fragrance is present. Curl-friendly and frizz-control wording does not establish results for every curl pattern or hair condition.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-anti-dandruff-shampoo",
     "title": "Plum Anti-Dandruff Shampoo with 0.5% Salicylic Acid",
-    "excerpt": "An active scalp shampoo, separate from our ordinary dry-hair shortlist.",
-    "description": "An active scalp shampoo, separate from our ordinary dry-hair shortlist.",
+    "excerpt": "Conditional option when scalp flakes matter too. This is not a diagnosis or a guarantee of dandruff treatment. Its scalp-active formula serves a different preference from a fragrance-free hydrating wash.",
+    "description": "Conditional option when scalp flakes matter too. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "haircare",
       "type": "shampoo",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid",
       "retailer": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid",
       "variants": [
@@ -573,21 +578,21 @@
           "label": "500 ml",
           "price": 679.0,
           "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585269820",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "250 ml",
           "price": 319.0,
           "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585302588",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "100 ml",
           "price": 176.0,
           "source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585335356",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -595,24 +600,24 @@
         "fragrance-free": "unknown",
         "active-description": "0.5% salicylic acid, manufacturer product name"
       },
-      "summary": "An active scalp shampoo, separate from our ordinary dry-hair shortlist.",
-      "strength": "The named 0.5% salicylic-acid formula is a clearly different selection from a conditioning shampoo.",
-      "limitation": "Persistent scalp symptoms deserve qualified advice. This record is not a diagnosis or a treatment plan.",
+      "summary": "Conditional option when scalp flakes matter too.",
+      "strength": "This is a scalp-focused shampoo with a labelled 0.5% salicylic acid concentration and piroctone olamine named by Plum. It should not be presented as just another moisturising wash. The 100 ml pack is a low-cost way to investigate the formula; 250 ml and 500 ml packs were also listed.",
+      "limitation": "This is not a diagnosis or a guarantee of dandruff treatment. Its scalp-active formula serves a different preference from a fragrance-free hydrating wash.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>This is a scalp-focused shampoo with a labelled 0.5% salicylic acid concentration and piroctone olamine named by Plum. It should not be presented as just another moisturising wash. The 100 ml pack is a low-cost way to investigate the formula; 250 ml and 500 ml packs were also listed.</p><p>It appears below the four dry-hair-focused choices because a scalp concern changes the brief. Consider it when you also need to investigate flakes or buildup, following the product instructions and seeking qualified advice if symptoms persist. The brand&#x27;s 72-hour dandruff and frizz language is not a Glowwise measurement. Do not buy the largest pack merely because a small bottle is inexpensive; compare the actual unit prices first.</p><h2>The trade-off</h2><p>This is not a diagnosis or a guarantee of dandruff treatment. Its scalp-active formula serves a different preference from a fragrance-free hydrating wash.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "beardo-no-nonsense-shampoo",
     "title": "Beardo No Nonsense Shampoo",
-    "excerpt": "An identified 200 ml everyday shampoo option from Beardo.",
-    "description": "An identified 200 ml everyday shampoo option from Beardo.",
+    "excerpt": "Basic cleansing alternative. Basic cleansing claims do not substantiate frizz control. Unknown formulation attributes stay unknown in the finder.",
+    "description": "Basic cleansing alternative. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Beardo",
       "category": "haircare",
       "type": "shampoo",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml",
       "retailer": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml",
       "variants": [
@@ -620,31 +625,31 @@
           "label": "200ml",
           "price": 299.0,
           "source": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml?variant=48678720536884",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
       "attributes": {
         "fragrance-free": "unknown"
       },
-      "summary": "An identified 200 ml everyday shampoo option from Beardo.",
-      "strength": "Its straightforward pack size makes it a comparable catalog entry alongside other shampoos.",
-      "limitation": "We have not verified a sensitive-scalp, fragrance-free or frizz-control claim for this record.",
+      "summary": "Basic cleansing alternative.",
+      "strength": "No Nonsense is Beardo's 200 ml daily-use shampoo, positioned by the brand around removing sweat, oil and dirt. Its checked price sits between the small Plum anti-dandruff pack and the 250 ml conditioning-oriented options, but pack sizes differ. We did not verify a specific hydrating-active concentration, fragrance-free label or pH.",
+      "limitation": "Basic cleansing claims do not substantiate frizz control. Unknown formulation attributes stay unknown in the finder.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>No Nonsense is Beardo&#x27;s 200 ml daily-use shampoo, positioned by the brand around removing sweat, oil and dirt. Its checked price sits between the small Plum anti-dandruff pack and the 250 ml conditioning-oriented options, but pack sizes differ. We did not verify a specific hydrating-active concentration, fragrance-free label or pH.</p><p>Keep this as the simple cleansing alternative if your immediate need is a straightforward shampoo rather than a damage-repair or scalp-active system. It ranks last for this dry/frizzy-hair guide because the evidence for that particular purpose is less specific. Men&#x27;s positioning does not establish that the formula works only for men, and it is not a reason to ignore your own hair and scalp preferences.</p><h2>The trade-off</h2><p>Basic cleansing claims do not substantiate frizz control. Unknown formulation attributes stay unknown in the finder.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beardo.in/products/beardo-no-nonsense-shampoo-200ml\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "minimalist-niacinamide-body-lotion",
     "title": "Minimalist Niacinamide 5% Body Lotion",
-    "excerpt": "A 180 g body lotion with niacinamide and glycerin named by the manufacturer.",
-    "description": "A 180 g body lotion with niacinamide and glycerin named by the manufacturer.",
+    "excerpt": "First investigation for fragrance-free body care. Not a treatment for eczema or persistent dryness. No comparative hydration-duration or tolerance testing was performed.",
+    "description": "First investigation for fragrance-free body care. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Minimalist",
       "category": "bodycare",
       "type": "body-lotion",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beminimalist.co/products/niacinamide-05-body-lotion",
       "retailer": "https://beminimalist.co/products/niacinamide-05-body-lotion",
       "variants": [
@@ -652,7 +657,7 @@
           "label": "180 g",
           "price": 269.0,
           "source": "https://beminimalist.co/products/niacinamide-05-body-lotion?variant=41824805519521",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -660,24 +665,24 @@
         "fragrance-free": "yes",
         "named-ingredients": "Niacinamide and glycerin, manufacturer description"
       },
-      "summary": "A 180 g body lotion with niacinamide and glycerin named by the manufacturer.",
-      "strength": "The weight-based pack is explicitly recorded so it is not incorrectly compared as 180 ml.",
-      "limitation": "A lotion may be insufficient for very dry areas. Fragrance tolerance and formula changes still need a label check.",
+      "summary": "First investigation for fragrance-free body care.",
+      "strength": "Minimalist lists 5% niacinamide, glycerin and shea butter in this 180 g body lotion, with a fragrance-free label and pH 5.0–6.0. It is the only explicitly fragrance-free choice in this six-product edit, which is a more useful reason for its first position than a brightening promise.",
+      "limitation": "Not a treatment for eczema or persistent dryness. No comparative hydration-duration or tolerance testing was performed.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Minimalist lists 5% niacinamide, glycerin and shea butter in this 180 g body lotion, with a fragrance-free label and pH 5.0–6.0. It is the only explicitly fragrance-free choice in this six-product edit, which is a more useful reason for its first position than a brightening promise.</p><p>Investigate it if you want moisturising care without a perfume-led experience, particularly when added scent is something you already avoid. Its pack is measured in grams, while the Plum lotions are measured in millilitres: those units cannot be converted into a fair volume comparison without density data. The brand describes a lightweight lotion, so consider whether a lotion is enough for your own level of dryness before assuming that one niacinamide concentration makes it the richest option.</p><h2>The trade-off</h2><p>Not a treatment for eczema or persistent dryness. No comparative hydration-duration or tolerance testing was performed.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beminimalist.co/products/niacinamide-05-body-lotion\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-vanilla-caramello-lotion",
     "title": "Plum BodyLovin Vanilla Caramello Lotion",
-    "excerpt": "A scented body lotion in the Vanilla Caramello fragrance family.",
-    "description": "A scented body lotion in the Vanilla Caramello fragrance family.",
+    "excerpt": "Lowest checked cost per ml among the scented lotions. Scented formula; cocoa butter and B5 do not guarantee tolerance. The out-of-stock 200 ml price is a reference, not a current buying promise.",
+    "description": "Lowest checked cost per ml among the scented lotions. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "bodycare",
       "type": "body-lotion",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
       "retailer": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
       "variants": [
@@ -685,14 +690,14 @@
           "label": "400 ml",
           "price": 385.0,
           "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379177532",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         },
         {
           "label": "200 ml",
           "price": 239.0,
           "source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379210300",
-          "availability": "Out of stock at check",
+          "availability": "Out of stock at the source on 10 October 2026; displayed price is a reference",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -700,24 +705,24 @@
         "fragrance-free": "no",
         "scent": "Vanilla Caramello"
       },
-      "summary": "A scented body lotion in the Vanilla Caramello fragrance family.",
-      "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
-      "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+      "summary": "Lowest checked cost per ml among the scented lotions.",
+      "strength": "The 400 ml Vanilla Caramello bottle is the lowest-priced 400 ml scented lotion in this edit. Plum names cocoa butter and vitamin B5 and describes a caramel-vanilla scent. This combines a clearly identified moisturising format with a scent preference rather than an unsupported claim that it outperforms every other lotion.",
+      "limitation": "Scented formula; cocoa butter and B5 do not guarantee tolerance. The out-of-stock 200 ml price is a reference, not a current buying promise.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>The 400 ml Vanilla Caramello bottle is the lowest-priced 400 ml scented lotion in this edit. Plum names cocoa butter and vitamin B5 and describes a caramel-vanilla scent. This combines a clearly identified moisturising format with a scent preference rather than an unsupported claim that it outperforms every other lotion.</p><p>It is our first scented option to investigate if that sweet fragrance appeals to you. The 200 ml pack was sold out at this check, so its lower displayed item price should not be mistaken for an available budget purchase. The larger bottle makes sense only if you enjoy the scent often enough to finish it. Someone who wants no added fragrance should start with the Minimalist record instead.</p><h2>The trade-off</h2><p>Scented formula; cocoa butter and B5 do not guarantee tolerance. The out-of-stock 200 ml price is a reference, not a current buying promise.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-vanilla-vibes-lotion",
     "title": "Plum BodyLovin Vanilla Vibes Lotion",
-    "excerpt": "A scented body lotion in the Vanilla Vibes fragrance family.",
-    "description": "A scented body lotion in the Vanilla Vibes fragrance family.",
+    "excerpt": "For a straightforward sweet-vanilla preference. Added fragrance and the highest checked 400 ml price in this edit. The brand's light-cream description was not verified by a personal texture test.",
+    "description": "For a straightforward sweet-vanilla preference. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "bodycare",
       "type": "body-lotion",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin",
       "retailer": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin",
       "variants": [
@@ -725,7 +730,7 @@
           "label": "400 ml",
           "price": 436.0,
           "source": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin?variant=45560998821948",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -733,24 +738,24 @@
         "fragrance-free": "no",
         "scent": "Vanilla Vibes"
       },
-      "summary": "A scented body lotion in the Vanilla Vibes fragrance family.",
-      "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
-      "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+      "summary": "For a straightforward sweet-vanilla preference.",
+      "strength": "Vanilla Vibes is a 400 ml scented body lotion, with the current brand description centred on warm vanilla and a light cream format. At this check it is the most expensive of these five 400 ml Plum lotions. Its position reflects checked pack cost; it does not mean the scent or texture is inferior.",
+      "limitation": "Added fragrance and the highest checked 400 ml price in this edit. The brand's light-cream description was not verified by a personal texture test.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Vanilla Vibes is a 400 ml scented body lotion, with the current brand description centred on warm vanilla and a light cream format. At this check it is the most expensive of these five 400 ml Plum lotions. Its position reflects checked pack cost; it does not mean the scent or texture is inferior.</p><p>Choose it over Caramello only if you specifically prefer its vanilla direction or already know that this formula fits your routine. The difference in price is modest per application but real at purchase. We do not invent a clinical barrier-repair advantage from that phrase in the brand copy, nor infer that one sweet scent lasts longer than another. For someone unsure about scent, a large 400 ml bottle is a commitment.</p><h2>The trade-off</h2><p>Added fragrance and the highest checked 400 ml price in this edit. The brand&#x27;s light-cream description was not verified by a personal texture test.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-hawaiian-rumba-lotion",
     "title": "Plum BodyLovin Hawaiian Rumba Lotion",
-    "excerpt": "A scented body lotion in the Hawaiian Rumba fragrance family.",
-    "description": "A scented body lotion in the Hawaiian Rumba fragrance family.",
+    "excerpt": "For a fruit-and-floral scent profile. The fragrance pyramid is the manufacturer's description. No independent duration, absorption or dry-skin performance comparison was established.",
+    "description": "For a fruit-and-floral scent profile. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "bodycare",
       "type": "body-lotion",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin",
       "retailer": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin",
       "variants": [
@@ -758,7 +763,7 @@
           "label": "400 ml",
           "price": 420.0,
           "source": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin?variant=45560998789180",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -766,24 +771,24 @@
         "fragrance-free": "no",
         "scent": "Hawaiian Rumba"
       },
-      "summary": "A scented body lotion in the Hawaiian Rumba fragrance family.",
-      "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
-      "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+      "summary": "For a fruit-and-floral scent profile.",
+      "strength": "The current Hawaiian Rumba page describes a gel-cream lotion and a fragrance moving from pear, mandarin and lychee to gardenia, freesia and magnolia, with musk, vanilla and amber in the base. It is distinct from the dessert direction of Caramello and Hazelnut without claiming a different measured hydration result.",
+      "limitation": "The fragrance pyramid is the manufacturer's description. No independent duration, absorption or dry-skin performance comparison was established.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>The current Hawaiian Rumba page describes a gel-cream lotion and a fragrance moving from pear, mandarin and lychee to gardenia, freesia and magnolia, with musk, vanilla and amber in the base. It is distinct from the dessert direction of Caramello and Hazelnut without claiming a different measured hydration result.</p><p>Consider this 400 ml bottle if a fruit-and-floral profile is worth the extra checked cost over Caramello. The product page includes playful scent copy and shared lotion FAQs; we do not interpret its joke percentages as clinical evidence or use the shared FAQs to establish a unique formula. Read the current pack&#x27;s ingredient list when it arrives, particularly if you have known sensitivities.</p><h2>The trade-off</h2><p>The fragrance pyramid is the manufacturer&#x27;s description. No independent duration, absorption or dry-skin performance comparison was established.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-tropic-lotion",
     "title": "Plum BodyLovin Tropic of Discussion Lotion",
-    "excerpt": "A scented body lotion in the Tropic of Discussion fragrance family.",
-    "description": "A scented body lotion in the Tropic of Discussion fragrance family.",
+    "excerpt": "For a tropical gel-cream preference. Firming and tightening language is brand marketing; the guide does not use it as a demonstrated result. Added scent may be unwelcome.",
+    "description": "For a tropical gel-cream preference. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "bodycare",
       "type": "body-lotion",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin",
       "retailer": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin",
       "variants": [
@@ -791,7 +796,7 @@
           "label": "400 ml",
           "price": 396.0,
           "source": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin?variant=44164693491772",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -799,24 +804,24 @@
         "fragrance-free": "no",
         "scent": "Tropic of Discussion"
       },
-      "summary": "A scented body lotion in the Tropic of Discussion fragrance family.",
-      "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
-      "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+      "summary": "For a tropical gel-cream preference.",
+      "strength": "Tropic of Discussion is described by Plum as a lightweight gel-cream body lotion with a tropical fragrance. The brand names hibiscus oil, pea peptide and coconut milk. Its 400 ml checked price ties Hazelnut Eclair's, so the two should be chosen by texture and fragrance preference rather than an invented performance difference.",
+      "limitation": "Firming and tightening language is brand marketing; the guide does not use it as a demonstrated result. Added scent may be unwelcome.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Tropic of Discussion is described by Plum as a lightweight gel-cream body lotion with a tropical fragrance. The brand names hibiscus oil, pea peptide and coconut milk. Its 400 ml checked price ties Hazelnut Eclair&#x27;s, so the two should be chosen by texture and fragrance preference rather than an invented performance difference.</p><p>Consider Tropic if you prefer the brand&#x27;s lighter-format description over a dessert-scented lotion. It comes ahead of Hawaiian Rumba and Vanilla Vibes on checked pack cost, not because a peptide name establishes better moisturising. We did not verify a clinical firming comparison. If your skin feels persistently dry with light lotions, revisit the format you need rather than adding more fragranced products to the same routine.</p><h2>The trade-off</h2><p>Firming and tightening language is brand marketing; the guide does not use it as a demonstrated result. Added scent may be unwelcome.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "plum-hazelnut-lotion",
     "title": "Plum BodyLovin Hazelnut Eclair Lotion",
-    "excerpt": "A scented body lotion in the Hazelnut Eclair fragrance family.",
-    "description": "A scented body lotion in the Hazelnut Eclair fragrance family.",
+    "excerpt": "For a hazelnut-and-vanilla scent preference. No scent-duration or head-to-head hydration result was measured. Choose a fragrance-free option if perfume is not welcome in your body care.",
+    "description": "For a hazelnut-and-vanilla scent preference. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Plum",
       "category": "bodycare",
       "type": "body-lotion",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
       "retailer": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
       "variants": [
@@ -824,7 +829,7 @@
           "label": "400 ml",
           "price": 396.0,
           "source": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin?variant=43540180271164",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -832,24 +837,24 @@
         "fragrance-free": "no",
         "scent": "Hazelnut Eclair"
       },
-      "summary": "A scented body lotion in the Hazelnut Eclair fragrance family.",
-      "strength": "Useful for comparing scent preference and the identified pack price within the same body-lotion type.",
-      "limitation": "A fragranced option is not our first suggestion when fragrance irritates your skin. No lasting scent or moisturization duration was measured.",
+      "summary": "For a hazelnut-and-vanilla scent preference.",
+      "strength": "Hazelnut Eclair is a 400 ml body lotion with cocoa butter and vitamin B5 highlighted by Plum. The brand describes its scent through hazelnut, chocolate and vanilla. Its checked unit price is the same as Tropic of Discussion's, and lower than Hawaiian Rumba and Vanilla Vibes at this check.",
+      "limitation": "No scent-duration or head-to-head hydration result was measured. Choose a fragrance-free option if perfume is not welcome in your body care.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Hazelnut Eclair is a 400 ml body lotion with cocoa butter and vitamin B5 highlighted by Plum. The brand describes its scent through hazelnut, chocolate and vanilla. Its checked unit price is the same as Tropic of Discussion&#x27;s, and lower than Hawaiian Rumba and Vanilla Vibes at this check.</p><p>This is the alternative if dessert-like scent is the reason you would regularly reach for a lotion. It is not ranked as a better skin moisturiser than the cheaper Vanilla Caramello: the verified distinction is the named scent and ingredient description. Treat fragrance as an everyday preference; a lotion&#x27;s scent remains with you differently from a quick shop sniff, and Glowwise has not worn it to report intensity or duration.</p><h2>The trade-off</h2><p>No scent-duration or head-to-head hydration result was measured. Choose a fragrance-free option if perfume is not welcome in your body care.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "beardo-godfather-oil",
     "title": "Beardo Godfather Beard Oil",
-    "excerpt": "A 30 ml beard oil to consider as a conditioning step.",
-    "description": "A 30 ml beard oil to consider as a conditioning step.",
+    "excerpt": "For a fragrant conditioning routine. Fragrance-free status and a complete ingredient concentration breakdown were not verified. Conditioning is not evidence of filling sparse areas.",
+    "description": "For a fragrant conditioning routine. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Beardo",
       "category": "beard-grooming",
       "type": "beard-oil",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beardo.in/products/beardo-godfather-beard-oil",
       "retailer": "https://beardo.in/products/beardo-godfather-beard-oil",
       "variants": [
@@ -857,7 +862,7 @@
           "label": "30ml",
           "price": 299.0,
           "source": "https://beardo.in/products/beardo-godfather-beard-oil?variant=44872228438324",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -865,24 +870,24 @@
         "fragrance-free": "unknown",
         "purpose": "Beard conditioning; no growth result verified"
       },
-      "summary": "A 30 ml beard oil to consider as a conditioning step.",
-      "strength": "Its identified 30 ml pack makes size and item cost easy to compare with another beard oil.",
-      "limitation": "Oil is not a verified beard-growth treatment. Fragrance and individual skin tolerance were not independently assessed.",
+      "summary": "For a fragrant conditioning routine.",
+      "strength": "Godfather is a 30 ml beard oil that Beardo positions around conditioning, shine and a fragrant grooming finish. Its single bottle was listed for purchase at this check. It is a more direct conditioning brief than buying an oil only because the name promises growth.",
+      "limitation": "Fragrance-free status and a complete ingredient concentration breakdown were not verified. Conditioning is not evidence of filling sparse areas.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Godfather is a 30 ml beard oil that Beardo positions around conditioning, shine and a fragrant grooming finish. Its single bottle was listed for purchase at this check. It is a more direct conditioning brief than buying an oil only because the name promises growth.</p><p>Investigate it if keeping a longer beard looking groomed is your actual objective and you welcome added scent. The brand describes non-greasy application, but Glowwise has not worn it to measure residue or fragrance intensity. The single bottle is the comparison unit; a three-pack has a different total quantity and should not be compared with one 30 ml bottle as though the prices were equivalent.</p><h2>The trade-off</h2><p>Fragrance-free status and a complete ingredient concentration breakdown were not verified. Conditioning is not evidence of filling sparse areas.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beardo.in/products/beardo-godfather-beard-oil\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "beardo-beard-hair-oil",
     "title": "Beardo Beard & Hair Growth Oil",
-    "excerpt": "A 50 ml oil whose product name includes a growth claim we have not verified.",
-    "description": "A 50 ml oil whose product name includes a growth claim we have not verified.",
+    "excerpt": "Larger bottle for an established routine. No demonstrated growth result is promised. Full fragrance status and ingredient concentrations remain unverified.",
+    "description": "Larger bottle for an established routine. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Beardo",
       "category": "beard-grooming",
       "type": "beard-oil",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://beardo.in/products/beardo-beard-and-hair-growth-oil",
       "retailer": "https://beardo.in/products/beardo-beard-and-hair-growth-oil",
       "variants": [
@@ -890,7 +895,7 @@
           "label": "50 ml",
           "price": 499.0,
           "source": "https://beardo.in/products/beardo-beard-and-hair-growth-oil?variant=44769418707252",
-          "availability": "Listed for purchase; delivery depends on your location",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Displayed brand-store item price; shipping and conditional coupons excluded"
         }
       ],
@@ -898,24 +903,24 @@
         "fragrance-free": "unknown",
         "purpose": "Oil format; growth claim not independently verified"
       },
-      "summary": "A 50 ml oil whose product name includes a growth claim we have not verified.",
-      "strength": "A larger checked pack offers a size comparison with the 30 ml Godfather oil.",
-      "limitation": "The name is the manufacturer’s branding. Glowwise does not endorse a claim that this oil produces new beard growth.",
+      "summary": "Larger bottle for an established routine.",
+      "strength": "Beardo's Beard & Hair Growth Oil is an identified 50 ml oil, with hibiscus, coconut and amla discussed on the manufacturer's page. The useful comparison here is its larger single-bottle size and checked cost per ml, not the growth language in its name.",
+      "limitation": "No demonstrated growth result is promised. Full fragrance status and ingredient concentrations remain unverified.",
       "sources": []
     },
-    "html": "<p>Compare the identified variant, read its current label and check the retailer’s delivery and returns information before buying. Manufacturer claims are not independent testing by Glowwise.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Beardo&#x27;s Beard &amp; Hair Growth Oil is an identified 50 ml oil, with hibiscus, coconut and amla discussed on the manufacturer&#x27;s page. The useful comparison here is its larger single-bottle size and checked cost per ml, not the growth language in its name.</p><p>It may make sense if you already know that you enjoy an oil routine and want a larger pack. It costs more upfront than Godfather&#x27;s 30 ml, so the larger quantity is not automatically the best first purchase. Treat the manufacturer&#x27;s growth discussion as a claim; we did not find documented testing of these products by Glowwise or a head-to-head beard-density comparison. Follow the product&#x27;s own directions rather than borrowing those of another oil.</p><h2>The trade-off</h2><p>No demonstrated growth result is promised. Full fragrance status and ingredient concentrations remain unverified.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://beardo.in/products/beardo-beard-and-hair-growth-oil\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "skinn-raw-20ml",
     "title": "SKINN Raw Eau de Parfum",
-    "excerpt": "A checked 20 ml eau de parfum from the Raw fragrance family.",
-    "description": "A checked 20 ml eau de parfum from the Raw fragrance family.",
+    "excerpt": "First investigation for a fresh citrus opening. Note pyramids describe the composition, not observed longevity or projection. Glowwise has not worn Raw or compared its performance.",
+    "description": "First investigation for a fresh citrus opening. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "SKINN by Titan",
       "category": "fragrance",
       "type": "eau-de-parfum",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
       "retailer": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
       "variants": [
@@ -923,35 +928,38 @@
           "label": "20 ml",
           "price": 596,
           "source": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
-          "availability": "Listed for purchase; delivery requires a postcode",
+          "availability": "Brand page lists Add to Cart; delivery depends on location",
           "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
         }
       ],
       "attributes": {
         "fragrance-free": "no",
-        "concentration": "Eau de parfum, manufacturer label",
-        "opening-notes": "Bergamot, watery fruits and mandarin; manufacturer opening-note description"
+        "concentration": "EDP (brand label)",
+        "opening-notes": "Bergamot, watery fruits and mandarin; manufacturer opening-note description",
+        "top-notes": "Bergamot, watery fruits, mandarin",
+        "heart-notes": "Violet leaves, pomarose, carnation geranium",
+        "base-notes": "Patchouli, cashmeran, gaiac wood"
       },
-      "summary": "A checked 20 ml eau de parfum from the Raw fragrance family.",
-      "strength": "The identified 20 ml bottle fits the under-₹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
-      "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+      "summary": "First investigation for a fresh citrus opening.",
+      "strength": "The current Raw 20 ml EDP listing names bergamot, watery fruits and mandarin in the opening, followed by violet leaves, pomarose and carnation geranium. The base lists patchouli, cashmeran and gaiac wood. This gives a fresh-fruit entry with a woody base to investigate, rather than a vague promise of smelling expensive.",
+      "limitation": "Note pyramids describe the composition, not observed longevity or projection. Glowwise has not worn Raw or compared its performance.",
       "sources": [
         "https://www.skinn.in/shop/20ml-perfumes"
       ]
     },
-    "html": "<p>The manufacturer markets this fragrance for men, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>The current Raw 20 ml EDP listing names bergamot, watery fruits and mandarin in the opening, followed by violet leaves, pomarose and carnation geranium. The base lists patchouli, cashmeran and gaiac wood. This gives a fresh-fruit entry with a woody base to investigate, rather than a vague promise of smelling expensive.</p><p>Raw leads the available shortlist as a starting point for readers who want a fresh direction; that is a declared editorial preference, not a universal fragrance winner. Its checked price is higher than Celeste, Sheer and Nude at the same 20 ml volume. Sample the development on your skin if possible before selecting it over a floral or sweeter option. The source uses a new nfclm01pd item code; do not substitute Raw Instinct or a deodorant.</p><h2>The trade-off</h2><p>Note pyramids describe the composition, not observed longevity or projection. Glowwise has not worn Raw or compared its performance.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "skinn-steele-20ml",
     "title": "SKINN Steele Eau de Parfum",
-    "excerpt": "A checked 20 ml eau de parfum from the Steele fragrance family.",
-    "description": "A checked 20 ml eau de parfum from the Steele fragrance family.",
+    "excerpt": "For spice and a sweeter base. The richer published structure does not establish greater projection or longer wear. This is Steele EDP, not a similarly named deodorant.",
+    "description": "For spice and a sweeter base. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "SKINN by Titan",
       "category": "fragrance",
       "type": "eau-de-parfum",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
       "retailer": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
       "variants": [
@@ -959,71 +967,77 @@
           "label": "20 ml",
           "price": 596,
           "source": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
-          "availability": "Official-store listing; confirm current stock and delivery",
+          "availability": "Brand page lists Add to Cart; delivery depends on location",
           "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
         }
       ],
       "attributes": {
         "fragrance-free": "no",
-        "concentration": "Eau de parfum, manufacturer label",
-        "opening-notes": "unknown"
+        "concentration": "EDP (brand label)",
+        "opening-notes": "unknown",
+        "top-notes": "Bergamot, pink grapefruit, rhubarb",
+        "heart-notes": "Pink pepper, pimento, nutmeg, geranium",
+        "base-notes": "Musk, vanilla, praline, tonka"
       },
-      "summary": "A checked 20 ml eau de parfum from the Steele fragrance family.",
-      "strength": "The identified 20 ml bottle fits the under-₹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
-      "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+      "summary": "For spice and a sweeter base.",
+      "strength": "Steele offers the clearest shift from the earlier fresh and floral directions. Its published opening lists bergamot, pink grapefruit and rhubarb; the middle includes pink pepper, pimento, nutmeg and geranium. Its base pyramid names musk, vanilla, praline and roasted tonka beans. The checked 20 ml price matches Raw.",
+      "limitation": "The richer published structure does not establish greater projection or longer wear. This is Steele EDP, not a similarly named deodorant.",
       "sources": [
         "https://www.skinn.in/shop/20ml-perfumes"
       ]
     },
-    "html": "<p>The manufacturer markets this fragrance for men, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Steele offers the clearest shift from the earlier fresh and floral directions. Its published opening lists bergamot, pink grapefruit and rhubarb; the middle includes pink pepper, pimento, nutmeg and geranium. Its base pyramid names musk, vanilla, praline and roasted tonka beans. The checked 20 ml price matches Raw.</p><p>Move Steele to the top of your personal shortlist if spice and a sweet base are the reason you want perfume. We place it fifth to keep the broader fresh/floral starting choices together, not because a richer note list is worse. The brand&#x27;s longer description also discusses woody and smoky facets, but Glowwise has not smelled them. Sampling matters especially when you dislike sweet fragrance bases.</p><h2>The trade-off</h2><p>The richer published structure does not establish greater projection or longer wear. This is Steele EDP, not a similarly named deodorant.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "skinn-verge-20ml",
     "title": "SKINN Verge Eau de Parfum",
-    "excerpt": "A checked 20 ml eau de parfum from the Verge fragrance family.",
-    "description": "A checked 20 ml eau de parfum from the Verge fragrance family.",
+    "excerpt": "Herbal alternative; currently unavailable at the brand. No currently purchasable brand-store pack was verified. The displayed collection price is a dated reference, not an available offer.",
+    "description": "Herbal alternative; currently unavailable at the brand. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "SKINN by Titan",
       "category": "fragrance",
       "type": "eau-de-parfum",
-      "checked": "2026-10-09",
-      "source": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-fclm03pd.html",
-      "retailer": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-fclm03pd.html",
+      "checked": "2026-10-10",
+      "source": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-nfclm03pd.html",
+      "retailer": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-nfclm03pd.html",
       "variants": [
         {
           "label": "20 ml",
           "price": 556,
-          "source": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-fclm03pd.html",
-          "availability": "Out of stock at check",
-          "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
+          "source": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-nfclm03pd.html",
+          "availability": "Out of stock at the brand on 10 October 2026; collection reference price only",
+          "priceBasis": "Brand collection reference price; direct product page has no active purchase price"
         }
       ],
       "attributes": {
         "fragrance-free": "no",
-        "concentration": "Eau de parfum, manufacturer label",
-        "opening-notes": "unknown"
+        "concentration": "EDP (brand label)",
+        "opening-notes": "unknown",
+        "top-notes": "Lavandin, lemon, rosemary, basil",
+        "heart-notes": "Mahonial, geranium, spearmint",
+        "base-notes": "Patchouli, leather accord, oak-moss accord"
       },
-      "summary": "A checked 20 ml eau de parfum from the Verge fragrance family.",
-      "strength": "The identified 20 ml bottle fits the under-₹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
-      "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+      "summary": "Herbal alternative; currently unavailable at the brand.",
+      "strength": "Verge's current 20 ml product page lists lavandin, lemon, rosemary and basil in the opening, mahonial, geranium and spearmint in the middle, then patchouli, leather and oak-moss accords. It is a useful herbal contrast to Raw, but the brand displayed Coming Back Soon at this check.",
+      "limitation": "No currently purchasable brand-store pack was verified. The displayed collection price is a dated reference, not an available offer.",
       "sources": [
         "https://www.skinn.in/shop/20ml-perfumes"
       ]
     },
-    "html": "<p>The manufacturer markets this fragrance for men, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Verge&#x27;s current 20 ml product page lists lavandin, lemon, rosemary and basil in the opening, mahonial, geranium and spearmint in the middle, then patchouli, leather and oak-moss accords. It is a useful herbal contrast to Raw, but the brand displayed Coming Back Soon at this check.</p><p>It appears last as a watch-list alternative, not an available first recommendation. The collection displayed a 20 ml reference price, while the new direct product page had no active price or purchase button. We corrected the dead fclm03pd destination to the current nfclm03pd page by following the manufacturer&#x27;s size selector. Keep the exact pack in mind if investigating a retailer; a 100 ml family page cannot prove a 20 ml buying price.</p><h2>The trade-off</h2><p>No currently purchasable brand-store pack was verified. The displayed collection price is a dated reference, not an available offer.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-nfclm03pd.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "skinn-celeste-20ml",
     "title": "SKINN Celeste Eau de Parfum",
-    "excerpt": "A checked 20 ml eau de parfum from the Celeste fragrance family.",
-    "description": "A checked 20 ml eau de parfum from the Celeste fragrance family.",
+    "excerpt": "For citrus, ginger and floral notes. The lower item price does not demonstrate greater longevity or value per wear. The scent description is based on the brand's pyramid.",
+    "description": "For citrus, ginger and floral notes. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "SKINN by Titan",
       "category": "fragrance",
       "type": "eau-de-parfum",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
       "retailer": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
       "variants": [
@@ -1031,35 +1045,38 @@
           "label": "20 ml",
           "price": 556,
           "source": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
-          "availability": "Official-store listing; confirm current stock and delivery",
+          "availability": "Brand page lists Add to Cart; delivery depends on location",
           "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
         }
       ],
       "attributes": {
         "fragrance-free": "no",
-        "concentration": "Eau de parfum, manufacturer label",
-        "opening-notes": "Grapefruit and ginger; manufacturer opening-note description"
+        "concentration": "EDP (brand label)",
+        "opening-notes": "Grapefruit and ginger; manufacturer opening-note description",
+        "top-notes": "Grapefruit, pear, ginger, blood orange",
+        "heart-notes": "Jasmine sambac, orange flower, waterlily",
+        "base-notes": "Apricot, amber, sandalwood, patchouli, white musk"
       },
-      "summary": "A checked 20 ml eau de parfum from the Celeste fragrance family.",
-      "strength": "The identified 20 ml bottle fits the under-₹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
-      "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+      "summary": "For citrus, ginger and floral notes.",
+      "strength": "Celeste's published opening includes grapefruit, green pear, ginger and blood orange. Its floral middle lists jasmine sambac, orange flower and waterlily; apricot, amber, sandalwood, patchouli and white musk appear in the base. At the checked 20 ml price it costs less than Raw and Steele.",
+      "limitation": "The lower item price does not demonstrate greater longevity or value per wear. The scent description is based on the brand's pyramid.",
       "sources": [
         "https://www.skinn.in/shop/20ml-perfumes"
       ]
     },
-    "html": "<p>The manufacturer markets this fragrance for women, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Celeste&#x27;s published opening includes grapefruit, green pear, ginger and blood orange. Its floral middle lists jasmine sambac, orange flower and waterlily; apricot, amber, sandalwood, patchouli and white musk appear in the base. At the checked 20 ml price it costs less than Raw and Steele.</p><p>It is the second starting point in this edit for someone drawn to a citrus-and-floral direction rather than Raw&#x27;s woody-fruit structure. It is the original Celeste EDP, not Celeste Beyond. Gender labels on the brand store describe marketing categories and do not decide what you can enjoy. Check a tester where possible: a note list cannot tell you how prominent ginger or a floral accord will feel to you.</p><h2>The trade-off</h2><p>The lower item price does not demonstrate greater longevity or value per wear. The scent description is based on the brand&#x27;s pyramid.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "skinn-sheer-20ml",
     "title": "SKINN Sheer Eau de Parfum",
-    "excerpt": "A checked 20 ml eau de parfum from the Sheer fragrance family.",
-    "description": "A checked 20 ml eau de parfum from the Sheer fragrance family.",
+    "excerpt": "For pear, florals and a vanilla-wood base. The name Sheer is not a verified concentration or duration claim. No hands-on assessment of sweetness, intensity or staying power was made.",
+    "description": "For pear, florals and a vanilla-wood base. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "SKINN by Titan",
       "category": "fragrance",
       "type": "eau-de-parfum",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
       "retailer": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
       "variants": [
@@ -1067,35 +1084,38 @@
           "label": "20 ml",
           "price": 556,
           "source": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
-          "availability": "Official-store listing; confirm current stock and delivery",
+          "availability": "Brand page lists Add to Cart; delivery depends on location",
           "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
         }
       ],
       "attributes": {
         "fragrance-free": "no",
-        "concentration": "Eau de parfum, manufacturer label",
-        "opening-notes": "Pear, strawberry and pink pepper; manufacturer description"
+        "concentration": "EDP (brand label)",
+        "opening-notes": "Pear, strawberry and pink pepper; manufacturer description",
+        "top-notes": "Pear, clementine, pink pepper",
+        "heart-notes": "Jasmine petal, peony, heliotrope, magnolia",
+        "base-notes": "Vanilla, sandalwood, cedarwood, musk"
       },
-      "summary": "A checked 20 ml eau de parfum from the Sheer fragrance family.",
-      "strength": "The identified 20 ml bottle fits the under-₹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
-      "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+      "summary": "For pear, florals and a vanilla-wood base.",
+      "strength": "Sheer's individual product page lists green pear accord, clementine and pink pepper at the top, jasmine petal, peony, heliotrope and magnolia in the middle, and vanilla, sandalwood, cedarwood and musk in the base. That direct product pyramid is more specific than the collection's general scent story.",
+      "limitation": "The name Sheer is not a verified concentration or duration claim. No hands-on assessment of sweetness, intensity or staying power was made.",
       "sources": [
         "https://www.skinn.in/shop/20ml-perfumes"
       ]
     },
-    "html": "<p>The manufacturer markets this fragrance for women, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Sheer&#x27;s individual product page lists green pear accord, clementine and pink pepper at the top, jasmine petal, peony, heliotrope and magnolia in the middle, and vanilla, sandalwood, cedarwood and musk in the base. That direct product pyramid is more specific than the collection&#x27;s general scent story.</p><p>Investigate Sheer if pear-and-floral notes sound closer to your preference than Celeste&#x27;s ginger-and-citrus opening. Both have the same checked 20 ml item price, so there is no price-based reason to rank one as better for every reader. Sheer sits third in our navigation order to introduce a different direction, not because we measured a lighter scent or shorter wear. Be sure the retailer listing says EDP and 20 ml.</p><h2>The trade-off</h2><p>The name Sheer is not a verified concentration or duration claim. No hands-on assessment of sweetness, intensity or staying power was made.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "skinn-nude-20ml",
     "title": "SKINN Nude Eau de Parfum",
-    "excerpt": "A checked 20 ml eau de parfum from the Nude fragrance family.",
-    "description": "A checked 20 ml eau de parfum from the Nude fragrance family.",
+    "excerpt": "For fruit, rose and a soft-wood direction. A note list cannot establish softness on every wearer or suitability for fragrance sensitivity. No wear-time or projection claim is made.",
+    "description": "For fruit, rose and a soft-wood direction. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "SKINN by Titan",
       "category": "fragrance",
       "type": "eau-de-parfum",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
       "retailer": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
       "variants": [
@@ -1103,43 +1123,46 @@
           "label": "20 ml",
           "price": 556,
           "source": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
-          "availability": "Official-store listing; confirm current stock and delivery",
+          "availability": "Brand page lists Add to Cart; delivery depends on location",
           "priceBasis": "Displayed official-store item price, inclusive of taxes; shipping and future discounts excluded"
         }
       ],
       "attributes": {
         "fragrance-free": "no",
-        "concentration": "Eau de parfum, manufacturer label",
-        "opening-notes": "Lychee and raspberry; manufacturer opening-note description"
+        "concentration": "EDP (brand label)",
+        "opening-notes": "Lychee and raspberry; manufacturer opening-note description",
+        "top-notes": "Lychee, bergamot, raspberry",
+        "heart-notes": "Rose, Super Hedione, violets",
+        "base-notes": "Sandalwood, tonka, firewood, musk"
       },
-      "summary": "A checked 20 ml eau de parfum from the Nude fragrance family.",
-      "strength": "The identified 20 ml bottle fits the under-₹1,000 item budget at the recorded price, without assuming that the 50 ml bottle does.",
-      "limitation": "Scent preference and longevity cannot be established from a note list. We have not worn or performance-tested this perfume.",
+      "summary": "For fruit, rose and a soft-wood direction.",
+      "strength": "Nude is the rose-focused alternative in the edit. The brand lists lychee, bergamot and raspberry in the opening, then rose petals, Super Hedione and violets. Sandalwood, tonka beans, firewood and musk form its published base. The checked 20 ml price matches Celeste and Sheer.",
+      "limitation": "A note list cannot establish softness on every wearer or suitability for fragrance sensitivity. No wear-time or projection claim is made.",
       "sources": [
         "https://www.skinn.in/shop/20ml-perfumes"
       ]
     },
-    "html": "<p>The manufacturer markets this fragrance for women, but fragrance preferences need not follow that label. Try a sample or an in-store blotter when possible; the displayed scent notes are reference information, not a guarantee of how it will smell on you.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Nude is the rose-focused alternative in the edit. The brand lists lychee, bergamot and raspberry in the opening, then rose petals, Super Hedione and violets. Sandalwood, tonka beans, firewood and musk form its published base. The checked 20 ml price matches Celeste and Sheer.</p><p>Prefer this direction if rose is the note you actively want to investigate rather than buying whichever miniature is cheapest. Our fourth position adds a distinct preference after citrus and pear; it is not evidence that Nude is less versatile. The record is for the original Nude EDP, not another collection or a body spray. Compare it on a tester with Celeste if you are choosing between floral descriptions.</p><h2>The trade-off</h2><p>A note list cannot establish softness on every wearer or suitability for fragrance sensitivity. No wear-time or projection claim is made.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "vega-power-lite",
     "title": "Vega Power Lite Beard Trimmer",
-    "excerpt": "A VHTH-38 beard trimmer with manufacturer-listed 90 minutes runtime.",
-    "description": "A VHTH-38 beard trimmer with manufacturer-listed 90 minutes runtime.",
+    "excerpt": "Lowest-priced in-stock model in this edit. Charge time remains unverified. Blade-washing language does not establish waterproofing of the whole unit.",
+    "description": "Lowest-priced in-stock model in this edit. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Vega",
       "category": "grooming-tools",
       "type": "beard-trimmer",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
       "retailer": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
       "variants": [
         {
           "label": "VHTH-38",
-          "price": 849,
+          "price": 849.0,
           "source": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
-          "availability": "Listed for purchase",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
         }
       ],
@@ -1155,34 +1178,34 @@
         "power-mode": "Corded and cordless",
         "travel-lock": "Manufacturer lists travel lock"
       },
-      "summary": "A VHTH-38 beard trimmer with manufacturer-listed 90 minutes runtime.",
-      "strength": "The manufacturer lists 40 length settings and Micro USB charging, useful specifications for a same-type comparison.",
-      "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+      "summary": "Lowest-priced in-stock model in this edit.",
+      "strength": "Power Lite VHTH-38 is the least expensive of the three brand-store models listed in stock at this check. Vega states 90 minutes of runtime, stainless-steel blades, Micro-USB charging, two combs and 40 length settings from 0.5 to 20 mm. Corded/cordless operation and a travel lock are documented.",
+      "limitation": "Charge time remains unverified. Blade-washing language does not establish waterproofing of the whole unit.",
       "sources": [
         "https://www.vega.co.in/men-grooming/trimmers.html"
       ]
     },
-    "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailer’s current policy.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Power Lite VHTH-38 is the least expensive of the three brand-store models listed in stock at this check. Vega states 90 minutes of runtime, stainless-steel blades, Micro-USB charging, two combs and 40 length settings from 0.5 to 20 mm. Corded/cordless operation and a travel lock are documented.</p><p>It is the budget starting point when your immediate goal is maintaining a beard length rather than comparing speed modes. Its stated runtime is shorter than P-1&#x27;s, but that does not establish fewer successful trims: session length and hair vary. We did not verify a charge duration for this model, so no number is filled in from a neighbouring product. Compare the model code rather than relying on the similar Power names.</p><h2>The trade-off</h2><p>Charge time remains unverified. Blade-washing language does not establish waterproofing of the whole unit.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.vega.co.in/vega-power-lite-beard-trimmer.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "vega-power-p1",
     "title": "Vega Power Series P1 Beard Trimmer",
-    "excerpt": "A VHTH-25 beard trimmer with manufacturer-listed 160 minutes runtime.",
-    "description": "A VHTH-25 beard trimmer with manufacturer-listed 160 minutes runtime.",
+    "excerpt": "For long stated runtime at a lower price. Micro-USB rather than Type-C. Washable blades must not be interpreted as permission to submerge the body.",
+    "description": "For long stated runtime at a lower price. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Vega",
       "category": "grooming-tools",
       "type": "beard-trimmer",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
       "retailer": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
       "variants": [
         {
           "label": "VHTH-25",
-          "price": 1019,
+          "price": 1019.0,
           "source": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
-          "availability": "Listed for purchase",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
         }
       ],
@@ -1198,34 +1221,34 @@
         "power-mode": "Corded and cordless",
         "travel-lock": "Manufacturer lists travel lock"
       },
-      "summary": "A VHTH-25 beard trimmer with manufacturer-listed 160 minutes runtime.",
-      "strength": "The manufacturer lists 40 length settings and Micro USB charging, useful specifications for a same-type comparison.",
-      "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+      "summary": "For long stated runtime at a lower price.",
+      "strength": "Power Series P-1 VHTH-25 states 160 minutes of runtime after a 90-minute charge, matching S3's headline battery figures at a lower checked price. It uses stainless-steel blades, Micro-USB charging, two combs and 40 settings covering 0.5–20 mm. The source describes washable blades, not an IPX7-rated whole trimmer.",
+      "limitation": "Micro-USB rather than Type-C. Washable blades must not be interpreted as permission to submerge the body.",
       "sources": [
         "https://www.vega.co.in/men-grooming/trimmers.html"
       ]
     },
-    "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailer’s current policy.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>Power Series P-1 VHTH-25 states 160 minutes of runtime after a 90-minute charge, matching S3&#x27;s headline battery figures at a lower checked price. It uses stainless-steel blades, Micro-USB charging, two combs and 40 settings covering 0.5–20 mm. The source describes washable blades, not an IPX7-rated whole trimmer.</p><p>Choose it over S3 if the extra Type-C and whole-unit cleaning features are less useful to you than saving the price difference. It is a sensible second investigation for frequent beard maintenance, provided you already have a compatible charging routine. The brand&#x27;s up-to-two-months-use wording depends on an assumed pattern of use; we publish minutes instead of turning that into a promise for every owner.</p><h2>The trade-off</h2><p>Micro-USB rather than Type-C. Washable blades must not be interpreted as permission to submerge the body.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "vega-smartone-s3",
     "title": "Vega Smartone S3 Beard Trimmer",
-    "excerpt": "A VHTH-36 beard trimmer with manufacturer-listed 160 minutes runtime.",
-    "description": "A VHTH-36 beard trimmer with manufacturer-listed 160 minutes runtime.",
+    "excerpt": "First investigation for Type-C and whole-unit cleaning. Costs more than Power Lite and P-1. We have not tested cut quality, battery ageing or its waterproof claim.",
+    "description": "First investigation for Type-C and whole-unit cleaning. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Vega",
       "category": "grooming-tools",
       "type": "beard-trimmer",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
       "retailer": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
       "variants": [
         {
           "label": "VHTH-36",
-          "price": 1154,
+          "price": 1154.0,
           "source": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
-          "availability": "Listed for purchase",
+          "availability": "Listed for purchase; delivery depends on location",
           "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
         }
       ],
@@ -1241,34 +1264,34 @@
         "power-mode": "Corded and cordless",
         "travel-lock": "Manufacturer lists travel lock"
       },
-      "summary": "A VHTH-36 beard trimmer with manufacturer-listed 160 minutes runtime.",
-      "strength": "The manufacturer lists 40 length settings and USB Type-C charging, useful specifications for a same-type comparison.",
-      "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+      "summary": "First investigation for Type-C and whole-unit cleaning.",
+      "strength": "SmartOne S3 VHTH-36 combines the manufacturer's 160-minute runtime and 90-minute charge figures with Type-C charging, titanium blades and an IPX7 label. It has two combs covering 40 settings from 0.5 to 20 mm, three speed modes and a travel lock. It was listed in stock below this guide's ₹1,500 ceiling.",
+      "limitation": "Costs more than Power Lite and P-1. We have not tested cut quality, battery ageing or its waterproof claim.",
       "sources": [
         "https://www.vega.co.in/men-grooming/trimmers.html"
       ]
     },
-    "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailer’s current policy.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>SmartOne S3 VHTH-36 combines the manufacturer&#x27;s 160-minute runtime and 90-minute charge figures with Type-C charging, titanium blades and an IPX7 label. It has two combs covering 40 settings from 0.5 to 20 mm, three speed modes and a travel lock. It was listed in stock below this guide&#x27;s ₹1,500 ceiling.</p><p>It leads because its documented charging and cleaning features are useful additions over the cheaper Micro-USB options. The brand also describes a five-minute quick charge for ten minutes of use. Those are stated specifications, not our battery test. AI SmartTrim is Vega&#x27;s name for a speed-memory feature, not a Glowwise endorsement of autonomous styling. Check the instructions before washing or using any electrical product near water.</p><h2>The trade-off</h2><p>Costs more than Power Lite and P-1. We have not tested cut quality, battery ageing or its waterproof claim.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "vega-turboone",
     "title": "Vega Turboone Beard Trimmer",
-    "excerpt": "A VHTH-40 beard trimmer with manufacturer-listed 90 minutes runtime.",
-    "description": "A VHTH-40 beard trimmer with manufacturer-listed 90 minutes runtime.",
+    "excerpt": "Basic Micro-USB alternative; stock unavailable. No verified purchase availability or charge duration. The source's naming inconsistency is recorded rather than silently treated as proof of identical models.",
+    "description": "Basic Micro-USB alternative; stock unavailable. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Vega",
       "category": "grooming-tools",
       "type": "beard-trimmer",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
       "retailer": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
       "variants": [
         {
           "label": "VHTH-40",
-          "price": 879,
+          "price": 879.0,
           "source": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
-          "availability": "Out of stock at check",
+          "availability": "Out of stock at the source on 10 October 2026; displayed price is a reference",
           "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
         }
       ],
@@ -1284,34 +1307,34 @@
         "power-mode": "Corded and cordless",
         "travel-lock": "Manufacturer lists travel lock"
       },
-      "summary": "A VHTH-40 beard trimmer with manufacturer-listed 90 minutes runtime.",
-      "strength": "The manufacturer lists 40 length settings and Micro USB charging, useful specifications for a same-type comparison.",
-      "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+      "summary": "Basic Micro-USB alternative; stock unavailable.",
+      "strength": "TurboOne VHTH-40 has stainless-steel blades, a stated 90-minute runtime, Micro-USB charging, a travel lock and 40 length settings from 0.5 to 20 mm. Its official page was out of stock. The specification overlaps substantially with Power Lite rather than offering an established new performance category.",
+      "limitation": "No verified purchase availability or charge duration. The source's naming inconsistency is recorded rather than silently treated as proof of identical models.",
       "sources": [
         "https://www.vega.co.in/men-grooming/trimmers.html"
       ]
     },
-    "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailer’s current policy.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>TurboOne VHTH-40 has stainless-steel blades, a stated 90-minute runtime, Micro-USB charging, a travel lock and 40 length settings from 0.5 to 20 mm. Its official page was out of stock. The specification overlaps substantially with Power Lite rather than offering an established new performance category.</p><p>It ranks last because the lower-priced Power Lite was listed in stock and our source did not establish a compelling advantage for TurboOne. Vega&#x27;s description accidentally mentions Power Lite at the end; we use TurboOne&#x27;s title and VHTH-40 model code to identify the record, and do not transfer undocumented details between models. Recheck the current pack/manual if this is the model you later find at a retailer.</p><h2>The trade-off</h2><p>No verified purchase availability or charge duration. The source&#x27;s naming inconsistency is recorded rather than silently treated as proof of identical models.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.vega.co.in/vega-turboone-beard-trimmer.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "vega-smartone-s2",
     "title": "Vega Smartone S2 Beard Trimmer",
-    "excerpt": "A VHTH-31 beard trimmer with manufacturer-listed 160 minutes runtime.",
-    "description": "A VHTH-31 beard trimmer with manufacturer-listed 160 minutes runtime.",
+    "excerpt": "S3-like specification; currently out of stock. Official listing was out of stock. We did not test differences in grip, noise, blades or battery between S2 and S3.",
+    "description": "S3-like specification; currently out of stock. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Vega",
       "category": "grooming-tools",
       "type": "beard-trimmer",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
       "retailer": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
       "variants": [
         {
           "label": "VHTH-31",
-          "price": 1154,
+          "price": 1154.0,
           "source": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
-          "availability": "Out of stock at check",
+          "availability": "Out of stock at the source on 10 October 2026; displayed price is a reference",
           "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
         }
       ],
@@ -1321,40 +1344,40 @@
         "manufacturer-charge-time": "90 minutes",
         "length-range": "0.5–20 mm",
         "length-settings": "40",
-        "blade-material": "Not verified",
+        "blade-material": "Titanium (manufacturer)",
         "cleaning": "IPX7, manufacturer label",
         "charging": "USB Type-C",
         "power-mode": "Corded and cordless",
         "travel-lock": "Manufacturer lists travel lock"
       },
-      "summary": "A VHTH-31 beard trimmer with manufacturer-listed 160 minutes runtime.",
-      "strength": "The manufacturer lists 40 length settings and USB Type-C charging, useful specifications for a same-type comparison.",
-      "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+      "summary": "S3-like specification; currently out of stock.",
+      "strength": "SmartOne S2 VHTH-31 lists Type-C charging, titanium blades, IPX7, three speeds, a 160-minute runtime and a 90-minute charge. The source also specifies a five-minute quick charge for ten minutes of use, two combs and 40 settings from 0.5 to 20 mm. Its displayed price matches S3's, but stock did not.",
+      "limitation": "Official listing was out of stock. We did not test differences in grip, noise, blades or battery between S2 and S3.",
       "sources": [
         "https://www.vega.co.in/men-grooming/trimmers.html"
       ]
     },
-    "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailer’s current policy.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>SmartOne S2 VHTH-31 lists Type-C charging, titanium blades, IPX7, three speeds, a 160-minute runtime and a 90-minute charge. The source also specifies a five-minute quick charge for ten minutes of use, two combs and 40 settings from 0.5 to 20 mm. Its displayed price matches S3&#x27;s, but stock did not.</p><p>There is no evidence here to claim that S2 cuts better than S3. At the checked equal price, the in-stock S3 is easier to recommend for immediate investigation. Keep S2 as a specification alternative if availability changes or you prefer its presentation. Both SmartOne names refer to speed-memory features; neither replaces manual choice of length, safe handling or cleaning instructions.</p><h2>The trade-off</h2><p>Official listing was out of stock. We did not test differences in grip, noise, blades or battery between S2 and S3.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.vega.co.in/smartone-series-s2-beard-trimmer.html\" rel=\"external noopener\">View the product source</a>.</p>"
   },
   {
     "kind": "gw_product",
     "slug": "vega-turbolite",
     "title": "Vega Turbolite Beard Trimmer",
-    "excerpt": "A VHTH-41 beard trimmer with manufacturer-listed 90 minutes runtime.",
-    "description": "A VHTH-41 beard trimmer with manufacturer-listed 90 minutes runtime.",
+    "excerpt": "Lowest reference price; wait for verified stock. Official stock unavailable at the check. No retailer stock was established, and washable blades do not mean the body is waterproof.",
+    "description": "Lowest reference price; wait for verified stock. Compare the identified pack, checked INR price and research limitations.",
     "data": {
       "brand": "Vega",
       "category": "grooming-tools",
       "type": "beard-trimmer",
-      "checked": "2026-10-09",
+      "checked": "2026-10-10",
       "source": "https://www.vega.co.in/turbolite-beard-trimmer.html",
       "retailer": "https://www.vega.co.in/turbolite-beard-trimmer.html",
       "variants": [
         {
           "label": "VHTH-41",
-          "price": 609,
+          "price": 609.0,
           "source": "https://www.vega.co.in/turbolite-beard-trimmer.html",
-          "availability": "Out of stock at check",
+          "availability": "Out of stock at the source on 10 October 2026; displayed price is a reference",
           "priceBasis": "Official-store listed special item price; delivery and conditional coupon discounts excluded"
         }
       ],
@@ -1368,15 +1391,156 @@
         "cleaning": "Washable blades; full body water resistance not verified",
         "charging": "USB Type-C",
         "power-mode": "Corded and cordless",
-        "travel-lock": "Manufacturer lists travel lock"
+        "travel-lock": "Manufacturer lists travel lock",
+        "charge-time": "90 minutes (manufacturer)"
       },
-      "summary": "A VHTH-41 beard trimmer with manufacturer-listed 90 minutes runtime.",
-      "strength": "The manufacturer lists 40 length settings and USB Type-C charging, useful specifications for a same-type comparison.",
-      "limitation": "Runtime and charging figures are manufacturer claims, not measurements by Glowwise. Washable blades alone do not mean the whole device is waterproof. Check stock and the supplied charging accessories.",
+      "summary": "Lowest reference price; wait for verified stock.",
+      "strength": "TurboLite VHTH-41 has the lowest displayed single-model price in the edit, but the official listing was out of stock. Vega specifies a 90-minute runtime and 90-minute charge, Type-C USB, stainless-steel blades and 40 length settings across two combs. A travel lock and corded/cordless use are documented.",
+      "limitation": "Official stock unavailable at the check. No retailer stock was established, and washable blades do not mean the body is waterproof.",
       "sources": [
         "https://www.vega.co.in/men-grooming/trimmers.html"
       ]
     },
-    "html": "<p>Read the model-specific manual before use, charging or cleaning. Begin with a longer guard and adjust gradually. Return conditions for a used grooming appliance may differ from an unopened item; check the retailer’s current policy.</p>"
+    "html": "<h2>Who should investigate it?</h2><p>TurboLite VHTH-41 has the lowest displayed single-model price in the edit, but the official listing was out of stock. Vega specifies a 90-minute runtime and 90-minute charge, Type-C USB, stainless-steel blades and 40 length settings across two combs. A travel lock and corded/cordless use are documented.</p><p>Its combination of price and charging format would merit investigation if the exact model returns to stock. Until then, Power Lite is the practical in-stock budget comparison. Do not pay for a similarly named replacement without checking the model code and included combs. An out-of-stock sale price is not a price you can necessarily buy at today, even though it qualifies as a dated under-₹1,500 reference.</p><h2>The trade-off</h2><p>Official stock unavailable at the check. No retailer stock was established, and washable blades do not mean the body is waterproof.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.vega.co.in/turbolite-beard-trimmer.html\" rel=\"external noopener\">View the product source</a>.</p>"
+  },
+  {
+    "kind": "gw_product",
+    "slug": "bombay-beard-roll-on",
+    "title": "Bombay Shaving Company Beard Growth Roll-on",
+    "data": {
+      "brand": "Bombay Shaving Company",
+      "category": "beard-grooming",
+      "type": "beard-oil",
+      "checked": "2026-10-10",
+      "source": "https://www.bombayshavingcompany.com/products/beard-growth-oil-roll-on-for-men",
+      "retailer": "https://www.bombayshavingcompany.com/products/beard-growth-oil-roll-on-for-men",
+      "variants": [
+        {
+          "label": "10 ml",
+          "price": 217.0,
+          "source": "https://www.bombayshavingcompany.com/products/beard-growth-oil-roll-on-for-men?variant=35813327929498",
+          "availability": "Listed for purchase; delivery depends on location",
+          "priceBasis": "Displayed single-pack item price; shipping and conditional coupons excluded"
+        }
+      ],
+      "attributes": {
+        "format": "roll-on oil",
+        "named-oils": "Brand lists coconut, sesame, vetiver, jojoba, brahmi and amla",
+        "fragrance-free": "no",
+        "scent": "Brand describes patchouli, vetiver, musk and amber"
+      },
+      "sources": [],
+      "summary": "For a small roll-on format.",
+      "strength": "Bombay Shaving Company's Beard Growth Roll-on is a 10 ml oil format, not a 30 ml dropper bottle. The brand names coconut, sesame, vetiver, jojoba, brahmi and amla oils and describes patchouli, vetiver, musk and amber notes. Its checked upfront price matches the Ustraa single bottle, but the quantity is much smaller.",
+      "limitation": "Highest checked single-pack cost per ml in this six-oil edit. Added aromatic ingredients may be unwelcome to fragrance-sensitive readers."
+    },
+    "excerpt": "For a small roll-on format. Highest checked single-pack cost per ml in this six-oil edit. Added aromatic ingredients may be unwelcome to fragrance-sensitive readers.",
+    "description": "For a small roll-on format. Compare the identified pack, checked INR price and research limitations.",
+    "html": "<h2>Who should investigate it?</h2><p>Bombay Shaving Company&#x27;s Beard Growth Roll-on is a 10 ml oil format, not a 30 ml dropper bottle. The brand names coconut, sesame, vetiver, jojoba, brahmi and amla oils and describes patchouli, vetiver, musk and amber notes. Its checked upfront price matches the Ustraa single bottle, but the quantity is much smaller.</p><p>Consider it for the applicator format and a small first purchase, not because it is the best price per ml. A roll-on changes how you distribute the product; follow its directions and keep the applicator clean. The growth language is the manufacturer&#x27;s positioning, and it is not used to rank growth effectiveness. This belongs beside other oils for format comparison, not beside a medical hair-regrowth treatment.</p><h2>The trade-off</h2><p>Highest checked single-pack cost per ml in this six-oil edit. Added aromatic ingredients may be unwelcome to fragrance-sensitive readers.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.bombayshavingcompany.com/products/beard-growth-oil-roll-on-for-men\" rel=\"external noopener\">View the product source</a>.</p>"
+  },
+  {
+    "kind": "gw_product",
+    "slug": "bombay-onion-beard-oil",
+    "title": "Bombay Shaving Company Onion Beard Growth Oil",
+    "data": {
+      "brand": "Bombay Shaving Company",
+      "category": "beard-grooming",
+      "type": "beard-oil",
+      "checked": "2026-10-10",
+      "source": "https://www.bombayshavingcompany.com/products/beard-growth-oil-onion",
+      "retailer": "https://www.bombayshavingcompany.com/products/beard-growth-oil-onion",
+      "variants": [
+        {
+          "label": "30 ml",
+          "price": 349.0,
+          "source": "https://www.bombayshavingcompany.com/products/beard-growth-oil-onion?variant=35802777288858",
+          "availability": "Listed for purchase; delivery depends on location",
+          "priceBasis": "Displayed single-pack item price; shipping and conditional coupons excluded"
+        }
+      ],
+      "attributes": {
+        "format": "oil",
+        "named-ingredients": "Brand names onion oil and rosemary extracts",
+        "fragrance-free": "unknown"
+      },
+      "sources": [],
+      "summary": "Onion-and-rosemary alternative, with claim limits.",
+      "strength": "Bombay Shaving Company's Onion Beard Growth Oil is an identified 30 ml bottle. Its official description names onion oil and rosemary extracts and uses a lightweight, non-greasy description. Its checked price is higher than the two ₹299, 30 ml oils in this edit.",
+      "limitation": "The manufacturer's circulation and rapid-growth claims were not independently substantiated in this pass. Exact ingredient concentrations remain unknown."
+    },
+    "excerpt": "Onion-and-rosemary alternative, with claim limits. The manufacturer's circulation and rapid-growth claims were not independently substantiated in this pass. Exact ingredient concentrations remain unknown.",
+    "description": "Onion-and-rosemary alternative, with claim limits. Compare the identified pack, checked INR price and research limitations.",
+    "html": "<h2>Who should investigate it?</h2><p>Bombay Shaving Company&#x27;s Onion Beard Growth Oil is an identified 30 ml bottle. Its official description names onion oil and rosemary extracts and uses a lightweight, non-greasy description. Its checked price is higher than the two ₹299, 30 ml oils in this edit.</p><p>It is a preference alternative if you specifically want to investigate this formulation rather than our default budget conditioning starting point. We place it after the lower-priced 30 ml choices because the available source does not establish an independent growth advantage to justify the extra cost. An ingredient&#x27;s reputation on social media does not establish the finished product&#x27;s concentration, effectiveness or suitability for your face.</p><h2>The trade-off</h2><p>The manufacturer&#x27;s circulation and rapid-growth claims were not independently substantiated in this pass. Exact ingredient concentrations remain unknown.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.bombayshavingcompany.com/products/beard-growth-oil-onion\" rel=\"external noopener\">View the product source</a>.</p>"
+  },
+  {
+    "kind": "gw_product",
+    "slug": "man-company-beard-oil",
+    "title": "The Man Company Beard Growth Oil",
+    "data": {
+      "brand": "The Man Company",
+      "category": "beard-grooming",
+      "type": "beard-oil",
+      "checked": "2026-10-10",
+      "source": "https://www.themancompany.com/products/beard-growth-oil-for-men-30ml",
+      "retailer": "https://www.themancompany.com/products/beard-growth-oil-for-men-30ml",
+      "variants": [
+        {
+          "label": "30 ml",
+          "price": 299.0,
+          "source": "https://www.themancompany.com/products/beard-growth-oil-for-men-30ml?variant=46712235000004",
+          "availability": "Listed for purchase; delivery depends on location",
+          "priceBasis": "Displayed single-pack item price; shipping and conditional coupons excluded"
+        }
+      ],
+      "attributes": {
+        "format": "oil",
+        "named-ingredients": "Brand names sunflower oil, coconut oil, thyme oil and RootBioTec HO",
+        "fragrance-free": "no"
+      },
+      "sources": [],
+      "summary": "For sunflower-and-coconut-oil formulation comparison.",
+      "strength": "The Man Company's current 30 ml Beard Growth Oil names sunflower oil, coconut oil, thyme oil and RootBioTec HO. The official single-bottle variant price differs from the separately indexed old 30 ml listing, so we use the live storefront's identified single variant rather than the bulk-buy or bundle price.",
+      "limitation": "No independent beard-growth outcome was established. Thyme oil is a reason to review the current label, not assume universal tolerance."
+    },
+    "excerpt": "For sunflower-and-coconut-oil formulation comparison. No independent beard-growth outcome was established. Thyme oil is a reason to review the current label, not assume universal tolerance.",
+    "description": "For sunflower-and-coconut-oil formulation comparison. Compare the identified pack, checked INR price and research limitations.",
+    "html": "<h2>Who should investigate it?</h2><p>The Man Company&#x27;s current 30 ml Beard Growth Oil names sunflower oil, coconut oil, thyme oil and RootBioTec HO. The official single-bottle variant price differs from the separately indexed old 30 ml listing, so we use the live storefront&#x27;s identified single variant rather than the bulk-buy or bundle price.</p><p>Investigate it if those named oils and the brand&#x27;s lightweight-format description fit the kind of conditioning routine you want. It ties Godfather&#x27;s checked single-bottle price and volume, so formulation and scent preferences matter more than apparent pack value. The source advertises density and patchiness benefits; Glowwise does not turn those claims into a proven result or recommend using a derma roller from the same marketing page.</p><h2>The trade-off</h2><p>No independent beard-growth outcome was established. Thyme oil is a reason to review the current label, not assume universal tolerance.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.themancompany.com/products/beard-growth-oil-for-men-30ml\" rel=\"external noopener\">View the product source</a>.</p>"
+  },
+  {
+    "kind": "gw_product",
+    "slug": "ustraa-woody-beard-oil",
+    "title": "Ustraa Woody Mooch & Beard Oil",
+    "data": {
+      "brand": "Ustraa",
+      "category": "beard-grooming",
+      "type": "beard-oil",
+      "checked": "2026-10-10",
+      "source": "https://www.tirabeauty.com/product/ustraa-woody-mooch--beard-oil-35ml-bvlak7ytzbm",
+      "retailer": "https://www.tirabeauty.com/product/ustraa-woody-mooch--beard-oil-35ml-bvlak7ytzbm",
+      "variants": [
+        {
+          "label": "35 ml",
+          "price": 217,
+          "source": "https://www.tirabeauty.com/product/ustraa-woody-mooch--beard-oil-35ml-bvlak7ytzbm",
+          "availability": "Listed for purchase; delivery depends on location",
+          "priceBasis": "Displayed single-pack item price; shipping and conditional coupons excluded"
+        }
+      ],
+      "attributes": {
+        "format": "oil",
+        "named-ingredients": "Manufacturer names cedarwood essential oil, wheatgerm oil and vitamin E",
+        "fragrance-free": "no",
+        "scent": "woody"
+      },
+      "sources": [
+        "https://www.ustraa.com/beard-oil-wash-woody/p"
+      ],
+      "summary": "Budget investigation for woody-scent conditioning.",
+      "strength": "Ustraa's Woody Mooch & Beard Oil is an identified 35 ml single bottle at Tira. The manufacturer's same-oil bundle description names cedarwood essential oil, wheatgerm oil and vitamin E and positions it around shine and manageability for longer beards. The retailer price belongs to the single bottle, not the two-bottle brand bundle.",
+      "limitation": "Cedarwood essential oil means this is not a fragrance-free default. Retailer delivery and current availability still depend on location."
+    },
+    "excerpt": "Budget investigation for woody-scent conditioning. Cedarwood essential oil means this is not a fragrance-free default. Retailer delivery and current availability still depend on location.",
+    "description": "Budget investigation for woody-scent conditioning. Compare the identified pack, checked INR price and research limitations.",
+    "html": "<h2>Who should investigate it?</h2><p>Ustraa&#x27;s Woody Mooch &amp; Beard Oil is an identified 35 ml single bottle at Tira. The manufacturer&#x27;s same-oil bundle description names cedarwood essential oil, wheatgerm oil and vitamin E and positions it around shine and manageability for longer beards. The retailer price belongs to the single bottle, not the two-bottle brand bundle.</p><p>It is the first budget investigation in the explanatory beard guide because the listed single pack combines a low upfront price with an explicitly conditioning-oriented brief. This is not a claim that it grows more hair than the other oils. We could verify a retailer listing and the manufacturer family description, but not a standalone single-bottle official destination; both sources and that limitation are visible.</p><h2>The trade-off</h2><p>Cedarwood essential oil means this is not a fragrance-free default. Retailer delivery and current availability still depend on location.</p><p>Published-source research, checked 10 October 2026. We have not purchased or personally tested this product. <a href=\"https://www.tirabeauty.com/product/ustraa-woody-mooch--beard-oil-35ml-bvlak7ytzbm\" rel=\"external noopener\">View the product source</a>.</p>"
   }
 ]

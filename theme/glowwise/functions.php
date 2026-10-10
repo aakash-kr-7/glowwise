@@ -1,6 +1,13 @@
 <?php
 if (!defined('ABSPATH')) { exit; }
 require_once __DIR__.'/visuals.php';
+function gw_purchase_label($url) {
+    $host=strtolower((string)wp_parse_url($url,PHP_URL_HOST));
+    foreach (['tirabeauty.com'=>'Tira','nykaa.com'=>'Nykaa','flipkart.com'=>'Flipkart','amazon.in'=>'Amazon India'] as $domain=>$label) {
+        if ($host===$domain || str_ends_with($host,'.'.$domain)) { return 'View at '.$label; }
+    }
+    return 'View official product';
+}
 add_action('customize_register',function($customizer) {
     $customizer->add_section('glowwise_home',['title'=>'Glowwise homepage','priority'=>30]);
     foreach (['hero_kicker'=>['Hero kicker','A compass for everyday care'],'hero_heading'=>['Hero headline','Find your kind of good.'],'hero_intro'=>['Hero introduction','Grooming that fits your life. Thoughtfully researched products, clear comparisons and a little less guesswork.'],'manifesto_heading'=>['Editorial heading','The right choice starts with the right questions.'],'manifesto_intro'=>['Editorial introduction','What’s in it? Which size fits your budget? What can it actually do? We connect the facts to the things that matter to you.'],'finder_intro'=>['Finder introduction','Tell us what you’re looking for. Our finder narrows the catalog using clear rules—and shows you why each product made the list.']] as $key=>$field) {

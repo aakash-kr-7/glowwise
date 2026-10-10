@@ -1,5 +1,12 @@
 # Glowwise build state
 
+## Editorial release in progress — 10 October 2026
+
+Existing design, URLs, record IDs and licensed media are preserved. Fresh manufacturer/listing research has prepared 36 core selections across six categories plus the four retained cleansers (40 products total); seven guide rewrites are in preparation. Four beard oils fill the previous two-product category. Native WordPress has **not yet been imported or deployed in this stage**. Draft sources: content/products.json, editorial-product-notes.json, guide-metadata.json and guides/*.html. Raw copyrighted observations remain ignored under .local/editorial.
+
+Resume: compile/review guides and research register; private pre-update backup; reviewed source deployment and idempotent import without --force; desktop/mobile readback, regression checks, cache readback, final recovery and Git linkage. Photography remains one licensed exact-pack photograph; new permissions must not be assumed. Current modeled cost at 04:29 UTC was US$0.5209; existing finite lease and US$10 safeguards remain. This section supersedes older content-completeness descriptions, not their dated test evidence.
+
+
 ## Visual refinement — 10 October 2026
 
 This section supersedes the historical rendered-art and motion descriptions below. The approved identity, content, URLs, functions, indexing and consent remain. Tested visual runtime: **46eb550d4262adfb7db79676018d7ebee800644a**. Home uses licensed photography; six labelled line icons, seven typographic guide covers and shared product media replace glossy decoration. All nine page types were inspected on desktop/mobile; 291 HTTP assertions across 69 routes and nine native-media checks pass. [Refinement report](VISUAL_REFINEMENT.md) · [evidence index](VISUAL_EVIDENCE_INDEX.md).

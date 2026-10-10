@@ -1,0 +1,591 @@
+{
+  "capturedUTC": "2026-10-10T04:29:10.054107+00:00",
+  "purpose": "Pre-change actual product IDs/relationships/content inventory; no private WordPress data",
+  "categoryCounts": {
+    "beard-grooming": 2,
+    "bodycare": 6,
+    "fragrance": 6,
+    "grooming-tools": 6,
+    "haircare": 6,
+    "skincare": 10
+  },
+  "guides": [
+    {
+      "slug": "shampoo-for-dry-frizzy-hair",
+      "title": "Shampoo for dry, frizzy hair: a considered starting point",
+      "category": "haircare",
+      "guide_products": [
+        "minimalist-hydrating-factors-shampoo",
+        "minimalist-maleic-shampoo",
+        "plum-coconut-peptides-shampoo",
+        "plum-avocado-argan-shampoo"
+      ],
+      "checked": "2026-10-09"
+    },
+    {
+      "slug": "sunscreen-for-oily-skin",
+      "title": "Sunscreen for oily skin: protection, finish and a useful shortlist",
+      "category": "skincare",
+      "guide_products": [
+        "plum-green-tea-zinc-spf-50",
+        "minimalist-light-fluid-spf-50",
+        "plum-rice-water-spf-50",
+        "minimalist-spf-50"
+      ],
+      "checked": "2026-10-09"
+    },
+    {
+      "slug": "perfumes-under-1000",
+      "title": "Perfumes under ₹1,000: the checked 20 ml edit",
+      "category": "fragrance",
+      "guide_products": [
+        "skinn-raw-20ml",
+        "skinn-steele-20ml",
+        "skinn-celeste-20ml",
+        "skinn-sheer-20ml",
+        "skinn-nude-20ml",
+        "skinn-verge-20ml"
+      ],
+      "checked": "2026-10-09"
+    },
+    {
+      "slug": "body-lotion-for-dry-skin",
+      "title": "Body lotion for dry skin: comfort, scent and clear choices",
+      "category": "bodycare",
+      "guide_products": [
+        "minimalist-niacinamide-body-lotion",
+        "plum-vanilla-caramello-lotion",
+        "plum-hawaiian-rumba-lotion"
+      ],
+      "checked": "2026-10-09"
+    },
+    {
+      "slug": "face-wash-for-sensitive-skin",
+      "title": "Face wash for sensitive skin: a simpler, source-checked shortlist",
+      "category": "skincare",
+      "guide_products": [
+        "minimalist-b12-oat-cleanser",
+        "minimalist-aquaporin-cleanser"
+      ],
+      "checked": "2026-10-09"
+    },
+    {
+      "slug": "beard-oil-benefits",
+      "title": "Beard-oil benefits: conditioning without growth promises",
+      "category": "beard-grooming",
+      "guide_products": [
+        "beardo-godfather-oil",
+        "beardo-beard-hair-oil"
+      ],
+      "checked": "2026-10-09"
+    },
+    {
+      "slug": "trimmers-under-1500",
+      "title": "Trimmers under ₹1,500: six identified models, useful differences",
+      "category": "grooming-tools",
+      "guide_products": [
+        "vega-power-lite",
+        "vega-power-p1",
+        "vega-smartone-s3",
+        "vega-turboone",
+        "vega-smartone-s2",
+        "vega-turbolite"
+      ],
+      "checked": "2026-10-09"
+    }
+  ],
+  "relationships": [
+    {
+      "category": "haircare",
+      "guide": "https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/",
+      "productId": 26,
+      "product": "Minimalist Hydrating Factors 7.3% Shampoo",
+      "slug": "minimalist-hydrating-factors-shampoo",
+      "url": "https://glowwise.tech/products/minimalist-hydrating-factors-shampoo/",
+      "inExistingGuide": true,
+      "officialSource": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo",
+      "purchaseDestinations": [
+        "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo?variant=45928068317345"
+      ]
+    },
+    {
+      "category": "haircare",
+      "guide": "https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/",
+      "productId": 28,
+      "product": "Minimalist Maleic Bond Repair Complex 3.5% Shampoo",
+      "slug": "minimalist-maleic-shampoo",
+      "url": "https://glowwise.tech/products/minimalist-maleic-shampoo/",
+      "inExistingGuide": true,
+      "officialSource": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo",
+      "purchaseDestinations": [
+        "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo?variant=46445505675425",
+        "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo?variant=46445505708193"
+      ]
+    },
+    {
+      "category": "haircare",
+      "guide": "https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/",
+      "productId": 30,
+      "product": "Plum Coconut Milk & Peptides Shampoo",
+      "slug": "plum-coconut-peptides-shampoo",
+      "url": "https://glowwise.tech/products/plum-coconut-peptides-shampoo/",
+      "inExistingGuide": true,
+      "officialSource": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=42231068786748",
+        "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45773539901500",
+        "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo?variant=45715828604988"
+      ]
+    },
+    {
+      "category": "haircare",
+      "guide": "https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/",
+      "productId": 32,
+      "product": "Plum Avocado & Argan Frizz Control Shampoo",
+      "slug": "plum-avocado-argan-shampoo",
+      "url": "https://glowwise.tech/products/plum-avocado-argan-shampoo/",
+      "inExistingGuide": true,
+      "officialSource": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy?variant=41623335829564"
+      ]
+    },
+    {
+      "category": "haircare",
+      "guide": "https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/",
+      "productId": 34,
+      "product": "Plum Anti-Dandruff Shampoo with 0.5% Salicylic Acid",
+      "slug": "plum-anti-dandruff-shampoo",
+      "url": "https://glowwise.tech/products/plum-anti-dandruff-shampoo/",
+      "inExistingGuide": false,
+      "officialSource": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585269820",
+        "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585302588",
+        "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid?variant=45715585335356"
+      ]
+    },
+    {
+      "category": "haircare",
+      "guide": "https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/",
+      "productId": 36,
+      "product": "Beardo No Nonsense Shampoo",
+      "slug": "beardo-no-nonsense-shampoo",
+      "url": "https://glowwise.tech/products/beardo-no-nonsense-shampoo/",
+      "inExistingGuide": false,
+      "officialSource": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml",
+      "purchaseDestinations": [
+        "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml?variant=48678720536884"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+      "productId": 6,
+      "product": "Minimalist Light Fluid SPF 50",
+      "slug": "minimalist-light-fluid-spf-50",
+      "url": "https://glowwise.tech/products/minimalist-light-fluid-spf-50/",
+      "inExistingGuide": true,
+      "officialSource": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen",
+      "purchaseDestinations": [
+        "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483115681",
+        "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45875483082913",
+        "https://beminimalist.co/products/light-fluid-spf-50-sunscreen?variant=45880101503137"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+      "productId": 8,
+      "product": "Minimalist SPF 50 Sunscreen",
+      "slug": "minimalist-spf-50",
+      "url": "https://glowwise.tech/products/minimalist-spf-50/",
+      "inExistingGuide": true,
+      "officialSource": "https://beminimalist.co/products/multi-vitamin-spf-50",
+      "purchaseDestinations": [
+        "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368405665",
+        "https://beminimalist.co/products/multi-vitamin-spf-50?variant=44802368438433",
+        "https://beminimalist.co/products/multi-vitamin-spf-50?variant=46656572817569"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+      "productId": 10,
+      "product": "Minimalist SPF 60 Sunscreen",
+      "slug": "minimalist-spf-60",
+      "url": "https://glowwise.tech/products/minimalist-spf-60/",
+      "inExistingGuide": false,
+      "officialSource": "https://beminimalist.co/products/spf-60-silymarin",
+      "purchaseDestinations": [
+        "https://beminimalist.co/products/spf-60-silymarin?variant=40946129305761"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+      "productId": 12,
+      "product": "Plum Green Tea & Zinc SPF 50 Gel",
+      "slug": "plum-green-tea-zinc-spf-50",
+      "url": "https://glowwise.tech/products/plum-green-tea-zinc-spf-50/",
+      "inExistingGuide": true,
+      "officialSource": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805614140",
+        "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy?variant=45723805646908"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+      "productId": 14,
+      "product": "Plum 2% Niacinamide & Rice Water SPF 50",
+      "slug": "plum-rice-water-spf-50",
+      "url": "https://glowwise.tech/products/plum-rice-water-spf-50/",
+      "inExistingGuide": true,
+      "officialSource": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989782076",
+        "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=42448989749308",
+        "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=45687389519932"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/sunscreen-for-oily-skin/",
+      "productId": 16,
+      "product": "Plum 3% Niacinamide Sheer-Tinted SPF 50",
+      "slug": "plum-sheer-tinted-spf-50",
+      "url": "https://glowwise.tech/products/plum-sheer-tinted-spf-50/",
+      "inExistingGuide": false,
+      "officialSource": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g?variant=43525413929020"
+      ]
+    },
+    {
+      "category": "fragrance",
+      "guide": "https://glowwise.tech/guides/perfumes-under-1000/",
+      "productId": 54,
+      "product": "SKINN Raw Eau de Parfum",
+      "slug": "skinn-raw-20ml",
+      "url": "https://glowwise.tech/products/skinn-raw-20ml/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html",
+      "purchaseDestinations": [
+        "https://www.skinn.in/product/skinn-by-titan-raw-20-ml-perfume-for-men-edp-nfclm01pd.html"
+      ]
+    },
+    {
+      "category": "fragrance",
+      "guide": "https://glowwise.tech/guides/perfumes-under-1000/",
+      "productId": 56,
+      "product": "SKINN Steele Eau de Parfum",
+      "slug": "skinn-steele-20ml",
+      "url": "https://glowwise.tech/products/skinn-steele-20ml/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html",
+      "purchaseDestinations": [
+        "https://www.skinn.in/product/skinn-by-titan-steele-20-ml-perfume-for-men-edp-nfclm02pd.html"
+      ]
+    },
+    {
+      "category": "fragrance",
+      "guide": "https://glowwise.tech/guides/perfumes-under-1000/",
+      "productId": 58,
+      "product": "SKINN Verge Eau de Parfum",
+      "slug": "skinn-verge-20ml",
+      "url": "https://glowwise.tech/products/skinn-verge-20ml/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-fclm03pd.html",
+      "purchaseDestinations": [
+        "https://www.skinn.in/product/skinn-by-titan-verge-20-ml-perfume-for-men-edp-fclm03pd.html"
+      ]
+    },
+    {
+      "category": "fragrance",
+      "guide": "https://glowwise.tech/guides/perfumes-under-1000/",
+      "productId": 60,
+      "product": "SKINN Celeste Eau de Parfum",
+      "slug": "skinn-celeste-20ml",
+      "url": "https://glowwise.tech/products/skinn-celeste-20ml/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html",
+      "purchaseDestinations": [
+        "https://www.skinn.in/product/skinn-by-titan-celeste-20-ml-perfume-for-women-edp-fclw01pd.html"
+      ]
+    },
+    {
+      "category": "fragrance",
+      "guide": "https://glowwise.tech/guides/perfumes-under-1000/",
+      "productId": 62,
+      "product": "SKINN Sheer Eau de Parfum",
+      "slug": "skinn-sheer-20ml",
+      "url": "https://glowwise.tech/products/skinn-sheer-20ml/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html",
+      "purchaseDestinations": [
+        "https://www.skinn.in/product/skinn-by-titan-sheer-20-ml-perfume-for-women-edp-fclw03pd.html"
+      ]
+    },
+    {
+      "category": "fragrance",
+      "guide": "https://glowwise.tech/guides/perfumes-under-1000/",
+      "productId": 64,
+      "product": "SKINN Nude Eau de Parfum",
+      "slug": "skinn-nude-20ml",
+      "url": "https://glowwise.tech/products/skinn-nude-20ml/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html",
+      "purchaseDestinations": [
+        "https://www.skinn.in/product/skinn-by-titan-nude-20-ml-perfume-for-women-edp-fclw02pd.html"
+      ]
+    },
+    {
+      "category": "bodycare",
+      "guide": "https://glowwise.tech/guides/body-lotion-for-dry-skin/",
+      "productId": 38,
+      "product": "Minimalist Niacinamide 5% Body Lotion",
+      "slug": "minimalist-niacinamide-body-lotion",
+      "url": "https://glowwise.tech/products/minimalist-niacinamide-body-lotion/",
+      "inExistingGuide": true,
+      "officialSource": "https://beminimalist.co/products/niacinamide-05-body-lotion",
+      "purchaseDestinations": [
+        "https://beminimalist.co/products/niacinamide-05-body-lotion?variant=41824805519521"
+      ]
+    },
+    {
+      "category": "bodycare",
+      "guide": "https://glowwise.tech/guides/body-lotion-for-dry-skin/",
+      "productId": 40,
+      "product": "Plum BodyLovin Vanilla Caramello Lotion",
+      "slug": "plum-vanilla-caramello-lotion",
+      "url": "https://glowwise.tech/products/plum-vanilla-caramello-lotion/",
+      "inExistingGuide": true,
+      "officialSource": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379177532",
+        "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion?variant=45695379210300"
+      ]
+    },
+    {
+      "category": "bodycare",
+      "guide": "https://glowwise.tech/guides/body-lotion-for-dry-skin/",
+      "productId": 42,
+      "product": "Plum BodyLovin Vanilla Vibes Lotion",
+      "slug": "plum-vanilla-vibes-lotion",
+      "url": "https://glowwise.tech/products/plum-vanilla-vibes-lotion/",
+      "inExistingGuide": false,
+      "officialSource": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin?variant=45560998821948"
+      ]
+    },
+    {
+      "category": "bodycare",
+      "guide": "https://glowwise.tech/guides/body-lotion-for-dry-skin/",
+      "productId": 44,
+      "product": "Plum BodyLovin Hawaiian Rumba Lotion",
+      "slug": "plum-hawaiian-rumba-lotion",
+      "url": "https://glowwise.tech/products/plum-hawaiian-rumba-lotion/",
+      "inExistingGuide": true,
+      "officialSource": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin?variant=45560998789180"
+      ]
+    },
+    {
+      "category": "bodycare",
+      "guide": "https://glowwise.tech/guides/body-lotion-for-dry-skin/",
+      "productId": 46,
+      "product": "Plum BodyLovin Tropic of Discussion Lotion",
+      "slug": "plum-tropic-lotion",
+      "url": "https://glowwise.tech/products/plum-tropic-lotion/",
+      "inExistingGuide": false,
+      "officialSource": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin?variant=44164693491772"
+      ]
+    },
+    {
+      "category": "bodycare",
+      "guide": "https://glowwise.tech/guides/body-lotion-for-dry-skin/",
+      "productId": 48,
+      "product": "Plum BodyLovin Hazelnut Eclair Lotion",
+      "slug": "plum-hazelnut-lotion",
+      "url": "https://glowwise.tech/products/plum-hazelnut-lotion/",
+      "inExistingGuide": false,
+      "officialSource": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin?variant=43540180271164"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/face-wash-for-sensitive-skin/",
+      "productId": 18,
+      "product": "Minimalist B12 + Oat Extract 6.5% Cleanser",
+      "slug": "minimalist-b12-oat-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-b12-oat-cleanser/",
+      "inExistingGuide": true,
+      "officialSource": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser",
+      "purchaseDestinations": [
+        "https://beminimalist.co/products/oat-extract-06-gentle-cleanser?variant=45220519280801"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/face-wash-for-sensitive-skin/",
+      "productId": 20,
+      "product": "Minimalist Aquaporin Booster 5% Cleanser",
+      "slug": "minimalist-aquaporin-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-aquaporin-cleanser/",
+      "inExistingGuide": true,
+      "officialSource": "https://beminimalist.co/products/aquaporin-booster-05-cleanser",
+      "purchaseDestinations": [
+        "https://beminimalist.co/products/aquaporin-booster-05-cleanser?variant=41870498136225"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/face-wash-for-sensitive-skin/",
+      "productId": 22,
+      "product": "Minimalist Salicylic Acid + LHA 2% Cleanser",
+      "slug": "minimalist-salicylic-lha-cleanser",
+      "url": "https://glowwise.tech/products/minimalist-salicylic-lha-cleanser/",
+      "inExistingGuide": false,
+      "officialSource": "https://beminimalist.co/products/salicylic-lha-2-cleanser",
+      "purchaseDestinations": [
+        "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351136929",
+        "https://beminimalist.co/products/salicylic-lha-2-cleanser?variant=44802351169697"
+      ]
+    },
+    {
+      "category": "skincare",
+      "guide": "https://glowwise.tech/guides/face-wash-for-sensitive-skin/",
+      "productId": 24,
+      "product": "Plum 2% Niacinamide & Rice Water Face Wash",
+      "slug": "plum-rice-water-face-wash",
+      "url": "https://glowwise.tech/products/plum-rice-water-face-wash/",
+      "inExistingGuide": false,
+      "officialSource": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash",
+      "purchaseDestinations": [
+        "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248296508",
+        "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash?variant=43758248329276"
+      ]
+    },
+    {
+      "category": "beard-grooming",
+      "guide": "https://glowwise.tech/guides/beard-oil-benefits/",
+      "productId": 50,
+      "product": "Beardo Godfather Beard Oil",
+      "slug": "beardo-godfather-oil",
+      "url": "https://glowwise.tech/products/beardo-godfather-oil/",
+      "inExistingGuide": true,
+      "officialSource": "https://beardo.in/products/beardo-godfather-beard-oil",
+      "purchaseDestinations": [
+        "https://beardo.in/products/beardo-godfather-beard-oil?variant=44872228438324"
+      ]
+    },
+    {
+      "category": "beard-grooming",
+      "guide": "https://glowwise.tech/guides/beard-oil-benefits/",
+      "productId": 52,
+      "product": "Beardo Beard & Hair Growth Oil",
+      "slug": "beardo-beard-hair-oil",
+      "url": "https://glowwise.tech/products/beardo-beard-hair-oil/",
+      "inExistingGuide": true,
+      "officialSource": "https://beardo.in/products/beardo-beard-and-hair-growth-oil",
+      "purchaseDestinations": [
+        "https://beardo.in/products/beardo-beard-and-hair-growth-oil?variant=44769418707252"
+      ]
+    },
+    {
+      "category": "grooming-tools",
+      "guide": "https://glowwise.tech/guides/trimmers-under-1500/",
+      "productId": 66,
+      "product": "Vega Power Lite Beard Trimmer",
+      "slug": "vega-power-lite",
+      "url": "https://glowwise.tech/products/vega-power-lite/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.vega.co.in/vega-power-lite-beard-trimmer.html",
+      "purchaseDestinations": [
+        "https://www.vega.co.in/vega-power-lite-beard-trimmer.html"
+      ]
+    },
+    {
+      "category": "grooming-tools",
+      "guide": "https://glowwise.tech/guides/trimmers-under-1500/",
+      "productId": 68,
+      "product": "Vega Power Series P1 Beard Trimmer",
+      "slug": "vega-power-p1",
+      "url": "https://glowwise.tech/products/vega-power-p1/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html",
+      "purchaseDestinations": [
+        "https://www.vega.co.in/vega-power-series-p-1-beard-trimmer.html"
+      ]
+    },
+    {
+      "category": "grooming-tools",
+      "guide": "https://glowwise.tech/guides/trimmers-under-1500/",
+      "productId": 70,
+      "product": "Vega Smartone S3 Beard Trimmer",
+      "slug": "vega-smartone-s3",
+      "url": "https://glowwise.tech/products/vega-smartone-s3/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html",
+      "purchaseDestinations": [
+        "https://www.vega.co.in/vega-smartone-s3-beard-trimmer.html"
+      ]
+    },
+    {
+      "category": "grooming-tools",
+      "guide": "https://glowwise.tech/guides/trimmers-under-1500/",
+      "productId": 72,
+      "product": "Vega Turboone Beard Trimmer",
+      "slug": "vega-turboone",
+      "url": "https://glowwise.tech/products/vega-turboone/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.vega.co.in/vega-turboone-beard-trimmer.html",
+      "purchaseDestinations": [
+        "https://www.vega.co.in/vega-turboone-beard-trimmer.html"
+      ]
+    },
+    {
+      "category": "grooming-tools",
+      "guide": "https://glowwise.tech/guides/trimmers-under-1500/",
+      "productId": 74,
+      "product": "Vega Smartone S2 Beard Trimmer",
+      "slug": "vega-smartone-s2",
+      "url": "https://glowwise.tech/products/vega-smartone-s2/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html",
+      "purchaseDestinations": [
+        "https://www.vega.co.in/smartone-series-s2-beard-trimmer.html"
+      ]
+    },
+    {
+      "category": "grooming-tools",
+      "guide": "https://glowwise.tech/guides/trimmers-under-1500/",
+      "productId": 76,
+      "product": "Vega Turbolite Beard Trimmer",
+      "slug": "vega-turbolite",
+      "url": "https://glowwise.tech/products/vega-turbolite/",
+      "inExistingGuide": true,
+      "officialSource": "https://www.vega.co.in/turbolite-beard-trimmer.html",
+      "purchaseDestinations": [
+        "https://www.vega.co.in/turbolite-beard-trimmer.html"
+      ]
+    }
+  ],
+  "issues": [
+    "Core guides often select2–4products rather than6",
+    "SKINN strength/limitation prose repeats across six perfumes",
+    "Vega limitations repeat and omit meaningful cleaning differences",
+    "Beard category has2products; skincare10 including4cleanser records",
+    "Guide image methodology still mentions retired category illustrations",
+    "Price/source dates historical9October; must not relabel until rechecked",
+    "All price destinations must be checked independently; a declared URL is not verification"
+  ]
+}

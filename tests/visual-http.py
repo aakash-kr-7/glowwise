@@ -18,7 +18,7 @@ for path in sorted(paths):
     check(path+' keeps cookie control and complete footer','data-cookie-open' in html and 'site-footer' in html)
 products=[]
 for page in [1,2]:products.extend(json.loads(get('/wp-json/glowwise/v1/products?per-page=24&page='+str(page))[1])['products'])
-check('Exactly 36 published products',len(products)==36)
+check('Exactly 40 published products',len(products)==40)
 coverage=[]
 for p in products:
     variants=[]

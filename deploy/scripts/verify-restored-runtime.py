@@ -51,8 +51,8 @@ try:
     assert 'site-footer' in body and 'data-cookie-open' in body and 'Find your' in body
     checks.append({'test':'Restored native WordPress boots and renders actual custom homepage/footer','pass':True})
     catalog=json.loads(http('/wp-json/glowwise/v1/products'))
-    assert catalog['total']==36
-    checks.append({'test':'Recovered custom plugin/API serves 36 published products','pass':True})
+    assert catalog['total']==40
+    checks.append({'test':'Recovered custom plugin/API serves 40 published products','pass':True})
     for kind, count in [('post',7),('page',16)]:
         actual=int(sql(("SELECT COUNT(*) FROM wp_posts WHERE post_status='publish' AND post_type='"+kind+"';").encode(),database))
         assert actual==count

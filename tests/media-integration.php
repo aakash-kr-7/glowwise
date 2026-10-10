@@ -11,5 +11,5 @@ $bad=$records;$bad['50 g']['attachmentId']=$post->ID;media_check('Product post c
 media_check('Empty image record is an honest valid fallback',gw_validate_images([],$p)===[]);
 $old=$_POST;wp_set_current_user(0);$_POST=['gw_images_nonce'=>'invalid','gw_variant_images'=>'{}'];do_action('save_post_gw_product',$post->ID,get_post($post->ID),true);$_POST=$old;
 media_check('Anonymous/invalid nonce cannot replace image metadata',get_post_meta($post->ID,'_gw_variant_images',true)===$records);
-media_check('Catalogue counts and exact selected pack are unchanged',count(gw_catalog())===36&&gw_variant($p)['label']==='80 g');
+media_check('Catalogue counts and exact selected pack are unchanged',count(gw_catalog())===40&&gw_variant($p)['label']==='80 g');
 WP_CLI::line(wp_json_encode(['capturedUTC'=>gmdate('c'),'purpose'=>'Non-destructive native photo metadata/security integration checks','checks'=>$GLOBALS['gw_media_checks']],JSON_PRETTY_PRINT|JSON_UNESCAPED_SLASHES));
