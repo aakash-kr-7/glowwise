@@ -1,0 +1,468 @@
+{
+  "schema_version": 1,
+  "observed_utc": "2026-10-10T03:15:37Z",
+  "timezone": "UTC; India local time UTC+05:30",
+  "purpose": "Read-only product-photo reuse-rights research for 24 assigned product families, followed by authorised download of one individually licensed photograph to restricted local asset staging. No brand outreach, account access, transformation or paid asset purchase.",
+  "scope_counts": {
+    "Minimalist": 9,
+    "families_without_verified_image_licence": 23,
+    "Beardo": 3,
+    "total": 24,
+    "Plum": 12,
+    "licensed_exact_variant_candidates": 1
+  },
+  "brand_terms": {
+    "Beardo": {
+      "observation": "Official footer-linked terms require owner written consent for reproducing proprietary material and reserve the site graphics. Direct web open initially failed, but the actual footer link resolved the complete primary page.",
+      "url": "https://beardo.in/policies/terms-of-service",
+      "request": "No public reusable media kit identified by targeted primary-site search. No request was sent.",
+      "section": "Terms clauses 3 and 9",
+      "opportunity": "https://beardo.in/pages/contact-us"
+    },
+    "Plum": {
+      "observation": "Official terms restrict reuse beyond personal non-commercial use without explicit permission and expressly prohibit hotlinking. Brand-store product imagery is not licensed for Glowwise publication.",
+      "url": "https://plumgoodness.com/pages/terms-conditions",
+      "request": "An explicit written licence identifying image files and scope would be needed for brand photographs. No request was sent.",
+      "section": "Ownership of rights; Usage Restrictions; Copyright and Trademark",
+      "opportunity": "https://plumgoodness.com/pages/contact-us"
+    },
+    "Minimalist": {
+      "observation": "India footer-linked terms read in the browser; prior written consent required for copying, downloading, reproducing, displaying or reusing site intellectual property. The obsolete /pages/terms-and-conditions page displayed Loading.",
+      "url": "https://beminimalist.co/pages/terms",
+      "request": "Media Outreach is a request form, not a public image licence. No request was sent.",
+      "section": "4.1–4.2",
+      "opportunity": "https://beminimalist.co/pages/media"
+    }
+  },
+  "alternative_searches": [
+    {
+      "repository": "Wikimedia Commons",
+      "queries": [
+        "Minimalist sunscreen",
+        "Plum BodyLovin",
+        "Beardo oil"
+      ],
+      "outcome": "Domain-restricted search returned unrelated generic minimalist art / Commons user Beardo, no exact assigned product match. Direct Special:MediaSearch was inaccessible through web extraction. This is a searched-evidence gap, not proof that no file exists anywhere."
+    },
+    {
+      "repository": "Open Beauty Facts",
+      "method": "Unauthenticated official read-only search API, page_size=50, product name/brand/quantity/front-image fields. Search returned 2 Minimalist, 34 Plum and 4 Beardo records; all pages fit returned first page. Exactly one assigned product candidate found. Detailed individual-file licence and image match then verified in normal browser.",
+      "query_template": "https://world.openbeautyfacts.org/cgi/search.pl?search_terms={brand}&search_simple=1&action=process&json=1&page_size=50&fields=code,product_name,brands,quantity,image_front_url",
+      "licence_primary_docs": "https://github.com/openfoodfacts/openfoodfacts-server/blob/main/docs/api/tutorials/license-be-on-the-legal-side.md",
+      "limitations": "General photo-licence documentation does not establish an individual image match; the one candidate was checked on its own photo detail page. Database food/cosmetic facts were not imported into Glowwise; existing official product facts remain authoritative. Browser accessible although web search extraction reported robots/NOINDEX."
+    }
+  ],
+  "products": [
+    {
+      "slug": "minimalist-light-fluid-spf-50",
+      "brand": "Minimalist",
+      "title": "Minimalist Light Fluid SPF 50",
+      "product_source": "https://beminimalist.co/products/light-fluid-spf-50-sunscreen",
+      "catalog_variants": [
+        "30ml",
+        "50ml",
+        "100ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beminimalist.co/pages/terms",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "minimalist-spf-50",
+      "brand": "Minimalist",
+      "title": "Minimalist SPF 50 Sunscreen",
+      "product_source": "https://beminimalist.co/products/multi-vitamin-spf-50",
+      "catalog_variants": [
+        "50g",
+        "100g",
+        "30g"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beminimalist.co/pages/terms",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "minimalist-spf-60",
+      "brand": "Minimalist",
+      "title": "Minimalist SPF 60 Sunscreen",
+      "product_source": "https://beminimalist.co/products/spf-60-silymarin",
+      "catalog_variants": [
+        "50 g"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beminimalist.co/pages/terms",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-green-tea-zinc-spf-50",
+      "brand": "Plum",
+      "title": "Plum Green Tea & Zinc SPF 50 Gel",
+      "product_source": "https://plumgoodness.com/products/green-tea-zinc-super-matte-spf-50-sunscreen-gel-for-oily-acne-prone-skin-copy",
+      "catalog_variants": [
+        "50 g",
+        "30 g"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "Reuse permission unavailable. Official primary gallery image alt text says 30 g while page selected size/price is 50 g; require variant-specific pack verification before any future approved use.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-rice-water-spf-50",
+      "brand": "Plum",
+      "title": "Plum 2% Niacinamide & Rice Water SPF 50",
+      "product_source": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan",
+      "catalog_variants": [
+        "80 g",
+        "50 g",
+        "30 g"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "licensed_candidate_verified",
+      "allowed_image": {
+        "source": "https://world.openbeautyfacts.org/cgi/product_image.pl?code=8904430201070&id=front_en",
+        "product_page": "https://world.openbeautyfacts.org/product/8904430201070/rice-water-niacinamide-hybrid-sunscreen-plum",
+        "image_url": "https://images.openbeautyfacts.org/images/products/890/443/020/1070/front_en.3.full.jpg",
+        "width": 3000,
+        "height": 4000,
+        "format": "JPEG",
+        "matched_variant": "50 g",
+        "matched_pack": "Actual outer carton: Plum rice water & NIACINAMIDE 2% hybrid sunscreen, SPF 50 PA++++, 50 g. Read directly from browser photograph.",
+        "licence": "CC BY-SA 3.0 Unported",
+        "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "licence_evidence": "Photo detail page explicitly labels this individual file CC BY-SA 3.0 Unported.",
+        "attribution": "Photo by abhi127 per Open Beauty Facts",
+        "attribution_author_url": "https://world.openbeautyfacts.org/photographers/abhi127",
+        "transformation_requirements": "Attribute author and source, link licence, identify any crop/resize/format change, retain CC BY-SA 3.0 for adaptations. Licence covers photograph; do not imply brand endorsement.",
+        "quality": "Hand-held outer carton, mild perspective and soft focus, cluttered retail background and camera timestamp. Correct pack identity is readable. Faithful crop can remove background; do not reshape/reconstruct packaging or describe it as a studio pack shot. Preserve photographer attribution/CC licence and identify changes.",
+        "usage_guard": "Use only when the 50 g variant is presented. 30 g and 80 g packs remain unmatched; do not imply the pictured 50 g pack depicts those sizes.",
+        "downloaded": true,
+        "published": false,
+        "downloaded_utc": "2026-10-10T03:16:17Z",
+        "restricted_source_path": ".local/deployment/visual-source/plum-rice-water-50g.jpg",
+        "bytes": 1235504,
+        "sha256": "1b0f20679c6877281808f187037298f01f57fccf9f161e9e4c48b49aab2430a3",
+        "visually_inspected": "Downloaded original inspected at 3000x4000 source resolution (viewer preview resized to 1368x1824). Packaging title, 2%, SPF50 PA++++ and 50g are readable. This is an outer carton photographed in a hand, not the exposed tube. No tube-packaging claim.",
+        "approximate_carton_body_bounds_original_pixels": {
+          "top": 450,
+          "bottom": 3790,
+          "right": 2010,
+          "limitation": "Approximate from visual inspection of scaled preview. Include blue hanging tab extending upward to about y330 if retaining full retail carton; retain packaging proportions.",
+          "left": 935
+        }
+      },
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "50 g photo licence and actual pack match verified; 30 g and 80 g images unavailable under verified reuse rights. Implementation/quality selection remains with parent agent.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-sheer-tinted-spf-50",
+      "brand": "Plum",
+      "title": "Plum 3% Niacinamide Sheer-Tinted SPF 50",
+      "product_source": "https://plumgoodness.com/products/3-niacinamide-rice-water-spf-50-sheer-tinted-sunscreen-50-g",
+      "catalog_variants": [
+        "50 g"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "minimalist-b12-oat-cleanser",
+      "brand": "Minimalist",
+      "title": "Minimalist B12 + Oat Extract 6.5% Cleanser",
+      "product_source": "https://beminimalist.co/products/oat-extract-06-gentle-cleanser",
+      "catalog_variants": [
+        "120ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beminimalist.co/pages/terms",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "minimalist-aquaporin-cleanser",
+      "brand": "Minimalist",
+      "title": "Minimalist Aquaporin Booster 5% Cleanser",
+      "product_source": "https://beminimalist.co/products/aquaporin-booster-05-cleanser",
+      "catalog_variants": [
+        "100 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beminimalist.co/pages/terms",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "minimalist-salicylic-lha-cleanser",
+      "brand": "Minimalist",
+      "title": "Minimalist Salicylic Acid + LHA 2% Cleanser",
+      "product_source": "https://beminimalist.co/products/salicylic-lha-2-cleanser",
+      "catalog_variants": [
+        "100ml",
+        "250ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beminimalist.co/pages/terms",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-rice-water-face-wash",
+      "brand": "Plum",
+      "title": "Plum 2% Niacinamide & Rice Water Face Wash",
+      "product_source": "https://plumgoodness.com/products/2-niacinamide-rice-water-face-wash",
+      "catalog_variants": [
+        "150 ml",
+        "100 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "minimalist-hydrating-factors-shampoo",
+      "brand": "Minimalist",
+      "title": "Minimalist Hydrating Factors 7.3% Shampoo",
+      "product_source": "https://beminimalist.co/products/hydrating-factors-7-3-hair-shampoo",
+      "catalog_variants": [
+        "250 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beminimalist.co/pages/terms",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "minimalist-maleic-shampoo",
+      "brand": "Minimalist",
+      "title": "Minimalist Maleic Bond Repair Complex 3.5% Shampoo",
+      "product_source": "https://beminimalist.co/products/maleic-bond-repair-complex-3-5-shampoo",
+      "catalog_variants": [
+        "100 ml",
+        "250 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beminimalist.co/pages/terms",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-coconut-peptides-shampoo",
+      "brand": "Plum",
+      "title": "Plum Coconut Milk & Peptides Shampoo",
+      "product_source": "https://plumgoodness.com/products/coconut-milk-peptides-strength-shine-shampoo",
+      "catalog_variants": [
+        "250 ml",
+        "500 ml",
+        "750 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-avocado-argan-shampoo",
+      "brand": "Plum",
+      "title": "Plum Avocado & Argan Frizz Control Shampoo",
+      "product_source": "https://plumgoodness.com/products/avocado-argan-frizz-control-shampoo-copy",
+      "catalog_variants": [
+        "250 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-anti-dandruff-shampoo",
+      "brand": "Plum",
+      "title": "Plum Anti-Dandruff Shampoo with 0.5% Salicylic Acid",
+      "product_source": "https://plumgoodness.com/products/anti-dandruff-shampoo-with-volcanic-minerals-0-5-salicylic-acid",
+      "catalog_variants": [
+        "500 ml",
+        "250 ml",
+        "100 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "beardo-no-nonsense-shampoo",
+      "brand": "Beardo",
+      "title": "Beardo No Nonsense Shampoo",
+      "product_source": "https://beardo.in/products/beardo-no-nonsense-shampoo-200ml",
+      "catalog_variants": [
+        "200ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beardo.in/policies/terms-of-service",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "minimalist-niacinamide-body-lotion",
+      "brand": "Minimalist",
+      "title": "Minimalist Niacinamide 5% Body Lotion",
+      "product_source": "https://beminimalist.co/products/niacinamide-05-body-lotion",
+      "catalog_variants": [
+        "180 g"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beminimalist.co/pages/terms",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-vanilla-caramello-lotion",
+      "brand": "Plum",
+      "title": "Plum BodyLovin Vanilla Caramello Lotion",
+      "product_source": "https://plumgoodness.com/products/plum-bodylovin-vanilla-caramello-body-lotion",
+      "catalog_variants": [
+        "400 ml",
+        "200 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-vanilla-vibes-lotion",
+      "brand": "Plum",
+      "title": "Plum BodyLovin Vanilla Vibes Lotion",
+      "product_source": "https://plumgoodness.com/products/vanilla-vibes-body-lotion-by-bodylovin",
+      "catalog_variants": [
+        "400 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-hawaiian-rumba-lotion",
+      "brand": "Plum",
+      "title": "Plum BodyLovin Hawaiian Rumba Lotion",
+      "product_source": "https://plumgoodness.com/products/hawaiian-rumba-body-lotion-by-bodylovin",
+      "catalog_variants": [
+        "400 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-tropic-lotion",
+      "brand": "Plum",
+      "title": "Plum BodyLovin Tropic of Discussion Lotion",
+      "product_source": "https://plumgoodness.com/products/tropic-of-discussion-body-lotion-by-plum-bodylovin",
+      "catalog_variants": [
+        "400 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "plum-hazelnut-lotion",
+      "brand": "Plum",
+      "title": "Plum BodyLovin Hazelnut Eclair Lotion",
+      "product_source": "https://plumgoodness.com/products/hazelnut-eclair-body-lotion-by-plum-bodylovin",
+      "catalog_variants": [
+        "400 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://plumgoodness.com/pages/terms-conditions",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "beardo-godfather-oil",
+      "brand": "Beardo",
+      "title": "Beardo Godfather Beard Oil",
+      "product_source": "https://beardo.in/products/beardo-godfather-beard-oil",
+      "catalog_variants": [
+        "30ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beardo.in/policies/terms-of-service",
+      "specific_gap": "Reuse permission unavailable. Official gallery includes Godfather Lite 30 ml and pack-of-three imagery; do not assume the first image accurately depicts the catalog single-bottle formulation.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    },
+    {
+      "slug": "beardo-beard-hair-oil",
+      "brand": "Beardo",
+      "title": "Beardo Beard & Hair Growth Oil",
+      "product_source": "https://beardo.in/products/beardo-beard-and-hair-growth-oil",
+      "catalog_variants": [
+        "50 ml"
+      ],
+      "official_source_check": "Product family/title resolved through official product page. Page gallery exists; packaging is not individually licensed. No brand photo downloaded or hotlinked.",
+      "rights_status": "permission_not_obtained",
+      "allowed_image": null,
+      "rights_evidence": "https://beardo.in/policies/terms-of-service",
+      "specific_gap": "No image with a verified reuse licence matched to this listed product and its pack sizes was identified. The supplied product data and URLs remain unchanged.",
+      "recommended_fallback": "Understated typographic product identity with clearly disclosed photograph unavailable status; no invented packaging."
+    }
+  ],
+  "next_permission_options": [
+    "Owner supplies original photographs of actual identified packs, with confirmation of image ownership and permission for Glowwise.",
+    "With explicit owner authorization for outreach, request a written editorial website licence from each brand, identifying files, sizes/formulations, attribution and derivative/caching permission. No outreach is currently performed.",
+    "Use the one individually licensed community photograph only if its framing meets the visual direction and the UI presents the matched 50 g variant."
+  ]
+}

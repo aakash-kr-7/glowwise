@@ -1,6 +1,7 @@
 import {gsap} from 'gsap';
 import {ScrollTrigger} from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
-const world=document.querySelector('.world-art'),control=document.querySelector('[data-motion-pause]'),media=matchMedia('(prefers-reduced-motion: reduce)');let context,orbit,paused=false;
-function setup(){context?.revert();if(media.matches){control.textContent='Motion reduced';control.disabled=true;return;}control.disabled=false;control.textContent=paused?'Resume motion':'Pause motion';context=gsap.context(()=>{orbit=gsap.to(world,{rotation:4,y:8,duration:7,ease:'sine.inOut',repeat:-1,yoyo:true,paused});gsap.fromTo('.hero-copy',{y:18,opacity:.85},{y:0,opacity:1,duration:1,ease:'power2.out'});gsap.utils.toArray('.manifesto,.category-section,.finder-feature').forEach(el=>gsap.fromTo(el,{y:24},{y:0,duration:.8,ease:'power2.out',scrollTrigger:{trigger:el,start:'top 90%',once:true}}));});}
-control?.addEventListener('click',()=>{paused=!paused;orbit?.paused(paused);control.textContent=paused?'Resume motion':'Pause motion';control.setAttribute('aria-pressed',String(paused));});media.addEventListener('change',setup);document.addEventListener('visibilitychange',()=>orbit?.paused(document.hidden||paused));setup();
+const media=matchMedia('(prefers-reduced-motion: reduce)');let context;
+function setup(){context?.revert();context=null;if(media.matches){return;}context=gsap.context(()=>{gsap.utils.toArray('.manifesto,.category-section,.finder-feature').forEach(el=>gsap.fromTo(el,{y:12},{y:0,duration:.45,ease:'power2.out',scrollTrigger:{trigger:el,start:'top 95%',once:true}}));});}
+// Finite reveals only. No continuous decorative motion or hidden content.
+media.addEventListener('change',setup);setup();

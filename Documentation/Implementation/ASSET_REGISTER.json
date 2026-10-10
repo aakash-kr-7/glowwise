@@ -1,6 +1,6 @@
 {
   "capturedUTC": "2026-10-09T12:44:20.435946+00:00",
-  "purpose": "Rights, originality and preservation register; product visuals explicitly non-packaging",
+  "purpose": "Preserved brand/retired art provenance plus current licensed visuals and exact-variant rights",
   "assets": [
     {
       "path": "assets/glowwise_display.png",
@@ -56,7 +56,10 @@
       "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
       "source": "tooling/generate-art.py",
       "derivative": false,
-      "sha256": "637b5194f0530b64e0e37c47a60d6fd242537445a56a5bd585a4ffda3475dd8f"
+      "sha256": "637b5194f0530b64e0e37c47a60d6fd242537445a56a5bd585a4ffda3475dd8f",
+      "publicationStatus": "retired from rendered site; original retained",
+      "supersededDate": "2026-10-10",
+      "replacement": "restrained line icons, editorial photography or honest typographic fallback"
     },
     {
       "path": "theme/glowwise/assets/art/bodycare.svg",
@@ -64,7 +67,10 @@
       "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
       "source": "tooling/generate-art.py",
       "derivative": false,
-      "sha256": "c91f3fc3ae95059bbc167d8301142dadd6a36dbe957ab4a8598bdedada320add"
+      "sha256": "c91f3fc3ae95059bbc167d8301142dadd6a36dbe957ab4a8598bdedada320add",
+      "publicationStatus": "retired from rendered site; original retained",
+      "supersededDate": "2026-10-10",
+      "replacement": "restrained line icons, editorial photography or honest typographic fallback"
     },
     {
       "path": "theme/glowwise/assets/art/compass-world.svg",
@@ -72,7 +78,10 @@
       "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
       "source": "tooling/generate-art.py",
       "derivative": false,
-      "sha256": "12637972757cd262911421458cf75a5b1a8d65a08fe5af03a989c354873dce0a"
+      "sha256": "12637972757cd262911421458cf75a5b1a8d65a08fe5af03a989c354873dce0a",
+      "publicationStatus": "retired from rendered site; original retained",
+      "supersededDate": "2026-10-10",
+      "replacement": "restrained line icons, editorial photography or honest typographic fallback"
     },
     {
       "path": "theme/glowwise/assets/art/finder-compass.svg",
@@ -80,7 +89,10 @@
       "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
       "source": "tooling/generate-art.py",
       "derivative": false,
-      "sha256": "4fd76805f65119142501ad3bdb34e2d882d36ed9300ae308be7b676be56dba84"
+      "sha256": "4fd76805f65119142501ad3bdb34e2d882d36ed9300ae308be7b676be56dba84",
+      "publicationStatus": "retired from rendered site; original retained",
+      "supersededDate": "2026-10-10",
+      "replacement": "restrained line icons, editorial photography or honest typographic fallback"
     },
     {
       "path": "theme/glowwise/assets/art/fragrance.svg",
@@ -88,7 +100,10 @@
       "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
       "source": "tooling/generate-art.py",
       "derivative": false,
-      "sha256": "d3b3360adb2c497f473bbc5bfd84b8e4be6727a06ef12dc9beec54b64ff591cb"
+      "sha256": "d3b3360adb2c497f473bbc5bfd84b8e4be6727a06ef12dc9beec54b64ff591cb",
+      "publicationStatus": "retired from rendered site; original retained",
+      "supersededDate": "2026-10-10",
+      "replacement": "restrained line icons, editorial photography or honest typographic fallback"
     },
     {
       "path": "theme/glowwise/assets/art/grooming-tools.svg",
@@ -96,7 +111,10 @@
       "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
       "source": "tooling/generate-art.py",
       "derivative": false,
-      "sha256": "2bc1d8b35868fc00e70b724efbde9c239549d82e6b7b2449b8f8b8f3880a74fc"
+      "sha256": "2bc1d8b35868fc00e70b724efbde9c239549d82e6b7b2449b8f8b8f3880a74fc",
+      "publicationStatus": "retired from rendered site; original retained",
+      "supersededDate": "2026-10-10",
+      "replacement": "restrained line icons, editorial photography or honest typographic fallback"
     },
     {
       "path": "theme/glowwise/assets/art/haircare.svg",
@@ -104,7 +122,10 @@
       "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
       "source": "tooling/generate-art.py",
       "derivative": false,
-      "sha256": "7eb53c6f2a2cc2067b525da7c6967ec12839c4c4a782c8f2e523b71d62483258"
+      "sha256": "7eb53c6f2a2cc2067b525da7c6967ec12839c4c4a782c8f2e523b71d62483258",
+      "publicationStatus": "retired from rendered site; original retained",
+      "supersededDate": "2026-10-10",
+      "replacement": "restrained line icons, editorial photography or honest typographic fallback"
     },
     {
       "path": "theme/glowwise/assets/art/skincare.svg",
@@ -112,7 +133,10 @@
       "rights": "Created specifically for Glowwise; no retailer photography or branded packaging",
       "source": "tooling/generate-art.py",
       "derivative": false,
-      "sha256": "a78a2f014190c0edd59cd01983d8399a7c562b6e00adeceec64fc1026b5ca467"
+      "sha256": "a78a2f014190c0edd59cd01983d8399a7c562b6e00adeceec64fc1026b5ca467",
+      "publicationStatus": "retired from rendered site; original retained",
+      "supersededDate": "2026-10-10",
+      "replacement": "restrained line icons, editorial photography or honest typographic fallback"
     },
     {
       "path": "theme/glowwise/assets/brand/glowwise-wordmark.svg",
@@ -150,6 +174,76 @@
         1024
       ],
       "notProductPhotography": true
+    },
+    {
+      "path": "theme/glowwise/assets/editorial/hands-water-1600.webp",
+      "kind": "Licensed editorial photograph; responsive derivative",
+      "source": "https://unsplash.com/photos/a-person-holding-their-hands-under-a-stream-of-water-kDxqbAvEBwI",
+      "rights": "Unsplash licence; website use allowed; no endorsement",
+      "licenseUrl": "https://unsplash.com/license",
+      "credit": "Nathan Dumlao / Unsplash",
+      "checked": "2026-10-10",
+      "purpose": "Human context on Home, not a product image",
+      "derivative": true,
+      "adaptation": "Full-frame resize and WebP encoding; metadata removed; responsive CSS crop on site",
+      "sha256": "bb834c428755854a65d478829776554f6b9008d680e9d73b8472a79333e72483",
+      "bytes": 125556,
+      "publicationStatus": "approved for representative deployment"
+    },
+    {
+      "path": "theme/glowwise/assets/editorial/hands-water-480.webp",
+      "kind": "Licensed editorial photograph; responsive derivative",
+      "source": "https://unsplash.com/photos/a-person-holding-their-hands-under-a-stream-of-water-kDxqbAvEBwI",
+      "rights": "Unsplash licence; website use allowed; no endorsement",
+      "licenseUrl": "https://unsplash.com/license",
+      "credit": "Nathan Dumlao / Unsplash",
+      "checked": "2026-10-10",
+      "purpose": "Human context on Home, not a product image",
+      "derivative": true,
+      "adaptation": "Full-frame resize and WebP encoding; metadata removed; responsive CSS crop on site",
+      "sha256": "bdaaa62014131fa5b7638a2a980ed3fbdbefd413a435c4768342106fd5d34ae0",
+      "bytes": 21472,
+      "publicationStatus": "approved for representative deployment"
+    },
+    {
+      "path": "theme/glowwise/assets/editorial/hands-water-960.webp",
+      "kind": "Licensed editorial photograph; responsive derivative",
+      "source": "https://unsplash.com/photos/a-person-holding-their-hands-under-a-stream-of-water-kDxqbAvEBwI",
+      "rights": "Unsplash licence; website use allowed; no endorsement",
+      "licenseUrl": "https://unsplash.com/license",
+      "credit": "Nathan Dumlao / Unsplash",
+      "checked": "2026-10-10",
+      "purpose": "Human context on Home, not a product image",
+      "derivative": true,
+      "adaptation": "Full-frame resize and WebP encoding; metadata removed; responsive CSS crop on site",
+      "sha256": "045a2b9c62c7f3240c118c771d4c656722ceb9982098ce6673d67a52c6e8692f",
+      "bytes": 55282,
+      "publicationStatus": "approved for representative deployment"
+    },
+    {
+      "path": "content/licensed-media/plum-rice-water-50g.webp",
+      "kind": "Exact product outer-carton photograph",
+      "productSlug": "plum-rice-water-spf-50",
+      "variant": "50 g",
+      "source": "https://world.openbeautyfacts.org/cgi/product_image.pl?code=8904430201070&id=front_en",
+      "rights": "CC BY-SA 3.0 Unported; attribution and share-alike retained",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "credit": "abhi127 / Open Beauty Facts",
+      "checked": "2026-10-10",
+      "derivative": true,
+      "adaptation": "Full-frame 1200x1600 WebP resize, metadata stripped; no retouching",
+      "sha256": "3ad26a9aae825452c5ec4997656ac1f6a343f01ce5233f0820e4c85cbcbb17a5",
+      "bytes": 105918,
+      "publicationStatus": "approved exact 50 g only; native upload pending"
+    },
+    {
+      "path": "theme/glowwise/visuals.php",
+      "kind": "Six original labelled category line icons",
+      "source": "Original project vector paths, 10 October 2026",
+      "rights": "Imagine Utopia project code under GPL-2.0-or-later; no third-party icon dependency",
+      "derivative": false,
+      "checked": "2026-10-10",
+      "publicationStatus": "representative deployed"
     }
   ],
   "dependencyRights": [
@@ -165,5 +259,11 @@
       "source": "https://github.com/evanw/esbuild/blob/main/LICENSE.md"
     }
   ],
-  "updatedUTC": "2026-10-09T20:56:44.552229+00:00"
+  "updatedUTC": "2026-10-10T03:31:33.816760+00:00",
+  "visualRefinementHistory": [
+    {
+      "date": "2026-10-10",
+      "change": "Retired glossy decorative artwork without deleting originals; licensed editorial photo and one exact product photograph added. Brand photo permissions unavailable for 35 other families."
+    }
+  ]
 }

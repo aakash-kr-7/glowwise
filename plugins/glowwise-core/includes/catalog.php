@@ -3,7 +3,7 @@ if (!defined('ABSPATH')) { exit; }
 function gw_product($id) {
     $p=get_post($id);if (!$p || $p->post_type!=='gw_product' || $p->post_status!=='publish') { return null; }
     $d=get_post_meta($p->ID,'_gw_data',true);if (is_wp_error(gw_validate_product($d))) { return null; }
-    return ['id'=>$p->ID,'slug'=>$p->post_name,'name'=>html_entity_decode(get_the_title($p),ENT_QUOTES|ENT_HTML5,'UTF-8'),'url'=>get_permalink($p)]+$d;
+    return ['id'=>$p->ID,'slug'=>$p->post_name,'name'=>html_entity_decode(get_the_title($p),ENT_QUOTES|ENT_HTML5,'UTF-8'),'url'=>get_permalink($p),'imageAssets'=>gw_product_images($p->ID,$d),'imageRights'=>'Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.']+$d;
 }
 function gw_catalog() {
     $ids=get_posts(['post_type'=>'gw_product','post_status'=>'publish','numberposts'=>200,'fields'=>'ids','orderby'=>'title','order'=>'ASC','suppress_filters'=>false]);

@@ -10,6 +10,7 @@ if (!defined('ABSPATH')) { exit; }
 define('GW_CORE_VERSION', '1.0.0');
 define('GW_CORE_DIR', __DIR__);
 require_once __DIR__ . '/includes/model.php';
+require_once __DIR__ . '/includes/media.php';
 require_once __DIR__ . '/includes/catalog.php';
 require_once __DIR__ . '/includes/contact.php';
 require_once __DIR__ . '/includes/seo.php';

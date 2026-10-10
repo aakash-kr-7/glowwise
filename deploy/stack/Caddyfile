@@ -30,9 +30,9 @@ glowwise.tech {
   # The imported credential file remains private and is never in Git.
   # import /run/secrets/development-auth
   # HTML/API/admin remain private. Only reviewed public theme assets may cache.
-  @dynamic not path_regexp publicAsset ^/wp-content/themes/glowwise/assets/.*\.(css|js|svg|woff2)$
+  @dynamic not path_regexp publicAsset ^/wp-content/themes/glowwise/assets/.*\.(css|js|svg|woff2|webp|avif|jpg|jpeg|png)$
   header @dynamic Cache-Control "private, no-store"
-  @static path_regexp publicAsset ^/wp-content/themes/glowwise/assets/.*\.(css|js|svg|woff2)$
+  @static path_regexp publicAsset ^/wp-content/themes/glowwise/assets/.*\.(css|js|svg|woff2|webp|avif|jpg|jpeg|png)$
   header @static {
     Cache-Control "public, max-age=86400"
     Access-Control-Allow-Origin "*"
