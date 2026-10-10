@@ -30,3 +30,5 @@ input:not([type=checkbox]),select,textarea{border-color:var(--ink-muted)}input[t
 
 /* Preserve readable fact columns within the existing article scroll region. */
 .article-body{min-width:0}.prose .editorial-table{min-width:700px}.prose .table-wrap:focus-visible{outline:3px solid var(--ink);outline-offset:4px}
+
+.prose .editorial-table th a{display:inline-block}
