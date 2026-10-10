@@ -1,0 +1,89 @@
+[
+  {
+    "id": "DEMO-01",
+    "path": "Documentation/References/Deployment/Demo_Media/acceptance.json",
+    "savedUTC": "2026-10-10T10:09:17.777987+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "capturedUTC": "2026-10-10T10:04:38.478592+00:00",
+    "purpose": "Actual native photo, founder byline/schema and content acceptance"
+  },
+  {
+    "id": "DEMO-02",
+    "path": "Documentation/References/Deployment/Demo_Media/after-fragrance-desktop.png",
+    "savedUTC": "2026-10-10T10:09:17.778988+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "purpose": "Actual after fragrance desktop screenshot; capture adjacent to saved time"
+  },
+  {
+    "id": "DEMO-03",
+    "path": "Documentation/References/Deployment/Demo_Media/after-guide-mobile.png",
+    "savedUTC": "2026-10-10T10:09:17.778988+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "purpose": "Actual after guide mobile screenshot; capture adjacent to saved time"
+  },
+  {
+    "id": "DEMO-04",
+    "path": "Documentation/References/Deployment/Demo_Media/after-product-mobile.png",
+    "savedUTC": "2026-10-10T10:11:23.526179+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "purpose": "Actual after product mobile screenshot; capture adjacent to saved time"
+  },
+  {
+    "id": "DEMO-05",
+    "path": "Documentation/References/Deployment/Demo_Media/backup-source.json",
+    "savedUTC": "2026-10-10T10:09:17.780987+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "capturedUTC": "2026-10-10T10:06:58.519722+00:00",
+    "purpose": "Every actual custom theme/core source, licensed font and generated asset in the final UpdraftPlus archives matches the live deployment; archive names/content stay private"
+  },
+  {
+    "id": "DEMO-06",
+    "path": "Documentation/References/Deployment/Demo_Media/backup.json",
+    "savedUTC": "2026-10-10T10:09:17.779988+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "capturedUTC": "2026-10-10T10:06:58.377792+00:00",
+    "purpose": "Actual private full UpdraftPlus archive verification and isolated SQL restore; live DB unchanged; no raw backup content/filename/credentials"
+  },
+  {
+    "id": "DEMO-07",
+    "path": "Documentation/References/Deployment/Demo_Media/browser-checks.json",
+    "savedUTC": "2026-10-10T10:09:17.777987+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "capturedUTC": "2026-10-10T10:06:21.291Z",
+    "purpose": "Actual mobile founder bylines and photographed product/save/compare observations"
+  },
+  {
+    "id": "DEMO-08",
+    "path": "Documentation/References/Deployment/Demo_Media/cost.json",
+    "savedUTC": "2026-10-10T10:09:17.780987+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "capturedUTC": "2026-10-10T10:06:58.589074+00:00",
+    "purpose": "cost"
+  },
+  {
+    "id": "DEMO-09",
+    "path": "Documentation/References/Deployment/Demo_Media/media-integration.json",
+    "savedUTC": "2026-10-10T10:12:00.676140+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "capturedUTC": "2026-10-10T10:10:55+00:00",
+    "purpose": "Non-destructive native photo metadata/security integration checks"
+  },
+  {
+    "id": "DEMO-10",
+    "path": "Documentation/References/Deployment/Demo_Media/recovery.json",
+    "savedUTC": "2026-10-10T10:09:58.489866+00:00",
+    "privacy": "Public website/source/aggregate checks only; no account, contact message, password or raw backup",
+    "limitation": "Scope is the adjacent named check; screenshots are genuine browser captures, not reconstructed",
+    "capturedUTC": "2026-10-10T10:07:58.995735+00:00",
+    "purpose": "Verified private full Updraft backup copied off VM; owner/SYSTEM-only directory; raw backup excluded from Git"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "capturedUTC": "2026-10-10T10:10:55+00:00",
+  "purpose": "Non-destructive native photo metadata/security integration checks",
+  "checks": [
+    {
+      "test": "CC photo stays on 50 g; brand demo photos have distinct pack records",
+      "pass": true
+    },
+    {
+      "test": "Photo has native responsive dimensions and attribution",
+      "pass": true
+    },
+    {
+      "test": "Wrong pack rejected",
+      "pass": true
+    },
+    {
+      "test": "Unsafe source rejected",
+      "pass": true
+    },
+    {
+      "test": "Future rights check rejected",
+      "pass": true
+    },
+    {
+      "test": "Product post cannot impersonate photo attachment",
+      "pass": true
+    },
+    {
+      "test": "Empty image record is an honest valid fallback",
+      "pass": true
+    },
+    {
+      "test": "Anonymous/invalid nonce cannot replace image metadata",
+      "pass": true
+    },
+    {
+      "test": "Catalogue counts and exact selected pack are unchanged",
+      "pass": true
+    }
+  ]
+}
