@@ -27,3 +27,6 @@
 input:not([type=checkbox]),select,textarea{border-color:var(--ink-muted)}input[type=checkbox]{accent-color:var(--brand)}
 
 @media(min-width:901px){.js .menu-toggle{display:none}}
+
+/* Preserve readable fact columns within the existing article scroll region. */
+.prose .editorial-table{min-width:700px}.prose .table-wrap:focus-visible{outline:3px solid var(--ink);outline-offset:4px}

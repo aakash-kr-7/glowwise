@@ -68,10 +68,14 @@ for g in guides:
     paragraphs=[f'<h2>The decision this guide helps you make</h2><p>{E(g["opening"])}</p>',
        '<h2>How we selected and ordered the recommendations</h2>',f'<p>{E(g["selection"])}</p>',
        '<p>Imagine Utopia’s Glowwise editorial research uses identified manufacturer pages and Indian product listings, checked on 10 October 2026. We have not purchased or personally tested these products. Prices are dated item-price observations, excluding delivery and conditional coupons. The order makes a stated buying preference visible; it is not a hidden numerical score.</p>',
-       '<h2>The shortlist at a glance</h2><div class="table-wrap" tabindex="0" role="region" aria-label="Scrollable shortlist"><table><caption>Exact first-listed pack; checked 10 October 2026. Stock can change.</caption><thead><tr><th scope="col">Product / reason</th><th scope="col">Pack</th><th scope="col">INR</th><th scope="col">Stock at check</th></tr></thead><tbody>']
+       '<h2>The shortlist at a glance</h2><div class="table-wrap" tabindex="0" role="region" aria-label="Scrollable shortlist"><table class="editorial-table"><caption>Exact first-listed pack; checked 10 October 2026. Stock can change. Swipe or use the keyboard to scroll on narrow screens.</caption><thead><tr><th scope="col">Product / reason</th><th scope="col">Pack</th><th scope="col">INR</th><th scope="col">Verified distinctions</th><th scope="col">Stock at check</th></tr></thead><tbody>']
     for slug in g['items']:
         p=products[slug];v=p['data']['variants'][0];n=notes[slug]
-        paragraphs.append(f'<tr><th scope="row"><a href="/products/{slug}/">{E(p["title"])}</a><br>{E(n["label"])}</th><td>{E(v["label"])}</td><td>₹{v["price"]:g}</td><td>{E(v["availability"])}</td></tr>')
+        attrs=p['data']['attributes']
+        keys={'sunscreen':['spf','uva-rating','finish','fragrance-free'],'shampoo':['named-ingredients','fragrance-free'],'body-lotion':['named-ingredients','fragrance-free'],'eau-de-parfum':['top-notes','heart-notes'],'beard-trimmer':['model','manufacturer-runtime','charging','cleaning'],'beard-oil':['format','named-ingredients','named-oils','purpose'],'face-cleanser':['texture','ph','fragrance-free']}[p['data']['type']]
+        facts='; '.join(k.replace('-',' ')+': '+('Not verified' if attrs.get(k)=='unknown' else attrs[k]) for k in keys if k in attrs)
+        stock='Unavailable at check' if any(term in v['availability'].lower() for term in ['out of stock','coming back','sold out']) else 'Listed for purchase'
+        paragraphs.append(f'<tr><th scope="row"><a href="/products/{slug}/">{E(p["title"])}</a><br>{E(n["label"])}</th><td>{E(v["label"])}</td><td>₹{v["price"]:g}</td><td>{E(facts)}</td><td>{E(stock)}</td></tr>')
     paragraphs.append('</tbody></table></div><p>Open a product to select another verified pack. An unavailable item’s displayed price is a reference, not an offer. We do not compare grams with millilitres as though they were the same unit.</p>')
     for i,slug in enumerate(g['items'],1):
         p=products[slug];n=notes[slug];d=p['data']

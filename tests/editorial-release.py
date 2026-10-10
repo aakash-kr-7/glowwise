@@ -31,7 +31,7 @@ for g in guides:
  check(g['slug']+' every substantive product section published',all(''.join(re.findall(r'[A-Za-z0-9]+',html.unescape(re.sub('<[^>]+>',' ',s)))) in ''.join(re.findall(r'[A-Za-z0-9]+',html.unescape(re.sub('<[^>]+>',' ',body)))) for s in re.findall(r'<p>(.*?)</p>',g['html'],re.S)))
  check(g['slug']+' complete recommendations and supporting references',all('/products/'+slug+'/' in body for slug in g['guide_products']) and 'Supporting references' in body and 'Common questions' in body)
  check(g['slug']+' single correct canonical and single schema graph',re.findall(r'<link rel="canonical" href="([^"]+)"',body)==[origin+path] and len(re.findall(r'<script type="application/ld\+json"',body))==1)
- check(g['slug']+' indexable article and private HTML cache policy','noindex' not in re.search(r'<meta name="robots" content="([^"]+)"',body).group(1) and 'no-store' in headers.get('Cache-Control',''))
+ check(g['slug']+' indexable article and private HTML cache policy','noindex' not in re.search(r"<meta name=['\"]robots['\"] content=['\"]([^'\"]+)",body).group(1) and 'no-store' in headers.get('Cache-Control',''))
 out={'capturedUTC':datetime.datetime.now(datetime.timezone.utc).isoformat(),'purpose':'Actual published editorial source/ID/variant/body/metadata consistency; no forms or private data','products':len(live),'guides':len(guides),'checks':checks,'limitations':['No real purchase or delivery-postcode transaction','External source verification is recorded separately','Browser reading/reflow and image rights are separate observations']}
 dest=ROOT/'.local/deployment/editorial-http.json';dest.write_bytes((json.dumps(out,indent=2)+'\n').encode('utf-8'))
 print('PASS',len(checks),'live editorial assertions; 40 products and seven guides.')
