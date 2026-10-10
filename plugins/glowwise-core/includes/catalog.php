@@ -3,7 +3,7 @@ if (!defined('ABSPATH')) { exit; }
 function gw_product($id) {
     $p=get_post($id);if (!$p || $p->post_type!=='gw_product' || $p->post_status!=='publish') { return null; }
     $d=get_post_meta($p->ID,'_gw_data',true);if (is_wp_error(gw_validate_product($d))) { return null; }
-    return ['id'=>$p->ID,'slug'=>$p->post_name,'name'=>html_entity_decode(get_the_title($p),ENT_QUOTES|ENT_HTML5,'UTF-8'),'url'=>get_permalink($p),'imageAssets'=>gw_product_images($p->ID,$d),'imageRights'=>'Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.']+$d;
+    return ['id'=>$p->ID,'slug'=>$p->post_name,'name'=>html_entity_decode(get_the_title($p),ENT_QUOTES|ENT_HTML5,'UTF-8'),'url'=>get_permalink($p),'imageAssets'=>gw_product_images($p->ID,$d),'imageRights'=>'Variant-specific photographs with source and rights status; brand photographs are used for the owner-requested demo without an independently verified reuse licence. Missing variants use a disclosed fallback.']+$d;
 }
 function gw_catalog() {
     $ids=get_posts(['post_type'=>'gw_product','post_status'=>'publish','numberposts'=>200,'fields'=>'ids','orderby'=>'title','order'=>'ASC','suppress_filters'=>false]);
@@ -28,7 +28,7 @@ function gw_match_product($p,$f) {
     if ($f['fragrance-free']==='yes' && ($p['attributes']['fragrance-free']??'unknown')!=='yes') { return null; }
     if ($f['finish'] && ($p['attributes']['finish']??'unknown')!==$f['finish']) { return null; }
     $p['selectedVariant']=$eligible[0];$reasons=['Published, source-checked '.$p['type'].' record'];
-    if ($f['max-price']) { $reasons[]='Checked '.$eligible[0]['label'].' price ₹'.number_format($eligible[0]['price']).' fits your ₹'.number_format($f['max-price']).' item budget'; }
+    if ($f['max-price']) { $reasons[]='Checked '.$eligible[0]['label'].' price â‚¹'.number_format($eligible[0]['price']).' fits your â‚¹'.number_format($f['max-price']).' item budget'; }
     if ($f['fragrance-free']) { $reasons[]='The source labels this formulation fragrance free'; }
     if ($f['finish']) { $reasons[]='Source-described '.$f['finish'].' finish'; }
     $p['matchReasons']=$reasons;return $p;

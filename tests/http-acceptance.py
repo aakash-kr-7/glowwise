@@ -52,7 +52,7 @@ for path in dict.fromkeys(paths):
     if path in guide_paths:
         articles=[n for n in nodes if n.get('@type')=='Article']
         pages=[n for n in nodes if n.get('@type')=='WebPage']
-        check(path+' uses a coherent editorial Article/WebPage author',len(articles)==1 and articles[0].get('author',{}).get('name')=='Glowwise Editorial' and len(pages)==1 and pages[0].get('author',{}).get('name')=='Glowwise Editorial' and not any(n.get('@type')=='Person' for n in nodes))
+        check(path+' uses a coherent editorial Article/WebPage author',len(articles)==1 and articles[0].get('author',{}).get('name') in ['Aakash Kumar','Disa Bandhu'] and len(pages)==1 and pages[0].get('author',{}).get('name')==articles[0].get('author',{}).get('name') and not any(n.get('@type')=='Person' for n in nodes))
     if path.startswith('/products/'):
         products=[n for n in nodes if n.get('@type')=='Product']
         check(path+' product has no invented offer/rating',len(products)==1 and not any(k in products[0] for k in ['offers','aggregateRating','review']))

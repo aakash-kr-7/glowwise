@@ -6,7 +6,7 @@ function gw_archive_metadata() {
     if (is_tax('gw_category')) { $term=get_queried_object();return [$term->name.' products and guides | Glowwise',wp_strip_all_tags($term->description)]; }
     return null;
 }
-add_filter('wpseo_title',function($title) { $meta=gw_archive_metadata();$page=max(1,(int)get_query_var('paged'));return $meta?$meta[0].($page>1?' · Page '.$page:''):$title; });
+add_filter('wpseo_title',function($title) { $meta=gw_archive_metadata();$page=max(1,(int)get_query_var('paged'));return $meta?$meta[0].($page>1?' Â· Page '.$page:''):$title; });
 add_filter('wpseo_breadcrumb_links',function($links) {
     if (is_singular('gw_product')) { $product=gw_product(get_queried_object_id());if ($product) { return [['url'=>home_url('/'),'text'=>'Home'],['url'=>home_url('/categories/'),'text'=>'Categories'],['url'=>home_url('/categories/'.$product['category'].'/'),'text'=>gw_categories()[$product['category']]],['text'=>$product['name']]]; } }
     return $links;
@@ -14,7 +14,7 @@ add_filter('wpseo_breadcrumb_links',function($links) {
 function gw_archive_description($description) { $meta=gw_archive_metadata();$page=max(1,(int)get_query_var('paged'));return $meta?$meta[1].($page>1?' Browse page '.$page.' of the edit.':''):$description; }
 add_filter('wpseo_metadesc','gw_archive_description');
 add_filter('wpseo_opengraph_desc','gw_archive_description');
-add_filter('wpseo_opengraph_title',function($title) { $meta=gw_archive_metadata();$page=max(1,(int)get_query_var('paged'));return $meta?$meta[0].($page>1?' · Page '.$page:''):$title; });
+add_filter('wpseo_opengraph_title',function($title) { $meta=gw_archive_metadata();$page=max(1,(int)get_query_var('paged'));return $meta?$meta[0].($page>1?' Â· Page '.$page:''):$title; });
 function gw_utility_noindex() {
     return is_search() || is_author() || is_date() || is_tag() || is_page(['finder','compare','saved','privacy','terms','cookies-and-storage','sitemap']) || (is_post_type_archive('gw_product') && count(array_intersect(array_keys($_GET),['q','category','type','max-price','fragrance-free','finish','sort']))>0);
 }
@@ -26,16 +26,16 @@ add_filter('wpseo_canonical',function($url) {
     return $url;
 });
 add_filter('wpseo_schema_organization',function($data) { $data['name']='Imagine Utopia';$data['founder']=[['@type'=>'Person','name'=>'Aakash Kumar'],['@type'=>'Person','name'=>'Disa Bandhu']];unset($data['address'],$data['sameAs'],$data['email'],$data['telephone']);return $data; });
-add_filter('wpseo_schema_article',function($data) { $data['author']=['@type'=>'Organization','name'=>'Glowwise Editorial','url'=>home_url('/how-we-select/')];return $data; });
+add_filter('wpseo_schema_article',function($data) { $data['author']=gw_editorial_author_schema(get_queried_object_id());return $data; });
 add_filter('wpseo_schema_graph',function($graph,$context) {
     $organizationID=home_url('/').'#organization';$hasOrganization=false;
     foreach ($graph as &$node) {
         if (($node['@type']??'')==='Organization') { $hasOrganization=true;$organizationID=$node['@id']; }
         if (($node['@type']??'')==='WebSite') { $node['publisher']=['@id'=>$organizationID]; }
-        if (is_singular('post') && ($node['@type']??'')==='WebPage') { $node['author']=['@type'=>'Organization','name'=>'Glowwise Editorial','url'=>home_url('/how-we-select/')]; }
+        if (is_singular('post') && ($node['@type']??'')==='WebPage') { $node['author']=gw_editorial_author_schema(get_queried_object_id()); }
     }unset($node);
     if (!$hasOrganization) { $graph[]=['@type'=>'Organization','@id'=>$organizationID,'name'=>'Imagine Utopia','url'=>home_url('/about/'),'founder'=>[['@type'=>'Person','name'=>'Aakash Kumar'],['@type'=>'Person','name'=>'Disa Bandhu']]]; }
-    // An editorial organization byline must not leave a personal account node behind.
+    // Remove account-derived Person nodes; the explicit public founder author is inline.
     if (is_singular('post')) { $graph=array_values(array_filter($graph,fn($node)=>($node['@type']??'')!=='Person')); }
     if (is_singular('gw_product')) { $p=gw_product(get_queried_object_id());if ($p) { $graph[]=['@type'=>'Product','@id'=>$p['url'].'#product','url'=>$p['url'],'name'=>$p['name'],'description'=>$p['summary'],'brand'=>['@type'=>'Brand','name'=>$p['brand']],'category'=>gw_types()[$p['type']]]; } }
     return $graph;

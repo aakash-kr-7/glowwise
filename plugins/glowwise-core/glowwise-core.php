@@ -13,6 +13,7 @@ require_once __DIR__ . '/includes/model.php';
 require_once __DIR__ . '/includes/media.php';
 require_once __DIR__ . '/includes/catalog.php';
 require_once __DIR__ . '/includes/contact.php';
+require_once __DIR__ . '/includes/editorial.php';
 require_once __DIR__ . '/includes/seo.php';
 register_activation_hook(__FILE__, function () {
     gw_register_model();

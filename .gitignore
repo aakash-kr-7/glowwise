@@ -23,6 +23,7 @@ backups/
 wp-content/uploads/
 wp-content/cache/
 wp-content/upgrade/
+content/demo-media/
 
 # Operating system and editor files
 .DS_Store
