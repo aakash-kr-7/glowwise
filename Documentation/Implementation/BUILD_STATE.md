@@ -12,7 +12,7 @@ Full Updraft verified **04:07 UTC**: isolated SQL restore retained 36 products, 
 
 Fresh **04:08 UTC**: same seven resources, spending protection On, DNS and trusted edge/origin TLS valid. Modeled lifetime consumption **US$0.5137**; current Azure billing unavailable. No new resources or paid assets. Original US$10 safeguards/lease remain: **16 October 09:31:49 IST**, retained disk/IP decision by 23 October. Charges continue after compute deallocation. Final documentation-only HEAD and all-blob deployment relation are recorded in the ignored final operator manifest and final reply, avoiding self-reference.
 
-Resume: documentation agent uses current visual evidence alongside preserved historical research. Remaining photographs need owner-owned exact-variant files or explicit reuse permission; no outreach/purchase is authorized by this handoff. Do not replace permission gaps with fabricated images or claim every product is photographed.
+Resume: documentation agent uses current visual evidence alongside preserved historical research. Read `.local/deployment/visual-final-published-deploy.json` for the actual final Git HEAD, tracked-blob verification and generated manifest hash; refresh Git/live state before later changes. Remaining photographs need owner-owned exact-variant files or explicit reuse permission; no outreach/purchase is authorized by this handoff. Do not replace permission gaps with fabricated images or claim every product is photographed.
 
 ## Completed documentation handoff â€” 10 October 2026 IST
 
