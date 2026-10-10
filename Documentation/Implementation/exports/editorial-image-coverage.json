@@ -1,0 +1,438 @@
+{
+  "capturedUTC": "2026-10-10T05:36:09.516111+00:00",
+  "purpose": "Fresh public exact-variant image rights/coverage companion to native facts export; no accounts/inbox/uploads inventory",
+  "families": 40,
+  "variants": 55,
+  "photographedFamilies": 1,
+  "photographedVariants": 1,
+  "products": [
+    {
+      "slug": "beardo-beard-hair-oil",
+      "id": 52,
+      "url": "https://glowwise.tech/products/beardo-beard-hair-oil/",
+      "variants": [
+        "50 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "beardo-godfather-oil",
+      "id": 50,
+      "url": "https://glowwise.tech/products/beardo-godfather-oil/",
+      "variants": [
+        "30ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "beardo-no-nonsense-shampoo",
+      "id": 36,
+      "url": "https://glowwise.tech/products/beardo-no-nonsense-shampoo/",
+      "variants": [
+        "200ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "bombay-beard-roll-on",
+      "id": 335,
+      "url": "https://glowwise.tech/products/bombay-beard-roll-on/",
+      "variants": [
+        "10 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "bombay-onion-beard-oil",
+      "id": 337,
+      "url": "https://glowwise.tech/products/bombay-onion-beard-oil/",
+      "variants": [
+        "30 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "minimalist-aquaporin-cleanser",
+      "id": 20,
+      "url": "https://glowwise.tech/products/minimalist-aquaporin-cleanser/",
+      "variants": [
+        "100 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "minimalist-b12-oat-cleanser",
+      "id": 18,
+      "url": "https://glowwise.tech/products/minimalist-b12-oat-cleanser/",
+      "variants": [
+        "120ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "minimalist-hydrating-factors-shampoo",
+      "id": 26,
+      "url": "https://glowwise.tech/products/minimalist-hydrating-factors-shampoo/",
+      "variants": [
+        "250 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "minimalist-light-fluid-spf-50",
+      "id": 6,
+      "url": "https://glowwise.tech/products/minimalist-light-fluid-spf-50/",
+      "variants": [
+        "30ml",
+        "50ml",
+        "100ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "minimalist-maleic-shampoo",
+      "id": 28,
+      "url": "https://glowwise.tech/products/minimalist-maleic-shampoo/",
+      "variants": [
+        "100 ml",
+        "250 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "minimalist-niacinamide-body-lotion",
+      "id": 38,
+      "url": "https://glowwise.tech/products/minimalist-niacinamide-body-lotion/",
+      "variants": [
+        "180 g"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "minimalist-salicylic-lha-cleanser",
+      "id": 22,
+      "url": "https://glowwise.tech/products/minimalist-salicylic-lha-cleanser/",
+      "variants": [
+        "100ml",
+        "250ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "minimalist-spf-50",
+      "id": 8,
+      "url": "https://glowwise.tech/products/minimalist-spf-50/",
+      "variants": [
+        "50g",
+        "100g",
+        "30g"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "minimalist-spf-60",
+      "id": 10,
+      "url": "https://glowwise.tech/products/minimalist-spf-60/",
+      "variants": [
+        "50 g"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-rice-water-face-wash",
+      "id": 24,
+      "url": "https://glowwise.tech/products/plum-rice-water-face-wash/",
+      "variants": [
+        "150 ml",
+        "100 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-rice-water-spf-50",
+      "id": 14,
+      "url": "https://glowwise.tech/products/plum-rice-water-spf-50/",
+      "variants": [
+        "80 g",
+        "50 g",
+        "30 g"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": {
+        "50 g": {
+          "src": "https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-768x1024.webp",
+          "width": 768,
+          "height": 1024,
+          "srcset": "https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-768x1024.webp 768w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-225x300.webp 225w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g-1152x1536.webp 1152w, https://glowwise.tech/wp-content/uploads/2026/10/glowwise-plum-rice-water-50g.webp 1200w",
+          "source": "https://world.openbeautyfacts.org/cgi/product_image.pl?code=8904430201070&id=front_en",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "checked": "2026-10-10",
+          "alt": "Plum Rice Water & Niacinamide 2% Hybrid Sunscreen SPF 50 PA++++ outer carton, 50 g, held in a shop",
+          "credit": "Photo: abhi127 / Open Beauty Facts",
+          "license": "CC BY-SA 3.0 · resized"
+        }
+      }
+    },
+    {
+      "slug": "plum-sheer-tinted-spf-50",
+      "id": 16,
+      "url": "https://glowwise.tech/products/plum-sheer-tinted-spf-50/",
+      "variants": [
+        "50 g"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-anti-dandruff-shampoo",
+      "id": 34,
+      "url": "https://glowwise.tech/products/plum-anti-dandruff-shampoo/",
+      "variants": [
+        "500 ml",
+        "250 ml",
+        "100 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-avocado-argan-shampoo",
+      "id": 32,
+      "url": "https://glowwise.tech/products/plum-avocado-argan-shampoo/",
+      "variants": [
+        "250 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-hawaiian-rumba-lotion",
+      "id": 44,
+      "url": "https://glowwise.tech/products/plum-hawaiian-rumba-lotion/",
+      "variants": [
+        "400 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-hazelnut-lotion",
+      "id": 48,
+      "url": "https://glowwise.tech/products/plum-hazelnut-lotion/",
+      "variants": [
+        "400 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-tropic-lotion",
+      "id": 46,
+      "url": "https://glowwise.tech/products/plum-tropic-lotion/",
+      "variants": [
+        "400 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-vanilla-caramello-lotion",
+      "id": 40,
+      "url": "https://glowwise.tech/products/plum-vanilla-caramello-lotion/",
+      "variants": [
+        "400 ml",
+        "200 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-vanilla-vibes-lotion",
+      "id": 42,
+      "url": "https://glowwise.tech/products/plum-vanilla-vibes-lotion/",
+      "variants": [
+        "400 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-coconut-peptides-shampoo",
+      "id": 30,
+      "url": "https://glowwise.tech/products/plum-coconut-peptides-shampoo/",
+      "variants": [
+        "250 ml",
+        "500 ml",
+        "750 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "plum-green-tea-zinc-spf-50",
+      "id": 12,
+      "url": "https://glowwise.tech/products/plum-green-tea-zinc-spf-50/",
+      "variants": [
+        "50 g",
+        "30 g"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "skinn-celeste-20ml",
+      "id": 60,
+      "url": "https://glowwise.tech/products/skinn-celeste-20ml/",
+      "variants": [
+        "20 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "skinn-nude-20ml",
+      "id": 64,
+      "url": "https://glowwise.tech/products/skinn-nude-20ml/",
+      "variants": [
+        "20 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "skinn-raw-20ml",
+      "id": 54,
+      "url": "https://glowwise.tech/products/skinn-raw-20ml/",
+      "variants": [
+        "20 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "skinn-sheer-20ml",
+      "id": 62,
+      "url": "https://glowwise.tech/products/skinn-sheer-20ml/",
+      "variants": [
+        "20 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "skinn-steele-20ml",
+      "id": 56,
+      "url": "https://glowwise.tech/products/skinn-steele-20ml/",
+      "variants": [
+        "20 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "skinn-verge-20ml",
+      "id": 58,
+      "url": "https://glowwise.tech/products/skinn-verge-20ml/",
+      "variants": [
+        "20 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "man-company-beard-oil",
+      "id": 339,
+      "url": "https://glowwise.tech/products/man-company-beard-oil/",
+      "variants": [
+        "30 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "ustraa-woody-beard-oil",
+      "id": 341,
+      "url": "https://glowwise.tech/products/ustraa-woody-beard-oil/",
+      "variants": [
+        "35 ml"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "vega-power-lite",
+      "id": 66,
+      "url": "https://glowwise.tech/products/vega-power-lite/",
+      "variants": [
+        "VHTH-38"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "vega-power-p1",
+      "id": 68,
+      "url": "https://glowwise.tech/products/vega-power-p1/",
+      "variants": [
+        "VHTH-25"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "vega-smartone-s2",
+      "id": 74,
+      "url": "https://glowwise.tech/products/vega-smartone-s2/",
+      "variants": [
+        "VHTH-31"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "vega-smartone-s3",
+      "id": 70,
+      "url": "https://glowwise.tech/products/vega-smartone-s3/",
+      "variants": [
+        "VHTH-36"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "vega-turbolite",
+      "id": 76,
+      "url": "https://glowwise.tech/products/vega-turbolite/",
+      "variants": [
+        "VHTH-41"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    },
+    {
+      "slug": "vega-turboone",
+      "id": 72,
+      "url": "https://glowwise.tech/products/vega-turboone/",
+      "variants": [
+        "VHTH-40"
+      ],
+      "imageRights": "Variant-specific licensed photographs where recorded; otherwise a disclosed typographic fallback.",
+      "imageAssets": []
+    }
+  ]
+}

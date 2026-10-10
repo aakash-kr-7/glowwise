@@ -2,13 +2,13 @@
 
 An editorial grooming discovery product for Indian young adults, published by Imagine Utopia. The approved product authority is `GLOWWISE_SOURCE_OF_TRUTH.md`. This repository contains the WordPress implementation and reviewed research facts; private infrastructure/account records and supplied third-party reference archives are excluded.
 
-The complete initial release is live at **https://glowwise.tech** with 36 verified product families and seven original guides. Native WordPress administration remains authenticated; public content is indexable while utility/filter states remain noindex. Start with `Documentation/Implementation/BUILD_STATE.md` and `Documentation/Deployment/OPERATIONS.md` for current acceptance, access and cost limits.
+The researched editorial release is live at **https://glowwise.tech** with 40 product families (36 core selections plus four retained cleansers), 55 identified variants and seven complete original guides. Exact-product destinations are recorded for all 40; only one exact-pack photograph has verified reuse rights. See `Documentation/Implementation/EDITORIAL_RELEASE_HANDOFF.md` for dated acceptance and the 39 remaining image-permission gaps. Native WordPress administration remains authenticated; public content is indexable while utility/filter states remain noindex. Start with `Documentation/Implementation/BUILD_STATE.md` and `Documentation/Deployment/OPERATIONS.md` for current acceptance, access and cost limits.
 
 ## Architecture
 
 - `plugins/glowwise-core`: persistent product data, taxonomies, validation, rules-based matching, published-only REST endpoints, private contact/correction inbox, retention and repeatable content import/export.
 - `theme/glowwise`: server-rendered presentation, editorial layouts, design tokens, responsive tools, browser-local shortlists and progressive JavaScript. Homepage copy is editable through Appearance → Customize; Posts, pages and product fact fields use native WordPress editing.
-- `content`: reviewed product facts, seven original guide HTML sources, support-page sources and the repeatable seed. Sources/check dates are part of every record. Products use original labelled non-packaging illustrations.
+- `content`: reviewed product facts, seven original guide HTML sources, support-page sources and the repeatable seed. Sources/check dates are part of every record. Product media uses separately stored, licensed exact-variant photographs where available and disclosed typographic fallbacks otherwise.
 - `deploy`: supported digest-pinned WordPress Apache/PHP, MariaDB and Caddy, Compose, private recovery/cost/cron scripts. Database, WordPress uploads and Caddy certificates persist in separate volumes. No database or development-server port is public.
 - `tooling`: deterministic artwork/content compilation and VM-only asset build. DM Serif Display and Manrope are self-hosted with SIL OFL notices. GSAP/ScrollTrigger decorates the homepage with normal scrolling, pause and reduced-motion support.
 
