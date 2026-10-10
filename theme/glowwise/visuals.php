@@ -18,6 +18,7 @@ function gw_product_media($p,$v,$detail=false) {
     foreach (array_keys($p['imageAssets']??[]) as $photoVariant) { if ($photoVariant!==$v['label']) { echo '<a class="media-variant-link" href="'.esc_url(add_query_arg('variant',$photoVariant,$p['url'])).'">See '.esc_html($photoVariant).' photo ↗</a>'; } }
     echo '</div>';
     if ($image) {
+        echo '<span class="photo-loading js-only" aria-hidden="true">Loading photograph…</span>';
         echo '<img data-product-photo src="'.esc_url($image['src']).'" srcset="'.esc_attr($image['srcset']).'" sizes="'.($detail?'(min-width: 900px) 45vw, 90vw':'(min-width: 900px) 30vw, (min-width: 600px) 45vw, 90vw').'" width="'.(int)$image['width'].'" height="'.(int)$image['height'].'" alt="'.esc_attr($image['alt']).'" loading="'.($detail?'eager':'lazy').'" decoding="async">';
         echo '<figcaption class="photo-credit"><a href="'.esc_url($image['source']).'" rel="external noopener">'.esc_html($image['credit']).'</a> · <a href="'.esc_url($image['licenseUrl']).'" rel="license">'.esc_html($image['license']).'</a></figcaption>';
     }

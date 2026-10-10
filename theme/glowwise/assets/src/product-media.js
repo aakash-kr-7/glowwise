@@ -5,10 +5,12 @@ export function productMedia(p,v,config){
  const otherPhotos=Object.keys(p.imageAssets||{}).filter(label=>label!==v.label).map(label=>{const link=new URL(p.url||config.home,config.home);link.searchParams.set('variant',label);return `<a class="media-variant-link" href="${safeURL(link.href,config.home)}">See ${escape(label)} photo ↗</a>`;}).join('');
  const identity=`<div class="product-identity" ${image?'hidden':''}><span class="identity-brand">${escape(p.brand)}</span><span class="identity-name">${escape(p.name)}</span><span class="identity-variant">${escape(type+' / '+v.label)}</span><span class="photo-status">Product photo unavailable</span>${otherPhotos}</div>`;
  if(!image)return `<figure class="product-media" data-product-media>${identity}</figure>`;
- return `<figure class="product-media has-photo" data-product-media>${identity}<img data-product-photo src="${safeURL(image.src,config.home)}" srcset="${escape(image.srcset||'')}" sizes="(min-width: 900px) 30vw, (min-width: 600px) 45vw, 90vw" width="${Number(image.width)||1200}" height="${Number(image.height)||1600}" alt="${escape(image.alt)}" loading="lazy" decoding="async"><figcaption class="photo-credit"><a href="${safeURL(image.source,config.home)}" rel="external noopener">${escape(image.credit)}</a> · <a href="${safeURL(image.licenseUrl,config.home)}" rel="license">${escape(image.license)}</a></figcaption></figure>`;
+ return `<figure class="product-media has-photo" data-product-media>${identity}<span class="photo-loading js-only" aria-hidden="true">Loading photograph…</span><img data-product-photo src="${safeURL(image.src,config.home)}" srcset="${escape(image.srcset||'')}" sizes="(min-width: 900px) 30vw, (min-width: 600px) 45vw, 90vw" width="${Number(image.width)||1200}" height="${Number(image.height)||1600}" alt="${escape(image.alt)}" loading="lazy" decoding="async"><figcaption class="photo-credit"><a href="${safeURL(image.source,config.home)}" rel="external noopener">${escape(image.credit)}</a> · <a href="${safeURL(image.licenseUrl,config.home)}" rel="license">${escape(image.license)}</a></figcaption></figure>`;
 }
 export function recoverPhoto(image){
+ readyPhoto(image);
  const figure=image.closest('[data-product-media]');if(!figure)return;
  image.hidden=true;figure.classList.remove('has-photo');figure.classList.add('image-failure');
  const identity=figure.querySelector('.product-identity');identity.hidden=false;identity.querySelector('.photo-status').textContent='Product photo could not load';
 }
+export function readyPhoto(image){const loading=image.closest('[data-product-media]')?.querySelector('.photo-loading');if(loading)loading.hidden=true;}

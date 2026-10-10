@@ -1,4 +1,4 @@
-import {productMedia,recoverPhoto} from './product-media.js';
+import {productMedia,recoverPhoto,readyPhoto} from './product-media.js';
 import {enableAnalytics,disableAnalytics,trackEvent} from './analytics.js';
 /* Progressive enhancement; all personal collections remain in this browser. */
 document.documentElement.classList.add('js');
@@ -53,3 +53,6 @@ window.addEventListener('storage',e=>{if(e.key==='gw_consent_v1'){consent=read(c
 // Capture handles errors from both server-rendered and asynchronously inserted photos.
 document.addEventListener('error',e=>{if(e.target instanceof HTMLImageElement&&e.target.matches('[data-product-photo]'))recoverPhoto(e.target);},true);
 $$('[data-product-photo]').filter(img=>img.complete&&!img.naturalWidth).forEach(recoverPhoto);
+
+document.addEventListener('load',e=>{if(e.target instanceof HTMLImageElement&&e.target.matches('[data-product-photo]'))readyPhoto(e.target);},true);
+$$('[data-product-photo]').filter(img=>img.complete&&img.naturalWidth).forEach(readyPhoto);
