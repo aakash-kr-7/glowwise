@@ -25,3 +25,4 @@
 .site-header>.brand{min-height:44px}
 .detail-art .product-identity{min-height:210px;gap:16px;padding:32px}.detail-art .identity-name{display:none}.detail-art .identity-brand{font-family:var(--font-display);font-size:38px;letter-spacing:-.02em;text-transform:none;font-weight:400;line-height:1.1}.detail-art .identity-variant{margin-top:0}.detail-art .photo-status{padding-top:0}.media-variant-link{font-size:12px;min-height:44px;display:inline-flex;align-items:center;line-height:1.5;align-self:start}
 .photo-loading{position:absolute;top:32px;left:24px;font:12px var(--font-body);color:var(--ink-muted);background:var(--surface);padding:8px;z-index:1}.loading-state:before{content:none;animation:none}.loading-state{display:grid;place-items:center;font-size:14px;background:var(--surface)}
+.detail-art .photo-loading{position:absolute;top:32px;bottom:auto;left:24px;font-size:12px}
