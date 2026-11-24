@@ -30,9 +30,33 @@ First run installs the Playground CLI into git-ignored `.runtime/`, builds asset
 - Keyboard/focus/reduced-motion not re-tested interactively this pass beyond existing unit tests; catalogue/compare/save logic is unmodified.
 - Audit issue table with severities, GSC/GA4, Updraft, GTmetrix: owner-side.
 
-## Owner steps, in order
-1. Review and open the PR from `milestone-2/website-polish`; merge.
-2. On the VM: `git pull`, `sudo bash deploy/scripts/build-assets.sh`, then `wp glowwise import /srv/glowwise/content/seed.json`.
-3. Read the JSON result. If it reports `editedSkipped` for `shampoo-for-dry-frizzy-hair`, `home` or `about`, someone edited them in WordPress. Either paste the new text into the editor by hand (Posts/Pages), or review the differences and then rerun with `--force` for only that decision (it overwrites the WordPress edit). Never use `--force` routinely.
-4. After deploy, capture: public PSI mobile (same URL as the baseline), Rich Results Test, rendered source of the guide on the live domain, GSC sitemap status, GA4 realtime.
-5. Take the UpdraftPlus backup and Drive link (Section 9).
+## Report draft (kept out of Git: it contains names and enrolment numbers)
+`CSET489_M2_114_Imagine Utopia_DRAFT.docx` is delivered directly, built from the official template (12 pages plus a one-page appendix, checked by exporting from Word). Yellow-highlighted text marks every pending item. Code and evidence are tied to tested revision `d7f7e1e`; later commits on the branch add only documentation and figures.
+Figures (`evidence/figures/`): 1 rendered SEO output, 2 sitemap, 3 article source with both outbound links, 4 local crawl summary, 5 home before/after.
+
+## Audit issues (report Sections 7-8)
+1 public site not responding (owner), 2 body outbound links (fixed), 3 thin Home copy (fixed), 4 no need/budget entry (partly proven), 5 mobile LCP about 2.7 s local (not addressed), 6 About internal links (fixed), 7 WP sample content in local install (check production).
+
+## Owner steps, in order (where each result goes in the Word template)
+**Before deployment**
+1. **Verify hosting.** glowwise.tech did not respond on 24-11-2026 and the Azure lease was recorded as ending 16-10-2026. Restore the VM or move to a static host, keeping HTTPS. Site must stay live to 31-12-2026. Goes in: Cover "Live Website URL and hosting"; Issue 1 row in Section 8.
+2. **Save the missing live "before" baseline on the current live site, before deploying:** PageSpeed Insights mobile for https://glowwise.tech/ (score, LCP, TBT, CLS, page size; note date/time and settings), GTmetrix mobile grade, and a live crawl (Screaming Frog or similar). Goes in: Section 2 "Before" cells (replace the 10-10-2026 values only if you keep the same settings), Section 7 audit-tool line.
+
+**Deploy and verify**
+3. Review and merge the PR from `milestone-2/website-polish`.
+4. On the host: pull, `sudo bash deploy/scripts/build-assets.sh`, then `wp glowwise import /srv/glowwise/content/seed.json`. Read the JSON summary. `editedSkipped` for `shampoo-for-dry-frizzy-hair`, `home` or `about` means a WordPress edit blocked the update: copy the new text in by hand, or review and rerun with `--force` for that decision only.
+5. Run the existing checks from the README (`core-integration.php`, `import-seo-integration.php`) and re-check the sitemap lists no WordPress sample pages (Issue 7).
+
+**Public evidence after deployment**
+6. PSI mobile again with identical settings, GTmetrix mobile, live crawl. Goes in: Section 2 "After", Section 8.
+7. Google Rich Results Test on https://glowwise.tech/guides/shampoo-for-dry-frizzy-hair/: record detected types, errors, warnings. Goes in: Section 1 schema paragraph.
+8. Open the live guide, view source, screenshot both anchors and their rel values (expected: none). Goes in: Section 4 (replace Figure 3 caption note).
+9. GSC: confirm Domain property and DNS verification, sitemap status, Pages report, then export Performance for an exact date range (impressions, clicks, CTR, position, top 5 queries, Milestone I flag). Write the 80-120-word interpretation; sparse data is fine. Goes in: Sections 5-6. GA4: confirm G-XC6V3MXTJP stream, accept consent on the live site and capture Realtime with an active user, confirm the custom event trigger and key-event status. Label test events as tests. Goes in: Section 5.
+
+**Backup and submission**
+10. Create a sanitized, restore-tested UpdraftPlus backup (never the production database, inbox or credentials), approve it, upload to Google Drive as "Anyone with the link", open it signed out in a private window. Record date, contents, size, link. Goes in: Section 9 and Cover. Link must stay public to 31-12-2026.
+11. Confirm contribution assignments and shares (each member leads at least one task; shares total 100%), submission date, AI-use table and declaration. Goes in: Cover, Section 11.
+12. Team leader exports `CSET489_M2_114.pdf` from Word after steps 1-11.
+
+## Report items still pending
+Hosting, submission date, contributions and shares, public PSI before/after, GTmetrix, Rich Results Test, live source screenshot, GSC property/sitemap/indexing/performance data, GA4 Realtime and event check, interpretation text, Updraft backup details, declaration.
