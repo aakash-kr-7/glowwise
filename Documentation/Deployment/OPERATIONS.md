@@ -1,5 +1,7 @@
 # Glowwise operations
 
+> **Release reference — 10 October 2026:** The current public product and media/byline evidence are in [DEMO_MEDIA_RELEASE](../Implementation/DEMO_MEDIA_RELEASE.md), published at `c55b1bd`. This document retains its original stage/configuration and cost dates; no new infrastructure change or performance measurement is implied.
+
 Updated 10 October 2026 IST. Live canonical origin: https://glowwise.tech. Initial release acceptance is recorded in ../Implementation/ACCEPTANCE_REPORT.md. The existing Azure VM is the development/runtime environment. US$10 total consumption is the lifetime authorization, including student credit.
 
 ## Secure access

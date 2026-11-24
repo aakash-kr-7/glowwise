@@ -1,5 +1,7 @@
 # Glowwise — Codex build, deployment and evaluation prompts
 
+> **Release reference — 10 October 2026:** The current public product and media/byline evidence are in [DEMO_MEDIA_RELEASE](../Implementation/DEMO_MEDIA_RELEASE.md), published at `c55b1bd`. This document retains its original stage/configuration and cost dates; no new infrastructure change or performance measurement is implied.
+
 Prepared: 9 October 2026.
 
 Use these five prompts **in order, in the same Codex chat**, with `C:\Users\aakash09\Desktop\Glowwise` open as the workspace. Paste one prompt at a time. Let Codex finish its stage and review its completion report before sending the next. If a stage has a genuine blocker, resolve that blocker before proceeding with dependent work.

@@ -1,5 +1,7 @@
 # Stage 1 access observations
 
+> **Release reference — 10 October 2026:** The current public product and media/byline evidence are in [DEMO_MEDIA_RELEASE](../Implementation/DEMO_MEDIA_RELEASE.md), published at `c55b1bd`. This document retains its original stage/configuration and cost dates; no new infrastructure change or performance measurement is implied.
+
 9 October 2026, Asia/Calcutta. Read-only checks made during the Stage 1 session (initial provider/DNS checks approximately 08:45–08:52 IST; Resources view confirmed again before finalization). This is a sanitized observation record, not a credential archive. Private account, tenant and subscription identifiers are intentionally omitted. Refresh these facts before execution.
 
 | ID | Surface and check | Current observation | Limit / next use |

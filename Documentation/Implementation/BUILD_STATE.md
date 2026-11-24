@@ -1,8 +1,19 @@
 # Current demonstration-media release — 10 October 2026
 
+## Current release reference — 10 October 2026
+
+[Media and editorial release](DEMO_MEDIA_RELEASE.md) is the current product record: **40 researched families, 55 variants, seven founder-credited guides; 40/40 families and 54/55 variants photographed**. Published revision `c55b1bdd181d30eaaa1dfae73e8494eef1b5d4d6`; tested application source `d5acbac678dab1e1790aa6632092d055ac19d7d4`. The 80 media/byline, 197 content and nine native media/security checks total 286 passing checks. Current mobile save/compare observations and matching private recovery are linked in that handoff.
+
+One Minimalist Maleic Shampoo 100 ml photo is unavailable. Brand images have source attribution and disclosed demo-use status without independently verified reuse permission. The licensed Plum 50 g carton is a separate record. Older counts, placeholders and in-progress-source warnings below are dated history, superseded for the current release. No fresh lab performance, organic traffic or hands-on testing is implied. The US$10 total ceiling and existing finite lease remain.
+
 [DEMO_MEDIA_RELEASE](DEMO_MEDIA_RELEASE.md) records the live photo/byline update: 40 photographed families, 54/55 variants, seven founder-credited researched guides; 80 new and 197 existing live checks pass. One Maleic 100 ml pack lacks a photo. Brand copyrights/permission gaps are disclosed; no open licence is invented. Existing design/tools, total US$10 ceiling and finite lease remain. Resume with the new handoff, refresh cost/access, and preserve the separate coursework edits below. Final revision/recovery verification is recorded in the handoff evidence and ignored operator manifest.
 
 # Glowwise build state
+
+## Milestone I coursework review — 10 October 2026
+
+The [formal review and submission index](../Milestone%201/00_Milestone_1_Review_and_Submission_Index.md) now owns coursework readiness. Ten criterion files are accounted for, including standalone SERP/competitor deliverables, a full SEO roadmap and an honest demo/submission record. Older sections below remain dated build history. Current 40-family/55-variant/seven-guide/63-sitemap-URL counts are corroborated by the public readback; K15 is held without an active owner. This documentation review did not edit runtime/infrastructure or original supplied reference/assets. The separate core/theme/media work is now deployed at c55b1bd and evidenced by the current media release. The earlier in-progress warning is superseded; existing deeper SSH/performance records remain separately dated. Human assessment/submission, sanitized public backup, owner identity and finite hosting lifecycle remain gates.
+
 
 
 ## Editorial release - 10 October 2026
@@ -34,7 +45,7 @@ Start with [FINAL_BUILD_HANDOFF.md](FINAL_BUILD_HANDOFF.md), then [EVIDENCE_INDE
 
 Fresh smoke/readback at 9 October21:37UTC /10 October03:07IST: actual homepage rendered anonymously, eight endpoints200, three services healthy, production indexing/timers active, authoritative/public DNS and trusted edge/origin TLS valid. Same seven Azure resources; spending protectionOn, modeledUS$0.3748/laggedactualINR10.56099557, guardcontinue. Native published export confirms36 products/seven guides/16 Pages. Earlier complete acceptance remains separately dated, not rerun by this document-only stage.
 
-Runtime/backup revision remains8222054f8d70042a3383012ec60a9b3b12235066; pre-handoff documentation HEAD2a21cbc432316042d828d1221d8bd55168fedf60. Final documentation-only push/deploy and all-blob match are recorded by local operator `Documentation/References/Deployment/2026-10-10_Handoff_Deployed.json`; final reply provides resulting SHA. Executable code/assets unchanged. Owner actions: hosting lifecycle before16October09:31:49IST, retained-resource decision by23October; submission identity/calendar deadline, human demo/submission, instructor backlink domains/publication permission and separately sanitized restore-tested public-backup sharing. No new resources/public backup/outreach/assessment completion claimed.
+Runtime/backup revision remains8222054f8d70042a3383012ec60a9b3b12235066; pre-handoff documentation HEAD2a21cbc432316042d828d1221d8bd55168fedf60. Final documentation-only push/deploy and all-blob match are recorded by local operator `Documentation/References/Deployment/2026-10-10_Handoff_Deployed.json`; final reply provides resulting SHA. Executable code/assets unchanged. Owner actions: hosting lifecycle before16October 09:31:49IST, retained-resource decision by23October; submission identity/calendar deadline, human demo/submission, instructor backlink domains/publication permission and separately sanitized restore-tested public-backup sharing. No new resources/public backup/outreach/assessment completion claimed.
 
 Prior implementation/recovery records below are preserved as dated history. Current handoff is the documentation-agent resume point; refresh live state and cumulative cost before any later operational action.
 

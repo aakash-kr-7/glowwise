@@ -1,5 +1,7 @@
 # Azure cost gate — 9 October 2026
 
+> **Release reference — 10 October 2026:** The current public product and media/byline evidence are in [DEMO_MEDIA_RELEASE](../Implementation/DEMO_MEDIA_RELEASE.md), published at `c55b1bd`. This document retains its original stage/configuration and cost dates; no new infrastructure change or performance measurement is implied.
+
 Prepared before resource creation, before the successful 03:57 UTC / 09:27 IST VM creation (the earlier approximate 09:35 label was corrected during final handoff). Owner authorization: Stage 2 infrastructure, maximum **US$10 total lifetime consumption**, including student-credit consumption. This estimate is not a provider quote or a custom spending cap.
 
 ## Verified candidate

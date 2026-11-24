@@ -1,14 +1,25 @@
 # Glowwise — Source of Truth
 
 **Status:** Agreed product definition  
-**Version:** 1.1  
+**Version:** 1.2  
 **Agreed and saved:** 8 October 2026  
-**Owner amendments recorded:** 9 October 2026  
+**Owner amendments recorded:** 9–10 October 2026  
 **Project root:** `C:\Users\aakash09\Desktop\Glowwise`
 
 This document is the definitive reference for the Glowwise product: its purpose, audience, experience, design, functionality, architecture, deployment direction, quality standards and remaining work. The product definition was agreed through an interactive review with the project owner.
 
-Approval of this document establishes the intended product. It does not mean the website has been implemented, deployed or verified. Implementation status and evidence must be recorded accurately as work proceeds.
+Approval establishes the intended product. The initial definition alone was not implementation evidence; Glowwise is now deployed, with current release facts recorded below and dated handoffs supporting them.
+
+## Current implementation and owner amendments — 10 October 2026
+
+Glowwise is publicly deployed at [glowwise.tech](https://glowwise.tech/). Current published revision: `c55b1bdd181d30eaaa1dfae73e8494eef1b5d4d6`. The [media release](Documentation/Implementation/DEMO_MEDIA_RELEASE.md) and [Milestone I index](<Documentation/Milestone 1/00_Milestone_1_Review_and_Submission_Index.md>) are the implementation/evidence references. Older planned-acceptance and remaining-work paragraphs retain their original planning context.
+
+- 40 researched families, 55 exact variants and seven substantial guides across six categories; original IDs/URLs and working tools retained.
+- Equal mobile and desktop information/functionality remains mandatory. Seven mobile guide bodies/bylines and photographed save/compare journeys have dated browser evidence; a full physical-device/assistive-technology matrix remains incomplete.
+- The owner requested real product photographs and more tasteful imagery. All 40 families and 54/55 variants are pictured; Minimalist Maleic Shampoo 100 ml remains a disclosed fallback. Added brand photographs have source attribution and demo-use notices. Copyright is retained by their owners; no open licence or separate permission is inferred. The preserved Plum 50 g outer carton has its own recorded CC BY-SA licence. Verified rights for a continuing public release remain a dependency.
+- Aakash Kumar is credited for hair/beard/trimmer guides; Disa Bandhu for skin/body/fragrance guides. Credits are editable public editorial metadata, independent of login accounts. AI-assisted drafting and published-source research are disclosed; no purchase, laboratory testing or personal-use claims are made.
+- 286 checks passed across media/byline, content consistency and native media/security sets. These are scoped results, not a new performance/organic-results or accessibility-certification claim.
+- Matching private backup, isolated SQL restoration and off-VM checksum verification are recorded. Academic identity, actual submission/demo and a separately sanitized public-backup handoff remain pending. US$10 total safeguards and the existing 16 October lease remain; this amendment does not extend hosting or spend.
 
 ## 1. Canonical document and project foundation
 
@@ -360,7 +371,7 @@ There is no calendar schedule in this plan. Work proceeds by prerequisites and c
 | Accounts | Guest use; browser-local saved products. | Avoids unnecessary registration and account infrastructure. |
 | Brand | Retain Glowwise wordmark and monogram. | Builds on the existing identity. |
 | Visual direction | Warm editorial styling, teal/cream/apricot, DM Serif Display and Manrope. | Creates the agreed approachable and polished experience. |
-| Imagery | Accurate product imagery, licensed photography and original graphics. | Combines product clarity with a distinctive identity. |
+| Imagery | Accurate pack-specific product imagery, calm original graphics and licensed contextual photography; attributed brand photos for the current demonstration, with unverified permission disclosed. | Improves product recognition and records the owner-requested demo-use amendment without inventing reuse rights. |
 | Motion | Immersive scroll storytelling with responsive and reduced-motion adaptations. | Delivers the desired visual ambition while retaining usability. |
 | Devices | Equal support for mobile and desktop. | Ensures the complete experience works across screen sizes and input methods. |
 | Footer | Complete, functional navigation and relevant policy/support pages. | Makes project information, help and policies accessible throughout the site. |
@@ -370,7 +381,7 @@ There is no calendar schedule in this plan. Work proceeds by prerequisites and c
 | Cost | At most US$10 total Azure consumption for the project across all resources and time, preferably student credit; no card, paid subscription upgrade or unrelated paid service. | Supersedes the older zero-consumption constraint with the owner’s 9 October ceiling. |
 | Deployment direction | Existing glowwise.tech; active Azure for Students; Cloudflare; portable Compose / WordPress Apache-PHP / MariaDB / Caddy stack. | Uses the registered domain and assessed VPS route without duplicate purchase. |
 | Development location | Build, develop and run the website on the Azure VM; local source/docs/assets/tooling allowed. | Follows the owner’s 9 October operational decision. |
-| Publisher and founders | Imagine Utopia; Aakash Kumar and Disa Bandhu; Glowwise Editorial byline. | Establishes public attribution without inventing legal or contact facts. |
+| Publisher and founders | Imagine Utopia; founder bylines: Aakash Kumar for hair/beard/trimmers and Disa Bandhu for skin/body/fragrance. | Establishes public attribution without inventing legal or contact facts. |
 | Workflow | Product definition first; then criterion-by-criterion Milestone 1 work. | Keeps documentation, evidence and implementation coherent. |
 | Scheduling | Prerequisites and completion criteria without a calendar plan. | Reflects the owner’s requested working approach. |
 
@@ -382,3 +393,5 @@ External research and live design references supporting version 1.0 were reviewe
 |---|---|---|
 | 1.0 | 8 October 2026 | Saved the agreed product definition following interactive discovery, source review, research and final owner confirmation. No website implementation or deployment is claimed. |
 | 1.1 | 9 October 2026 | Recorded explicit owner amendments: registered glowwise.tech, repository/origin, publisher/founders, US$10 total Azure ceiling and Azure VM development location. Retained the selected architecture and unrelated product decisions. Added traceable Stage 1 handoff and certificate interpretation; no build, provisioning or publication performed. Earlier readiness remains historical. |
+
+| 1.2 | 10 October 2026 | Recorded the owner-requested tasteful imagery, real product photographs, founder credits and completed c55b1bd release; distinguished demo attribution from verified reuse permission and updated implementation/evidence references. |

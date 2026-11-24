@@ -1,10 +1,16 @@
 # Submission readiness
 
-10 October 2026 IST. This stage prepares implementation evidence, not a final academic report or completed submission. Original handbook §§4/Table 78/Table 86 governs assessment; [SOURCE_REVIEW](SOURCE_REVIEW.md) records extraction and inaccessible tutorial sources honestly.
+## Current release reference — 10 October 2026
+
+[Media and editorial release](DEMO_MEDIA_RELEASE.md) is the current product record: **40 researched families, 55 variants, seven founder-credited guides; 40/40 families and 54/55 variants photographed**. Published revision `c55b1bdd181d30eaaa1dfae73e8494eef1b5d4d6`; tested application source `d5acbac678dab1e1790aa6632092d055ac19d7d4`. The 80 media/byline, 197 content and nine native media/security checks total 286 passing checks. Current mobile save/compare observations and matching private recovery are linked in that handoff.
+
+One Minimalist Maleic Shampoo 100 ml photo is unavailable. Brand images have source attribution and disclosed demo-use status without independently verified reuse permission. The licensed Plum 50 g carton is a separate record. Older counts, placeholders and in-progress-source warnings below are dated history, superseded for the current release. No fresh lab performance, organic traffic or hands-on testing is implied. The US$10 total ceiling and existing finite lease remain.
+
+10 October 2026 IST. The implementation evidence and formal criterion review now support a consolidated academic report; no completed submission is claimed. Original handbook §§4/Table 78/Table 86 governs assessment; [SOURCE_REVIEW](SOURCE_REVIEW.md) records extraction and inaccessible tutorial sources honestly.
 
 | Requirement | State / owner action |
 |---|---|
-| Single structured PDF or DOCX | Pending documentation agent: combine all ten distinct M1 criteria, relevant tables/logs/screenshots/citations and honest limitations. Four existing research documents are preserved; remaining formal criterion files belong in original planning chat. |
+| Single structured PDF or DOCX | Ten formal criterion files and a consolidated local report are prepared; see the [review/index](../Milestone%201/00_Milestone_1_Review_and_Submission_Index.md). Owner identity/naming and actual upload remain pending. Final rendered layout is checked in the report evidence record; full backing logs/matrices remain linked locally. |
 | Live URL | https://glowwise.tech verified by fresh anonymous browser/HTTP; finite hosting lease, not indefinite availability. Check again immediately before assessment. |
 | Filename | `CSET489_SEO_Assignment_[RollNo]_[YourName].pdf`; owner supplies approved identity/roll details privately for the submission file. Do not add student identifiers to public Git/report screenshots by assumption. DOCX choice must follow instructor's accepted convention. |
 | Backup | Actual private full Updraft database/plugins/themes/uploads/others, plus infrastructure/certs/config/source and restricted off-VM copy verified H13. Raw production archives are unsuitable for public sharing. |

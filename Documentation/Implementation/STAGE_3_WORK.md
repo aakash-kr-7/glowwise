@@ -1,5 +1,11 @@
 # Stage 3 working handoff
 
+## Current release reference — 10 October 2026
+
+[Media and editorial release](DEMO_MEDIA_RELEASE.md) is the current product record: **40 researched families, 55 variants, seven founder-credited guides; 40/40 families and 54/55 variants photographed**. Published revision `c55b1bdd181d30eaaa1dfae73e8494eef1b5d4d6`; tested application source `d5acbac678dab1e1790aa6632092d055ac19d7d4`. The 80 media/byline, 197 content and nine native media/security checks total 286 passing checks. Current mobile save/compare observations and matching private recovery are linked in that handoff.
+
+One Minimalist Maleic Shampoo 100 ml photo is unavailable. Brand images have source attribution and disclosed demo-use status without independently verified reuse permission. The licensed Plum 50 g carton is a separate record. Older counts, placeholders and in-progress-source warnings below are dated history, superseded for the current release. No fresh lab performance, organic traffic or hands-on testing is implied. The US$10 total ceiling and existing finite lease remain.
+
 Updated 9 October 2026, 13:55 UTC. Read BUILD_STATE and Stage_3_2026-10-09.md first. Complete implementation is deployed in protected real WordPress; acceptance remains in progress because actual browser access is blocked.
 
 Done: custom theme/core, original identity/art/font tokens, 36 sourced product families, seven mapped original guides, 16 native pages, six hubs, tools/support/footer, private forms/retention/host cron, selected pinned plugins, VM builds, 46 core checks, 10 import/SEO checks, 335 HTTP assertions on 69 routes, private UpdraftPlus/isolated restore and infrastructure/off-VM recovery. Reviewed source pushed at runtime baseline 791f855; all 158 tracked VM files matched. Final private recovery/isolated restore and 107 MB off-VM copy passed; no public launch.

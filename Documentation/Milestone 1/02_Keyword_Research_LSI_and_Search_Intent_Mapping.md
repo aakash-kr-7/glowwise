@@ -1,5 +1,7 @@
 # Glowwise — Keyword Research, LSI & Search Intent Mapping
 
+> **Current release — 10 October 2026:** Glowwise is live with 40 researched product families, 55 variants and seven founder-credited guides. All 40 families have photographs; 54/55 exact variants are pictured. The Minimalist Maleic Shampoo 100 ml pack remains a labelled fallback. Brand photographs have source attribution and disclosed demo-use status; reuse permission has not been independently verified. Published revision: `c55b1bd`. See the [release handoff](../Implementation/DEMO_MEDIA_RELEASE.md) and [current report](MILESTONE_I_SUBMISSION_REPORT.md). Research estimates and older evidence retain their original dates.
+
 **Milestone 1 · Criterion 2 · 2 marks**  
 **Course:** CSET489 SEO Mini Project  
 **Research date:** 8 October 2026  
@@ -265,3 +267,8 @@ E03 records Ubersuggest’s English/India perfume estimate of 2.4K and SD 21. It
 E16 records questions, a guide result and brand/retailer destinations for the shampoo query. The snapshot informs mixed intent; it does not validate medical or product-performance claims in snippets.
 
 ![Google shampoo search showing questions, a guide and brand product destinations](<C:/Users/aakash09/Desktop/Glowwise/Documentation/References/Milestone 1/02 Keyword Research Intent Mapping/16-google-shampoo-questions-and-guides.jpg>)
+
+
+## 11. Release alignment — 10 October
+
+The original 15 K / 10 L research set and provider figures remain preserved. Current implementation uses 14 active K records plus ten related records. K15 is held because no verified Cetaphil product is in the catalog; it has no active owner. This is a selection refinement, not a fabricated replacement metric. The [current matrix](<../References/Milestone 1/00 Full Review/Current_Keyword_Intent_Ownership.csv>) includes explicit intent, historical source/evidence, duplicate relationships and current status. Seven guide owners are published; personal tools and arbitrary search/filter states are noindex. No new organic demand, rankings or audience results are claimed.

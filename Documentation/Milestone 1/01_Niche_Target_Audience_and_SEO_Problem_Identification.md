@@ -1,5 +1,7 @@
 # Glowwise — Niche, Target Audience & SEO Problem Identification
 
+> **Current release — 10 October 2026:** Glowwise is live with 40 researched product families, 55 variants and seven founder-credited guides. All 40 families have photographs; 54/55 exact variants are pictured. The Minimalist Maleic Shampoo 100 ml pack remains a labelled fallback. Brand photographs have source attribution and disclosed demo-use status; reuse permission has not been independently verified. Published revision: `c55b1bd`. See the [release handoff](../Implementation/DEMO_MEDIA_RELEASE.md) and [current report](MILESTONE_I_SUBMISSION_REPORT.md). Research estimates and older evidence retain their original dates.
+
 **Milestone 1 · Criterion 1 · 2 marks**  
 **Course:** CSET489 SEO Mini Project  
 **Research and evidence captured:** 8 October 2026  

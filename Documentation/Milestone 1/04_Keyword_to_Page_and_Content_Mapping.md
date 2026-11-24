@@ -1,5 +1,7 @@
 # Glowwise — Keyword-to-Page / Content Mapping
 
+> **Current release — 10 October 2026:** Glowwise is live with 40 researched product families, 55 variants and seven founder-credited guides. All 40 families have photographs; 54/55 exact variants are pictured. The Minimalist Maleic Shampoo 100 ml pack remains a labelled fallback. Brand photographs have source attribution and disclosed demo-use status; reuse permission has not been independently verified. Published revision: `c55b1bd`. See the [release handoff](../Implementation/DEMO_MEDIA_RELEASE.md) and [current report](MILESTONE_I_SUBMISSION_REPORT.md). Research estimates and older evidence retain their original dates.
+
 **Milestone 1 · Project Design · Part 1 · 2 marks**  
 **Planning and source-review date:** 8 October 2026  
 **Market:** India · English · affordable and midrange grooming discovery  
@@ -427,3 +429,11 @@ This completes the **mapping and architectural design work for this two-mark cri
 - [Evidence Index](<../References/Milestone 1/04 Keyword Page Content Mapping/Evidence_Index.md>) — source-to-decision register, plugin outcomes and saved ownership data.
 
 External methodology references are linked beside the relevant decisions. The hierarchy, ownership register and content briefs are original Glowwise planning artifacts; no live-site screenshot, indexing result or provider-generated keyword-clustering export is fabricated.
+
+## 14. Implemented ownership and architecture update — 10 October
+
+The seven researched guide owners, six category paths and support/tool routes are implemented on `https://glowwise.tech`. Product families use the planned `/products/{slug}/` paths. The [current native export](../Implementation/exports/editorial-published-content.json) and [guide export](../Implementation/exports/editorial-guides.csv) identify the actual records, titles, slugs and relationships. The editorial acceptance record checks 73 routes and 63 sitemap URLs; the [fresh public readback](<../References/Milestone 1/00 Full Review/2026-10-10_Public_Readback.json>) corroborates the public product total and sitemap count.
+
+**K15 correction:** “cetaphil face wash for sensitive skin” remains a valid dated research observation, but no verified Cetaphil product is in this release. It is **on hold**, with no active page owner; G05 must not claim to satisfy a specific Cetaphil purchase task. The [current intent and ownership matrix](<../References/Milestone 1/00 Full Review/Current_Keyword_Intent_Ownership.csv>) carries this decision without changing the original research CSV. There are 14 active K records and ten related records; all active exact phrases have one owner. A future Cetaphil record requires exact formulation/variant research and a fresh intent/overlap review before assignment.
+
+Generic guide, broad hub and exact-product tasks retain separate roles. Current Sitemap/HTTP checks support that implementation; harmful cannibalization can only be assessed using real query/page observations over time. No rankings or absence of all future overlap is asserted. Utility pages emit `noindex, follow`; the inspected Finder/Compare/Saved responses intentionally omit canonical tags. That is an implementation choice for these noindex tools, not a claim that each has a self-canonical. Personal state never becomes an indexable landing page.

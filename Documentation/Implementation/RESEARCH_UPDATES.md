@@ -1,5 +1,11 @@
 # Stage 3 research/source handoff
 
+## Current release reference — 10 October 2026
+
+[Media and editorial release](DEMO_MEDIA_RELEASE.md) is the current product record: **40 researched families, 55 variants, seven founder-credited guides; 40/40 families and 54/55 variants photographed**. Published revision `c55b1bdd181d30eaaa1dfae73e8494eef1b5d4d6`; tested application source `d5acbac678dab1e1790aa6632092d055ac19d7d4`. The 80 media/byline, 197 content and nine native media/security checks total 286 passing checks. Current mobile save/compare observations and matching private recovery are linked in that handoff.
+
+One Minimalist Maleic Shampoo 100 ml photo is unavailable. Brand images have source attribution and disclosed demo-use status without independently verified reuse permission. The licensed Plum 50 g carton is a separate record. Older counts, placeholders and in-progress-source warnings below are dated history, superseded for the current release. No fresh lab performance, organic traffic or hands-on testing is implied. The US$10 total ceiling and existing finite lease remain.
+
 Recorded 9 October 2026. Existing keyword ownership remains authoritative. `content/keyword-ownership.csv` is a reviewed portable copy of the original 25-row mapping; the supplied file remains unchanged. Seven guide URLs and primary owners are preserved. Home/category/catalog pages retain their distinct broader discovery intents.
 
 A callable Ubersuggest connector authenticated during this stage. Its India (location 2356) check for “shampoo for dry and frizzy hair” returned estimated volume 8,100, SEO difficulty 14, CPC US$0.09 and paid difficulty 100, with August 2026 provider data. These provider estimates are not interchangeable with the existing Semrush baseline (6,600/KD18), and do not silently replace the approved ownership map. No ranking, traffic or conversion outcome is claimed. No paid research service or unrelated plugin was installed.

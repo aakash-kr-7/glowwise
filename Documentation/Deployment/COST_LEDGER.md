@@ -1,5 +1,7 @@
 # Editorial lifetime checkpoint - 10 October2026
 
+> **Release reference — 10 October 2026:** The current public product and media/byline evidence are in [DEMO_MEDIA_RELEASE](../Implementation/DEMO_MEDIA_RELEASE.md), published at `c55b1bd`. This document retains its original stage/configuration and cost dates; no new infrastructure change or performance measurement is implied.
+
 At2026-10-10T05:19:21.583750UTC, modelUSD0.5387; lagged reportedINR18.3200952155 conservatively normalizedUSD0.2617156459 (70INR/USD guard floor); hostTX663,010,962bytes, decisioncontinue. No new resources/services or lease extension. This is usage/model, not a remaining-credit balance. Existing USD10 lifetime allowance, US$6/15-minute guard, finite16October09:31:49IST lease and23October retained-resource decision remain. Disk/IP continue charging after deallocation; alerts are delayed notifications. See Editorial/cost.json and existing operations for shutdown/teardown.
 
 Earlier dated checkpoints follow unchanged.

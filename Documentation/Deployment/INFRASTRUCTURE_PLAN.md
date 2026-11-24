@@ -1,5 +1,7 @@
 # Glowwise infrastructure plan
 
+> **Release reference — 10 October 2026:** The current public product and media/byline evidence are in [DEMO_MEDIA_RELEASE](../Implementation/DEMO_MEDIA_RELEASE.md), published at `c55b1bd`. This document retains its original stage/configuration and cost dates; no new infrastructure change or performance measurement is implied.
+
 Prepared 9 October 2026. Stage 1 design retained below as planning provenance. **Stage 2 is now deployed:** Korea Central B2ats v2 x64, Trusted Launch Ubuntu 24.04, pinned Compose/WordPress/MariaDB/Caddy, active Cloudflare DNS/strict HTTPS and private recovery. Present-tense operational truth is in [Stage 2](Stage_2_2026-10-09.md), [operations](OPERATIONS.md), [cost ledger](COST_LEDGER.md) and [actual evidence](../References/Deployment/Evidence_Index.md). References below to pending selection/no resources describe the earlier design gate, not current state. Product authority: Source of Truth v1.1; task gates: `../Implementation/EXECUTION_PLAN.md`.
 
 ## Selected topology

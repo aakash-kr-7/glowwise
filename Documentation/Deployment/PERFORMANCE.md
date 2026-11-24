@@ -1,5 +1,7 @@
 # Real performance measurements
 
+> **Release reference — 10 October 2026:** The current public product and media/byline evidence are in [DEMO_MEDIA_RELEASE](../Implementation/DEMO_MEDIA_RELEASE.md), published at `c55b1bd`. This document retains its original stage/configuration and cost dates; no new infrastructure change or performance measurement is implied.
+
 10 October 2026 IST. All runs target the actual canonical homepage on the existing VM. Measurements are lab samples, not audience/field evidence. No CrUX data exists in the official report, and TBT is not INP.
 
 | Test | Desktop LCP / CLS / TBT | Mobile LCP / CLS / TBT | Scope |

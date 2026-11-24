@@ -296,5 +296,18 @@
     "gap": "Minimalist Maleic Shampoo 100 ml remains a disclosed fallback.",
     "filesInPublicGit": false,
     "evidence": "Documentation/References/Deployment/Demo_Media/acceptance.json"
+  },
+  "currentDemoRelease": {
+    "recordedUTC": "2026-10-10T10:23:24.205435+00:00",
+    "publishedRevision": "c55b1bdd181d30eaaa1dfae73e8494eef1b5d4d6",
+    "sourceManifest": "content/demo-media-manifest.json",
+    "nativeCoverage": "Documentation/Implementation/exports/demo-image-coverage.json",
+    "familiesPhotographed": 40,
+    "variantsPhotographed": 54,
+    "variantsTotal": 55,
+    "addedBrandPhotographs": 53,
+    "missingExactPack": "Minimalist Maleic Shampoo 100 ml",
+    "rights": "Source-attributed brand copyright / demo use; no independently verified reuse permission. Existing Plum 50 g outer-carton CC BY-SA record is separate.",
+    "historicalAssets": "Existing entries retain their original provenance; retired artwork is not current product photography."
   }
 }

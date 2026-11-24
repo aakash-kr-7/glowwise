@@ -1,5 +1,7 @@
 # Glowwise deployment readiness
 
+> **Release reference — 10 October 2026:** The current public product and media/byline evidence are in [DEMO_MEDIA_RELEASE](../Implementation/DEMO_MEDIA_RELEASE.md), published at `c55b1bd`. This document retains its original stage/configuration and cost dates; no new infrastructure change or performance measurement is implied.
+
 Recorded: 9 October 2026. This is an operational record, not evidence of a deployed website.
 
 ## Owner-confirmed decisions

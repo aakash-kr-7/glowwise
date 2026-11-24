@@ -1,5 +1,11 @@
 # Glowwise implementation decisions
 
+## Current release reference — 10 October 2026
+
+[Media and editorial release](DEMO_MEDIA_RELEASE.md) is the current product record: **40 researched families, 55 variants, seven founder-credited guides; 40/40 families and 54/55 variants photographed**. Published revision `c55b1bdd181d30eaaa1dfae73e8494eef1b5d4d6`; tested application source `d5acbac678dab1e1790aa6632092d055ac19d7d4`. The 80 media/byline, 197 content and nine native media/security checks total 286 passing checks. Current mobile save/compare observations and matching private recovery are linked in that handoff.
+
+One Minimalist Maleic Shampoo 100 ml photo is unavailable. Brand images have source attribution and disclosed demo-use status without independently verified reuse permission. The licensed Plum 50 g carton is a separate record. Older counts, placeholders and in-progress-source warnings below are dated history, superseded for the current release. No fresh lab performance, organic traffic or hands-on testing is implied. The US$10 total ceiling and existing finite lease remain.
+
 Recorded: 9 October 2026. Authority: explicit owner message in this chat, then Source of Truth v1.1 for product scope; handbook for assessment. Older operational records remain dated evidence. A stored future prompt is not current authorization.
 
 | ID | Decision and reasoning | Source | State |
@@ -95,3 +101,11 @@ Preserve36 existing IDs andfour cleanser records; addfour beard oils to obtain36
 Rank by stated category preferences and published facts; unavailable products are watchlist entries, not active offers. Keep Verge collection reference price visibly limited; replace its404 URL using actual manufacturer navigation. Use exact Tira35ml Ustraa listing and separately cited official bundle-component facts; do not invent a standalone official URL. Permission-limited photos remain honest fallbacks.
 
 Only presentation adjustments: clear purchase/source labels and a contained, keyboard-scrollable comparison table with fully clickable wrapped links. Approved design and architecture remain. Acceptance and source/private-backup relation: EDITORIAL_RELEASE_HANDOFF.md and EDITORIAL_EVIDENCE_INDEX.md.
+
+## Owner-requested media and editorial credit — 10 October 2026
+
+| ID | Agreed change | Evidence and boundary |
+|---|---|---|
+| D44 | Replace product placeholders with exact-variant, source-attributed brand photographs for the requested demonstration; retain each copyright/demo-use disclosure. | Owner request and c55b1bd release: 40/40 families and 54/55 variants pictured. One 100 ml pack remains unavailable. Attribution is not verified reuse permission; continuing public-release rights remain a dependency. |
+| D45 | Credit Aakash Kumar on hair/beard/trimmer guides and Disa Bandhu on skin/body/fragrance guides through editable editorial metadata. | Visible and schema bylines agree in actual acceptance and fresh public readback; login accounts remain private. Published-source research and AI-assisted drafting are disclosed; no first-hand testing claim. |
+| D46 | Update the formal report to the published release while preserving dated research and infrastructure evidence. | Current report uses genuine desktop/mobile captures, original keyword/SERP/DNS/Cloudflare figures and actual SSH logs. No new lab, organic result, academic submission or additional spend is implied. |

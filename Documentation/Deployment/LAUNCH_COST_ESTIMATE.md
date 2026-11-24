@@ -1,5 +1,7 @@
 # Finite launch cost and availability decision
 
+> **Release reference — 10 October 2026:** The current public product and media/byline evidence are in [DEMO_MEDIA_RELEASE](../Implementation/DEMO_MEDIA_RELEASE.md), published at `c55b1bd`. This document retains its original stage/configuration and cost dates; no new infrastructure change or performance measurement is implied.
+
 9 October 2026, before changing availability controls. The owner authorized launch inside the existing US$10 total allowance. No new VM, disk, IP, monitoring service or marketplace image is needed.
 
 The existing fallback models seven full running days at US$0.5112/day, followed by seven retained/deallocated days at US$0.2304/day including a conservative disk-transaction reserve, US$1.20 traffic reserve and US$2 uncertainty buffer: **US$8.392**, approximately US$8.39. Free benefits are not deducted from the fallback. Compute, OS disk and static IPv4 are included in these rates; outbound traffic and disk transactions remain uncertain. The latest guard at 16:26:39 UTC modeled US$0.2644 and ~296 MB outbound. Provider actual cost is unavailable, not zero.

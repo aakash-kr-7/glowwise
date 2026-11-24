@@ -1,5 +1,11 @@
 # Visual refinement evidence index
 
+## Current release reference — 10 October 2026
+
+[Media and editorial release](DEMO_MEDIA_RELEASE.md) is the current product record: **40 researched families, 55 variants, seven founder-credited guides; 40/40 families and 54/55 variants photographed**. Published revision `c55b1bdd181d30eaaa1dfae73e8494eef1b5d4d6`; tested application source `d5acbac678dab1e1790aa6632092d055ac19d7d4`. The 80 media/byline, 197 content and nine native media/security checks total 286 passing checks. Current mobile save/compare observations and matching private recovery are linked in that handoff.
+
+One Minimalist Maleic Shampoo 100 ml photo is unavailable. Brand images have source attribution and disclosed demo-use status without independently verified reuse permission. The licensed Plum 50 g carton is a separate record. Older counts, placeholders and in-progress-source warnings below are dated history, superseded for the current release. No fresh lab performance, organic traffic or hands-on testing is implied. The US$10 total ceiling and existing finite lease remain.
+
 10 October 2026. Links support this visual stage and M1 implementation/evidence criteria 7–9, plus M2 media/performance/security foundations; they do not replace ten separate rubric rows or historical keyword research. All timestamps UTC; add05:30 for IST. JSON/log internal timestamps and PSI report time are primary. The selected manifest lists screenshot/log **save times**, hashes and sizes, not invented report execution times.
 
 | ID | Claim / actual evidence | Limits / privacy |
