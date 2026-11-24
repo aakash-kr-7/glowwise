@@ -1,0 +1,11 @@
+{
+  "preferredVersions": {"php": "8.3", "wp": "latest"},
+  "landingPage": "/",
+  "steps": [
+    {"step":"installPlugin","pluginData":{"resource":"wordpress.org/plugins","slug":"wordpress-seo"},"options":{"activate":true}},
+    {"step":"activatePlugin","pluginPath":"glowwise-core/glowwise-core.php"},
+    {"step":"activateTheme","themeFolderName":"glowwise"},
+    {"step":"wp-cli","command":"wp glowwise import /wordpress/seed.json"},
+    {"step":"runPHP","code":"<?php require '/wordpress/wp-load.php'; global $wp_rewrite; $wp_rewrite->set_permalink_structure('/guides/%postname%/'); update_option('blog_public',1); flush_rewrite_rules(true);"}
+  ]
+}
