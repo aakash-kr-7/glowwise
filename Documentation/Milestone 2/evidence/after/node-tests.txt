@@ -1,0 +1,4 @@
+PASS Fixed tool events require consent and exclude all supplied arbitrary data
+{"checks":7,"pass":true,"scope":"isolated unit rules, not browser telemetry"}
+PASS: finite reveals, initially reduced motion, preference changes restore layout, no hidden content and empty-page safety. Unit doubles; no OS emulation claim.
+PASS: exact-variant rendering, attribution, wrong-pack fallback, HTML/URL escaping and image-error recovery.
